@@ -2,7 +2,7 @@
 
 > Otomatik üretilir (`scripts/uret.py`). Deponun kapsam ve tamamlanma durumunu gösterir.
 
-- **Kütükteki kayıt sayısı:** 873
+- **Kütükteki kayıt sayısı:** 874
 - **Tam metin eklenmiş belge sayısı:** dosyaların `metin_durumu` alanından hesaplanır (aşağıdaki tabloya bakın).
 
 ## Belge türüne göre dağılım
@@ -15,7 +15,7 @@
 | Genel Şart | 47 |
 | Yargı Kararı | 25 |
 | Tebliğ | 22 |
-| Kanun | 11 |
+| Kanun | 12 |
 | Kurum Dosyası | 8 |
 | Koleksiyon (seri toplama görevi) | 7 |
 | Tarife / Talimat | 3 |
@@ -28,7 +28,7 @@
 
 | Durum | Adet |
 | --- | --- |
-| Yürürlükte | 867 |
+| Yürürlükte | 868 |
 | Kısmen iptal edilmiş | 3 |
 | Yakın tarihli değişiklik içeriyor | 3 |
 
@@ -38,7 +38,7 @@
 | --- | --- | --- |
 | P1 | 41 | Kritik — önce toplanacak |
 | P2 | 51 | Önemli |
-| P3 | 781 | Tamamlayıcı |
+| P3 | 782 | Tamamlayıcı |
 
 ## Künyesi eksik kayıtlar (Resmî Gazete tarihi girilmemiş)
 
@@ -92,12 +92,13 @@ Toplam **45** kayıt. Resmî metin çekilirken bu alanlar doldurulmalıdır.
 
 ## Künye doğrulama durumu
 
-Resmî kaynaktan (Resmî Gazete / mevzuat.gov.tr / SEDDK) künyesi teyit edilmiş **798** kayıt / toplam 873.
+Resmî kaynaktan (Resmî Gazete / mevzuat.gov.tr / SEDDK) künyesi teyit edilmiş **799** kayıt / toplam 874.
 
 | Kayıt | Resmî Gazete | Doğrulama tarihi |
 | --- | --- | --- |
 | `2918-karayollari-trafik-kanunu` | 1983-10-18 / 18195 | 2026-08-19 |
 | `4632-bireysel-emeklilik-kanunu` | 2001-04-07 / 24366 | 2026-08-19 |
+| `4911-sivil-hava-araclari-sorumluluk-kanunu` | 2003-07-09 / 25163 | 2026-08-19 |
 | `4925-karayolu-tasima-kanunu` | 2003-07-19 / 25173 | 2026-08-19 |
 | `5363-tarim-sigortalari-kanunu` | 2005-06-21 / 25852 | 2026-08-19 |
 | `5510-sosyal-sigortalar-rucu` | 2006-06-16 / 26200 | 2026-08-19 |

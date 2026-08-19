@@ -26042,6 +26042,37 @@
         "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=3180&MevzuatTur=20&MevzuatTertip=5",
         "yontem": "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 3180) — künye 05.11.2020/31295"
       }
+    },
+    {
+      "id": "4911-sivil-hava-araclari-sorumluluk-kanunu",
+      "baslik": "Sivil Hava Araçları Üçüncü Şahıs Mali Mesuliyet Sigortasının Ticari Olarak Temin Edilemeyen Kısmının Devlet Güvencesiyle Karşılanması Hakkında Kanun",
+      "tur": "kanun",
+      "klasor": "belgeler/01-kanunlar",
+      "brans": [
+        "sorumluluk"
+      ],
+      "otorite": "TBMM",
+      "numara": "4911",
+      "rg_tarihi": "2003-07-09",
+      "rg_sayisi": "25163",
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4911&MevzuatTur=1&MevzuatTertip=5"
+      ],
+      "etiketler": [
+        "sivil-hava-araci",
+        "ucuncu-sahis",
+        "mali-mesuliyet",
+        "devlet-guvencesi"
+      ],
+      "ozet": "Sivil hava araçları üçüncü şahıs mali mesuliyet sigortasının ticari piyasada temin edilemeyen kısmının Devlet güvencesiyle karşılanması. mevzuat.gov.tr'den eklendi, künye doğrulandı.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4911&MevzuatTur=1&MevzuatTertip=5",
+        "yontem": "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 4911) — künye 09.07.2003-25163"
+      }
     }
   ]
 }

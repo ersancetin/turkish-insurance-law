@@ -3,7 +3,7 @@
 > Bu dosya `scripts/uret.py` tarafından **otomatik üretilir**. Elle düzenlemeyin;
 > değişiklik için `data/kaynaklar.yaml` dosyasını güncelleyip betiği yeniden çalıştırın.
 
-**Toplam kayıt:** 873  |  **Kütük sürümü:** 0.1.0  |  **Güncelleme:** 2026-08-19
+**Toplam kayıt:** 874  |  **Kütük sürümü:** 0.1.0  |  **Güncelleme:** 2026-08-19
 
 Durum rozetleri: ✅ yürürlükte · ⚠️ kısmen iptal · 🔄 yakın değişiklik · ⛔ mülga · ❔ bilinmiyor
 
@@ -21,7 +21,8 @@ Durum rozetleri: ✅ yürürlükte · ⚠️ kısmen iptal · 🔄 yakın deği�
 | 8 | [Tarım Sigortaları Kanunu](belgeler/01-kanunlar/5363-tarim-sigortalari-kanunu.md) | Kanun | ✅ | P2 |
 | 9 | [Tüketicinin Korunması Hakkında Kanun — sigorta sözleşmelerine etkisi](belgeler/01-kanunlar/6502-tuketicinin-korunmasi.md) | Kanun | ✅ | P2 |
 | 10 | [Karayolu Taşıma Kanunu — zorunlu sigorta hükümleri](belgeler/01-kanunlar/4925-karayolu-tasima-kanunu.md) | Kanun | ✅ | P3 |
-| 11 | [İlgili Diğer Kanunlar Derlemesi (TMK, HMK, İİK, MASAK 5549, KVKK 6698 kesişimleri)](belgeler/01-kanunlar/5941-cek-ve-diger-ilgili-mevzuat.md) | Kanun | ✅ | P3 |
+| 11 | [Sivil Hava Araçları Üçüncü Şahıs Mali Mesuliyet Sigortasının Ticari Olarak Temin Edilemeyen Kısmının Devlet Güvencesiyle Karşılanması Hakkında Kanun](belgeler/01-kanunlar/4911-sivil-hava-araclari-sorumluluk-kanunu.md) | Kanun | ✅ | P3 |
+| 12 | [İlgili Diğer Kanunlar Derlemesi (TMK, HMK, İİK, MASAK 5549, KVKK 6698 kesişimleri)](belgeler/01-kanunlar/5941-cek-ve-diger-ilgili-mevzuat.md) | Kanun | ✅ | P3 |
 
 ## `belgeler/02-cumhurbaskanligi-kararnameleri`
 
