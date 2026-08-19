@@ -4561,6 +4561,517 @@
         "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=10055&MevzuatTur=2&MevzuatTertip=5",
         "yontem": "mevzuat.gov.tr DataTable arama API'sinden doğrudan teyit (no 10055) — künye 29.03.2006/26123"
       }
+    },
+    {
+      "id": "yon-guvence-hesabi",
+      "baslik": "Güvence Hesabı Yönetmeliği",
+      "tur": "yonetmelik",
+      "klasor": "belgeler/03-yonetmelikler/sigortacilik",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2007-07-26",
+      "rg_sayisi": "26594",
+      "durum": "yururlukte",
+      "oncelik": 1,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=11467&MevzuatTur=2&MevzuatTertip=5"
+      ],
+      "etiketler": [
+        "guvence",
+        "hesabi",
+        "yonetmeligi"
+      ],
+      "ozet": "Resmî ad: Güvence Hesabı Yönetmeliği. mevzuat.gov.tr'den eklendi (no 11467); künye resmî kaynaktan doğrulandı.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=11467&MevzuatTur=2&MevzuatTertip=5",
+        "yontem": "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 11467) — künye 26.07.2007/26594"
+      }
+    },
+    {
+      "id": "yon-bes-kismen-odeme",
+      "baslik": "Bireysel Emeklilik Sisteminde Kısmen Ödeme Hakkında Yönetmelik",
+      "tur": "yonetmelik",
+      "klasor": "belgeler/03-yonetmelikler/bireysel-emeklilik",
+      "brans": [
+        "bes"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2023-09-26",
+      "rg_sayisi": "32321",
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=40856&MevzuatTur=2&MevzuatTertip=5"
+      ],
+      "etiketler": [
+        "bireysel",
+        "emeklilik",
+        "sisteminde",
+        "kismen",
+        "odeme"
+      ],
+      "ozet": "Resmî ad: Bireysel Emeklilik Sisteminde Kısmen Ödeme Hakkında Yönetmelik. mevzuat.gov.tr'den eklendi (no 40856); künye resmî kaynaktan doğrulandı.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=40856&MevzuatTur=2&MevzuatTertip=5",
+        "yontem": "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 40856) — künye 26.09.2023/32321"
+      }
+    },
+    {
+      "id": "yon-bes-danisma-kurulu",
+      "baslik": "Bireysel Emeklilik Danışma Kurulunun Çalışma Esas Ve Usulleri Hakkında Yönetmelik",
+      "tur": "yonetmelik",
+      "klasor": "belgeler/03-yonetmelikler/bireysel-emeklilik",
+      "brans": [
+        "bes"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2001-10-31",
+      "rg_sayisi": "24569",
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4377&MevzuatTur=2&MevzuatTertip=5"
+      ],
+      "etiketler": [
+        "bireysel",
+        "emeklilik",
+        "danisma",
+        "kurulunun",
+        "calisma"
+      ],
+      "ozet": "Resmî ad: Bireysel Emeklilik Danışma Kurulunun Çalışma Esas Ve Usulleri Hakkında Yönetmelik. mevzuat.gov.tr'den eklendi (no 4377); künye resmî kaynaktan doğrulandı.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4377&MevzuatTur=2&MevzuatTertip=5",
+        "yontem": "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 4377) — künye 31.10.2001/24569"
+      }
+    },
+    {
+      "id": "yon-seddk-kurul-calisma-usul",
+      "baslik": "Sigortacılık Ve Özel Emeklilik Düzenleme Ve Denetleme Kurulu Çalışma Usul Ve Esasları Yönetmeliği",
+      "tur": "yonetmelik",
+      "klasor": "belgeler/03-yonetmelikler/sigortacilik",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2022-03-09",
+      "rg_sayisi": "31773",
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=39412&MevzuatTur=2&MevzuatTertip=5"
+      ],
+      "etiketler": [
+        "sigortacilik",
+        "ve",
+        "ozel",
+        "emeklilik",
+        "duzenleme"
+      ],
+      "ozet": "Resmî ad: Sigortacılık Ve Özel Emeklilik Düzenleme Ve Denetleme Kurulu Çalışma Usul Ve Esasları Yönetmeliği. mevzuat.gov.tr'den eklendi (no 39412); künye resmî kaynaktan doğrulandı.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=39412&MevzuatTur=2&MevzuatTertip=5",
+        "yontem": "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 39412) — künye 09.03.2022/31773"
+      }
+    },
+    {
+      "id": "yon-seddk-disiplin",
+      "baslik": "Sigortacılık Ve Özel Emeklilik Düzenleme Ve Denetleme Kurumu Disiplin Amirleri Yönetmeliği",
+      "tur": "yonetmelik",
+      "klasor": "belgeler/03-yonetmelikler/sigortacilik",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2021-11-19",
+      "rg_sayisi": "31664",
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=39050&MevzuatTur=2&MevzuatTertip=5"
+      ],
+      "etiketler": [
+        "sigortacilik",
+        "ve",
+        "ozel",
+        "emeklilik",
+        "duzenleme"
+      ],
+      "ozet": "Resmî ad: Sigortacılık Ve Özel Emeklilik Düzenleme Ve Denetleme Kurumu Disiplin Amirleri Yönetmeliği. mevzuat.gov.tr'den eklendi (no 39050); künye resmî kaynaktan doğrulandı.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=39050&MevzuatTur=2&MevzuatTertip=5",
+        "yontem": "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 39050) — künye 19.11.2021/31664"
+      }
+    },
+    {
+      "id": "yon-seddk-meslek-personeli",
+      "baslik": "Sigortacılık Ve Özel Emeklilik Düzenleme Ve Denetleme Kurumu Meslek Personeli Yönetmeliği",
+      "tur": "yonetmelik",
+      "klasor": "belgeler/03-yonetmelikler/sigortacilik",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2021-07-03",
+      "rg_sayisi": "31530",
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=38768&MevzuatTur=2&MevzuatTertip=5"
+      ],
+      "etiketler": [
+        "sigortacilik",
+        "ve",
+        "ozel",
+        "emeklilik",
+        "duzenleme"
+      ],
+      "ozet": "Resmî ad: Sigortacılık Ve Özel Emeklilik Düzenleme Ve Denetleme Kurumu Meslek Personeli Yönetmeliği. mevzuat.gov.tr'den eklendi (no 38768); künye resmî kaynaktan doğrulandı.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=38768&MevzuatTur=2&MevzuatTertip=5",
+        "yontem": "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 38768) — künye 03.07.2021/31530"
+      }
+    },
+    {
+      "id": "yon-seddk-personel",
+      "baslik": "Sigortacılık Ve Özel Emeklilik Düzenleme Ve Denetleme Kurumu Personeli Görevde Yükselme Ve Unvan Değişikliği Yönetmeliği",
+      "tur": "yonetmelik",
+      "klasor": "belgeler/03-yonetmelikler/sigortacilik",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2022-03-22",
+      "rg_sayisi": "31786",
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=39434&MevzuatTur=2&MevzuatTertip=5"
+      ],
+      "etiketler": [
+        "sigortacilik",
+        "ve",
+        "ozel",
+        "emeklilik",
+        "duzenleme"
+      ],
+      "ozet": "Resmî ad: Sigortacılık Ve Özel Emeklilik Düzenleme Ve Denetleme Kurumu Personeli Görevde Yükselme Ve Unvan Değişikliği Yönetmeliği. mevzuat.gov.tr'den eklendi (no 39434); künye resmî kaynaktan doğrulandı.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=39434&MevzuatTur=2&MevzuatTertip=5",
+        "yontem": "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 39434) — künye 22.03.2022/31786"
+      }
+    },
+    {
+      "id": "yon-seddk-insan-kaynaklari",
+      "baslik": "Sigortacılık Ve Özel Emeklilik Düzenleme Ve Denetleme Kurumu İnsan Kaynakları Yönetmeliği",
+      "tur": "yonetmelik",
+      "klasor": "belgeler/03-yonetmelikler/sigortacilik",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2022-07-06",
+      "rg_sayisi": "31888",
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=39617&MevzuatTur=2&MevzuatTertip=5"
+      ],
+      "etiketler": [
+        "sigortacilik",
+        "ve",
+        "ozel",
+        "emeklilik",
+        "duzenleme"
+      ],
+      "ozet": "Resmî ad: Sigortacılık Ve Özel Emeklilik Düzenleme Ve Denetleme Kurumu İnsan Kaynakları Yönetmeliği. mevzuat.gov.tr'den eklendi (no 39617); künye resmî kaynaktan doğrulandı.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=39617&MevzuatTur=2&MevzuatTertip=5",
+        "yontem": "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 39617) — künye 06.07.2022/31888"
+      }
+    },
+    {
+      "id": "teb-dd-ticari-alacak-tarife-talimat",
+      "baslik": "Devlet Destekli Ticari Alacak Sigortası Sisteminin Tarife Ve Talimatları İle Çalışma Usul Ve Esaslarına Dair Tebliğ",
+      "tur": "teblig",
+      "klasor": "belgeler/04-tebligler-ve-tarifeler",
+      "brans": [
+        "kredi"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2023-01-07",
+      "rg_sayisi": "32066",
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=40014&MevzuatTur=2&MevzuatTertip=5"
+      ],
+      "etiketler": [
+        "devlet",
+        "destekli",
+        "ticari",
+        "alacak",
+        "sigortasi"
+      ],
+      "ozet": "Resmî ad: Devlet Destekli Ticari Alacak Sigortası Sisteminin Tarife Ve Talimatları İle Çalışma Usul Ve Esaslarına Dair Tebliğ. mevzuat.gov.tr'den eklendi (no 40014); künye resmî kaynaktan doğrulandı.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=40014&MevzuatTur=2&MevzuatTertip=5",
+        "yontem": "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 40014) — künye 07.01.2023/32066"
+      }
+    },
+    {
+      "id": "teb-birikimli-hayat-bes-aktarim",
+      "baslik": "Emeklilik Şirketlerindeki Birikimli Hayat Sigortalarından Bireysel Emeklilik Sistemine Aktarımlara İlişkin Tebliğ (tebliğ No:2004/2)",
+      "tur": "teblig",
+      "klasor": "belgeler/04-tebligler-ve-tarifeler",
+      "brans": [
+        "bes",
+        "hayat"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2004-07-12",
+      "rg_sayisi": "25520",
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=8841&MevzuatTur=2&MevzuatTertip=5"
+      ],
+      "etiketler": [
+        "emeklilik",
+        "sirketlerindeki",
+        "birikimli",
+        "hayat",
+        "sigortalarindan"
+      ],
+      "ozet": "Resmî ad: Emeklilik Şirketlerindeki Birikimli Hayat Sigortalarından Bireysel Emeklilik Sistemine Aktarımlara İlişkin Tebliğ (tebliğ No:2004/2). mevzuat.gov.tr'den eklendi (no 8841); künye resmî kaynaktan doğrulandı.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=8841&MevzuatTur=2&MevzuatTertip=5",
+        "yontem": "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 8841) — künye 12.07.2004/25520"
+      }
+    },
+    {
+      "id": "teb-grup-muafiyet-2008-3",
+      "baslik": "Sigorta Sektörüne İlişkin Grup Muafiyet Tebliği (tebliğ No: 2008/3)",
+      "tur": "teblig",
+      "klasor": "belgeler/04-tebligler-ve-tarifeler",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2008-02-01",
+      "rg_sayisi": "26774",
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=11946&MevzuatTur=2&MevzuatTertip=5"
+      ],
+      "etiketler": [
+        "sigorta",
+        "sektorune",
+        "iliskin",
+        "grup",
+        "muafiyet"
+      ],
+      "ozet": "Resmî ad: Sigorta Sektörüne İlişkin Grup Muafiyet Tebliği (tebliğ No: 2008/3). mevzuat.gov.tr'den eklendi (no 11946); künye resmî kaynaktan doğrulandı.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=11946&MevzuatTur=2&MevzuatTertip=5",
+        "yontem": "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 11946) — künye 01.02.2008/26774"
+      }
+    },
+    {
+      "id": "teb-konsolide-finansal-tablolar",
+      "baslik": "Sigorta Ve Reasürans Şirketleri İle Emeklilik Şirketlerinin Konsolide Finansal Tablolarının Düzenlenmesine İlişkin Tebliğ",
+      "tur": "teblig",
+      "klasor": "belgeler/04-tebligler-ve-tarifeler",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2008-12-31",
+      "rg_sayisi": "27097",
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=12724&MevzuatTur=2&MevzuatTertip=5"
+      ],
+      "etiketler": [
+        "sigorta",
+        "ve",
+        "reasurans",
+        "sirketleri",
+        "ile"
+      ],
+      "ozet": "Resmî ad: Sigorta Ve Reasürans Şirketleri İle Emeklilik Şirketlerinin Konsolide Finansal Tablolarının Düzenlenmesine İlişkin Tebliğ. mevzuat.gov.tr'den eklendi (no 12724); künye resmî kaynaktan doğrulandı.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=12724&MevzuatTur=2&MevzuatTertip=5",
+        "yontem": "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 12724) — künye 31.12.2008/27097"
+      }
+    },
+    {
+      "id": "teb-emeklilik-fayda-plani-muhasebe",
+      "baslik": "Emeklilik Fayda Planlarında Muhasebeleştirme Ve Raporlamaya İlişkin Türkiye Muhasebe Standardı (tms 26) Hakkında Tebliğ Sıra No: 23",
+      "tur": "teblig",
+      "klasor": "belgeler/04-tebligler-ve-tarifeler",
+      "brans": [
+        "bes"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2006-03-01",
+      "rg_sayisi": "26095",
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=9972&MevzuatTur=2&MevzuatTertip=5"
+      ],
+      "etiketler": [
+        "emeklilik",
+        "fayda",
+        "planlarinda",
+        "muhasebelestirme",
+        "ve"
+      ],
+      "ozet": "Resmî ad: Emeklilik Fayda Planlarında Muhasebeleştirme Ve Raporlamaya İlişkin Türkiye Muhasebe Standardı (tms 26) Hakkında Tebliğ Sıra No: 23. mevzuat.gov.tr'den eklendi (no 9972); künye resmî kaynaktan doğrulandı.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=9972&MevzuatTur=2&MevzuatTertip=5",
+        "yontem": "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 9972) — künye 01.03.2006/26095"
+      }
+    },
+    {
+      "id": "teb-sigorta-branslari-adlari",
+      "baslik": "Bazı Sigorta Branşlarının Adlarının Değiştirilmesi Hakkında Tebliğ",
+      "tur": "teblig",
+      "klasor": "belgeler/04-tebligler-ve-tarifeler",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2005-11-22",
+      "rg_sayisi": "26001",
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=9623&MevzuatTur=2&MevzuatTertip=5"
+      ],
+      "etiketler": [
+        "bazi",
+        "sigorta",
+        "branslarinin",
+        "adlarinin",
+        "degistirilmesi"
+      ],
+      "ozet": "Resmî ad: Bazı Sigorta Branşlarının Adlarının Değiştirilmesi Hakkında Tebliğ. mevzuat.gov.tr'den eklendi (no 9623); künye resmî kaynaktan doğrulandı.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=9623&MevzuatTur=2&MevzuatTertip=5",
+        "yontem": "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 9623) — künye 22.11.2005/26001"
+      }
+    },
+    {
+      "id": "teb-hastalik-saglik-brans-adi",
+      "baslik": "Hastalık Sigortası Branş Adının Sağlık Sigortası Olarak Değiştirilmesine İlişkin Tebliğ",
+      "tur": "teblig",
+      "klasor": "belgeler/04-tebligler-ve-tarifeler",
+      "brans": [
+        "saglik"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2005-09-06",
+      "rg_sayisi": "25928",
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=9400&MevzuatTur=2&MevzuatTertip=5"
+      ],
+      "etiketler": [
+        "hastalik",
+        "sigortasi",
+        "brans",
+        "adinin",
+        "saglik"
+      ],
+      "ozet": "Resmî ad: Hastalık Sigortası Branş Adının Sağlık Sigortası Olarak Değiştirilmesine İlişkin Tebliğ. mevzuat.gov.tr'den eklendi (no 9400); künye resmî kaynaktan doğrulandı.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=9400&MevzuatTur=2&MevzuatTertip=5",
+        "yontem": "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 9400) — künye 06.09.2005/25928"
+      }
+    },
+    {
+      "id": "teb-yeni-sigorta-bransi",
+      "baslik": "Yeni Sigorta Branşı Tesisi Hakkında Tebliğ",
+      "tur": "teblig",
+      "klasor": "belgeler/04-tebligler-ve-tarifeler",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2006-09-07",
+      "rg_sayisi": "26282",
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=10629&MevzuatTur=2&MevzuatTertip=5"
+      ],
+      "etiketler": [
+        "yeni",
+        "sigorta",
+        "bransi",
+        "tesisi",
+        "hakkinda"
+      ],
+      "ozet": "Resmî ad: Yeni Sigorta Branşı Tesisi Hakkında Tebliğ. mevzuat.gov.tr'den eklendi (no 10629); künye resmî kaynaktan doğrulandı.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=10629&MevzuatTur=2&MevzuatTertip=5",
+        "yontem": "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 10629) — künye 07.09.2006/26282"
+      }
     }
   ]
 }

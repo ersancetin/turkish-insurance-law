@@ -2,16 +2,16 @@
 
 > Otomatik üretilir (`scripts/uret.py`). Deponun kapsam ve tamamlanma durumunu gösterir.
 
-- **Kütükteki kayıt sayısı:** 158
+- **Kütükteki kayıt sayısı:** 174
 - **Tam metin eklenmiş belge sayısı:** dosyaların `metin_durumu` alanından hesaplanır (aşağıdaki tabloya bakın).
 
 ## Belge türüne göre dağılım
 
 | Tür | Adet |
 | --- | --- |
-| Yönetmelik | 54 |
+| Yönetmelik | 62 |
 | Genel Şart | 47 |
-| Tebliğ | 14 |
+| Tebliğ | 22 |
 | Kanun | 11 |
 | Yargı Kararı | 8 |
 | Kurum Dosyası | 8 |
@@ -26,7 +26,7 @@
 
 | Durum | Adet |
 | --- | --- |
-| Yürürlükte | 152 |
+| Yürürlükte | 168 |
 | Kısmen iptal edilmiş | 3 |
 | Yakın tarihli değişiklik içeriyor | 3 |
 
@@ -34,9 +34,9 @@
 
 | Öncelik | Adet | Anlamı |
 | --- | --- | --- |
-| P1 | 40 | Kritik — önce toplanacak |
+| P1 | 41 | Kritik — önce toplanacak |
 | P2 | 51 | Önemli |
-| P3 | 67 | Tamamlayıcı |
+| P3 | 82 | Tamamlayıcı |
 
 ## Künyesi eksik kayıtlar (Resmî Gazete tarihi girilmemiş)
 
@@ -90,7 +90,7 @@ Toplam **45** kayıt. Resmî metin çekilirken bu alanlar doldurulmalıdır.
 
 ## Künye doğrulama durumu
 
-Resmî kaynaktan (Resmî Gazete / mevzuat.gov.tr / SEDDK) künyesi teyit edilmiş **83** kayıt / toplam 158.
+Resmî kaynaktan (Resmî Gazete / mevzuat.gov.tr / SEDDK) künyesi teyit edilmiş **99** kayıt / toplam 174.
 
 | Kayıt | Resmî Gazete | Doğrulama tarihi |
 | --- | --- | --- |
@@ -112,16 +112,24 @@ Resmî kaynaktan (Resmî Gazete / mevzuat.gov.tr / SEDDK) künyesi teyit edilmi�
 | `gs-zmss-trafik` | 2015-05-14 / 29355 | 2026-08-19 |
 | `gs-zorunlu-deprem-dask` | 2011-05-13 / 27933 | 2026-08-19 |
 | `gs-zorunlu-karayolu-tasimacilik-mali-sorumluluk` | 2004-01-18 / 25350 | 2026-08-19 |
+| `teb-birikimli-hayat-bes-aktarim` | 2004-07-12 / 25520 | 2026-08-19 |
+| `teb-dd-ticari-alacak-tarife-talimat` | 2023-01-07 / 32066 | 2026-08-19 |
 | `teb-deniz-araclari-tarife-talimat` | 2014-10-18 / 29149 | 2026-08-19 |
+| `teb-emeklilik-fayda-plani-muhasebe` | 2006-03-01 / 26095 | 2026-08-19 |
+| `teb-grup-muafiyet-2008-3` | 2008-02-01 / 26774 | 2026-08-19 |
+| `teb-hastalik-saglik-brans-adi` | 2005-09-06 / 25928 | 2026-08-19 |
 | `teb-kiyi-tesisleri-tarife-talimat` | 2018-04-25 / 30402 | 2026-08-19 |
 | `teb-koltuk-ferdi-kaza-tarife-talimat` | 2005-12-29 / 26038 | 2026-08-19 |
+| `teb-konsolide-finansal-tablolar` | 2008-12-31 / 27097 | 2026-08-19 |
 | `teb-maden-calisanlari-tarife-talimat` | 2015-05-06 / 29347 | 2026-08-19 |
 | `teb-ozel-guvenlik-tarife-talimat` | 2006-03-29 / 26123 | 2026-08-19 |
 | `teb-sigorta-branslari-2007-1` | 2007-07-11 / 26579 | 2026-08-19 |
+| `teb-sigorta-branslari-adlari` | 2005-11-22 / 26001 | 2026-08-19 |
 | `teb-sigortacilik-kanunu-m30-tahkim` | 2022-04-16 / 31811 | 2026-08-19 |
 | `teb-tehlikeli-maddeler-tarife-talimat` | 2010-05-09 / 27576 | 2026-08-19 |
 | `teb-tekduzen-hesap-plani-2023` | 2023-10-01 / 32326 | 2026-08-19 |
 | `teb-teknik-karsiliklar` | 2009-01-21 / 27117 | 2026-08-19 |
+| `teb-yeni-sigorta-bransi` | 2006-09-07 / 26282 | 2026-08-19 |
 | `teb-zorunlu-deprem-tarife-talimat-2016` | 2016-12-31 / 29935 | 2026-08-19 |
 | `yon-acente-sektor-meclisi-icra-komitesi` | 2008-09-10 / 26993 | 2026-08-19 |
 | `yon-aktuerlik` | 2007-08-15 / 26614 | 2026-08-19 |
@@ -129,8 +137,10 @@ Resmî kaynaktan (Resmî Gazete / mevzuat.gov.tr / SEDDK) künyesi teyit edilmi�
 | `yon-bagimsiz-denetim-ilkeleri` | 2008-07-12 / 26934 | 2026-08-19 |
 | `yon-bes-aktarim-dernek-vakif-sandik` | 2021-12-08 / 31683 | 2026-08-19 |
 | `yon-bes-aracilari` | 2019-06-13 / 30800 | 2026-08-19 |
+| `yon-bes-danisma-kurulu` | 2001-10-31 / 24569 | 2026-08-19 |
 | `yon-bes-devlet-katkisi` | 2022-12-31 / 32060 | 2026-08-19 |
 | `yon-bes-hakkinda` | 2012-11-09 / 28462 | 2026-08-19 |
+| `yon-bes-kismen-odeme` | 2023-09-26 / 32321 | 2026-08-19 |
 | `yon-bireysel-kredi-baglantili-sigortalar` | 2015-03-13 / 29294 | 2026-08-19 |
 | `yon-dask-calisma-esaslari` | 2012-08-15 / 28385 | 2026-08-19 |
 | `yon-deniz-alacaklari-gemi-sigortasi` | 2010-11-14 / 27759 | 2026-08-19 |
@@ -138,6 +148,7 @@ Resmî kaynaktan (Resmî Gazete / mevzuat.gov.tr / SEDDK) künyesi teyit edilmi�
 | `yon-emeklilik-sirketleri-kurulus` | 2008-01-08 / 26750 | 2026-08-19 |
 | `yon-emeklilik-yatirim-fonlari` | 2013-03-13 / 28586 | 2026-08-19 |
 | `yon-gozetim-ve-denetim-usul` | 2011-09-14 / 28054 | 2026-08-19 |
+| `yon-guvence-hesabi` | 2007-07-26 / 26594 | 2026-08-19 |
 | `yon-hak-sahiplerince-aranmayan-paralar` | 2013-10-08 / 28789 | 2026-08-19 |
 | `yon-hava-araclari-yolcu-bagaj-yuk` | 2017-07-27 / 30136 | 2026-08-19 |
 | `yon-hayat-grubu-sigortalari` | 2012-10-10 / 28437 | 2026-08-19 |
@@ -150,6 +161,11 @@ Resmî kaynaktan (Resmî Gazete / mevzuat.gov.tr / SEDDK) künyesi teyit edilmi�
 | `yon-otomatik-katilim` | 2017-01-02 / 29936 | 2026-08-19 |
 | `yon-ozel-saglik-sigortalari` | 2013-10-23 / 28800 | 2026-08-19 |
 | `yon-sbm` | 2008-08-09 / 26962 | 2026-08-19 |
+| `yon-seddk-disiplin` | 2021-11-19 / 31664 | 2026-08-19 |
+| `yon-seddk-insan-kaynaklari` | 2022-07-06 / 31888 | 2026-08-19 |
+| `yon-seddk-kurul-calisma-usul` | 2022-03-09 / 31773 | 2026-08-19 |
+| `yon-seddk-meslek-personeli` | 2021-07-03 / 31530 | 2026-08-19 |
+| `yon-seddk-personel` | 2022-03-22 / 31786 | 2026-08-19 |
 | `yon-segem-sigortacilik-egitim-merkezi` | 2008-06-01 / 26893 | 2026-08-19 |
 | `yon-sermaye-yeterliligi` | 2015-08-23 / 29454 | 2026-08-19 |
 | `yon-sertifika-mali-sorumluluk` | 2004-08-26 / 25565 | 2026-08-19 |
