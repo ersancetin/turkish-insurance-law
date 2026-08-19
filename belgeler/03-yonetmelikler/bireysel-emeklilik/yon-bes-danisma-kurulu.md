@@ -14,7 +14,7 @@ etiketler: [bireysel, emeklilik, danisma, kurulunun, calisma]
 oncelik: 3
 kaynaklar:
   - "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4377&MevzuatTur=2&MevzuatTertip=5"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-19"
@@ -53,13 +53,190 @@ Resmî ad: Bireysel Emeklilik Danışma Kurulunun Çalışma Esas Ve Usulleri Ha
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: mevzuat.gov.tr (No 4377, Tür 7, Tertip 5) — çekim: 2026-08-19. Resmî konsolide metin; değişiklik dipnotları `(Değişik/Ek/Mülga:RG-…)` biçimindedir.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+-
+
+BİREYSEL
+EMEKLİLİK DANIŞMA KURULUNUN
+
+ÇALIŞMA ESAS
+VE USULLERİ HAKKINDA YÖNETMELİK
+
+BİRİNCİ BÖLÜM
+
+Amaç, Kapsam,
+Tanım, Dayanak
+
+Amaç
+ve Kapsam
+
+Maddde
+1 — Bu
+Yönetmeliğin amacı, Bireysel Emeklilik Danışma Kurulunun çalışma esas ve
+usullerine ilişkin hususları düzenlemektir.
+
+Dayanak
+
+Madde
+2 — Bu
+Yönetmelik, 28/3/2001 tarihli ve 4632 sayılı Bireysel Emeklilik Tasarruf ve
+Yatırım Sistemi Kanununun 3 üncü maddesine dayanılarak hazırlanmıştır.
+
+Tanımlar
+
+Madde
+3 — (Değişik:RG-28/6/2024-32586)
+
+Bu Yönetmelikte geçen;
+
+a) Başkan: Danışma Kurulu Başkanını,
+
+b) Danışma Kurulu: Bireysel Emeklilik Danışma Kurulunu,
+
+c) Kurum: Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme
+Kurumunu,
+
+ifade eder.
+
+İKİNCİ BÖLÜM
+
+Kuruluş,
+Görev ve Yetkileri
+
+Danışma
+Kurulunun Kuruluşu
+
+Madde
+4 — (Değişik:RG-28/6/2024-32586)
+
+Danışma Kurulu, Kurum Başkanının başkanlığında, Hazine ve Maliye
+Bakanlığı, Çalışma ve Sosyal Güvenlik Bakanlığı, Kurum ve Sermaye Piyasası
+Kurulu tarafından görevlendirilecek en az genel müdür düzeyinde birer üyeden oluşur.
+
+Danışma
+Kurulunun Görevleri
+
+Madde
+5 — (Değişik:RG-28/6/2024-32586)
+
+Danışma Kurulu, bireysel emeklilik sistemine ilişkin
+politikalarını belirlemek ve bu politikaların gerçekleştirilmesi için alınması
+gerekli önlemler konusunda önerilerde bulunmakla görevlidir.
+
+Başkanın
+Görevleri
+
+Madde
+6 — Başkanın
+görevleri şunlardır:
+
+a) Danışma
+Kurulunun olağan toplantılarını belirlemek ve gerektiğinde Danışma Kurulunu
+olağanüstü toplantıya çağırmak,
+
+b)
+Danışma Kurulunun olağan ve olağanüstü toplantılarına başkanlık ederek
+çalışmaların verimli ve düzenli bir şekilde yürütülmesini sağlamak,
+
+c)
+Danışma Kurulunun belirlemiş olduğu politikalar ile önerileri (Mülga
+ibare:RG-28/6/2024-32586) niteliğindeki kararları ilgili makamlara
+bildirmek.
+
+ÜÇÜNCÜ
+BÖLÜM
+
+Çalışma
+Esasları
+
+Toplantı
+Usulü
+
+Madde
+7 — Danışma
+Kurulu (Değişik ibare:RG-28/6/2024-32586)  Başkanın
+daveti üzerine en az yılda iki kere ve Başkan tarafından belirlenen (Ek
+ibare:RG-28/6/2024-32586)  yer, tarih ve gündemle
+olağan olarak toplanır. Danışma Kurulu üyelerinin toplantılara bizzat
+katılmaları esastır. Üyelerin herhangi bir nedenle işlerinden geçici veya
+sürekli olarak ayrılmaları halinde yerlerine vekilleri toplantıya katılır.
+
+Olağan
+toplantılar dışında Danışma Kurulu, Başkanın gerek gördüğü hallerde veya
+Danışma Kurulu üyelerinden birinin yazılı başvurusu üzerine Başkan tarafından
+olağanüstü toplantıya çağırılabilir.
+
+Danışma
+Kurulu toplantılarına görüşülecek konunun gerektirdiği hallerde diğer kamu
+kurum ve kuruluşları, şirketler veya kamu tüzel kişiliğini haiz kurumların
+yetkili temsilcileri de görüşleri alınmak üzere çağrılabilir.
+
+Danışma
+Kurulu, toplantıya çağırılan üyelerin yarısından bir fazlası ile
+toplanır.Kararlar, toplantıya katılan üyelerin salt çoğunluğu ile alınır.Üyeler
+çekimser oy kullanamazlar.
+
+Toplantının
+gündemi, yeri, tarihi ve saati, olağanüstü toplantı daveti hariç olmak üzere,
+en az (Değişik ibare:RG-28/6/2024-32586)  bir ay önceden
+üyelere duyurulur.
+
+Sekretarya
+
+Madde
+8 —
+Danışma Kurulunun sekretarya hizmetlerini (Değişik ibare:RG-28/6/2024-32586)
+Kurum yürütür.
+
+Yürürlük
+
+Madde
+9 —Bu
+Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+Yürütme
+
+Madde
+10 —
+(Değişik:RG-28/6/2024-32586)
+
+Bu Yönetmelik hükümlerini Sigortacılık ve Özel Emeklilik Düzenleme
+ve Denetleme Kurumu Başkanı yürütür.
+
+    |
+  Yönetmeliğin
+  Yayımlandığı Resmî Gazete’nin
+
+  Tarihi
+
+    |
+  Sayısı
+
+  31/10/2001
+
+    |
+  24569
+
+  Yönetmelikte
+  Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî Gazetelerin
+
+  Tarihi
+
+    |
+  Sayısı
+
+  1.
+
+    |
+  28/6/2024
+
+    |
+  32586
+
+    |
+
+    |
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

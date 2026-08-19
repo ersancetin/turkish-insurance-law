@@ -14,7 +14,7 @@ etiketler: [hastalik, sigortasi, brans, adinin, saglik]
 oncelik: 3
 kaynaklar:
   - "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=9400&MevzuatTur=2&MevzuatTertip=5"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-19"
@@ -53,13 +53,50 @@ Resmî ad: Hastalık Sigortası Branş Adının Sağlık Sigortası Olarak Deği
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: mevzuat.gov.tr (No 9400, Tür 9, Tertip 5) — çekim: 2026-08-19. Resmî konsolide metin; değişiklik dipnotları `(Değişik/Ek/Mülga:RG-…)` biçimindedir.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+-
+
+-
+Bakanlık Adı
+
+  hmerdanoglu
+  Normal
+  selcukozcan
+  4
+  28
+  2005-09-08T07:11:00Z
+  2011-09-16T07:38:00Z
+  1
+  49
+  280
+  basbakanlik
+  2
+  1
+  328
+  11.9999
+
+  Print
+  110
+  Clean
+  Clean
+  21
+
+  false
+  false
+  false
+
+  MicrosoftInternetExplorer4
+
+HASTALIK SİGORTASI BRANŞ
+ADININ SAĞLIK SİGORTASI OLARAK DEĞİŞTİRİLMESİNE İLİŞKİN TEBLİĞ
+
+Hastalık Sigortası branşının Sağlık
+Sigortası olarak değiştirilmesine 7397 sayılı Sigorta Murakabe Kanunu’nun 7. maddesinin 2. fıkrasının verdiği yetkiye
+dayanılarak Devlet Bakanlığınca 15/8/2005
+tarihinde karar verilmiştir.
+
+Tebliğ olunur.
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

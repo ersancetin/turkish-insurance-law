@@ -18,6 +18,7 @@ from __future__ import annotations
 import argparse
 import json
 import pathlib
+import re
 import sys
 from collections import Counter, defaultdict
 
@@ -27,6 +28,27 @@ except ImportError:  # pragma: no cover
     sys.exit("PyYAML gerekli:  pip install pyyaml")
 
 KOK = pathlib.Path(__file__).resolve().parent.parent
+
+METIN_BLOK = re.compile(r"<!-- METIN:BASLANGIC -->(.*?)<!-- METIN:BITIS -->", re.S)
+METIN_PLACEHOLDER = "_Resmî metin henüz eklenmedi._"
+
+
+def mevcut_tam_metin(yol: pathlib.Path):
+    """Mevcut dosyada gerçek (iskelet olmayan) METIN bloğu varsa onu döndür.
+
+    Böylece `uret.py --force` ile yeniden üretimde, `cek_metin.py` tarafından
+    çekilmiş resmî tam metinler SİLİNMEZ, korunur.
+    """
+    if not yol.exists():
+        return None
+    m = METIN_BLOK.search(yol.read_text(encoding="utf-8"))
+    if not m:
+        return None
+    icerik = m.group(1)
+    govde_metni = icerik.strip()
+    if len(govde_metni) >= 200 and not govde_metni.startswith(METIN_PLACEHOLDER):
+        return icerik.strip("\n")
+    return None
 KUTUK = KOK / "data" / "kaynaklar.yaml"
 
 TUR_ETIKET = {
@@ -83,7 +105,7 @@ def dogrulama_kaynak(kayit: dict):
     return None
 
 
-def frontmatter(kayit: dict, guncelleme: str) -> str:
+def frontmatter(kayit: dict, guncelleme: str, metin_durumu: str = "iskelet") -> str:
     kaynaklar = "\n".join(f'  - "{k}"' for k in kayit.get("kaynaklar") or []) or "  []"
     numara = f'"{kayit["numara"]}"' if kayit.get("numara") else "null"
     rg_t = f'"{kayit["rg_tarihi"]}"' if kayit.get("rg_tarihi") else "null"
@@ -110,7 +132,7 @@ etiketler: {yml_liste(kayit.get('etiketler'))}
 oncelik: {kayit.get('oncelik', 3)}
 kaynaklar:
 {kaynaklar}
-metin_durumu: iskelet
+metin_durumu: {metin_durumu}
 dogrulama:
   durum: {dog_durum}
   tarih: {dog_tarih}
@@ -122,8 +144,19 @@ lisans: "Resmî mevzuat metinleri 5846 s. FSEK m.31 uyarınca serbesttir; bu dos
 ---"""
 
 
-def govde(kayit: dict) -> str:
+def govde(kayit: dict, metin_icerik: str = None) -> str:
     kaynak_satirlari = "\n".join(f"- <{k}>" for k in kayit.get("kaynaklar") or []) or "- _Kaynak adresi eklenmedi._"
+    if metin_icerik:
+        metin_blok = metin_icerik.strip("\n")
+    else:
+        metin_blok = (
+            "_Resmî metin henüz eklenmedi._\n\n"
+            "Metni eklerken:\n"
+            "1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).\n"
+            "2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.\n"
+            "3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.\n"
+            "4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın."
+        )
     seri = kayit.get("seri")
     seri_blok = ""
     if seri:
@@ -208,13 +241,7 @@ def govde(kayit: dict) -> str:
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
-
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+{metin_blok}
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi
@@ -372,7 +399,9 @@ def main() -> int:
             uretilen += 1
             continue
         yol.parent.mkdir(parents=True, exist_ok=True)
-        yol.write_text(frontmatter(kayit, guncelleme) + govde(kayit), encoding="utf-8")
+        mv = mevcut_tam_metin(yol)
+        md = "tam-metin" if mv else "iskelet"
+        yol.write_text(frontmatter(kayit, guncelleme, md) + govde(kayit, mv), encoding="utf-8")
         uretilen += 1
 
     if not args.kontrol:

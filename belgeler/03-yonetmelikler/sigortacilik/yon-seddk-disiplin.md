@@ -14,7 +14,7 @@ etiketler: [sigortacilik, ve, ozel, emeklilik, duzenleme]
 oncelik: 3
 kaynaklar:
   - "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=39050&MevzuatTur=2&MevzuatTertip=5"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-19"
@@ -53,13 +53,62 @@ Resmî ad: Sigortacılık Ve Özel Emeklilik Düzenleme Ve Denetleme Kurumu Disi
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: mevzuat.gov.tr (No 39050, Tür 7, Tertip 5) — çekim: 2026-08-19. Resmî konsolide metin; değişiklik dipnotları `(Değişik/Ek/Mülga:RG-…)` biçimindedir.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+-
+
+SİGORTACILIK VE ÖZEL
+EMEKLİLİK DÜZENLEME VE DENETLEME
+
+KURUMU DİSİPLİN
+AMİRLERİ YÖNETMELİĞİ
+
+Amaç
+
+MADDE 1 – (1)  Bu
+Yönetmeliğin amacı; Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumunda
+görev yapan Devlet memurlarının disiplin amirlerini belirlemektir.
+
+Kapsam
+
+MADDE 2 – (1) Bu
+Yönetmelik, Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumunda
+14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununa göre görev yapan Devlet
+memurları hakkında uygulanır.
+
+Dayanak
+
+MADDE 3 – (1) Bu
+Yönetmelik, 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun 124 üncü
+maddesi ile 29/4/2021 tarihli ve 3935 sayılı Cumhurbaşkanı Kararı ile yürürlüğe
+konulan Devlet Memurları Disiplin Yönetmeliğinin 5 inci maddesine dayanılarak
+hazırlanmıştır.
+
+Disiplin amirleri
+
+MADDE 4 – (1) Bu
+Yönetmelik kapsamında görev yapan Devlet memurlarının disiplin amirleri Ek-1
+sayılı Cetvelde gösterilmiştir.
+
+Disipline ilişkin usul ve
+esaslar bakımından uygulanacak mevzuat
+
+MADDE 5 – (1)
+Disipline ilişkin usul ve esaslar bakımından, 657 sayılı  Kanun ile
+Devlet Memurları Disiplin Yönetmeliği hükümleri uygulanır.
+
+Yürürlük
+
+MADDE 6 – (1) Bu
+Yönetmelik yayımı tarihinde yürürlüğe girer.
+
+Yürütme
+
+MADDE 7 – (1) Bu
+Yönetmelik hükümlerini Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme
+Kurumu Başkanı yürütür.
+
+Eki için tıklayınız
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi
