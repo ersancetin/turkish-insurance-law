@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/upload/Basın Duyurusu (3).pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,22 @@ SEDDK sektor-duyurusu kataloğu: 07.08.2025 Tarihli Basın Duyurusu. Kaynak PDF 
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/upload/Basın Duyurusu (3).pdf (resmî PDF) — çekim: 2026-08-20.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+Tıbbi Kötü Uygulamaya İlişkin Zorunlu Mali Sorumluluk (Malpraktis) Sigortasında 
+Teminatlar Yükseltildi 
+ 
+İlgili mevzuat uyarınca hekim ve diş hekimleri için zorunlu tutulan Tıbbi Kötü Uygulamaya 
+İlişkin Zorunlu Mali Sorumluluk Sigortasında hukuki risklere karşı sağlanan finansal 
+koruyuculuk artırıldı. 
+Tıbbi Kötü Uygulamaya İlişkin Zorunlu Mali Sorumluluk Sigortasında Kurum Katkısına İlişkin 
+Usul ve Esaslara Dair Tebliğ ekinde yapılan düzenleme ile azami teminat tutarları, I. Risk 
+Grubu için 1.000.000 TL, II. Risk Grubu için 2.000.000 TL, III. Risk Grubu için 3.000.000 TL 
+ve IV. Risk Grubu içinse 4.000.000 TL’ye yükseltilirken prim tarifesi ise paralel şekilde revize 
+edildi. 
+Yeni teminatları içeren poliçeler 1/11/2025 tarihi itibarıyla sigorta şirketleri tarafından 
+sunulacaktır. 
+Kamuoyuna duyurulur.
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

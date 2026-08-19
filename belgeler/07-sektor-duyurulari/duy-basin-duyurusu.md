@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/upload/Basın duyurusu.27-12-24.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,22 @@ SEDDK sektor-duyurusu kataloğu: Basın Duyurusu. Kaynak PDF resmî SEDDK sitesi
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/upload/Basın duyurusu.27-12-24.pdf (resmî PDF) — çekim: 2026-08-20.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+VİZE VE İKAMET İZNİ TALEPLERİNDE YAPTIRILACAK SAĞLIK 
+SİGORTALARINDA ASGARİ TEMİNAT LİMİTLERİ GÜNCELLENDİ 
+ 
+ 
+25/12/2024 tarihli ve 2024/34 sayılı “Vize ve İkamet İzni Taleplerinde Yaptırılacak 
+Sağlık Sigortalarına İlişkin Genelgede Değişiklik Yapılmasına Dair Genelge” Kurumumuzca 
+yayımlandı. 
+Genelge ile anlaşmalı ve anlaşmasız sağlık kuruluşlarındaki yıllık asgari teminat 
+limitleri günümüz koşullarına uygun şekilde güncellendi. Ayrıca, ülke genelindeki 20 kamu 
+hastanesi için özel teminat limiti belirlendi. Sigortanın teminat kapsamında değişiklik yapılarak 
+poliçelerde asgari bir standart sağlanması amacıyla ani rahatsızlık ve hastalıklara ilişkin sağlık 
+hizmetlerinin teminat dışında bırakılmaması düzenlendi.  
+Yapılan düzenleme ile, sigortanın kapsayıcılığının ve kullanılabilirliğinin arttırılması 
+hedeflenmekte olup, Genelge 1/4/2025 tarihinde yürürlüğe girecektir.
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

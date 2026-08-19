@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/upload/Basın Duyurusu2.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,23 @@ SEDDK sektor-duyurusu kataloğu: 30.07.2025 Tarihli Basın Duyurusu. Kaynak PDF 
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/upload/Basın Duyurusu2.pdf (resmî PDF) — çekim: 2026-08-20.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+Özel Hukuk Hükümlerine Tabi Sigortalar Kapsamında Hak Sahiplerince Aranmayan 
+Paralar Hakkında Yönetmelikte Yer Alan Tutarlar Revize Edildi 
+ 
+Özel Hukuk Hükümlerine Tabi Sigortalar Kapsamında Hak Sahiplerince Aranmayan 
+Paralar Hakkında Yönetmelikte belirtilen parasal sınırların tutarları revize edildi ve kalıcı veri 
+saklayıcısı aracılığıyla bildirim yükümlülüğü getirildi. Yeni uygulamada 100 TL ve üzerindeki 
+tutarlar için öncelikle kalıcı veri saklayıcısı aracılığı ile hak sahiplerine bilgilendirme yapılması 
+ve ulaşılamaması durumunda ise bu paralardan 1.000 TL ve üzerindeki tutarlar için iadeli 
+taahhütlü mektup yoluyla bilgilendirme yapılması yönünde değişiklik yapıldı. İlaveten, anılan 
+tutarların her yıl ocak ayında Türkiye İstatistik Kurumu tarafından açıklanan yıllık tüketici fiyat 
+endeksi değişim oranına göre otomatik olarak artırılması düzenlendi. 
+ 
+Kamuoyuna duyurulur.  
+ 
+İlgili mevzuata bu bağlantıdan ulaşabilirsiniz.
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

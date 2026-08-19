@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/upload/doc/SEDDK-baskani-3-yıl-mesaj.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,41 @@ SEDDK sektor-duyurusu kataloğu: Seddk Başkanından 3. Yıl Mesajı. Kaynak PDF
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/upload/doc/SEDDK-baskani-3-yıl-mesaj.pdf (resmî PDF) — çekim: 2026-08-20.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+18.10.2022
+Değerli mesai arkadaşlarım, 
+Kıymetli sigortalılar, katılımcılar ve sektör temsilcileri,
+Sigortacılık ve özel emeklilik sektörlerimizin Türkiye ekonomisi ve finansal piyasalarımız 
+içerisinde ifa ettiği fonksiyonlar itibarıyla  haiz olduğu kritik önemin bir yansıması olarak; 18 
+Ekim 2019 tarihinde, Cumhurbaşkanlığı Kararnamesi ile “Sigortacılık ve Özel Emeklilik 
+Düzenleme ve Denetleme Kurumu” bağımsız bir kamu otoritesi olarak kurulmuştur.
+Çalışmalarına, sektörlerimizi istikrarlı, güvenilir ve uluslararası piyasalara entegre bir şekilde 
+konumlandırma gayreti ile başlayan SEDDK; öngörülebilirlik, sürdürülebilirlik ve teknoloji 
+odaklılık gibi temel değerleriyle sigortalıların ve katılımcıların hak ve menfaatlerinin korunması, 
+sağlıklı rekabetin tesisi, sigortalılık oranının artırılması, piyasanın etkin şekilde düzenlenmesi 
+ve denetlenmesi misyonu ile faaliyetlerini sürdürmektedir. 
+Doğrudan ve dolaylı olarak 200 bin kişiye istihdam sağlayan Türk sigorta ve özel emeklilik 
+sektörleri verdiği teminatlarla yatırımları güvence altına almakta ve sürekliliğini sağlamaktadır. 
+Nitekim sigortacılık sektörümüz, ağustos ayı itibarıyla 126,2 milyar TL prim üretimi 
+gerçekleştirmiş ayrıca Türkiye ekonomisine yaklaşık 230 trilyon TL tutarında diğer bir ifade ile 
+GSYİH’nın 32 katı değerinde teminat sunmuştur. 
+20. yılını doldurmaya hazırlanan bireysel emeklilik alanında ise kuruluşundan bugüne kadar 
+reform niteliğinde birçok adım atılmış olup eylül ayı itibarıyla 14,3 milyon katılımcıya ve 
+yaklaşık 360 milyar TL fon büyüklüğüne ulaşılmıştır. Son 5 yılda BES endeksi, enflasyonun 
+üzerinde kazandırarak vatandaşlarımızın tasarruflarında Türk Lirasını tercih etmesinde önemli 
+rol oynamıştır.
+SEDDK olarak 3. yılımızı kutladığımız bu dönemde Türkiye Ekonomi Modeli'nin önemli 
+sacayaklarından olan üretim, yatırım ve istihdamı teminat verme ve fon üretme fonksiyonu ile 
+desteklemeye devam ederek ülke ekonomisine sunduğumuz katkıyı sürdüreceğiz. 
+Geçmişten aldığımız güçlü deneyim ve bilgi birikimini yeni kimliğimizle birleştirerek 
+sektörümüzün gelişimi ve büyümesi adına paydaşlarımızla birlikte hızlı, koordineli ve çözüm 
+odaklı çalışarak ortak akılla ilerlemeye devam edeceğiz. 
+Bizden desteklerini esirgemeyen başta Sayın Cumhurbaşkanımız ve Sayın Hazine ve Maliye 
+Bakanımıza, bu faaliyetlerin gerçekleşmesinde fedakâr çalışmalarından dolayı tüm mesai 
+arkadaşlarıma ve paydaşlarımıza teşekkürlerimi sunarım.
+Mehmet Akif EROĞLU
+BAŞKAN
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

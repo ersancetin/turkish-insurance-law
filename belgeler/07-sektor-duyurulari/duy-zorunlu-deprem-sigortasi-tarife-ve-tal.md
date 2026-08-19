@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://www.resmigazete.gov.tr/eskiler/2025/12/20251231M5-38.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,41 @@ SEDDK sektor-duyurusu kataloğu: Zorunlu Deprem Sigortası Tarife Ve Talimat Teb
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://www.resmigazete.gov.tr/eskiler/2025/12/20251231M5-38.pdf (resmî PDF) — çekim: 2026-08-20.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+	
+#Q=:NGO>JLJH8P9PL'IPHLQLQH4F9PMLPIP8P4PMPGLPIP"CNCICMKOM
+ 	%$ "% 
+#%
+# %%
+#	"#
+%
+	$
+$	%#	"##%	%
+	
+"#$$%
+! 2;;77.;$GONQ5LQ8P7((2-F FM>FIFHPNNPN@OEJLJP@IO9PGPKPEO/
+EJILOMOM:NCMLC4P%NPI#Q=:NGO@J?ONQ+P8P?OLQIOG?PDLQAQMQM7M>QIOKKP@QMQMDQNQM>Q+JH/
+NO@JMJMQHQM>Q>FILP@Q8POEMJ+JHNOKOEPNOLOMGODL:OBOAJKOHQBPHQLKPKPAQBGQNQLIQBGQN<
+),CBPHQLKPDPLQNLPMP>PHO@=ONQ%NQIGCGONJ5PN5OLFHNKONQ@H=NCDCMO=NPDQNQM>Q=NC%GOMEP/
+KQM>Q=NCDO@JNO@JELO;<(-;?30;<121?30;<616?30;<2!6?30;<.2!?3016.?38P-.-?3KPM
+O9:LOIO9<*
+"#$$%! &EMJ?PDLQAQM2FM>FIOKKP@QMKPEPNOLOM);IQLE:M1.6DQM;$7*QDONP@Q
+)7IQLE:M(-DQM6$7*BPHLQMKPKPAQBGQNQLIQBGQN<
+"#$$%! &EMJ?PDLQAQM6FM>FIOKKP@QMQMDQNQM>Q+JHNO@JMKOEPNOLOMGODL:OBOAJKOHQ
+BPHQLKPKPAQBGQNQLIQBGQN<
+"#$$%! &EMJ?PDLQAPOBOAJKOHQ=P Q>QIOKKPPHLPMIQBGQN<
+)'&44'1/;,CIOKKPEQQ5KO@PKPM?PDLQAQLPDPLQNLPMPMIOHGCGCGONLONJM
+OELJHONGJBLONJ0QLH:LONOHDCIOKKPMQMEFNFNLFAP=QNKQAQGONQ5QQ9LPEPMOEKOMDOBLOIOHF9PNP
+CE=CLOMJN<*
+"#$$%!%,C?PDLQAEOEJIJGONQ5QMKPMDQN=FM@:MNOEFNFNLFAP=QNPN<
+"#$$%! ,C?PDLQA5FHFILPNQMQ#Q=:NGO>JLJH8P9PL'IPHLQLQH4F9PMLPIP8P4P/
+MPGLPIP"CNCIC,OBHOMJEFNFGFN<
+
+
+	 
+	 
+	
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi
