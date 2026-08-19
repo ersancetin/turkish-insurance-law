@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/UploadContent/Documents/Trafik_Sigortası_Basamak_Basın_Duyurusu.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,48 @@ SEDDK sektor-duyurusu kataloğu: 19/12/2025 Tarihli Basın Duyurusu. Kaynak PDF 
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/UploadContent/Documents/Trafik_Sigortası_Basamak_Basın_Duyurusu.pdf (SEDDK/TSB resmî PDF) — çekim: 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+BASIN DUYURUSU
+(19/12/2025)
+
+TRAFİK SİGORTASINDA HASARSIZLIK İNDİRİMİ UYGULAMASINA İLİŞKİN
+KAMUOYU BİLGİLENDİRMESİ
+Bazı basın ve yayın organlarında yer alan haberlerde; zorunlu trafik sigortasında hasarsızlık
+indiriminin araçtan bağımsız hale getirilerek tamamen sürücüye bağlandığı ve ikinci bir araç
+alımında giriş basamağı yerine sigortalının bulunduğu avantajlı basamağın uygulanacağı
+yönünde ifadelere yer verildiği görülmektedir.
+Bilindiği üzere, Karayolları Trafik Kanunu ve ilgili mevzuat gereği motorlu taşıtların
+işletilmesinden doğan hukuki sorumluluk motorlu aracın işletenine aittir ve zorunlu trafik
+sigortası poliçeleri de işleten adına düzenlenmektedir. Mevcut uygulamada trafik sigortalarının
+sürücüye özel olarak düzenlenmesi mümkün olmadığından, bir kişinin birden fazla araca sahip
+olması halinde, poliçe düzenleme aşamasında araçları kullanacak sürücüler dikkate
+alınmamaktadır. Bu durum, birden fazla aracı olan vatandaşlarımız için birden sonraki sigorta
+poliçelerinin 4. basamaktan başlatılması sonucunu doğurmaktadır.
+Bilindiği üzere, halihazırda vatandaşlarımız araçlarını değiştirmeleri halinde hasarsızlık
+indirimi haklarını yeni araçlarına aktarabilmektedirler. 1 Ocak 2026 tarihinde yürürlüğe girecek
+olan yeni düzenleme ise, yeni aracın önce alınıp avantajlı basamakta bulunan aracın sonra satışı
+ile ilgili olup, bu durumlarda da avantajlı basamağın yeni araca aktarılma imkanını
+getirmektedir. Bu doğrultuda, 1 Ocak 2026 tarihinden itibaren avantajlı basamakta bulunan
+aracını satan sigortalılar; acentelerine veya sigorta şirketlerine başvuruda bulunmaları halinde
+basamak düzeltmesi talep edebileceklerdir. Başvuru yapılmaması durumunda ise söz konusu
+düzeltme,
+poliçenin
+yenileme
+döneminde
+sistem
+tarafından
+otomatik
+olarak
+gerçekleştirilecektir. Aynı uygulama dezavantajlı basamakta bulunan sigortalılar için de geçerli
+olacaktır.
+Trafik sigortasında iyi sürücü ile riskli sürücü ayrımını daha belirgin ve adil bir şekilde ortaya
+koyan bir sistemin hayata geçirilmesi amacıyla, sigorta poliçelerinin işletenden bağımsız olarak
+sürücü temelli düzenlenebilmesine yönelik alternatif model çalışmaları ilgili paydaşlarla
+birlikte titizlikle sürdürülmektedir. Söz konusu çalışmaların tamamlanmasının ardından, elde
+edilen sonuçlar ve düzenleme önerilerine ilişkin detaylar önümüzdeki dönemde kamuoyu ile
+paylaşılacaktır.
+Kamuoyuna saygıyla duyurulur.
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/upload/doc/SEDDK-basin-duyurusu-14.02.2023.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,44 @@ SEDDK sektor-duyurusu kataloğu: Devlet Katkısının Yatırım Araçlarındaki 
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/upload/doc/SEDDK-basin-duyurusu-14.02.2023.pdf (SEDDK/TSB resmî PDF) — çekim: 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumu, Barbaros Mah. Kardelen Sk. Palladium
+Tower 2/1, 27. Kat, 34746 Ataşehir, İstanbul/TÜRKİYE Tel: 0 (216) 655 69 00-01 https://seddk.gov.tr/
+
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumu olarak hazırladığımız
+'Bireysel Emeklilik Sisteminde Devlet Katkısı Hakkında Yönetmelikte Değişiklik Yapılmasına
+Dair Yönetmelik' Resmi Gazete'nin bugünkü sayısında yayımlanarak yürürlüğe girmiştir.
+
+Bilindiği üzere, Bireysel Emeklilik Sistemi (BES) kapsamında, katılımcıların yıllık toplam brüt
+asgari ücret tutarını aşmayan katkı paylarına %30 oranında Devlet katkısı ödenmektedir.
+Katılımcı ise sistemde geçirdiği süreye göre bu Devlet katkısına kademeli olarak hak
+kazanmaktadır. Dolayısıyla Devlet katkısı, bu amaca hizmet etmek üzere kurulmuş ayrı
+fonlarda (katkı fonu) yatırıma yönlendirilmekte ve katılımcının çıkış/emeklilik hakkını
+kullanması durumunda hak ediş oranına göre katılımcıya ödenmektedir.
+
+Devlet katkısı fonlarının yatırım yapabileceği araçların belirlenmesinde, sistemin uzun vadeli
+yapısına uyumlu bir yaklaşımın izlenmesi önem arz etmektedir. Zira, bu fonların makul bir
+risk seviyesinde reel getiri sağlaması katılımcının sisteme güveninin korunması ve Devlet
+katkısının değer kaybetmemesi bakımından dikkate alınmalıdır. Dolayısıyla, bu fonların
+yatırım yapabilecekleri araçların çeşitliliği kritik bir husustur.
+
+Bu çerçevede, gerek sektör gerekse de katılımcılarımızdan Kurumumuza ulaşan talepler
+dikkate alınarak, Devlet Katkısı fon portföyünde asgari %70 olarak belirlenmiş olan kamu
+borçlanma araçları oranının azaltılması ve hisse senedi oranının artırılmasının fon
+performansını olumlu etkileyeceği değerlendirilmiştir.
+
+Bu bağlamda, hem fon performanslarını artıracak hem de ülkemiz finansal piyasalarının
+derinliğine ve üretim odaklı ekonomi politikasının desteklenmesine katkı sağlayacak bu
+değişikliğin hayata geçirilmesi için katkı fonlarının portföy sınırlandırmasında değişikliğe
+gidilerek kamu borçlanma araçlarının asgari oranı %70’ten %50’ye indirilmiş, hisse senedi
+oranları ise %10’dan %30’a çıkarılmıştır. Hisse senedi yatırımları ise ikiye ayrılarak belirli
+endeksleri takip eden borsa yatırım fonlarına, fon portföyünün asgari %10’u oranında
+yatırım yapılması temin edilmiştir.
+
+Kamuoyunun bilgisine sunulur.
+BASIN DUYURUSU
+14.02.2023
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

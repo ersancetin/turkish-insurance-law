@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/upload/doc/eksperlik-kursu-uygulama-metni.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,35 @@ SEDDK sektor-duyurusu kataloğu: Sigorta Eksperliği Kursuna İlişkin Duyuru. K
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/upload/doc/eksperlik-kursu-uygulama-metni.pdf (SEDDK/TSB resmî PDF) — çekim: 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+Sigortacılık ve Özel Emeklilik
+Düzenleme ve Denetleme Kurumu
+
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumu, Barbaros Mah. Kardelen Sk. Palladium
+Tower 2/1, 27. Kat, 34746 Ataşehir, İstanbul/TURKEY Tel: 0 (216) 655 69 00-01 https://seddk.gov.tr/
+
+SİGORTA EKSPERLİĞİ KURSUNA İLİŞKİN DUYURU
+
+22.06.2008 tarih ve 26914 sayılı Resmi Gazete’de yayımlanan Sigorta Eksperleri
+Yönetmeliğinin 6 ncı maddesi çerçevesinde, Türkiye çapında belirlenen sigorta eksperi
+ihtiyacının karşılanması amacıyla 2023 yılı içerisinde sigorta eksperliği kursu açılacağı ve ön
+eleme sınavının 30.04.2023 tarihinde yapılacağı ilan edilmişti. Kahramanmaraş’ta gerçekleşen
+ve çevre illeri etkileyen depremler nedeniyle kurslara ilişkin ön alım başvurularının ve ön eleme
+sınavının ileri bir tarihe ertelenmesine karar verilmişti.
+
+Bu çerçevede, kurslara ilişkin ön alım başvuruları (toplam 300 kontenjan) 20 Mart – 14
+Nisan 2023 tarihleri arasında Sigortacılık Eğitim Merkezine (www.segem.org.tr) yapılacak
+olup ön eleme sınavı 24.06.2023 tarihinde düzenlenecektir.
+
+İl grupları, branşlar, kontenjanlar, ön alım başvuruları ve ön eleme sınavı ile ilgili
+ayrıntılı bilgiye Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumu
+(www.seddk.gov.tr), Türkiye Odalar ve Borsalar Birliği (www.tobb.org.tr), Türkiye Sigorta
+Birliği (www.tsb.org.tr) ve Sigortacılık Eğitim Merkezi (www.segem.org.tr) internet
+sayfalarında yer alacak “2023 Yılı Sigorta Eksperliği Kursu Başvuru ve Uygulama Kılavuzu”
+adlı dokümandan ulaşılabilir.
+
+Kamuoyuna duyurulur.
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

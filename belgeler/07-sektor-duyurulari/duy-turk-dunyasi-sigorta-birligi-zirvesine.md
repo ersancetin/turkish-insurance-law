@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/upload/20250918_Turk_Dunyası_Sigorta_Birligi.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,36 @@ SEDDK sektor-duyurusu kataloğu: Türk Dünyası Sigorta Birliği Zirvesine Kuru
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/upload/20250918_Turk_Dunyası_Sigorta_Birligi.pdf (SEDDK/TSB resmî PDF) — çekim: 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+“Türk Dünyası Sigorta Birliği Zirvesine Kurumumuzdan üst düzeyde güçlü katılım…”
+
+Türk Dünyası Sigorta Birliği, Azerbaycan’ın kültür başkenti Şuşa’da sekiz devletin
+katılımı ile gerçekleştirilen bir törenle kuruldu.  Birliğin, sigorta ve reasürans ilişkilerini
+güçlendirmek, teknoloji-dijitalleşme, tarım-doğal afet sigortaları ile beraber tüm
+sigorta branşlarında  tecrübe paylaşımı ve ortak projeler tesis edilmesi üzerine
+faaliyette bulunacağı açıklandı.
+
+Kuruluş töreni ve beraberinde düzenlenen etkinliklere Sigortacılık ve Özel Emeklilik
+Düzenleme ve Denetleme Kurumu (SEDDK) en üst düzeyde ve güçlü bir katılım sağladı.
+
+Üye ülkelerin sigorta otoritelerinin başkanlarının da katıldığı panelde konuşan SEDDK
+Başkanı Davut Menteş bu tarihi ana tanıklık etmekten ve ülkemizi temsil etmekten
+büyük bir gurur duyduklarını belirtti.
+
+Menteş, Birliğin hedeflerinin kısa-orta ve uzun vadeli plan ve üst politika belgeleri ile
+desteklenerek kısa sürede önemli projelerin hayata geçirilebileceğini vurguladı.
+
+Türkiye’nin sigorta sektöründe bölgesel liderliğini vurgulayan Menteş, Türkiye’nin sahip
+olduğu üstün teknolojik altyapı ve dijital uygulamaların yanısıra doğal afet ve tarım
+sigortalarındaki deneyiminin altını çizerek Birlik aracılığıyla üye ülkelere her türlü
+desteği sağlamaya hazır olduklarını ifade etti.
+
+Menteş, son iki yıldır gözetim, denetim ve regülasyon alanındaki kurumsal
+aksiyonlarının olumlu sonuçlarının uluslararası kredi derecelendirme kuruluşlarının da
+dikkatinden kaçmadığını ifade eden Menteş, bu alanda da  iyi uygulama örnekleri
+arasına girebilecek kayda değer bir tecrübeye sahip olduklarını  ve bu konularda da üye
+ülke otoritelerine katkı sağlayabileceklerini söyledi.
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

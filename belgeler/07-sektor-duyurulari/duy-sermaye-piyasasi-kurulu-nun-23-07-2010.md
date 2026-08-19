@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/upload/Sermaye Piyasası Kurul 21-640 Sayılı Kararı.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,17 @@ SEDDK sektor-duyurusu kataloğu: Sermaye Piyasası Kurulu'nun 23.07.2010 Tarihli
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/upload/Sermaye Piyasası Kurul 21-640 Sayılı Kararı.pdf (SEDDK/TSB resmî PDF) — çekim: 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+SERMAYE PİYASASI KURULU’NUN 23.07.2010 TARİH ve 21/640 SAYILI KARARI
+
+1. Kurulumuzun 23.07.2010 tarih ve 21/640 sayılı Kararı;
+
+Emeklilik yatırım fonlarının, Kurulumuzun 16.12.2005 tarih ve 52/1488 sayılı ilke kararının “Menkul
+Kıymet Yatırım Fonları, Emeklilik Yatırım Fonları ve Yatırım Ortaklıklarınca İMKB Tahvil Bono Piyasası
+Kesin Alım Satım Pazarı'nda İleri Valörlü Olarak İşlem Gerçekleştirilmesine İlişkin Genel Kurallar ve
+Değerleme Esasları” başlıklı V. bölümünün (B) bendi kapsamından çıkartılmasına ve aynı bölümün (A)
+bendi kapsamına alınmasına karar verilmiştir.
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

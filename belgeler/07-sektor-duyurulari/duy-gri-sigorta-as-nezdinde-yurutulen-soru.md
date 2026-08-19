@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/UploadContent/Documents/2026.04.07-2_nolu_Basın_Duyurusu-GRI_Sigorta_AŞ.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,19 @@ SEDDK sektor-duyurusu kataloğu: Gri Sigorta Aş Nezdinde Yürütülen Soruştur
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/UploadContent/Documents/2026.04.07-2_nolu_Basın_Duyurusu-GRI_Sigorta_AŞ.pdf (SEDDK/TSB resmî PDF) — çekim: 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+BASIN DUYURUSU
+(07/04/2026)
+
+Kurumumuzun denetim faaliyetleri sonucunda düzenlenen raporlar esas alınarak İzmir
+Cumhuriyet Başsavcılığınca başlatılan soruşturma kapsamında;
+GRI Sigorta AŞ nezdinde hasar onarım ve hurda araç bedellerinin ödenmesi süreçlerinde
+vatandaşlarımızı mağdur etmek suretiyle haksız menfaat elde eden yapıya karşı gerçekleştirilen
+operasyonda 35 kişi gözaltına alınmıştır.
+Kurumumuz sigortalılarımızın hak ve menfaatlerinin korunması için faaliyetlerini hassasiyet
+ve kararlılıkla sürdürmeye devam etmektedir.
+Kamuoyuna saygıyla duyurulur.
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

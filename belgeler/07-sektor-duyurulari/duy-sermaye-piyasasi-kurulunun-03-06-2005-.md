@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/upload/Sermaye Piyasası Kurul 22-719 Sayılı Kararı.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,23 @@ SEDDK sektor-duyurusu kataloğu: Sermaye Piyasası Kurulunun 03.06.2005 Tarih Ve
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/upload/Sermaye Piyasası Kurul 22-719 Sayılı Kararı.pdf (SEDDK/TSB resmî PDF) — çekim: 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+Kurulumuzun 03.06.2005 tarih ve 22/719 sayılı kararı
+Emeklilik yatırım fonlarında, “Emeklilik Yatırım Fonlarının Kuruluş ve Faaliyetlerine İlişkin Esaslar Hakkında
+Yönetmelik”in 41’inci maddesi çerçevesinde hesaplanan ek kayda alma ücretlerinin Kurulumuzun Seri:VII, No:10
+sayılı “Yatırım Fonlarına İlişkin Esaslar Tebliği”nin Artırım Giderleri başlıklı 32’nci maddesi hükmüne paralel
+olarak;
+
+1- Ek kayda alma ücretinin doğduğu andan itibaren hesaplanan pay başına düşen ücretin, katılımcılara gönderilen
+hesap ekstrelerinde, fonların sürekli bilgilendirme formlarında, emeklilik şirketlerinin internet sitelerinde ve
+bunların yanı sıra emeklilik şirketlerinin uygun gördüğü, katılımcıların haberdar edilmesini temin edecek her türlü
+vasıtayla katılımcıların bilgilendirilmesi kaydıyla yeni pay satın alan katılımcılardan alım fiyatı farkı olarak tahsil
+edilerek fon malvarlığına dahil edilmesi ve eşzamanlı olarak karşılık ayrılması suretiyle ödeme tarihinde ek kayda
+alma ücretinin fon malvarlığından söz konusu karşılıklar kullanılarak ödenmesinin mümkün olduğu,
+2- Ek kayda alma ücretlerinin tamamen kurucular tarafından da karşılanabileceği,
+3-Kurulumuz karar tarihinden itibaren söz konusu ücretin yeni pay alan katılımcılardan tahsil edilmeksizin
+doğrudan fon malvarlığından karşılanması yönündeki uygulamalara son verilmesi gerektiğine karar verilmiştir.
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

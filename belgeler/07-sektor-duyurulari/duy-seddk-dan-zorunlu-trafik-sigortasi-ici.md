@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/upload/doc/SEDDK-basin-duyurusu-12-08-2022.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,41 @@ SEDDK sektor-duyurusu kataloğu: Seddk'dan Zorunlu Trafik Sigortası İçin Kaps
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/upload/doc/SEDDK-basin-duyurusu-12-08-2022.pdf (SEDDK/TSB resmî PDF) — çekim: 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumu, Barbaros Mah. Kardelen Sk. Palladium
+Tower 2/1, 27. Kat, 34746 Ataşehir, İstanbul/TÜRKİYE Tel: 0 (216) 655 69 00-01 https://seddk.gov.tr/
+
+SEDDK'DAN ZORUNLU TRAFİK SİGORTASI İÇİN KAPSAMLI TARİFE
+
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumu (SEDDK), zorunlu trafik
+sigortasında, hasar-prim dengesini gözeterek sistemin sürdürülebilirliğini temin etmek
+amacıyla tarife güncellemesi gerçekleştirdi
+
+SEDDK, zorunlu trafik sigortasında 12/04/2017 tarihinden bu yana kullanımda olan azami
+prim uygulamasını, asgari ücret, hasar maliyetleri ve işçilik ücretlerinde yaşanan artış
+sebebiyle revize etmiştir. 81 ilin trafik riskine göre her ay değişen kat sayı oranı 1 Eylül 2022
+tarihinden itibaren aylık %2,25’ten %4,75’e yükseltilmiştir.
+
+Yayımlanan yönetmelikle basamaklarına göre değişen hasarsızlık sebebiyle prim indirimleri
+ve hasar sebebiyle prim artırım oranları, iyi sürücü-kötü sürücü ayrımını mümkün kılmaya
+devam edecek şekilde, hasar maliyetleri göz önünde bulundurularak ve sürdürülebilir
+fiyatlama dikkate alınarak revize edilmiştir.
+
+Bunun yanı sıra, sabit bir oran yerine, gelen veriler ışığında hasar davranış farklılıkları
+dikkate alınarak, çeşitli araç gruplarına ve değişen kullanım türüne özel artırım oranları
+belirlenmiş, bu kapsamda sürdürülebilir bir fiyatlamaya imkan tanınmıştır.
+
+SEDDK, yapılan yeni düzenlemeyle motorlu araç sahipleri için zorunlu olan trafik sigortasını
+düzenlemekten kaçınan sigorta şirketlerine de farklı tedbirleri uygulamaya almıştır.  Bu
+kapsamda Kurum, bu şirketlerin belirlenen sigorta branşlarına veya tüm branşlara poliçe
+düzenleme ve yenileme yetkisini 3 ila 30 gün boyunca durdurabilecek, kaçınmanın devamı
+halinde bu süreyi 2 katına çıkarabilecektir.
+
+Kamuoyuna saygı ile duyurulur.
+
+BASIN DUYURUSU
+12.08.2022
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

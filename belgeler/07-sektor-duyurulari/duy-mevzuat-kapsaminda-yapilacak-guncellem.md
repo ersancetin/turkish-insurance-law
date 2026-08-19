@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/UploadContent/Documents/Mevzuat Kapsamında Yapılacak Güncellemeler Hakkındaki Duyuru.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,56 @@ SEDDK sektor-duyurusu kataloğu: Mevzuat Kapsamında Yapılacak Güncellemeler H
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/UploadContent/Documents/Mevzuat Kapsamında Yapılacak Güncellemeler Hakkındaki Duyuru.pdf (SEDDK/TSB resmî PDF) — çekim: 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumundan;
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurulunun 30/07/2025 tarih
+ve 1229 sayılı kararıyla, ilgili mevzuat kapsamında güncellenen ve sonraki dönemde
+güncellenecek olan sigorta ve reasürans brokerleri ile sigorta acentelerinin sermaye tutarları ve
+ekspertiz ücret tarifelerinin Kurumumuzun internet sitesinde yayımlanmasına karar verilmiştir.
+
+Bu kapsamda, Sigorta ve Reasürans Brokerleri Yönetmeliğinin 22 nci maddesi
+çerçevesinde, brokerler için gerekli sermaye tutarları TÜİK tarafından açıklanan yıllık yurt içi
+üretici fiyat endeksi artış oranına (%27,67) göre güncellenmiştir. 01.01.2026 tarihinden itibaren
+uygulanan sermaye tutarları aşağıdaki tabloda yer almaktadır.
+
+Broker İçin Gerekli Sermaye Tutarları
+Asgari ödenmiş sermaye tutarı
+4.102.037,10 TL
+Hayat ve hayat dışı alanlarındaki her bir ruhsat talebi için ilave sermaye
+tutarı
+820.407,42 TL
+Reasürans alanındaki ruhsat talebi için ilave sermaye tutarı
+1.640.814,84 TL
+Her bir merkez dışı teşkilat için ilave sermaye tutarı
+410.203,71 TL
+
+Diğer taraftan, Sigorta Acenteleri Yönetmeliğinin Ek 1 inci maddesi çerçevesinde,
+acenteler için gerekli sermaye tutarları TÜİK tarafından açıklanan yıllık yurt içi üretici fiyat
+endeksi artış oranına (%27,67) göre güncellenmiştir. 01.01.2026 tarihinden itibaren uygulanan
+sermaye tutarları aşağıdaki tabloda yer almaktadır.
+
+Acente İçin Gerekli Sermaye Tutarları
+Asgari ödenmiş sermaye tutarı
+4.149.275,00 TL
+Şube açmaksızın sadece mesafeli satış yapmak isteyen acenteler için
+asgari sermaye tutarı
+5.106.800,00 TL
+Şube açarak teşkilatlanacak acentelerin merkez için gerekli asgari
+sermaye tutarı
+5.106.800,00 TL
+Şube açarak teşkilatlanacak acentelerin her bir şube için gerekli asgari
+sermaye tutarı
+414.927,50 TL
+
+Bununla birlikte, Sigorta Eksperleri Atama Yönetmeliğinin 12 nci maddesi
+çerçevesinde Yönetmelik ekinde yer alan taban ekspertiz ücret tarifeleri, 2026  yılı Ocak ayı
+itibarıyla, TÜİK tarafından açıklanan tüketici fiyatları endeksinde gerçekleşen 2025 yılı son altı
+aylık değişim oranına göre 01.01.2026 tarihinden itibaren geçerli olmak üzere güncellenmiştir.
+Bu çerçevede, güncellenen taban ekspertiz ücret tarifeleri ekte yer almaktadır.
+
+Kamuoyuna saygıyla duyurulur.
+Ek için tıklayınız.
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

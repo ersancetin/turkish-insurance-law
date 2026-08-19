@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/UploadContent/Documents/ÖSS_Yeni_Dönem_Bilgilendirme_Rehberi.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,29 @@ SEDDK sektor-duyurusu kataloğu: Özel Sağlık Sigortalarında Yeni Dönem Duyu
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/UploadContent/Documents/ÖSS_Yeni_Dönem_Bilgilendirme_Rehberi.pdf (SEDDK/TSB resmî PDF) — çekim: 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+ÖZEL SAĞLIK SİGORTALARINDA YENİ DÖNEM
+1 Ocak 2026 tarihi itibarıyla sigortalı haklarını merkeze alan “Özel Sağlık Sigortalarında Yeni
+Dönem” başladı.
+Bu yeni dönemde;
+➢ 60 yaşını henüz tamamlamamış tüm sigortalılara ömür boyu yenileme garantisi
+(ÖBYG) taahhüdü içeren bir sözleşmenin sunulması zorunlu hale getirildi. ÖBYG
+taahhüdü içeren sözleşmeyi tercih eden ve 3 yıl kesintisiz sigortalılık ve bu dönemdeki
+toplam tazminat / toplam prim oranı % 80 altında olan herkes ÖBYG kazanabilecektir.
+Sigorta şirketleri bu şartları sigortalı lehine olabilecek şekilde esnetebilecek; ancak,
+aleyhe olabilecek şekilde değiştiremeyecektir.
+➢ Şirketler, bekleme sürelerini yalnızca ilk poliçede uygulayabilecek ve bu süreleri
+mevzuatta belirlenen üst limitlere bağlı kalarak belirleyebilecektir.
+➢ Ayrıca, artık aynı şirkette plan değişikliği yaparken veya başka bir şirkete geçiş yapmak
+istediğinizde kazanılmış haklarınız korunacaktır. Plan değişikliklerinde ve geçiş
+işlemlerinde sigortalılar kazanmış oldukları ÖBYG’yi planlar arasında ve şirketler
+arasında transfer edilebilecek ve beklenen süreler bu değişikliklerde kazanılmış hak
+olarak korunacaktır.
+Yeni döneme ilişkin tüm detaylara Kurumumuzca hazırlanan “Özel Sağlık Sigortalarında Yeni
+Dönem Bilgilendirme Rehberi” üzerinden erişebilirsiniz.
+Ayrıca mevzuata ilişkin detaylar için “Özel Sağlık Sigortaları Yönetmeliği”ni ve “Özel Sağlık
+Sigortaları Yönetmeliğinin Uygulama Esaslarına İlişkin Genelge”yi inceleyebilirsiniz.
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

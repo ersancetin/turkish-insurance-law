@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/upload/resmigazete.gov.tr 2024_10_2024.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,44 @@ SEDDK sektor-duyurusu kataloğu: Deniz Araçları Zorunlu Mali Sorumluluk Sigort
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/upload/resmigazete.gov.tr 2024_10_2024.pdf (SEDDK/TSB resmî PDF) — çekim: 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+10 Ekim 2024 PERŞEMBE
+Resmî Gazete
+Sayı : 32688
+TEBLİĞ
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumundan:
+DENİZ ARAÇLARI ZORUNLU MALİ SORUMLULUK SİGORTASI TARİFE VE
+TALİMAT TEBLİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ
+ 
+MADDE 1- 18/10/2014 tarihli ve 29149 sayılı Resmî Gazete’de yayımlanan Deniz Araçları Zorunlu Mali
+Sorumluluk Sigortası Tarife ve Talimat Tebliğinin 1 inci maddesinin ikinci fıkrasında yer alan “25/11/2010 tarihli ve
+27766 sayılı Resmî Gazete’de yayımlanan Deniz Yolu ile Yapılacak Düzenli Seferlere Dair Yönetmeliğin 12 nci
+maddesi” ibaresi “22/11/2023 tarihli ve 32377 sayılı Resmî Gazete’de yayımlanan Gemilerle Yapılan Düzenli Seferler
+Hakkında Yönetmeliğin 5 inci maddesi” şeklinde değiştirilmiştir.
+MADDE 2- Aynı Tebliğin 2 nci maddesi aşağıdaki şekilde değiştirilmiştir.
+“MADDE 2- (1) Bu Tebliğ, 3/6/2007 tarihli ve 5684 sayılı Sigortacılık Kanununun 12 nci maddesine
+dayanılarak hazırlanmıştır.”
+MADDE 3- Aynı Tebliğin 3 üncü maddesinin ikinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+“(2) Aşağıda belirtilen kaza başına maddi teminat tutarı ile ölüm, sakatlık ve tedavi giderleri teminat tutarları,
+hem yolcu hem de üçüncü şahıslara verilen zararlar için uygulanır.
+(¹) SDR: Uluslararası Para fonu (IMF) tarafından 1969 yılında meydana getirilmiş uluslararası bir rezerv
+birimi olan Özel Çekme Hakkı anlamına gelmektedir.
+(²) Yolcu Kapasitesi: Deniz aracının ruhsatında belirtilen yolcu kapasitesi anlamına gelmektedir. İlgili ruhsatta
+yaz ve kış için farklı yolcu sayıları belirtilmiş ise, bunlardan büyük olan dikkate alınır.
+(³) Poliçe düzenlenirken teminat tutarlarının hesaplanmasında, yolcu taşıyan gemiler için yolcu kapasitesi, araç
+taşıyan gemiler için araç kapasitesi, hem araç hem yolcu taşıyan gemiler için ise teminat tutarı yüksek olan dikkate
+alınır.”
+MADDE 4- Aynı Tebliğe aşağıdaki geçici madde eklenmiştir.
+“Vadesi devam eden poliçelerin durumu
+GEÇİCİ MADDE 2- (1) Bu maddenin yürürlüğe girdiği tarih itibarıyla yolcu sayısı 12’den fazla olan deniz
+araçları için yürürlükte olan sigorta sözleşmeleri vade bitimlerine kadar mevcut koşullarda devam eder.
+(2) Bu maddenin yürürlüğe girdiği tarih itibarıyla yolcu sayısı 12 veya 12’den az olan deniz araçları için
+yürürlükte olan sigorta sözleşmeleri, prime ilişkin herhangi bir işlem yapılmaksızın bu Tebliğ kapsamındaki
+teminatlara tabidir.”
+MADDE 5- Bu Tebliğ yayımı tarihinde yürürlüğe girer.
+MADDE 6- Bu Tebliğ hükümlerini Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumu Başkanı
+yürütür.
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

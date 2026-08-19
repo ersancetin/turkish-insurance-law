@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/upload/SEDDK - Basın Açıklaması-09.08.2023.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,48 @@ SEDDK sektor-duyurusu kataloğu: Konut Sigortaları Yönetmeliği Değişikliği
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/upload/SEDDK - Basın Açıklaması-09.08.2023.pdf (SEDDK/TSB resmî PDF) — çekim: 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumu, Barbaros Mah. Kardelen Sk. Palladium
+Tower 2/1, 27. Kat, 34746 Ataşehir, İstanbul/TÜRKİYE Tel: 0 (216) 655 69 00-01 https://seddk.gov.tr/
+
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumu olarak deprem konusu
+öncelikli gündemimiz arasında yer almakta olup, deprem teminatında bütüncül bir sistem
+kurulması kapsamında, zorunlu deprem sigortası (DASK) ve ihtiyari konut sigortasında gerekli
+adımları atıyoruz.
+
+Bu çerçevede 01 Ağustos 2023 tarihinden itibaren uygulanmak üzere, ihtiyari deprem
+teminatına ilişkin sigortalıların hak ve menfaatlerinin korunmasına yönelik önemli
+düzenlemeler hayata geçirilmiştir.
+
+Sivil rizikolarda, konutların eksik sigorta tehlikesiyle karşı karşıya kalmamasını ve uygulama
+birliğini teminen ihtiyari tarafta asgari metrekare bedelleri; betonarme konutlar için 12 bin TL,
+diğer konutlar için 8 bin TL’den az olamayacak şekilde belirlenmiştir. Teminatın
+güçlendirilmesi amacıyla da enflasyon klozunun poliçelere eklenmesi zorunlu kılınmıştır.
+
+Ayrıca sigortalıların aldıkları teminatları daha iyi anlamalarını sağlamak ve bu alanda
+farkındalık oluşturmak için poliçelerde değişikliğe gidilmiştir. 01 Ocak 2024 tarihinden geçerli
+olmak üzere yangın poliçelerinde deprem ek teminatının olup olmadığını gösterir ibarelere yer
+verilmesi ve aynı zamanda poliçe başlıklarının farklı renklendirilmesi zorunlu tutulmuştur.
+
+Ticari ve sınai rizikolar tarafında ise 1/1/2013 ile 1/7/2021 tarihleri arasında sigorta bedeli
+limitlerinde herhangi bir güncelleme yapılmamış olması nedeniyle bu bedellerde güncellemeye
+ihtiyaç duyulduğundan hem sigorta sektörünün hem de reel sektörün ihtiyaçları gözetilmek
+suretiyle sigorta bedeli limitleri düzenli aralıklarla güncellenmektedir.
+
+Bu kapsamda teminat açığı olmamasını teminen ülkemizde ve dünyada yaşanmakta olan güncel
+finansal gelişmeler, enflasyon gelişmeleri, kur hareketliliği ve inşaat yapı birim maliyetleri gibi
+çeşitli parametrelerin değerlendirilmesi suretiyle sigorta bedeli limitleri yeniden belirlenmiş ve
+böylece mevcut düzenlemede yer alan tesislerin kapsamı genişletilmiştir. Deprem risk
+gruplarında yer alan prim katsayılarında ise bir artış yapılmamıştır.
+
+İlerleyen dönemlerde diğer alanlarda yapılan çalışmalar tamamlandıkça kamuoyu ile
+paylaşılacaktır.
+
+Saygıyla duyurulur
+
+BASIN AÇIKLAMASI
+ 09.08.2023
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/upload/Basın Duyurusu.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,20 @@ SEDDK sektor-duyurusu kataloğu: Sahte Kefalet Senetlerinin Önlenmesine Yöneli
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/upload/Basın Duyurusu.pdf (SEDDK/TSB resmî PDF) — çekim: 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+SAHTE KEFALET SENETLERİNİN ÖNLENMESİNE YÖNELİK SBM
+DOĞRULAMA UYGULAMASI HAKKINDA
+BASIN DUYURUSU
+
+Kurumumuzun önleyici faaliyetleri kapsamında, kefalet poliçeleri ve senetlerindeki sahteciliğin
+engellenmesine yönelik Sigorta Bilgi ve Gözetim Merkezi (SBM) nezdinde yeni bir uygulama
+geliştirilmiştir. Buna göre, kefalet senedi kullanıcılarına SBM "Sigortam360" uzantısının
+"Poliçeler" sekmesindeki https://online.sbm.org.tr/ovm-police/public/kefaletSenedi/sorgu.sbm
+web adresi üzerinden “birim referans no” ile kefalet poliçeleri ve senetlerinin gerçekliğinin ve
+geçerliliğinin ücretsiz olarak  sorgulanması imkanı sağlanmıştır.
+
+Kamuoyuna saygıyla duyurulur.
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

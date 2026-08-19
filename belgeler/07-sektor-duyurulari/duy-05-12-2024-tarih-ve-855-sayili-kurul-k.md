@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/upload/05-12-2024 tarih ve 855 sayılı Kurul Kararı .pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,12 @@ SEDDK sektor-duyurusu kataloğu: 05/12/2024 Tarih Ve 855 Sayılı Kurul Kararı.
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/upload/05-12-2024 tarih ve 855 sayılı Kurul Kararı .pdf (SEDDK resmî PDF) — OCR ile çekildi (Apple Vision, tr): 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumundan;
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurulunun 05/12/2024 tarih ve 855
+sayılı Kararı ile Aveon Global Sigorta AŞ'nin tüm branşlarda yeni sigorta sözleşmesi akdetme
+ve temdit yetkisinin durdurulmasına karar verilmiştir.
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/upload/Quick Hayat Sigorta A.Ş.’ye Faaliyet Ruhsatı verilmesine ilişkin 709 sayılı Kurul Kararı.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,15 @@ SEDDK sektor-duyurusu kataloğu: 03.07.2024 Tarihli Ve 709 Sayılı Kurul Karar�
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/upload/Quick Hayat Sigorta A.Ş.’ye Faaliyet Ruhsatı verilmesine ilişkin 709 sayılı Kurul Kararı.pdf (SEDDK/TSB resmî PDF) — çekim: 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumundan;
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurulu’nun 03/07/2024 tarih ve 709
+sayılı kararıyla 5684 sayılı Sigortacılık Kanunu ve Sigorta Şirketleri ve Reasürans Şirketlerinin
+Kuruluş ve Çalışma Esaslarına İlişkin Yönetmelik hükümleri çerçevesinde, Quick Hayat
+Sigorta A.Ş'ye Hayat (irat ödemesi hariç), Evlilik/Doğum Sigortası, Yatırım Fonlu Sigortalar,
+Sermaye İtfa Sigortası, Fonların Yönetim İşlemi ve Kaza branşlarında ruhsat verilmesine,
+karar verilmiştir.
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

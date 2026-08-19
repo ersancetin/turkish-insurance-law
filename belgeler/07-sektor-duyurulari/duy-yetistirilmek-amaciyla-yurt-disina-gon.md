@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/upload/Yetiştirilmek-Amacıyla-Yurt-Dışına-Gönderilecek-Personel-Duyurusu.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,32 @@ SEDDK sektor-duyurusu kataloğu: Yetiştirilmek Amacıyla Yurt Dışına Gönder
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/upload/Yetiştirilmek-Amacıyla-Yurt-Dışına-Gönderilecek-Personel-Duyurusu.pdf (SEDDK/TSB resmî PDF) — çekim: 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumu
+(Adres: Barbaros Mah. Kardelen Sokak Palladium Tower No:2 34. Kat Ataşehir/İSTANBUL)
+İletişim
+Tel: (0216) 655 69 00-01
+(https://seddk.gov.tr)
+
+YETİŞTİRİLMEK AMACIYLA YURT DIŞINA GÖNDERİLECEK
+PERSONEL DUYURUSU
+
+Yetiştirilmek Amacıyla Yurt Dışına Gönderilecek Devlet Memurları Hakkında
+Yönetmelik hükümleri çerçevesinde 2024 mali yılında yurt dışı lisansüstü öğrenime ve
+uluslararası kuruluşlara staja gönderilecek Kurumumuz personelinin seçimine ilişkin ilan
+Kariyer Kapısı (https://isealimkariyerkapisi.cbiko.gov.tr) üzerinden duyurulmuştur.
+Başvuru şartlarını taşıyan adaylar, e-Devlet üzerinden Sigortacılık ve Özel Emeklilik
+Düzenleme ve Denetleme Kurumu-Kariyer Kapısı Kamu İşe Alım Hizmeti veya Kariyer Kapısı
+(https://isealimkariyerkapisi.cbiko.gov.tr)
+üzerinden
+elektronik
+ortamda
+başvurularını
+12.01.2024 Cuma günü saat 08:30 ila 26.04.2024 Cuma günü saat 23:59’a kadar
+yapacaklardır.
+
+İlan olunur. 09/01/2024
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

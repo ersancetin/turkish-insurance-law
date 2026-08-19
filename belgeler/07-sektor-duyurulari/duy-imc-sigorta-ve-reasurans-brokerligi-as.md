@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/upload/IMC Duyuru.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,15 @@ SEDDK sektor-duyurusu kataloğu: Imc Sigorta Ve Reasürans Brokerliği Aş’nin
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/upload/IMC Duyuru.pdf (SEDDK/TSB resmî PDF) — çekim: 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumundan;
+
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurulunun 22/08/2024 tarih
+ve 749 sayılı Kararıyla 5684 sayılı Sigortacılık Kanununun 1 inci ve 32 nci maddeleri ile Sigorta
+ve Reasürans Brokerleri Yönetmeliğinin 21 inci maddesi çerçevesinde, IMC Sigorta ve
+Reasürans Brokerliği AŞ’nin aracılık faaliyetinin geçici olarak durdurulmasına,
+karar verilmiştir.
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

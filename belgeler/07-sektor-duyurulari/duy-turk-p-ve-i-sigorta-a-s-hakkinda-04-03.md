@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/UploadContent/Documents/Türk P ve I Sigorta A.Ş. Hakkında 04.03.2026 Tarih ve 1586 Sayılı Kurul Kararı.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,15 @@ SEDDK sektor-duyurusu kataloğu: Türk P Ve I Sigorta A.ş. Hakkında 04.03.2026
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/UploadContent/Documents/Türk P ve I Sigorta A.Ş. Hakkında 04.03.2026 Tarih ve 1586 Sayılı Kurul Kararı.pdf (SEDDK/TSB resmî PDF) — çekim: 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumundan;
+
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurulu’nun 04/03/2026 tarih ve 1586
+sayılı kararıyla 5684 sayılı Sigortacılık Kanunu ve Sigorta Şirketleri ve Reasürans Şirketlerinin
+Kuruluş ve Çalışma Esaslarına İlişkin Yönetmelik hükümleri çerçevesinde, Türk P ve I  Sigorta
+AŞ'ye Genel Sorumluluk branşında ruhsat verilmesine,
+karar verilmiştir.
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

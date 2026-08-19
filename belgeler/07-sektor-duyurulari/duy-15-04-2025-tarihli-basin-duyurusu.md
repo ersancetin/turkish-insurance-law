@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/upload/2025-04-15-BasinDuyurusu.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,37 @@ SEDDK sektor-duyurusu kataloğu: 15.04.2025 Tarihli Basın Duyurusu. Kaynak PDF 
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/upload/2025-04-15-BasinDuyurusu.pdf (SEDDK/TSB resmî PDF) — çekim: 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+BASIN DUYURUSU
+(15.04.2025)
+
+Bilindiği üzere, geçtiğimiz hafta iki sigorta şirketinin faaliyetleri sigortacılık mevzuatı gereği
+durdurulmuş ve konuyla ilgili kamuoyuna gerekli bilgilendirme yapılmıştır.
+
+Uluslararası saygınlığa ve güçlü sermaye yapısına sahip olan sektörümüz başta özkaynak
+karlılığı, sermaye ve varlık yeterliliği gibi finansal dayanıklılık göstergeleri olmak üzere tüm
+yönleriyle uluslararası standartlara uyumlu, güvenilir, istikrarlı ve etkin bir şekilde faaliyetlerini
+sürdürmektedir.
+
+Buna rağmen, söz konusu şirketlerin toplam binde sekiz gibi sınırlı bir pazar payına sahip
+olmaları ve münferit durumları gözardı edilerek, bazı yayın organlarında yer verilen yanıltıcı
+ve spekülatif haber ya da paylaşımlarla sektörümüzün finansal dayanıklılığına ve itibarına gölge
+düşürülmeye çalışıldığı görülmektedir.
+
+Gelinen durum itibarıyla, faaliyetleri durdurulan şirketlerde, sigortalılarımızın mağduriyet
+yaşamaması için “mevcut hasar dosyalarına” ilişkin tazminatların süratle ödenmesine yönelik
+gerekli mali ve organizasyonel önlemler alınmıştır.
+
+Diğer taraftan söz konusu şirketler nezdindeki denetim faaliyetlerimiz kapsamında tespit edilen
+fiil ve işlemler, adli mercilerin yanı sıra finansal sektörün gözetim ve denetiminden sorumlu
+diğer kurumlarına ilgilerine göre iletilmektedir.
+
+Konuyla ilgili gelişmeler kamu bilinci ve sorumluluğu ile paylaşılmaya devam edilecektir.
+
+Kamuoyuna saygıyla duyurulur.
+
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumu
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

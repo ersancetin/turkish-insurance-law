@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/UploadContent/Documents/2026-15 Genelge Basın Duyurusu.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,31 @@ SEDDK sektor-duyurusu kataloğu: Seddk’dan Yasa Dışı Hasar Takibine Karşı
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/UploadContent/Documents/2026-15 Genelge Basın Duyurusu.pdf (SEDDK/TSB resmî PDF) — çekim: 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+BASIN DUYURUSU
+(29/06/2026)
+SEDDK’dan Yasa Dışı Hasar Takibine Karşı Yeni Tedbir
+Trafik sigortalarındaki değer kaybı kaynaklı uyuşmazlıkların asgari seviyeye indirilmesi
+ve tazminat süreçlerinin etkin, adil ve hızlı bir şekilde yönetilmesi amacıyla hazırlanan eylem
+planı çerçevesinde yapısal reformlar kararlılıkla hayata geçirilmektedir.
+Bu kapsamda; eksper hesaplamalarının standartlaştırılması, eksper atamalarında akıllı
+sisteme geçilmesi ve değer kaybı tazminatının hak sahiplerine herhangi bir ilave başvuru şartı
+aranmaksızın maddi hasar ile birlikte hesaplanarak ödenmesi şeklinde yakın zamanda üç önemli
+değişikliğe gidilmişti.
+Bu defa, eylem planının dördüncü aşamasında; Kanuna aykırı olarak hasar aracılığı
+faaliyetinde bulunan ve bu yolla vatandaşlarımızın mağduriyetine sebebiyet veren illegal
+yapıların engellenmesine yönelik yeni bir Genelge yayımlanarak yürürlüğe girmiştir.
+Yapılan düzenlemeyle, söz konusu yapılara yönelik gerekli adli ve idari yaptırımların
+daha etkin uygulanması suretiyle hasar süreçlerinin doğrudan sigorta şirketi ile
+sonuçlandırılması amaçlanmaktadır.
+Eylem planımızın beşinci aşamasında ise vatandaşlarımızın kaza ihbarını tek bir
+merkeze kolay ve süratli bir şekilde iletebilmelerini sağlamak amacıyla, tüm sigorta
+şirketlerinin entegre olacağı “Ortak Hasar İhbar Merkezi (OHİM)” yakın tarihte devreye
+alınacaktır.
+Kurumumuz, sigorta hasar tazmin süreçlerini basitleştirerek işlem yükünü azaltıp işlem
+hızını artıran düzenlemelere devam edecektir.
+Kamuoyuna saygıyla duyurulur.
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/upload/BTS-Genel-Şartları-Basın-Duyurusu.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,38 @@ SEDDK sektor-duyurusu kataloğu: Bina Tamamlama Sigortasında Yeni Dönem. Kayna
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/upload/BTS-Genel-Şartları-Basın-Duyurusu.pdf (SEDDK/TSB resmî PDF) — çekim: 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+BİNA TAMAMLAMA SİGORTASINDA YENİ DÖNEM
+
+2015 yılından bu yana uygulanmakta olan bina tamamlama sigortasının kapsamı
+genişletildi ve işleyişinde önemli değişikliklere gidildi.
+
+Yeni Dönemde;
+
+Ön ödemeli konut satış sözleşmelerine ilave olarak 6 Şubat depremi sonrası hız kazanan
+kentsel dönüşüm projeleri ile diğer tüm inşaat projeleri Bina Tamamlama Sigortası
+kapsamına alınmıştır. Böylelikle, tüketicilerin yanı sıra arsa sahipleri de müteahhitlerinden bu
+sigortayı talep edebileceklerdir.
+ Bina tamamlama sigortası ile satıcı/müteahhitin; iflası, ölümü ve teslim tarihini müteakip
+12 ay içinde konutu teslim edememesi teminat altına alınmıştır. Teslim tarihini müteakip 12 ay
+içinde konutun teslim edilememesi halinde, mevzuata veya ruhsatlı projeye aykırı işlemler de
+teminat kapsamına dâhil edilerek arsa sahipleri/tüketicilere sağlanan koruma güçlendirilmiştir.
+Ayrıca, konutun sigorta şirketince tamamlanacak olması durumda, sigorta şirketince gecikme
+süresince hak sahiplerine emsale göre hesaplanacak kira ödemesi yapılmasına ilişkin
+düzenleme ile hak sahiplerinin olası mağduriyetlerinin önüne geçilmiştir.
+İlave olarak, hem satıcının/müteahhittin hem de hak sahiplerinin ihtiyaçlarına cevap
+verecek şekilde bir işleyiş kurgulanmıştır.   Bu anlamda, hak sahiplerinin birikimlerinin teminat
+altına alınmasının yanı sıra satıcı/müteahhitlerin yasal olarak sunmakla sorumlu oldukları
+teminata, banka kredilerini tüketmeden ve teminat mektubuna başvurmadan ulaşabilme imkânı
+sağlanarak finansal alternatif yaratılmıştır.
+Son olarak, sigorta şirketlerinin, satıcı/müteahhit üzerinde yapacağı risk değerlendirmesi
+ile projeye idari, teknik ve finansal risk denetimi sağlanması sonucu sigortanın risk yönetim
+fonksiyonu da devreye sokularak, inşaat sektöründe ikincil bir denetim mekanizmasının
+yaratılması sağlanmıştır.  Böylece, kentsel dönüşüm ve ön ödemeli konut satış projeleri başta
+olmak üzere tüm inşaat projelerinde yaşanan mağduriyetlerin önüne geçilmesi konusunda
+önemli bir adım atılmıştır.
+Kamuoyuna saygıyla duyurulur.
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

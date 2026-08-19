@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/upload/18.01.2024 tarih ve 557 sayılı Kurul kararı.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,14 @@ SEDDK sektor-duyurusu kataloğu: 18.01.2024 Tarihli Ve 557 Sayılı Kurul Karar�
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/upload/18.01.2024 tarih ve 557 sayılı Kurul kararı.pdf (SEDDK/TSB resmî PDF) — çekim: 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumundan;
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurulu’nun 18/01/2024 tarih ve 557
+sayılı kararıyla 5684 sayılı Sigortacılık Kanunu ve Sigorta Şirketleri ve Reasürans Şirketlerinin
+Kuruluş ve Çalışma Esaslarına İlişkin Yönetmelik hükümleri çerçevesinde, Türkiye Katılım
+Sigorta A.Ş'ye Genel Zararlar  I branşında ruhsat verilmesine,
+karar verilmiştir.
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

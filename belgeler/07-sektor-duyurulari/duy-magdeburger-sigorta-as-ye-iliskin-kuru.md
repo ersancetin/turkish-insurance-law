@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/UploadContent/Documents/Magdeburger_Sigorta_AŞ’ye_İlişkin_Kurumumuzca_Alınan_Tedbirler_Hakkında_Basın_Duyurusu.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,29 @@ SEDDK sektor-duyurusu kataloğu: Magdeburger Sigorta Aş’ye İlişkin Kurumumu
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/UploadContent/Documents/Magdeburger_Sigorta_AŞ’ye_İlişkin_Kurumumuzca_Alınan_Tedbirler_Hakkında_Basın_Duyurusu.pdf (SEDDK/TSB resmî PDF) — çekim: 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+BASIN DUYURUSU
+(16.04.2026)
+
+Magdeburger Sigorta AŞ’ye ilişkin Kurumumuzca alınan tedbirler hakkında kamuoyunun
+bilgilendirilmesine ihtiyaç duyulmuştur.
+
+İlgili mevzuat kapsamında bir süredir yakın izlemeye alınmış olan ve uygulanan kademeli tedbirlere
+rağmen mali bünye zafiyetini gideremeyen Magdeburger Sigorta AŞ’nin tüm branşlarda yeni sigorta
+poliçesi düzenleme ve yenileme yetkisi sermaye yeterlilik koşulları sağlanıncaya kadar geçici olarak
+durdurulmuştur.
+
+Bununla birlikte, söz konusu sigorta şirketinin daha önce düzenlemiş olduğu poliçelere ilişkin başta
+hasar tazmini olmak üzere sigortalılarımıza karşı tüm yükümlülüklerini yerine getirmesi için gerekli
+önlemler alınmıştır.
+
+Kurumumuz; sigortalıların hak ve menfaatlerini korumak ve sektörün güvenilir, istikrarlı ve etkin bir
+şekilde işlemesini sağlamak amacıyla; gözetim ve denetim faaliyetlerini kararlılıkla sürdürmektedir.
+
+Kamuoyuna saygıyla duyurulur.
+
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumu
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

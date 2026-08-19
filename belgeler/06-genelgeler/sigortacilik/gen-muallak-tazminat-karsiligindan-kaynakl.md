@@ -14,7 +14,7 @@ etiketler: [genelge, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/upload/Duyurular/Muallak Tazminat Karşılığından Kaynaklanan Nakit Akışlarının İskonto Edilmesi Hakkında Genelge.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,30 @@ SEDDK genelge kataloğu: Muallak Tazminat Karşılığından Kaynaklanan Nakit A
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/upload/Duyurular/Muallak Tazminat Karşılığından Kaynaklanan Nakit Akışlarının İskonto Edilmesi Hakkında Genelge.pdf (SEDDK resmî PDF) — OCR ile çekildi (Apple Vision, tr): 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumundan:
+30.12.2021
+MUALLAK TAZMİNAT KARŞILIĞINDAN KAYNAKLANAN NET NAKİT
+AKIŞLARININ ISKONTO EDILMESİ HAKKINDAKİ 2016/22 SAYILI GENELGEDE
+DEGİŞİKLİK YAPILMASINA DAİR GENELGE
+(2021/30)
+MADDE 1- Muallak Tazminat Karşılığından Kaynaklanan Net Nakit Akışlarının İskonto
+Edilmesi Hakkında Genelgenin (2016/22) 7 nci maddesi aşağıdaki şekilde değiştirilmiştir.
+"7. Net nakit akışları finansal raporlama dönemi tarihi itibarıyla %14 oranı dikkate alınarak
+peşin değere iskonto edilir."
+MADDE 2- Aynı Genelgenin 13 üncü maddesine aşağıdaki cümle eklenmiştir.
+"Iskonto oranında yapılan değişiklik nedeniyle dönemler arasında oluşan farklılıklar tahmin
+yönteminde değişiklik olarak kabul edilecek olup, finansal tabloların bu çerçevede hazırlanması
+ve bu değişikliğin finansal tablolara etkisinin karşılaştırmalı olarak finansal tablo dipnotlarında
+açıklanması gerekmektedir. Bu doğrultuda iskonto oranının değiştirilmesi kapsamında ortaya
+çıkabilecek olan olumlu fark, değişikliğin yapıldığı yılı takip eden bir yıl boyunca kâr
+dağıtımında kullanılamaz, kâr dağıtımı için dikkate alınacak sermaye yeterliliği oranı
+hesaplamasında dikkate alınamaz."
+MADDE 3- Bu Genelge yayımı tarihinde yürürlüğe girer.
+•V3113N9O
+FORTACTI.KA
+DUZENLEME
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

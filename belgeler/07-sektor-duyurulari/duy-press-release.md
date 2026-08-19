@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/upload/doc/basin-duyurusu-28.11.2023.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,36 @@ SEDDK sektor-duyurusu kataloğu: Press Release. Kaynak PDF resmî SEDDK sitesind
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/upload/doc/basin-duyurusu-28.11.2023.pdf (SEDDK/TSB resmî PDF) — çekim: 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+PRESS RELEASE
+November 28, 2023
+
+As is well known, our insurance and private pension sectors are subjected to constant
+surveillance by our Authority. Together with the international reputation and strong capital
+structure; the sector has reached to historical peaks in terms of capital adequacy levels and
+return on equity according to the recent financials.
+Due to the compliance violations against regulations and mismanagement practices; our
+Authority had been applying gradual measures to GRI SİGORTA ANONİM ŞİRKETİ and
+SINIRLI SORUMLU MELLCE KARŞILIKLI SİGORTA KOOPERATİFİ for a certain period
+of time. Despite the reasonable time given, since these companies have failed to fulfill the legal
+requirements, regarding to the protection of the rights and interests of insured and to prevent
+our industry from being negatively affected, it has become necessary to take precautions against
+GRI SİGORTA ANONİM ŞİRKETİ and SINIRLI SORUMLU MELLCE KARŞILIKLI
+SİGORTA KOOPERATİFİ.
+In this context, in accordance with the Article 20 of the Insurance Law No. 5684, it has
+been decided to terminate the duties of all current board members of the mentioned companies,
+to appoint new board members, and to entrust the management of their insurance portfolios to
+the Assurance Account (Güvence Hesabı).
+In order to ensure being insured and to protect the rights of those who are affected by
+the process, necessary initiatives to formulate compensatory plans have been launched under
+the leadership of the Turkish Insurance Association (Türkiye Sigorta Birliği).
+As it is stated above, our precautions are limited to the aforementioned companies which
+are of a scale that will not affect the sector. Ending the persistent mismanagement and
+compliance violations against regulations are aimed by our Authority.
+It is respectfully announced to the public.
+
+Insurance and Private Pension Regulation and Supervision Authority
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

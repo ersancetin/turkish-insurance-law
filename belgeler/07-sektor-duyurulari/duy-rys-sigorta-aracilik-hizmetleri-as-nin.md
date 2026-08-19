@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/UploadContent/Documents/24.02.2026 Tarihli ve 1581 Sayılı Kurul Kararı.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,14 @@ SEDDK sektor-duyurusu kataloğu: Rys Sigorta Aracılık Hizmetleri Aş’nin Ara
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/UploadContent/Documents/24.02.2026 Tarihli ve 1581 Sayılı Kurul Kararı.pdf (SEDDK/TSB resmî PDF) — çekim: 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumundan;
+
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurulunun 24/02/2026 tarih ve
+1581 sayılı Kararıyla 5684 sayılı Sigortacılık Kanununun 1 inci ve 32 nci maddeleri ile Sigorta
+Acenteleri Yönetmeliğinin 24 üncü maddesi çerçevesinde, RYS Sigorta Aracılık Hizmetleri
+AŞ’nin aracılık faaliyetinin geçici olarak durdurulmasına karar verilmiştir.
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

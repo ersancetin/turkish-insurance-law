@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/upload/Yonetmelik-Muhurlu.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,17 @@ SEDDK sektor-duyurusu kataloğu: Bireysel Emeklilik Sisteminde Kısmen Ödeme Ha
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/upload/Yonetmelik-Muhurlu.pdf (SEDDK resmî PDF) — OCR ile çekildi (Apple Vision, tr): 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumundan:
+MADDE 1- 26/09/2023 tarihli ve 32321 sayılı Resmî Gazete'de yayımlanan Bireysel
+Emeklilik Sisteminde Kısmen Ödeme Hakkında Yönetmeliğin 13 üncü maddesinin birinci
+fikrası aşağıdaki şekilde değiştirilmiştir.
+"(1) Bu Yönetmelik 01.07.2024 tarihinde yürürlüğe girer."
+MADDE 2 - (1) Bu Yönetmelik yayımlandığı andan itibaren yürürlüğe girer.
+MADDE 3 - (1) Bu Yönetmelik hükümlerini Sigortacılık ve Özel Emeklilik Düzenleme
+ve Denetleme Kurumu Başkanı yürütür.
+VEEL ENET
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

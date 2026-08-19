@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/upload/21.02.2024 Tarihli ve 577 Sayılı Kurul Kararı.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,18 @@ SEDDK sektor-duyurusu kataloğu: Mercer Sigorta Brokerliği A.ş.’nin Marsh Si
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/upload/21.02.2024 Tarihli ve 577 Sayılı Kurul Kararı.pdf (SEDDK/TSB resmî PDF) — çekim: 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumundan;
+
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurulunun 21/02/2024 tarih ve
+577 sayılı kararıyla Marsh Sigorta ve Reasürans Brokerliği AŞ’nin (devralan sıfatıyla) Mercer
+Sigorta Brokerliği AŞ (devrolan sıfatıyla) ile birleştiği Marsh Sigorta ve Reasürans Brokerliği
+AŞ’nin mevcut durumda hayat sigorta brokerliği ruhsatına sahip olması nedeniyle Mercer
+Sigorta Brokerliği AŞ adına düzenlenmiş olan 28.10.2005 tarih ve 1333-60086 sayılı hayat
+sigorta brokerliği ruhsatının iptaline ve adı geçen brokerliğin Marsh Sigorta ve Reasürans
+Brokerliği AŞ ile birleşmesine
+ karar verilmiştir.
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

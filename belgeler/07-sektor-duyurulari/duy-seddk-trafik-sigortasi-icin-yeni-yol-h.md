@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/upload/doc/SEDDK-basin-aciklamasi-trafik-sigortasi.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,47 @@ SEDDK sektor-duyurusu kataloğu: Seddk, Trafik Sigortası İçin Yeni Yol Harita
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/upload/doc/SEDDK-basin-aciklamasi-trafik-sigortasi.pdf (SEDDK/TSB resmî PDF) — çekim: 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+SEDDK, TRAFİK SİGORTASI İÇİN
+YENİ YOL HARİTASI ÇİZİYOR
+
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumu
+(SEDDK) zorunlu trafik sigortası kapsamında sigorta şirketleri genel
+müdürleriyle bir araya gelerek, acil eylem planı kapsamında atılacak
+adımları ele aldı.
+
+Trafiğe kayıtlı tüm araçlar için zorunlu bir poliçe türü olan trafik sigortasında son dönemde
+yaşanan sorunların çözümü için Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme
+Kurumu (SEDDK) yeni yönetimi, sigorta şirketleri genel müdürleriyle bir araya geldi.
+
+26 sigorta şirketinden yöneticilerinin hazır bulunduğu toplantıda, zorunlu trafik sigortası arzı
+konusu kapsamlı şekilde ele alınırken, sektörde yaşanan gelişmelerle ilgili fikir alışverişinde
+bulunuldu.
+
+“GELİŞMELERİ YAKINDAN TAKİP EDİYORUZ”
+
+Toplantıya yönelik açıklama yapan Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme
+Kurumu Başkanı Mehmet Akif Eroğlu, “SEDDK olarak en öncelikli hedefimiz doğrultusunda,
+son günlerde trafik branşında yaşanan gelişmeleri yakın izlemeye aldık. Sigorta sektörü
+bilançosunun yaklaşık %25’ini ilgilendiren trafik sigortasındaki her hareket, konsolide bilanço
+kârlılığına etki ediyor. Yaptırılması zorunlu olan ve 25 milyon araç sahibini yakından
+ilgilendiren bu kadar önemli bir sigorta ürününde düzenleyici ve denetleyici kurum olarak,
+sektör oyuncuları ve tüm paydaşlarla iletişim halindeyiz” dedi.
+
+“SORUNLARA YAPISAL ÇÖZÜMLER GETİRECEĞİZ”
+
+SEDDK’nın yeni döneminde tüm branşlarda olmak üzere özellikle trafik sigortası branşında
+daha etkin ve proaktif bir şekilde doğru ve sürekli iletişimi sürdüreceklerinin altını çizen
+Eroğlu sözlerine şöyle devam etti: “Sahadaki tüm paydaşlarla beraber yürüteceğimiz ortak
+akılla, yaşanan tüm sorunlara, anlık, kısa ve orta vadeli tedbirlerle yapısal çözüm getireceğiz.
+Hedefimiz, trafik sigortası branşının daha öngörülebilir ve daha stabil bir fiyatlama ile başta
+sigortalılarımız olmak üzere şirketlerimiz ve dağıtım kanallarımız için sürdürülebilir olmasıdır.
+Bu amaçla SEDDK olarak piyasa yapıcı oyuncuları daha yakından takip edip, piyasa bozucu
+işlem ve oyunculara yönelik gerekli tedbirleri hızlıca alacağız.”
+
+BASIN BÜLTENİ
+27.07.2022
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

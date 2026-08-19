@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/upload/Devlet Destekli Küçükbaş Hayvan Hayat Sigortası Genel Şartlarında Değişiklik Yapılmasına Dair Genel Şartlar.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,20 @@ SEDDK sektor-duyurusu kataloğu: Devlet Destekli Küçükbaş Hayvan Hayat Sigor
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/upload/Devlet Destekli Küçükbaş Hayvan Hayat Sigortası Genel Şartlarında Değişiklik Yapılmasına Dair Genel Şartlar.pdf (SEDDK/TSB resmî PDF) — çekim: 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+DEVLET DESTEKLİ KÜÇÜKBAŞ HAYVAN HAYAT SİGORTASI GENEL
+ŞARTLARINDA DEĞİŞİKLİK YAPILMASINA DAİR GENEL ŞARTLAR
+
+MADDE 1- Devlet Destekli Küçükbaş Hayvan Hayat Sigortası Genel Şartlarının B.1.1.
+maddesinin birinci fıkrasına aşağıdaki bent eklenmiştir.
+“Genel hayata etkili afet bölgesi ilan edilen yerlerde; sigortalı veya sigortalının vefat etmesi
+durumunda mirasçısı olduğunu beyan eden kişiler tarafından sigortalı veya öldüğü beyan
+edilen ve eksper ile sigortalı veya sigortalının vefat etmesi durumunda mirasçısı olduğunu
+beyan eden kişiler tarafından tutanakla imza altına alınan hayvanlar için ulusal veri tabanı
+kayıtlarından ölen hayvanın kaydının düşüldüğüne dair belge temin edilmesi zorunluluğu
+aranmayacaktır.”
+MADDE 2- Bu Genel Şartlar 01/01/2023 tarihinde yürürlüğe girer.
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

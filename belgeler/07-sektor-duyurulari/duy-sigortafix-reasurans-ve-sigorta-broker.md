@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/upload/09.04.2025_Tarihli_ve_1043_Sayılı_Kurul_Kararı.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,17 @@ SEDDK sektor-duyurusu kataloğu: Sigortafix Reasürans Ve Sigorta Brokerliği A�
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/upload/09.04.2025_Tarihli_ve_1043_Sayılı_Kurul_Kararı.pdf (SEDDK/TSB resmî PDF) — çekim: 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumundan;
+SİGORTAFİX REASÜRANS VE SİGORTA BROKERLİĞİ AŞ (Broker) hakkında
+17/03/2025 tarihli ve 1005 sayılı Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme
+Kurulu Kararı ile verilen faaliyetin geçici olarak durdurulmasına ilişkin tedbir, İstanbul 7.
+Sulh Ceza Hâkimliği’nin 14.03.2025 tarihli ve 2025/3050 D. İş sayılı kararıyla Tasarruf
+Mevduatı Sigorta Fonu (TMSF)’nun kayyım olarak atanması nedeniyle; Sigortacılık ve Özel
+Emeklilik Düzenleme ve Denetleme Kurulunun 09/04/2025 tarihli ve 1043 sayılı Kararı ile
+09/04/2025 tarihi itibarıyla kaldırılmıştır.
+Kamuoyuna saygıyla duyurulur.
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/upload/Öss - Basın Duyurusu.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,56 @@ SEDDK sektor-duyurusu kataloğu: 20.10.2025 Tarihli Basın Duyurusu. Kaynak PDF 
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/upload/Öss - Basın Duyurusu.pdf (SEDDK/TSB resmî PDF) — çekim: 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+BASIN DUYURUSU
+(20/10/2025)
+
+ÖZEL SAĞLIK SİGORTALARINDA YENİ DÖNEM…
+Özel Sağlık Sigortaları Yönetmeliği’nde değişiklik yapan düzenleme 1/1/2026 tarihinde
+yürürlüğe girmek üzere 20/10/2025 tarihinde Resmi Gazete’de yayımlandı.
+Düzenleme ile; başta ömür boyu yenileme garantisi, bekleme süresi ve şirketler arası geçiş olmak
+üzere birçok konuda önemli değişikliklere gidildi.
+
+ Ömür boyu yenileme garantisinin çerçevesi belirlendi
+Sigorta şirketleri tarafından farklı koşullarla uygulanmakta olan ömür boyu yenileme garantisinin
+(ÖBYG) şartları sigortalı aleyhine değiştirilemeyecek şekilde yeknesak hale getirildi. Böylelikle
+ÖBYG hakkının şirketlerden bağımsız şekilde merkezi sistemde tanımlanarak objektif şekilde
+izlenebileceği bir yapı oluşturuldu.
+-
+Buna göre 3 yıl kesintisiz sigortalı olunması ve bu süre sonunda tazminat/prim oranının
+%80’in altında kalması halinde sigortalılar ÖBYG hakkına sahip olabileceklerdir.
+-
+Poliçe başlangıcında 60 yaşını aşmamış tüm vatandaşlarımıza ÖBYG uygulamasından
+yararlanma imkanı getirilmiştir.
+-
+Sigorta şirketlerine teklif aşamasında sigortalılara ÖBYG seçeneğini sunma mecburiyeti
+getirilmiştir.
+-
+Sigortalı, ÖBYG ediniminden sonra merkezi sistem aracılığıyla bu hakkını dilediği
+şirkette kullanabilecektir.
+-
+Sigorta şirketleri, hiçbir gerekçeyle risk artışına bağlı olarak fiyat ve teminat gibi
+konularda ÖBYG’li sigortalı aleyhine değişiklik yapamayacaktır.
+
+ Bekleme süresi
+-
+Yeni düzenleme ile bekleme süresi, sadece sisteme girilen ilk dönemle sınırlandırılarak,
+ara verme halleri hariç, yenileme dönemlerindeki bekleme süresi uygulamalarına son
+verilmiştir.
+-
+ÖBYG uygulamasına benzer şekilde, bekleme süresi uygulamasında da merkezi sistem
+esas alınarak şirketler arası geçiş işlemlerinde önceki şirkette geçen süre korunarak
+sigortalının hak kaybı yaşamaması sağlanmıştır.
+
+ Bilgilendirme
+-
+Sigortalıların başta teminat kapsamı ve fiyatlandırma olmak üzere tercihlerini etkileyecek
+diğer tüm koşullar hakkında zamanında, eksiksiz ve doğru bilgilendirilmesine yönelik
+ilave tedbirler alınmıştır.
+Kamuoyuna saygıyla duyurulur.
+
+İlgili Yönetmelik için: https://www.resmigazete.gov.tr/eskiler/2025/10/20251020-1.htm
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

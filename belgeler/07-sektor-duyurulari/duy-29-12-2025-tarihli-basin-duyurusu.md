@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/UploadContent/Documents/Basın Duyurusu (29.12.25).pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,28 @@ SEDDK sektor-duyurusu kataloğu: 29.12.2025 Tarihli Basın Duyurusu. Kaynak PDF 
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/UploadContent/Documents/Basın Duyurusu (29.12.25).pdf (SEDDK/TSB resmî PDF) — çekim: 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+BASIN DUYURUSU
+(29/12/2025)
+
+Trafik Sigortasında 2026 Yılında Uygulanacak Teminat Tutarları Belirlendi
+
+Hak sahiplerinin uğradıkları zararların güncel ekonomik koşullara uygun şekilde tazmin
+edilebilmesini teminen, zorunlu trafik sigortasında uygulanan teminat tutarlarında artışa
+gidilmiştir.
+
+Bu kapsamda, maddi zararlar için belirlenen teminat tutarı 300 bin TL’den 400 bin TL’ye
+yükseltilirken; bedeni zararlar için öngörülen teminat tutarı ise 2,7 milyon TL’den 3,6 milyon
+TL’ye çıkarılmıştır. Belirlenen yeni teminat tutarları, yürürlükte bulunan tüm sigorta
+sözleşmelerine herhangi bir ek prim alınmaksızın uygulanacaktır.
+
+Öte yandan, bazı araç gruplarında kullanım türüne göre belirlenen tarife uygulaması yeniden
+düzenlenmiş olup, gerçek kişi işleten adına düzenlenecek poliçelerin primlerinin
+belirlenmesinde, aynı araç grubunda beş araca kadar (beş dahil) özel kullanım türü, beş adedin
+üzerindeki araçlar için ise tüzel kullanım türü esas alınacaktır.
+
+Kamuoyuna saygıyla duyurulur.
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

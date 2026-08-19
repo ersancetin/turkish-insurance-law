@@ -14,7 +14,7 @@ etiketler: [rehber, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/upload/BTS Rehber Basın Duyurusu.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,33 @@ SEDDK rehber kataloğu: Bina Tamamlama Sigortası Hakkında Bilgilendirme Rehber
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/upload/BTS Rehber Basın Duyurusu.pdf (SEDDK/TSB resmî PDF) — çekim: 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+BİNA TAMAMLAMA SİGORTASI HAKKINDA BİLGİLENDİRME REHBERİ
+YAYIMLANDI.
+
+6 Şubat depremi sonrası hızlanan kentsel dönüşüm projelerinin kapsama dâhil edildiği
+Bina Tamamlama Sigortası Hakkında Bilgilendirme Rehberi hazırlandı ve Kurumumuz internet
+sitesinde erişime açıldı.
+
+ Kentsel dönüşüm ve ön ödemeli konut satış projeleri ile diğer inşaat projelerinde yaşanan
+mağduriyetlerin önüne geçilmesi amaçlanan yeni uygulama döneminde Bina Tamamlama
+Sigortası geniş bir kitleyi ilgilendirmektedir.
+
+Bilgilendirme Rehberi, sigortanın taraflarca anlaşılması ve doğru bir şekilde
+uygulanması, hak sahiplerinin hak ve yükümlülüklerinin anlaşılabilir bir şekilde açıklanması
+ve başta idareler olmak üzere tüm uygulayıcılara rehberlik sağlaması amaçlanarak hazırlandı.
+
+Rehberde,
+ Bina Tamamlama Sigortasının işleyişi,
+ Tarafların hak ve yükümlülükleri,
+ İdarelerce ürünün kabulü ve işleyişi aşamalarında dikkat edilmesi gereken
+hususlar
+sorular/cevaplar, şekiller ve şemalar üzerinden anlaşılır bir dille açıklandı.
+
+Kamuoyuna saygıyla duyurulur.
+
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumu
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

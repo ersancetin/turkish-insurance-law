@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/upload/Finansal_Raporlama_Yonetmeliginde_Degisiklik_Yapilmasina_Dair_Yonetmelik....pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,35 @@ SEDDK sektor-duyurusu kataloğu: Sigorta Ve Reasürans Şirketleri İle Emeklili
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/upload/Finansal_Raporlama_Yonetmeliginde_Degisiklik_Yapilmasina_Dair_Yonetmelik....pdf (SEDDK/TSB resmî PDF) — çekim: 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+29.12.2023 11:27
+resmigazete.gov.tr/eskiler/2023/12/20231229-2.htm
+https://www.resmigazete.gov.tr/eskiler/2023/12/20231229-2.htm
+1/2
+29 Aralık 2023 CUMA
+Resmî Gazete
+Sayı : 32414
+YÖNETMELİK
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumundan:
+SİGORTA VE REASÜRANS ŞİRKETLERİ İLE EMEKLİLİK ŞİRKETLERİNİN
+FİNANSAL RAPORLAMALARI HAKKINDA YÖNETMELİKTE
+DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİKTE
+DEĞİŞİKLİK YAPILMASINA İLİŞKİN
+YÖNETMELİK
+MADDE 1- 13/5/2023 tarihli ve 32189 sayılı Resmî Gazete’de yayımlanan Sigorta ve Reasürans Şirketleri ile
+Emeklilik Şirketlerinin Finansal Raporlamaları Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmeliğin 13
+üncü maddesinin birinci fıkrasının (a) bendinde yer alan “1/1/2024” ibaresi “1/1/2025” şeklinde değiştirilmiştir.
+MADDE 2- Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+MADDE 3- Bu Yönetmelik hükümlerini Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumu
+Başkanı yürütür.
+ 
+ 
+
+29.12.2023 11:27
+resmigazete.gov.tr/eskiler/2023/12/20231229-2.htm
+https://www.resmigazete.gov.tr/eskiler/2023/12/20231229-2.htm
+2/2
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

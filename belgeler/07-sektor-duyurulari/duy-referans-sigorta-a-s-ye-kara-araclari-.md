@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/upload/Referans Sigorta AŞ.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,15 @@ SEDDK sektor-duyurusu kataloğu: Referans Sigorta A.ş.'ye Kara Araçları Sorum
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/upload/Referans Sigorta AŞ.pdf (SEDDK/TSB resmî PDF) — çekim: 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumundan;
+
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurulu’nun 14/05/2025 tarih ve 1104
+sayılı kararıyla 5684 sayılı Sigortacılık Kanunu ve Sigorta Şirketleri ve Reasürans Şirketlerinin
+Kuruluş ve Çalışma Esaslarına İlişkin Yönetmelik hükümleri çerçevesinde, Referans Sigorta
+AŞ'ye Kara Araçları Sorumluluk branşında ruhsat verilmesine,
+karar verilmiştir.
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

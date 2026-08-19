@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/upload/SEDDK - Basın Duyurusu-05.06.2023-Vol.5.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,59 @@ SEDDK sektor-duyurusu kataloğu: Sigortacılıkta Tahkim Yönetmeliği Değişik
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/upload/SEDDK - Basın Duyurusu-05.06.2023-Vol.5.pdf (SEDDK/TSB resmî PDF) — çekim: 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumu, Barbaros Mah. Kardelen Sk. Palladium
+Tower 2/1, 27. Kat, 34746 Ataşehir, İstanbul/TÜRKİYE Tel: 0 (216) 655 69 00-01 https://seddk.gov.tr/
+
+Türkiye genelinde trafiğe kayıtlı 27 milyon araç sahibini ilgilendiren zorunlu trafik sigortasında,
+artan maliyetlerin etkin yönetimini sağlamayı teminen Sigortacılık ve Özel Emeklilik Düzenleme
+ve Denetleme Kurumu (SEDDK) tarafından devreye alınan “Trafik Sigortası Yol Haritası”
+kapsamında Sigorta Tahkim Yönetmeliği’nde de revizyona gidildi.
+
+Bilindiği üzere sigorta sözleşmelerinden doğan uyuşmazlıkların çözümü amacıyla faaliyette
+bulunan Sigorta Tahkim Komisyonu, alternatif yargı yolu olması hasebiyle adalet sisteminin
+yükünü önemli ölçüde azaltmaktadır. Sigorta Tahkim Komisyonu tarafından uygulanacak bu
+yönetmelikte birçok alanda değişiklik yapılmıştır.
+
+Bu kapsamda başta hakemlerin üzerindeki mevcuttaki aşırı iş yükünün azaltılması ve yargılama
+kalitesinin artırılması amacıyla yönetmelikte düzenleme yapılmıştır.
+
+İlaveten, hakemlik sınavına girebilecekler yeniden tanımlanarak, sigortacılık mesleğinin temel
+fonksiyonlarından olan aktüerya, risk kabul, teknik muhasebe ile reasürans alanları sigortacılık
+deneyimine dahil edilmiş ve hakem adayı tabanı genişletilmiştir. Ayrıca son yıllarda hızla artan
+dosya yoğunluğu hasebiyle itiraz hakemlerinin sayısının artırılması için genişletici önlemler
+alınmıştır. Bu kapsamda itiraz hakemi olarak görev yapacakların sigorta hakemleri arasından
+seçilmesine de olanak sağlanmıştır.
+
+Kamu hizmetlerinin dijitalleşmesi kapsamında, Sigorta Tahkim Komisyonu’nun başvuru
+aşamasından karar aşamasına kadar elektronik ortamda yürütülmesine imkân sağlanarak
+operasyonel verimlilik öngörülmüştür.
+
+Yapılan değişiklikle itiraz yetkilisinin nitelikleri yeniden tanımlanmış olup itiraz hakem heyetine
+usulüne uygun yapılmayan başvurularda, başvuru ücretinin yarısının iade edilmesi hüküm altına
+alınarak usulsüz başvuruların önüne geçilmesi ve maliyet azaltıcı tedbir alınması amaçlanmıştır.
+
+Uyuşmazlıkların çözümü için görev alan hakemlerin önemli mazeretlerinin bulunması
+durumunda dosya bakma zorunluluklarını durdurabilmelerine olanak sağlanmıştır. Mücbir
+nedenler ve diğer önemli mazeretler nedeni ile dosya kabulü yapamayan hakemlerin, takip
+edildiği listenin belirli periyodlarla gözden geçirilmesi kararlaştırılmıştır.
+
+Hakem listesinden silinme halinde sonuçlanmayan başvurular için izlenecek yol belirlenmiş, bu
+konudaki düzenleme, Kanunun 30. maddesinin on iki ve on beşinci fıkralarındaki sürelere uygun
+olarak yeni görevlendirilen hakemler için işin niteliğine uygun şekilde tespiti sağlanmıştır.
+BASIN DUYURUSU
+ 07.06.2023
+
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumu, Barbaros Mah. Kardelen Sk. Palladium
+Tower 2/1, 27. Kat, 34746 Ataşehir, İstanbul/TÜRKİYE Tel: 0 (216) 655 69 00-01 https://seddk.gov.tr/
+
+Devreye alınan bu değişikliklerle Sigorta Tahkim Komisyonu’na başvuran sigortalıların iş
+süreçlerinin daha hızlı, güvenilir ve etkin yürütülmesi amaçlanmakta olup önümüzdeki
+dönemde “Trafik Sigortası Yol Haritası” kapsamında tahkim sisteminde yapılacak kanuni
+düzenlemelerle maliyet azaltıcı ilave tedbirler alınacaktır.
+
+Kamuoyuna saygıyla duyurulur.
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/upload/Menu-jpg/03.10.2025 tarihli Duyuru.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,40 @@ SEDDK sektor-duyurusu kataloğu: Sigorta Tahkim Sistemine İlişkin Hazırlanan 
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/upload/Menu-jpg/03.10.2025 tarihli Duyuru.pdf (SEDDK/TSB resmî PDF) — çekim: 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+Sigorta Tahkim Sistemine İlişkin Hazırlanan Taslak Paydaş Görüşüne Sunulmuştur.
+
+Sigorta tahkim sistemi, kuruluşundan itibaren yaklaşık 3 milyon sigorta uyuşmazlığının uzman
+hakemlerce 4 ay gibi kısa bir süre zarfında, adil ve düşük maliyetle, dava yoluna gidilmeksizin
+çözüme kavuşturulduğu bir alternatif uyuşmazlık çözüm yöntemidir. Uyuşmazlıkları kısa
+sürede çözümleyen  ve kararları usul ve esas bakımından yargı denetimine tabi olan sigorta
+tahkim sistemi, uluslararası düzeyde en iyi uygulama örnekleri arasında gösterilmektedir.
+
+Tahkim sisteminin etkinliğinin artırılması ve uluslararası uygulamalara uyum sağlanması
+hedefi doğrultusunda, kurumsal yönetişim ve uyuşmazlık çözüm süreçlerinde birtakım
+iyileştirici ve uyumlaştırıcı düzenlemelere gidilmesi gerekliliği ortaya çıkmıştır. Bu kapsamda;
+
+-
+Tazminat anlaşmazlıklarının uyuşmazlığa dönüşmeden taraflar arasında barışçıl
+yöntemlerle çözülmesini sağlayan mekanizma güçlendirilmektedir.
+
+-
+Etik ve disiplin ilkelerinin hakemlik faaliyetlerinde etkin şekilde uygulanmasına katkı
+sağlamak amacıyla Disiplin Kurulu oluşturulmaktadır.
+
+-
+Mevzuatın uygulanmasında yeknesaklık sağlanması ve hakemler için yön gösterici
+olması amacıyla Danışma Kurulu oluşturulmaktadır.
+
+-
+Hakemlerin bağımsız ve tarafsızlığının güçlendirilmesini teminen ek mekanizmalar
+getirilmektedir.
+
+-
+Komisyonun organizasyon ve işleyişine dair iyileştirici düzenlemeler getirilmektedir.
+
+Yukarıda yer verilen amaçlarla oluşturulan düzenleme taslağı paydaş görüşlerine sunulmuştur.
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

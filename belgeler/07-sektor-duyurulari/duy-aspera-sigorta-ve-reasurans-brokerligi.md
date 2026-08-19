@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/UploadContent/Documents/1399 Sayılı Kurul Kararı.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,17 @@ SEDDK sektor-duyurusu kataloğu: Aspera Sigorta Ve Reasürans Brokerliği Aş’
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/UploadContent/Documents/1399 Sayılı Kurul Kararı.pdf (SEDDK/TSB resmî PDF) — çekim: 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumundan;
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurulunun 26/11/2025 tarih ve
+1399 sayılı kararıyla, Gallagher Sigorta ve Reasürans Brokerliği AŞ’nin (devralan sıfatıyla)
+Aspera Sigorta ve Reasürans Brokerliği AŞ (devrolan sıfatıyla) ile birleştiği Gallagher Sigorta
+ve Reasürans Brokerliği AŞ’nin mevcut durumda hayat dışı sigorta ve reasürans brokerliği
+ruhsatlarına sahip olması nedeniyle, Aspera Sigorta ve Reasürans Brokerliği AŞ adına
+düzenlenmiş olan 24.08.2022 tarih ve 2022-2421935-08 sayılı sayılı hayat dışı sigorta ve
+reasürans brokerliği alanlarındaki ruhsatlarının iptal edilmesine
+karar verilmiştir.
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

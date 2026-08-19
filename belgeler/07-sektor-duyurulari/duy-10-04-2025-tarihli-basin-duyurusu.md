@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/upload/2025.04.10-BasinDuyurusu.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,28 @@ SEDDK sektor-duyurusu kataloğu: 10.04.2025 Tarihli Basın Duyurusu. Kaynak PDF 
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/upload/2025.04.10-BasinDuyurusu.pdf (SEDDK/TSB resmî PDF) — çekim: 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+BASIN DUYURUSU
+(10.04.2025)
+
+Kurumumuzca AcnTurk Sigorta AŞ ile Arex Sigorta AŞ’ye ilişkin alınan tedbirler hakkında
+kamuoyunun bilgilendirilmesine ihtiyaç duyulmuştur.
+-
+Kötü yönetim, sigortacılık mevzuatına aykırı işlemler ve mali bünye zafiyeti nedeniyle
+AcnTurk Sigorta AŞ’nin tüm branşlarda yeni sigorta sözleşmesi akdetme ve temdit
+yetkisi sermaye yeterlilik koşulları sağlanıncaya kadar kaldırılmıştır.
+
+-
+Kötü yönetim, sigortacılık ve diğer mali mevzuata aykırı işlemleri nedeniyle Arex Sigorta
+AŞ’nin kefalet branşı ruhsatı iptal edilmiş ve diğer tüm branşlarda yeni sigorta
+sözleşmesi akdetme ve temdit yetkisi gerekli koşullar sağlanıncaya kadar kaldırılmıştır.
+Kurumumuz; sigortalıların hak ve menfaatlerini korumak ve sektörün güvenilir, istikrarlı ve
+etkin bir şekilde işlemesini sağlamak amacıyla; izleme, gözetim ve denetim faaliyetlerini
+proaktif bir anlayış ve kararlılıkla sürdürmektedir.
+Kamuoyuna saygıyla duyurulur.
+
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumu
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

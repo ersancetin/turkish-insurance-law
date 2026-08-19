@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/UploadContent/Documents/Alo 193 Basın Duyurusu.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,27 @@ SEDDK sektor-duyurusu kataloğu: Alo 193 Ortak Hasar İhbar Merkezinin Kurulmas�
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/UploadContent/Documents/Alo 193 Basın Duyurusu.pdf (SEDDK/TSB resmî PDF) — çekim: 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+BASIN DUYURUSU
+(24/7/2026)
+Alo 193 Ortak Hasar İhbar Merkezi (OHİM) Kuruldu
+
+Trafik sigortası kapsamındaki değer kaybı uyuşmazlıklarının asgariye indirilmesi ve bu
+uyuşmazlıklara bağlı istismarların ortadan kaldırılması için Kurumumuzca hazırlanan beş
+maddelik eylem planının ilk dört maddesi (Hesaplama yönteminin standardizasyonu, akıllı
+eksper ataması, ilave başvuru şartının kaldırılması, illegal yapıların engellenmesi) art arda
+hayata geçirilmişti.
+Bu defa, eylem planının beşinci maddesi kapsamında, vatandaşlarımızın hasar
+ihbarlarını tek bir merkez üzerinden kolay ve süratli bir şekilde iletebilmelerini sağlamak üzere
+tüm sigorta şirketlerinin entegre olduğu “Alo 193 Ortak Hasar İhbar Merkezi (OHİM)”
+kurulmuştur.
+ Teknik hazırlıkların tamamlanmasını müteakip 1 Eylül 2026 tarihi itibarıyla faaliyete
+geçecek olan OHİM üzerinden, ilk etapta trafik ve kasko sigortalarına ilişkin hasar başvuruları
+kabul edilmeye başlanacaktır.
+Vatandaşlarımız hasar ihbarlarının yanı sıra hasar sonrası kendilerini rahatsız ve mağdur
+eden illegal yapıları da yine Alo 193 hattını kullanarak Kurumumuza şikayet edebileceklerdir.
+Kamuoyuna saygıyla duyurulur.
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

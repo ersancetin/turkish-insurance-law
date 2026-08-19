@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/upload/Ana Sayfa güncel/Basın Duyurusu 1.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,35 @@ SEDDK sektor-duyurusu kataloğu: Motorlu Araç Sigortalarında Tam Veya Ağır H
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/upload/Ana Sayfa güncel/Basın Duyurusu 1.pdf (SEDDK/TSB resmî PDF) — çekim: 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+MOTORLU ARAÇ SİGORTALARINDA TAM VEYA AĞIR HASAR
+UYGULAMALARINDA YENİ DÖNEM…
+
+Yapılan düzenleme ile trafik güvenliğinin sağlanmasına ve hasar gören araçları satın
+alacak vatandaşlarımızın doğru ve eksiksiz bilgiye ulaşabilmeleri amaçlanmaktadır.
+
+Tam veya Ağır Hasar Tespitine İlişkin Kriterler Yeniden Belirlendi
+
+Trafik güvenliğinin sağlanabilmesi amacıyla Kurumumuzca motorlu araç sigortalarında
+hasar gören aracın hangi koşullarda tam veya ağır hasara uğrayacağına yönelik kriterler
+belirlenmiştir. Buna göre, hasar tutarının; aracın rayiç değerini aşması ve onarım kabul
+etmemesi durumunda araç “tam hasar”, rayiç değerin %60’ını aşması veya Genelge’de
+belirlenen kritik parçaların hasar görmesi halinde ise araç “ağır hasar” statüsünde işlem
+görecektir.
+
+Eksper Atama Zorunluluğu Getirildi
+
+Tam veya ağır hasar tespitinin doğru ve güvenilir bir şekilde yapılabilmesini teminen
+tespit işleminin 5684 sayılı Sigortacılık Kanunu uyarınca ruhsat almış sigorta eksperi tarafından
+yapılması zorunluluğu getirilmiştir.
+
+Yapılan İşlemlerin SBM Üzerinden Takibine Olanak Sağlandı
+
+ Tam veya ağır hasara uğramış araçların ilgili mevzuata aykırı olarak “hurda tescil
+belgesi” veya “trafikten çekilmiştir belgesi” alınmaksızın alım-satıma konu edilmesini
+engellemek maksadıyla, sigorta şirketleri ve sigorta eksperleri tarafından yapılan işlemlerin
+takibinin, Sigorta Bilgi ve Gözetim Merkezi aracılığıyla yapılabilmesine imkân sağlanmıştır.
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

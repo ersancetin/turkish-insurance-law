@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/upload/Yönetmelik.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,41 @@ SEDDK sektor-duyurusu kataloğu: Karayolları Motorlu Araçlar Zorunlu Mali Soru
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/upload/Yönetmelik.pdf (SEDDK/TSB resmî PDF) — çekim: 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+14 Aralık 2023 PERŞEMBE
+Resmî Gazete
+Sayı : 32399
+YÖNETMELİK
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumundan:
+KARAYOLLARI MOTORLU ARAÇLAR ZORUNLU MALİ SORUMLULUK
+SİGORTASINDA TARİFE UYGULAMA ESASLARI HAKKINDA
+YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA
+DAİR YÖNETMELİK
+MADDE 1- 14/7/2007 tarihli ve 26582 sayılı Resmî Gazete’de yayımlanan Karayolları Motorlu Araçlar
+Zorunlu Mali Sorumluluk Sigortasında Tarife Uygulama Esasları Hakkında Yönetmeliğin geçici 11 inci maddesinin
+ikinci fıkrasında yer alan “2023 yılı Mayıs ayından itibaren aylık %2 (bir önceki ayın azami prim tutarları üzerinden)
+olarak” ibaresinden sonra gelmek üzere “, 2024 yılı Ocak, Şubat, Mart, Nisan ayları için aylık %5 (her ay bir önceki
+ayın azami prim tutarları üzerinden) olarak, 2024 yılı Mayıs ayından itibaren hasar maliyet endeksine göre her ay bir
+önceki ayın azami prim tutarları üzerinden” ibaresi eklenmiş, aynı fıkranın ikinci cümlesinden sonra gelmek üzere
+aşağıdaki cümle eklenmiş ve aynı fıkranın son cümlesi aşağıdaki şekilde değiştirilmiştir.
+“Hasar maliyet endeksi hesaplamasında; %45 ağırlık ile Çalışma ve Sosyal Güvenlik Bakanlığı tarafından açıklanan
+asgari ücret artış oranı, %30 ağırlık ile Türkiye İstatistik Kurumu (TÜİK) tarafından açıklanan harcama endeksi -
+kişisel ulaştırma araçlarının yedek parça ve aksesuarları fiyat artış oranı, %15 ağırlık ile TÜİK tarafından açıklanan
+harcama endeksi - motorlu araçlar fiyat artış oranı ve %10 ağırlık ile TÜİK tarafından açıklanan harcama endeksi -
+kişisel ulaştırma araçlarının bakım ve onarımı fiyat artış oranı dikkate alınır.”
+“Kurul, hasar maliyet endeksi üzerinde izleme ve düzeltme faktörü belirlemeye, hasar frekansı, hasar maliyetleri ve
+diğer hususları göz önünde bulundurarak 2024 yılı Ocak, Şubat, Mart, Nisan ayları için belirlenen artış oranı ile 2024
+yılı Mayıs ayından itibaren endeks ile belirlenecek oranı sıfıra kadar indirmeye veya iki katına kadar artırarak
+uygulamaya yetkilidir.”
+MADDE 2- Aynı Yönetmeliğin ekinde yer alan Tablo 13 ve Tablo 14 ekteki şekilde değiştirilmiş, aynı eke
+Tablo 14’ten sonra gelmek üzere ekteki tablolar eklenmiş ve Tablo 16’dan sonra gelen “Tablo 9, 10/A ve 11 için
+Dipnotlar:” ibaresi “Tablo 9, 10/A, 11 ve 15 için dipnotlar:” şeklinde değiştirilmiştir.
+MADDE 3- Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+MADDE 4- Bu Yönetmelik hükümlerini Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumu
+Başkanı yürütür.
+ 
+Eki için tıklayınız
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

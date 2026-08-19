@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/UploadContent/Documents/Arex_Sigorta_AŞ_Hakkında_11.03.2026_Tarih_ve_1611_Sayılı_Kurul_Kararı.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,15 @@ SEDDK sektor-duyurusu kataloğu: Arex Sigorta A.ş. Hakkında 11.03.2026 Tarih V
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/UploadContent/Documents/Arex_Sigorta_AŞ_Hakkında_11.03.2026_Tarih_ve_1611_Sayılı_Kurul_Kararı.pdf (SEDDK/TSB resmî PDF) — çekim: 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumundan;
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurulu’nun 11/03/2026 tarih ve 1611
+sayılı Kararı ile 5684 sayılı Sigortacılık Kanunu’nun 7, 20 ve ilgili diğer maddeleri uyarınca
+Arex Sigorta AŞ’nin daha önce iptal edilen kefalet branşı dışında kalan branşlarındaki (Kaza,
+Hastalık ve Sağlık, Kara Araçları, Raylı Araçlar, Hava Araçları, Su Araçları, Nakliyat, Yangın
+ve Doğal Afetler, Genel Zararlar, Genel Sorumluluk, Kredi, Finansal Kayıplar, Hukuksal
+Koruma ve Destek) faaliyet ruhsatlarının iptal edilmesine karar verilmiştir.
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

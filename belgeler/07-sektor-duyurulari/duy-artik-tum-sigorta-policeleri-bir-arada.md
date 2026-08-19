@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/upload/Ozel_Sigortalarım.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,38 @@ SEDDK sektor-duyurusu kataloğu: Artık Tüm Sigorta Poliçeleri Bir Arada, E-de
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/upload/Ozel_Sigortalarım.pdf (SEDDK/TSB resmî PDF) — çekim: 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+“Artık tüm sigorta poliçeleri bir arada,
+e-Devlette tek ekranda… ”
+Cumhurbaşkanlığı Dijital Dönüşüm Ofisi, Sigortacılık ve Özel
+Emeklilik Düzenleme ve Denetleme Kurumu ile Sigorta Bilgi ve Gözetim
+Merkezinin
+müşterek
+çalışmalarıyla
+geliştirilmekte
+olan
+“E-
+Devlet/Özel Sigortalarım” projesinde ilk faz başarıyla tamamlandı.
+Sigortacılık alanında vatandaşlarımıza hızlı, kolay ve etkin bir erişim sağlama ve
+işlem yapma imkanları sunmak üzere geliştirilen “Özel Sigortalarım” uygulaması e-
+Devlet mobil ve web uygulama kanalları üzerinden kullanıma açılmıştır.
+Söz konusu uygulama ile farklı sigorta şirketlerinden sahip olunan poliçelere araç,
+sağlık, can ve yangın branşları altında özet ve detay seviyede e-Devlet “Özel Sigortalarım”
+tek ekranı üzerinden ulaşılabilecektir. Özel Sigortalarım ile sadece bireysel sigorta
+poliçeleri değil, aynı zamanda DASK, TARSİM ve BES sözleşmeleri de kolayca
+görüntülenebilecektir.
+Uygulama sayesinde;
+➢ Yaşayan ve sonlanmış poliçelerin özet bilgilerine,
+➢ Yenileme tarihi yaklaşan poliçeler için kalan gün bilgisine,
+➢ Poliçe ve hasar detaylarına,
+➢ Kredi bağlantılı poliçelerde banka ve şube bilgilerine,
+➢ İlgili çağrı merkezi iletişim bilgilerine,
+hızlı ve kolay erişimin yanı sıra aynı ekranda poliçe ve hasarlara ilişkin şikâyet
+kaydı oluşturma ve takip etme imkânı da sağlanmaktadır.
+Kamuoyuna saygıyla duyurulur.
+
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumu
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

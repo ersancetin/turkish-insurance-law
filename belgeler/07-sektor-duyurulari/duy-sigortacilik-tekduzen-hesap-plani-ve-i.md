@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/upload/Sigortacilik_Tekduzen_Hesap_Plani_ve_Izahnamesi_Hakkinda_Teblig-Degisikl....pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,33 @@ SEDDK sektor-duyurusu kataloğu: Sigortacılık Tekdüzen Hesap Planı Ve İzahn
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/upload/Sigortacilik_Tekduzen_Hesap_Plani_ve_Izahnamesi_Hakkinda_Teblig-Degisikl....pdf (SEDDK/TSB resmî PDF) — çekim: 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+29.12.2023 11:28
+resmigazete.gov.tr/eskiler/2023/12/20231229-11.htm
+https://www.resmigazete.gov.tr/eskiler/2023/12/20231229-11.htm
+1/2
+29 Aralık 2023 CUMA
+Resmî Gazete
+Sayı : 32414
+TEBLİĞ
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumundan:
+SİGORTACILIK TEKDÜZEN HESAP PLANI VE İZAHNAMESİ HAKKINDA
+TEBLİĞDE DEĞİŞİKLİK YAPILMASINA DAİR TEBLİĞ
+ 
+MADDE 1- 1/10/2023 tarihli ve 32326 sayılı Resmî Gazete’de yayımlanan Sigortacılık Tekdüzen Hesap Planı
+ve İzahnamesi Hakkında Tebliğin 7 nci maddesinin birinci fıkrasında yer alan “1/1/2024” ibaresi “1/1/2025” şeklinde
+değiştirilmiştir.
+MADDE 2- Bu Tebliğ yayımı tarihinde yürürlüğe girer.
+MADDE 3- Bu Tebliğ hükümlerini Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumu Başkanı
+yürütür.
+ 
+ 
+
+29.12.2023 11:28
+resmigazete.gov.tr/eskiler/2023/12/20231229-11.htm
+https://www.resmigazete.gov.tr/eskiler/2023/12/20231229-11.htm
+2/2
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

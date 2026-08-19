@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/upload/doc/SEDDK-basin-bulteni-14.10.2022.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,53 @@ SEDDK sektor-duyurusu kataloğu: Seddk, Uluslararası Sigorta Yatırımcılarıy
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/upload/doc/SEDDK-basin-bulteni-14.10.2022.pdf (SEDDK/TSB resmî PDF) — çekim: 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumu, Barbaros Mah. Kardelen Sk. Palladium
+Tower 2/1, 27. Kat, 34746 Ataşehir, İstanbul/TÜRKİYE Tel: 0 (216) 655 69 00-01 https://seddk.gov.tr/
+
+SEDDK, ULUSLARARASI SİGORTA
+YATIRIMCILARIYLA GÖRÜŞTÜ
+
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumu
+(SEDDK) Türkiye’de faaliyet gösteren uluslararası sigorta
+şirketlerinin üst düzey yöneticileriyle bir araya gelerek, yapısal
+dönüşüm adımlarını anlattı.
+
+Finansal mimaride giderek artan rolü kapsamında, sektör gelişimini ve büyümesini önceleyen
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumu (SEDDK), Türkiye’de hizmet veren
+çok uluslu sigorta şirketlerinin yöneticileriyle bir araya geldi.
+
+Ak Sigorta, Allianz, Axa Sigorta, Eureko, Generali Sigorta, Groupama, HDI Sigorta, Mapfre, Nippon,
+NN Hayat Emeklilik, Orient Sigorta, Ray Sigorta, Sompo Sigorta, VHV Sigorta ve Zurich Sigorta’nın
+uluslararası temsilcileri ve Türkiye yöneticilerinin katıldığı online toplantıda, yaşanan sorunlara karşı
+çözüm odaklı yaklaşım vurgusu yapıldı.
+
+“SEKTÖR BÜYÜYECEK, EKONOMİ BÜYÜYECEK”
+Toplantıya ilişkin açıklama yapan Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumu
+Başkanı Mehmet Akif Eroğlu, “Finansal mimaride sigorta çok önemli bir yer teşkil ediyor. Sadece
+ekonomik yatırımların korunmasına ve devamlılığına verdiği teminat değil, aynı zamanda ihtiyaç
+duyulan finansmanı da sağlıyor. Kamu yararı gözeterek attığımız adımlarla sektörü ve ekonomiyi
+büyütmeye devam edeceğiz.” dedi.
+
+“SÜRDÜRÜLEBİLİRLİK İLE GÜVEN ORTAMI SAĞLANACAK”
+Hazırlanmakta olan Vizyon Belgesi kapsamında %5 olan sigorta payının ve %1,5’lik penetrasyon
+oranının artması için ürün çeşitliliğine ihtiyaç duyulduğuna değinen Eroğlu, “Düşük penetrasyonumuz
+aynı zamanda birçok fırsatı içinde barındırıyor. Bu bağlamda genç nüfus ve dijitalleşme önemli
+avantajlar sunuyor. Ayrıca düzenleyici otorite olarak riskleri yakından izleyip analiz ederek hızlı
+aksiyon alıyoruz. Hayata geçireceğimiz yapısal dönüşüm adımlarıyla sektörde sürdürülebilirliği,istikrarı
+ve öngörülebilirliği sağlamayı hedefliyoruz. Böylece, tüm yatırımcıların ihtiyaç duyduğu güven ortamını
+sağlamış olacağız” dedi
+
+“TRAFİK SİGORTASI İÇİN YENİ DÜZENLEMELERİ YAKINDA DUYURACAĞIZ”
+Zorunlu Trafik Sigortası tarifesinde 1 Eylül’den itibaren geçerli olmak üzere kapsamlı bir güncellemeye
+gidildiğini söyleyen SEDDK Başkanı Eroğlu, “Yapılan tarife değişikliği sonrası poliçe üretimini
+yakından takip ediyoruz. Trafik poliçe primlerinin vatandaşlarımız için sürdürülebilir bir hale gelmesi
+adına kişi bazlı poliçe, tahkim sisteminde iyileştirme, doğrudan tazmin gibi yapısal reformlarla
+sürdürülebilir kılmak istiyoruz. Bu kapsamda üzerinde çalıştığımız yeni düzenlemeleri en kısa
+zamanda kamuoyu ile paylaşacağız” diye konuştu.
+BASIN BÜLTENİ
+14.10.2022
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

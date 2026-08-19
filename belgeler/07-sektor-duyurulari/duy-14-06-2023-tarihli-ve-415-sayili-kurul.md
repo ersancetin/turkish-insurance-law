@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/upload/14.06.2023 tarih ve 415 sayılı Kurul kararı.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,16 @@ SEDDK sektor-duyurusu kataloğu: 14.06.2023 Tarihli Ve 415 Sayılı Kurul Karar�
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/upload/14.06.2023 tarih ve 415 sayılı Kurul kararı.pdf (SEDDK/TSB resmî PDF) — çekim: 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumundan;
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurulu’nun 14/06/2023 tarih ve 415
+sayılı kararıyla 5684 sayılı Sigortacılık Kanunu ve Sigorta Şirketleri ve Reasürans Şirketlerinin
+Kuruluş ve Çalışma Esaslarına İlişkin Yönetmelik hükümleri çerçevesinde, Global World
+Sigorta A.Ş'ye Kaza, Hastalık/Sağlık, Kara Araçları, Raylı Araçlar, Hava Araçları, Nakliyat,
+Yangın ve Doğal Afetler, Genel Zararlar, Hava Araçları Sorumluluk, Genel Sorumluluk,
+Kefalet, Finansal Kayıplar, Hukuksal Koruma ve Destek branşında ruhsat verilmesine,
+karar verilmiştir.
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

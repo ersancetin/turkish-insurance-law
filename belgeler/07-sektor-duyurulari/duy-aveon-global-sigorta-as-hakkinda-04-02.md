@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/UploadContent/Documents/Ruhsat_İptali-İlan_Aveon_Global_Sigorta_AŞ.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,12 @@ SEDDK sektor-duyurusu kataloğu: Aveon Global Sigorta Aş Hakkında 04/02/2026 T
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/UploadContent/Documents/Ruhsat_İptali-İlan_Aveon_Global_Sigorta_AŞ.pdf (SEDDK resmî PDF) — OCR ile çekildi (Apple Vision, tr): 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumundan;
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurulu'nun 04/02/2026 tarih ve 1539 sayılı
+Kararı ile 5684 sayılı Sigortacılık Kanunu'nun 20 nci maddesi uyarınca, Aveon Global Sigorta AŞ'nin tüm
+branşlardaki sigortacılık ruhsatlarının iptal edilmesine karar verilmiştir.
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

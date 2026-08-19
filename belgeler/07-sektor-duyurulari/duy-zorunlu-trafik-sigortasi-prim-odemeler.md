@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/upload/doc/SEDDK-zorunlu-trafik-sigortasi-basin-aciklamasi.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,34 @@ SEDDK sektor-duyurusu kataloğu: Zorunlu Trafik Sigortası Prim Ödemelerine İl
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/upload/doc/SEDDK-zorunlu-trafik-sigortasi-basin-aciklamasi.pdf (SEDDK/TSB resmî PDF) — çekim: 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumu, Barbaros Mah. Kardelen Sk. Palladium
+Tower 2/1, 27. Kat, 34746 Ataşehir, İstanbul/TURKEY Tel: 0 (216) 655 69 00-01 https://seddk.gov.tr/
+
+Karayolları Motorlu Araçlar Zorunlu Mali Sorumluluk Sigortası (zorunlu trafik sigortası) çift
+taraflı zorunluluk olup; motorlu araç sahipleri bu poliçeyi yaptırmakla yükümlü oldukları gibi
+ilgili branşta ruhsat sahibi sigorta şirketleri de anılan sigorta poliçesini düzenlemek
+mecburiyetindedirler.
+
+Ancak, son günlerde zorunlu trafik sigortası prim tahsilatlarında ödeme araçlarının kısıtlanarak
+poliçe düzenlenmesini zorlaştırıcı bazı uygulamalar gözlenmektedir.
+
+Bilindiği üzere, 28.06.2022 tarihinde yayımlanan Karayolları Motorlu Araçlar Zorunlu Mali
+Sorumluluk Sigortası Poliçe Tanzimi ve Prim Ödemelerine İlişkin Sektör Duyurusu ile zorunlu
+trafik sigortası poliçe tanzimi esnasında sigorta şirketleri tarafından sigortalıların prim
+ödemeleri için belirli bir ödeme aracı kullanımına zorlanmasının ve iyiniyete aykırı şekilde
+gerçekleşen poliçe tanzimini zorlaştırıcı ya da engelleyici uygulamaların “zorunlu sigortaları
+yapmaktan kaçınma” olarak değerlendirileceği açıkça belirtilmiştir.
+
+Bu kapsamda, Kurumumuz tarafından prim tahsilat sürecinde kısıtlama yapılmamasına yönelik
+25.07.2022 itibarıyla sektör duyurusu yayınlanmış olup, aksi uygulamaların devamı halinde
+5684 sayılı Sigortacılık Kanunu uyarınca her türlü tedbir alınacaktır.
+
+Kamuoyuna saygı ile duyurulur
+
+BASIN AÇIKLAMASI
+25.07.2022
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

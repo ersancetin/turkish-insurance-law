@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/upload/doc/32104-yonetmelik.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,35 @@ SEDDK sektor-duyurusu kataloğu: Bireysel Emeklilik Sisteminde Devlet Katkısı 
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/upload/doc/32104-yonetmelik.pdf (SEDDK/TSB resmî PDF) — çekim: 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+14 Şubat 2023 SALI
+Resmî Gazete
+Sayı : 32104
+YÖNETMELİK
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumundan:
+BİREYSEL EMEKLİLİK SİSTEMİNDE DEVLET KATKISI HAKKINDA
+YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+MADDE 1- 31/12/2022 tarihli ve 32060 beşinci mükerrer sayılı Resmî Gazete’de yayımlanan Bireysel
+Emeklilik Sisteminde Devlet Katkısı Hakkında Yönetmeliğin 14 üncü maddesinin birinci fıkrasının (a) bendinde yer
+alan “yetmişi” ibaresi “ellisi” şeklinde, aynı fıkranın (c) bendi ile aynı maddenin ikinci fıkrası aşağıdaki şekilde, beşinci
+fıkrasının (c) bendinde yer alan “birinden” ibaresi “beşinden” şeklinde değiştirilmiştir.
+“c) Asgari yüzde otuzu;
+1) BIST 30, BIST Likit Banka, BIST Banka Dışı Likit 10 ve BIST Katılım 30 endekslerindeki paylarda,
+2) BIST 100, BIST Sürdürülebilirlik Endeksi, BIST Kurumsal Yönetim Endeksi ve Borsa İstanbul A.Ş.
+tarafından hesaplanan katılım endekslerindeki paylarda,”
+“(2) Birinci fıkranın (b) bendinin (2) numaralı alt bendine fon portföyünün yüzde onbeşinden fazla yatırım
+yapılamaz. Birinci fıkranın (c) bendinin (1) numaralı alt bendinde belirtilen paylara fon portföyünün yüzde onundan az
+olmamak üzere 27/11/2013 tarihli ve 28834 sayılı Resmî Gazete’de yayımlanan Borsa Yatırım Fonlarına İlişkin Esaslar
+Tebliği (III-52.2)’nin 5 inci maddesinin dördüncü fıkrasının (a) bendi kapsamında anılan endeksleri takip etmek üzere
+kurulan borsa yatırım fonları katılma payları aracılığıyla yatırım yapılır.”
+MADDE 2- Aynı Yönetmeliğe aşağıdaki geçici madde eklenmiştir.
+“Geçiş hükmü
+GEÇİCİ MADDE 3 – (1) 14 üncü maddede belirtilen portföy sınırlamalarına bu maddenin yayımı tarihinden
+itibaren en geç 10 gün içerisinde uyum sağlanması zorunludur.”
+MADDE 3- Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+MADDE 4- Bu Yönetmelik hükümlerini Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumu
+Başkanı yürütür.
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

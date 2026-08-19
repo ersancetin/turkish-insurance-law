@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/upload/Sigorta Sektörü Raporlamaları.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,23 @@ SEDDK sektor-duyurusu kataloğu: Sigorta Sektörü Raporlamalarında Yeni Dönem
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/upload/Sigorta Sektörü Raporlamaları.pdf (SEDDK/TSB resmî PDF) — çekim: 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+SİGORTA SEKTÖRÜ RAPORLAMALARINDA YENİ DÖNEM BAŞLIYOR
+
+Bilindiği üzere; TFRS 17 Sigorta Sözleşmeleri Standardı, Kamu Gözetimi, Muhasebe ve Denetim
+Standartları Kurumu (KGK) tarafından 31/12/2022 tarih ve 31706 sayılı (5.Mükerrer) sayılı Resmi
+Gazete’de yayımlanmıştır. Kurumumuz tarafından, sektör genelinde uyumun sağlanması ve sürecin
+daha etkin bir şekilde yürütülmesini teminen Standardın 01/01/2025 tarihinden itibaren uygulanması
+kararı alınmıştır.
+
+Uluslararası raporlama standardına uyum kapsamında sektörü daha yakından takip etmek ve 01/01/2025
+tarihinden itibaren sorunsuz bir şekilde uygulamaya geçişi sağlamak amacıyla, 2024 yılında
+sektörümüzden çeyrek dönemler itibarıyla mali tablolar TFRS 17’ye uyumlu şekilde alınacaktır.
+
+Bu doğrultuda, Şirketlerin TFRS 17 kapsamındaki 2024 mali tablolarını zamanında ve eksiksiz bir
+şekilde sunmaları, aynı zamanda bu süreçte ihtiyaç duyulan ek bilgileri titizlikle hazırlamaları önem arz
+etmektedir.
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/upload/20251117_Basin_Duyurusu.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,23 @@ SEDDK sektor-duyurusu kataloğu: 17.11.2025 Tarihli Basın Duyurusu. Kaynak PDF 
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/upload/20251117_Basin_Duyurusu.pdf (SEDDK/TSB resmî PDF) — çekim: 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+BASIN DUYURUSU
+(17/11/2025)
+
+Engelli Bireylere Özel İndirimli Trafik Poliçesi Uygulaması Başlıyor
+
+Engelli bireylerin trafik sigortasından indirimli yararlanmalarına imkan sağlayan yeni
+düzenleme 1 Şubat 2026 tarihinde yürürlüğe giriyor. Ulusal Engelli Veri Sistemine kayıtlı olan
+engelli bireyler, söz konusu tarihten itibaren, sahip oldukları bir araç için trafik sigortasından
+indirimli olarak faydalanabilecek.
+Düzenlemeye göre, engelli bireylerin araçları için trafik sigortası azami primlerine mevcut
+indirimlere ilave olarak %20’ye varan oranlarda ek indirim uygulanacak. Engelli bireyin TC
+kimlik numarası ile tanımlanacak indirim oranı ve tutarı trafik sigortası poliçesinin ön yüzünde
+yer alacaktır.
+
+Kamuoyuna saygıyla duyurulur.
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

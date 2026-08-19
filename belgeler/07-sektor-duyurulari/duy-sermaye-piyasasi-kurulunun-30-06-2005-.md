@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/upload/Sermaye Piy Kurul 26-843 sayılı İlke Kararı.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,24 @@ SEDDK sektor-duyurusu kataloğu: Sermaye Piyasası Kurulunun 30.06.2005 Tarih Ve
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/upload/Sermaye Piy Kurul 26-843 sayılı İlke Kararı.pdf (SEDDK/TSB resmî PDF) — çekim: 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+1
+Sermaye Piyasası Kurulunun 30.06.2005 tarih ve 26/843 sayılı İlke Kararı
+EMEKLİLİK YATIRIM FONLARININ BORSA YATIRIM FONU KATILMA BELGESİ ALABİLMESİNE YÖNELİK DUYURU
+28.02.2002 tarih ve 24681 sayılı Resmi Gazete’de yayımlanan "Emeklilik Yatırım Fonlarının Kuruluş
+ve Faaliyetlerine İlişkin Esaslar Hakkında Yönetmelik"in 5. maddesinin üçüncü fıkrasının (h) bendi
+uyarınca, borsa yatırım fonu katılma belgelerinin emeklilik yatırım fonlarının portföylerine dahil
+edilebilmesi mümkün olup, bu kapsamda yapılacak işlemlerde Yönetmelik’in 21. maddesinin birinci
+fıkrasının (i) bendinde yer alan sınırlamalara uyulması şarttır.
+Borsa yatırım fonu katılma belgelerinin birincil piyasa işlemleri kapsamında yapılan hisse senetleri
+ve/veya katılma belgesi işlemleri sonucunda, emeklilik yatırım fonunun portföy yapısında Yönetmelik’in
+21. maddesinin birinci fıkrasının (a), (c), (d), (e), (f) ve (g) bentleri hükümleri ile portföye dahil
+edilebilecek borsa yatırım fonu katılma belgelerine ilişkin sınırlamalara aykırı durumların ortaya
+çıkması halinde, birincil piyasa işlemlerine yönelik olarak gereken emirlerin yetkilendirilmiş katılımcıya
+iletilmesi ve söz konusu aykırılıkların aynı işgünü içerisinde ortadan kaldırılması şartlarıyla, (a), (c), (d),
+(e), (f) ve (g) bentleri hükümleri ile portföye dahil edilebilecek borsa yatırım fonu katılma belgelerine
+ilişkin sınırlamalar uygulanmaz.
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

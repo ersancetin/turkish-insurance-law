@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/upload/doc/SEDDK-basin-aciklamasi.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,44 @@ SEDDK sektor-duyurusu kataloğu: Seddk'nın Yeni Başkanı Ve Kurul Üyeleri Gö
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/upload/doc/SEDDK-basin-aciklamasi.pdf (SEDDK/TSB resmî PDF) — çekim: 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumu, Barbaros Mah. Kardelen Sk. Palladium
+Tower 2/1, 27. Kat, 34746 Ataşehir, İstanbul/TURKEY Tel: 0 (216) 655 69 00-01 https://seddk.gov.tr/
+
+SEDDK'nın yeni Başkanı ve Kurul Üyeleri göreve başladı
+
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumu'nun (SEDDK) yeni atanan
+Başkan ve Kurul Üyeleri görevlerine başladı.
+
+7 Temmuz 2022 tarihli Resmi Gazete'de yayınlanan Cumhurbaşkanlığı kararı ile SEDDK
+Başkanlığına atanan Mehmet Akif Eroğlu, İkinci Başkan Davut Menteş, Kurul Üyeleri Yusuf
+Dinç ve Mahmut Güngör 18 Temmuz 2022 tarihinde görevlerine başladı.
+
+SEDDK Başkanı Mehmet Akif Eroğlu konuya ilişkin yaptığı açıklamada, "Sayın
+Cumhurbaşkanımıza, sigorta ve özel emeklilik sektörümüzün denetleyici ve düzenleyici
+kurumunun başkanlığına atanmam dolayısıyla şükranlarımı arz ederken, sektörümüze
+desteğini esirgemeyen Hazine ve Maliye Bakanımıza teşekkürlerimi sunuyorum. Sigorta ve
+özel emeklilik sektörleri ekonominin itici güçlerinden biri olarak, ülkemizin kalkınmasında
+önemli bir güvence olup, her iki sektörümüzün sağlıklı bir şekilde büyümesi güçlü Türkiye
+yolunda büyük önem arz ediyor. Kurulduğu günden bu yana kamunun yararını gözeterek
+sektörün gelişimi için birçok önemli işe imza atan SEDDK'mız, yeni kurul üyeleri ve dinamik
+kadrosuyla bundan sonra da başarılarını emin adımlarla sürdürecektir. SEDDK olarak yeni
+dönemimizde sektörle ilgili tüm konuları daha öngörülebilir ve kucaklayıcı bir şekilde, ortak
+akılla çözmek adına tüm paydaşlarla birlikte durmadan çalışacağız" dedi
+
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurulu:
+
+Başkan Mehmet Akif Eroğlu
+İkinci Başkan  Davut Menteş
+Kurul Üyesi Yusuf Dinç
+Kurul Üyesi Mahmut Güngör
+Kurul Üyesi Fatih Küçükcan
+
+Kamuoyuna saygı ile duyurulur.
+
+BASIN AÇIKLAMASI
+20.07.2022
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

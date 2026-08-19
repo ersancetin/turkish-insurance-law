@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/upload/Basın Duyurusu-12.11.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,27 @@ SEDDK sektor-duyurusu kataloğu: 12.11.2025 Tarihli Basın Duyurusu. Kaynak PDF 
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/upload/Basın Duyurusu-12.11.pdf (SEDDK/TSB resmî PDF) — çekim: 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+BASIN DUYURUSU
+(12/11/2025)
+
+Trafik Sigortasında Değer Kaybı İhtilaflarının En Aza İndirilmesine Yönelik
+Önemli Bir Adım Atıldı
+SEDDK’nın bir süredir gündemde tuttuğu trafik sigortasında sigorta şirketleri ile hak sahipleri
+arasında yaşanan ihtilafların en aza indirilmesine yönelik tedbir ve düzenlemeler çerçevesinde
+“Değer Kaybı Ekspertiz Raporu” güncellendi.
+Yargı kararlarıyla uyumlu olarak hazırlanan yeni rapor şablonu ile hak sahiplerinin uğradıkları
+zararların gerçek zarar ilkesi çerçevesinde tespiti ve tazmin edilmesi hedeflenmektedir.
+Böylelikle değer kaybı taleplerinin uyuşmazlığa konu olmaksızın ödenmesi ve süreçlerin daha
+etkin hale getirilmesi amaçlanmaktadır.
+Değer kaybı ihtilaflarının en aza indirilmesine yönelik çalışmalar tüm paydaşlarla müzakere
+halinde yürütülmekte ve kısa süre zarfında bir dizi ilave tedbirin uygulamaya konulması
+planlanmaktadır.
+Kurumumuz, sigortalı hak ve menfaatlerinin korunması ve sigorta uygulamalarında şeffaflık ile
+adaletin güçlendirilmesi yönündeki çalışmalarına kararlılıkla devam etmektedir.
+Kamuoyuna saygıyla duyurulur.
+Ek: Genelge metni linki
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

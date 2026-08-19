@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/upload/doc/SEDDK-basin-aciklamasi-17-08-2022.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,28 @@ SEDDK sektor-duyurusu kataloğu: Zorunlu Trafik Sigortası Sürprim İadesine İ
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/upload/doc/SEDDK-basin-aciklamasi-17-08-2022.pdf (SEDDK/TSB resmî PDF) — çekim: 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumu, Barbaros Mah. Kardelen Sk. Palladium
+Tower 2/1, 27. Kat, 34746 Ataşehir, İstanbul/TÜRKİYE Tel: 0 (216) 655 69 00-01 https://seddk.gov.tr/
+
+16.08.2022 tarihinde Türkiye Noterler Birliği sorgu servislerinde yaşanan ve 15:26 itibarıyla
+başlayıp yaklaşık 12 saat süren teknik aksaklık sebebiyle Zorunlu Trafik Sigortası poliçe
+üretiminde aksamalar yaşanmıştır. Arızanın çözümü ile poliçe üretiminin yeniden başladığı ve
+sorunsuz sürdüğü bildirilmiştir.
+
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumu (SEDDK) olarak, kesintinin
+sürdüğü süre kapsamında yenilenmesi gereken Zorunlu Trafik Sigortalarının yenilenemediği
+ve işlemlerin başlamasıyla birlikte yeniden üretilen poliçelerde, meri mevzuat gereği
+zamanında yenilenemeyen durumlarda ödenen %5’lik sürprim uygulandığı tespit edilmiştir.
+
+Kurumumuz tarafından, teknik aksamadan kaynaklanan mağduriyetleri önlemek amacıyla,
+bu sürede düzenlenen poliçelerde uygulanan söz konusu sürprim tutarlarının sigorta
+şirketlerince vatandaşlarımıza iade edilmesine yönelik gerekli işlemler başlatılmıştır.
+
+Kamuoyunun bilgisine sunulur.
+BASIN DUYURUSU
+17.08.2022
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

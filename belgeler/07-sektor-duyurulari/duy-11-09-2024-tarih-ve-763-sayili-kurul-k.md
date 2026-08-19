@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/upload/11.09.2024_Tarihli_ve_763_Sayılı_Kurul_Kararı.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,13 @@ SEDDK sektor-duyurusu kataloğu: 11.09.2024 Tarih Ve 763 Sayılı Kurul Kararı.
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/upload/11.09.2024_Tarihli_ve_763_Sayılı_Kurul_Kararı.pdf (SEDDK resmî PDF) — OCR ile çekildi (Apple Vision, tr): 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumundan;
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurulunun 11/09/2024 tarihli
+ve 763 sayılı Kararı ile;
+IMC Sigorta ve Reasürans Brokerliği AŞ hakkında 22/08/2024 tarihli ve 749 sayılı Kurul
+Kararı ile verilen geçici faaliyet durdurma tedbiri 11/09/2024 tarihi itibarıyla kaldırılmıştır.
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

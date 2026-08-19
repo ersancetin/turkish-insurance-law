@@ -14,7 +14,7 @@ etiketler: [genelge, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/upload/Ana Sayfa güncel/2021-25-sayili-genelge.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,63 @@ SEDDK genelge kataloğu: Sigorta, Reasürans Ve Emeklilik Şirketlerinin Kar Da�
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/upload/Ana Sayfa güncel/2021-25-sayili-genelge.pdf (SEDDK resmî PDF) — OCR ile çekildi (Apple Vision, tr): 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumundan;
+SIGORTA, REASÜRANS VE EMEKLİLİK ŞİRKETLERİNİN
+KÂR DAĞITIMINA İLİŞKİN GENELGE
+(2021/25)
+26/11/2021
+Bilindiği üzere, 5684 sayılı Sigortacılık Kanununun 18 inci maddesinin dördüncü fikrası
+"Müsteşarlık, sigorta şirketleri ile reasürans şirketlerinden, diğer kanunların zorunlu kıldığı
+defterlerden başka, özel defterler tutmalarını talep etmeye ve bu defterlerin tâbi olacağı esas ve
+usülleri tespite, belirleyeceği esaslar ve örneklere uygun olarak her türlü bilgi, cetvel, rapor, hesap
+özetleri ve mali tablolar istemeye, gerekli gördüğü takdirde mali tabloları ilan ettirmeye,
+sigortacılık sektörünün mali yapısının güçlendirilmesi için finansal oranlar tespit etmeye, şirket
+kaynaklarının hangi aktiflere ve ne oranda yatırılacağını belirlemeye yetkilidir." hükmünü,
+Sigorta ve Reasürans Ile Emeklilik Şirketlerinin Sermaye Yeterliliklerinin Ölçülmesine ve
+Değerlendirilmesine İlişkin Yönetmeliğin 9 uncu maddesinin yedinci fikrası ise
+"Şirket,
+özsermayenin gerekli özsermayenin altına düşmesi ile sonuçlanacak şekilde kâr dağıtımı
+yapamaz." hükmünü amirdir. Diğer taraftan aynı yönetmelikte, sermaye yeterliliği oranının
+%115'in altına düşmesi öz değerlendirme aşaması olarak değerlendirilmiştir.
+Bilindiği üzere, 2021/3 sayılı Kar Dağıtımında Dikkate Alınması Gereken Hususlara İlişkin
+Sektör Duyurusu ile Koronavirüs (Covid-19) salgını kapsamında ortaya çıkan durum ve
+sonuçlarına dikkat çekilerek, kar dağıtımı yapılırken 2021 yılı veya sonrasında sermaye ihtiyacı
+çıkmayacak şekilde planlama yapılmasının önemi belirtilmiştir.
+Ayrıca, Anayasa Mahkemesinin 2918 sayılı Karayolları Trafik Kanununun 90 ve 92 nci
+maddesi hakkındaki kısmi iptal
+kararı sonrası, zorunlu trafik sigortası tazminatlarının
+hesaplanmasında yargı uygulamalarında belirsizlik oluşturduğu görülmektedir. Her ne kadar
+Kurumumuzca bu belirsizliklerin giderilmesini teminen gerekli düzenlemeler yapılmış olmakla
+birlikte, bu düzenlemeler yürürlüğe girinceye kadar bu belirsizliklerin bir süre daha zorunlu trafik
+sigortasında faaliyet gösteren şirketlerin mali bünyeleri üzerinde baskı unsuru olabileceği
+öngörülmektedir.
+Diğer taraftan; sigortacılık sektörü kapsamında TFRS 17 Sigorta Sözleşmeleri, TFRS 9
+Finansal Araçlar ve TFRS 15 Müşteri Sözleşmelerinden Hasılat Standartları 1/1/2023 tarihinde
+yürürlüğe girecek olup, bahse konu standartlar kaynaklı olarak şirketlerin teknik karşılıklarında ve
+mali bünyelerinde önemli ölçüde değişiklik olması beklenmemekle birlikte, değerleme ve gösterim
+değişiklikleri kaynaklı olarak sektörde faaliyet gösteren şirketlerin daha güçlü bir mali bünye ile
+geçişini sağlama gereksinimi olduğu değerlendirilmektedir.
+Bu itibarla, başta TFRS standartlarına uyum olmak üzere yukarıda belirtifen ünsurların mali
+etkileri dikkate alınarak, uyum sürecinde ortaya çıkabilecek ilave sermaye ihtiyaçlağına hazırlık
+1
+DENETLEND
+ALRU
+kapsamında şirketlerin likiditelerinin artırılması ve mali bünyelerinin daha da güçlendirilmesini
+teminen, Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurulunun 26/11/2021 tarih ve
+148 sayılı kararı ile öz değerlendirme aşamasına %20'lik güvenlik yüklemesi yapılarak, hisseleri
+borsada işlem gören şirketlerin tabi olduğu diğer mevzuat hükümleri saklı olmak kaydıyla, sigorta,
+reasürans ve emeklilik şirketlerinin 2021 yılı finansal tablo sonuçları üzerinden geçmiş yıllar
+karları ve dağıtılabilir yedekler dahil) yapılacak kâr dağıtımlarının, 2022,9lına mahşus olmak
+üzere sermaye yeterliliği seviyesini %135'inin altına düşürmeyecek seviyede sinütandırılmasına
+karar verilmiştir.
+*
+зА
+Ye2s
+•J%""*
+ENERLENE
+2
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

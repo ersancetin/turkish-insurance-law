@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/upload/Basın Duyurusu.5.12.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,37 @@ SEDDK sektor-duyurusu kataloğu: İzmir’de Meydana Gelen Orman Yangını Afeti
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/upload/Basın Duyurusu.5.12.pdf (SEDDK/TSB resmî PDF) — çekim: 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+Sigortacılık ve Özel Emeklilik
+Düzenleme ve Denetleme Kurumu
+
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumu, Barbaros Mah. Kardelen Sk. Palladium
+Tower 2/1, 27. Kat, 34746 Ataşehir, İstanbul/TURKEY Tel: 0 (216) 655 69 00-01 https://seddk.gov.tr/
+
+4 Aralık 2025
+
+İzmir’de Meydana Gelen Orman Yangını Afeti Nedeniyle BES Katılımcılarının Kısmen
+Ödeme Başvurularına İlişkin Basın Duyurusu
+
+Bilindiği üzere, 28/3/2001 tarihli ve 4632 sayılı Bireysel Emeklilik Tasarruf ve Yatırım Sistemi
+Kanununun 6 ncı maddesine dayanılarak hazırlanan Bireysel Emeklilik Sisteminde Kısmen
+Ödeme Hakkında Yönetmeliğin (Yönetmelik) “Doğal afet halinde kısmen ödeme” başlıklı 8
+inci maddesi ile genel hayata etkili afet ilan edilen bölgelerde afetten zarar gören katılımcılar,
+doğal afetin meydana geldiği tarihi müteakip altı ay içinde kısmen ödeme başvurusunda
+bulunabilmektedir.
+Söz konusu hüküm kapsamında kısmen ödeme hakkından yararlanmak üzere başvuran
+katılımcıların, Kurum tarafından duyurulan belgenin bir nüshasını ilgili emeklilik şirketine
+ibraz etmeleri gerekmektedir.
+Bu itibarla, Yönetmeliğin 8 inci maddesinin ikinci fıkrası uyarınca yapılacak başvurularda;
+25.06.2025-04.07.2025 tarihleri arasında İzmir’de meydana gelen orman yangını afetine ilişkin
+Afet ve Acil Durum Yönetimi Başkanlığı’nın (AFAD) 11.07.2025 tarihli ve 1409515 sayılı
+kararı ile 15/5/1959 tarihli ve 7269 sayılı Umumi Hayata Müessir Afetler Dolayısiyle Alınacak
+Tedbirlerle Yapılacak Yardımlara Dair Kanun kapsamında genel hayata etkili afet bölgesi ilan
+edilen bölgelerde yangınlardan etkilenen katılımcıların, söz konusu afetten etkilendiklerine dair
+İzmir İl Afet ve Acil Durum Müdürlüğünden temin edecekleri belgeyi sözleşmelerinin
+bulunduğu emeklilik şirketine ibraz etmeleri gerekmektedir.
+Kamuoyuna saygıyla duyurulur.
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

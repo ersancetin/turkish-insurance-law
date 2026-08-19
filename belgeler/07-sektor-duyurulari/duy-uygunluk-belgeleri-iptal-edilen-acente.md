@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/upload/DUYURU.11.04.25.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,19 @@ SEDDK sektor-duyurusu kataloğu: Uygunluk Belgeleri İptal Edilen Acentelere İl
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/upload/DUYURU.11.04.25.pdf (SEDDK/TSB resmî PDF) — çekim: 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumundan;
+
+5684 sayılı Sigortacılık Kanununun 1 inci maddesi ile 32 nci maddelerinin ikinci ve
+dördüncü fıkraları çerçevesinde, Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme
+Kurulunun;
+• 10/04/2025 tarih ve 1047 sayılı Kararıyla Neza Sigorta Aracılık Hizmetleri AŞ’nin,
+• 10/04/2025 tarih ve 1048 sayılı Kararıyla Finex Sigorta Aracılık Hizmetleri AŞ’nin,
+• 10/04/2025 tarih ve 1049 sayılı Kararıyla Mini Sigorta Aracılık Hizmetleri AŞ’nin,
+• 10/04/2025 tarih ve 1050 sayılı Kararıyla Hep Sigorta Aracılık Hizmetleri AŞ’nin
+uygunluk belgelerinin  iptal edilmesine karar verilmiştir.
+Kamuoyuna saygıyla duyurulur.
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

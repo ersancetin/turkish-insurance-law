@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/upload/24-25 Aralık 2022 Tarihinde Yapılan Sigortacılık Uzman Yardımcılığı Giriş Yazılı Sınavı Sonuçları .pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,60 @@ SEDDK sektor-duyurusu kataloğu: 24-25 Aralık 2022 Tarihinde Yapılan Sigortac�
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/upload/24-25 Aralık 2022 Tarihinde Yapılan Sigortacılık Uzman Yardımcılığı Giriş Yazılı Sınavı Sonuçları .pdf (SEDDK resmî PDF) — OCR ile çekildi (Apple Vision, tr): 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+SİGORTACILIK VE ÖZEL EMEKLİLİK
+DÜZENLEME VE DENETLEME KURUMU
+SEDDK
+SIGORTACILIK UZMAN YARDIMCILIĞI
+GIRIŞ YAZILI SINAVI SONUÇLARINA AÏT DUYURU
+24-25 Aralık 2022 Cumartesi ve Pazar günlerinde yapılan Sigortacılık Uzman
+Yardımcılığı giriş yazılı sınavına katılarak başarılı olan ve sözlü bölüme katılmaya hak kazanan
+adaylar ad sırasına göre aşağıda belirtilmiştir.
+Sözlü sınava girmeye hak kazanan adayların sözlü sınav tarihi ve yeri Kurumumuzun
+resmi internet sitesinde (https://www.seddk.gov.tr/) daha sonra yayımlanacaktır.
+S.No
+1
+2
+3
+4
+5
+6
+7
+8
+T.C. KIMLIK NO
+15*******24
+12*******56
+69*******92
+10*******54
+30*******10
+10*******06
+36*******10
+42*******46
+ADI
+Ayşenur
+Büşra
+idil
+İrfan
+Metin
+Ramazan
+Selcan
+Veysel Anıl
+SOYADI
+KASAP ÇELİK
+ÖZTÜRK
+ALP
+ORMANCI
+DEVECİ
+KÜÇÜKOLGUN
+GÖÇER
+ERKAN
+İLAN OLUNUR
+Istanbul, L9. /01/2023
+3N=
+B5K•
+Mehmet VERIM
+Sınav Komisyonu Başkank
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

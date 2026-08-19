@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/upload/doc/SEDDK-basin-duyurusu-10-08-2022.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,37 @@ SEDDK sektor-duyurusu kataloğu: Seddk, Yabancıların Bes’e Katılımına İl
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/upload/doc/SEDDK-basin-duyurusu-10-08-2022.pdf (SEDDK/TSB resmî PDF) — çekim: 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumu, Barbaros Mah. Kardelen Sk. Palladium
+Tower 2/1, 27. Kat, 34746 Ataşehir, İstanbul/TURKEY Tel: 0 (216) 655 69 00-01 https://seddk.gov.tr/
+
+SEDDK, YABANCILARIN BES’E KATILIMINA İLİŞKİN USUL VE ESASLARI BELİRLEDİ
+
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumu (SEDDK)
+13 Mayıs 2022 tarihinde yürürlüğe giren “ Türk Vatandaşlığı Kanununun Uygulanmasına
+İlişkin Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik” kapsamında genelge
+yayımlamıştır.
+
+08 Ağustos 2022 itibarıyla yürürlüğe giren genelgede Bireysel Emeklilik Sistemi
+uygulamasında “Yabancıların İstisnai Olarak Türk Vatandaşlığı Kazanımına İlişkin Esas ve
+Usuller” başlıklı on dördüncü bölüm ile vatandaşlık başvurusunda uygulanacak usul ve
+esaslar düzenlenmiştir.
+
+Bilindiği üzere, en az 500.000 Amerikan Doları veya karşılığı döviz tutarında katkı payını,
+kapsamı Kurumumuz tarafından belirlenen fonlarda tutma ve üç yıl sistemde kalma şartıyla
+Bireysel Emeklilik Sistemi’ne (BES) yatıran yabancıların istisnai olarak Türk vatandaşlığı
+kazanabilmesine imkân tanındı.
+
+Bu sayede Bireysel Emeklilik Sistemi’ne aktarılacak birikimlerin artması ile sistemin
+derinleşmesi, yurtiçi tasarrufların artışına önemli düzeyde katkıda bulunması ve üreteceği
+ölçek ekonomisi sayesinde maliyetleri azaltarak tüm katılımcılara katma değer sağlaması
+öngörülüyor. Yönetilen birikimlerin, piyasadaki kurumların gelişmesine ve uzun vadeli fon
+dengesine fayda sunması bekleniyor.
+
+Kamuoyuna saygı ile duyurulur
+BASIN DUYURUSU
+10.08.2022
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

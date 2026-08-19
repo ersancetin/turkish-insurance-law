@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/upload/07.08.2024 tarihli ve 727 sayılı Kurul Kararı.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,15 @@ SEDDK sektor-duyurusu kataloğu: 07.08.2024 Tarihli Ve 727 Sayılı Kurul Karar�
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/upload/07.08.2024 tarihli ve 727 sayılı Kurul Kararı.pdf (SEDDK/TSB resmî PDF) — çekim: 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumundan;
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurulu’nun 07/08/2024 tarih ve 727
+sayılı kararıyla VHV Reasürans A.Ş. (Şirket)’nin ortaklık yapısındaki değişikliklere ilişkin
+5684 Sayılı Sigortacılık Kanunu ve Sigorta Şirketleri ve Reasürans Şirketlerinin Kuruluş ve
+Çalışma Esaslarına İlişkin Yönetmelik uyarınca, Şirket ortağı VHV Allgemeine Versicherung
+AG’ye ait %100 ortaklık payının tamamının VHV İnternational SE’ye devrine izin verilmesine,
+karar verilmiştir.
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

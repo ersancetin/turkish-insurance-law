@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/upload/doc/sigortacilik-uzman-yardimciligi-yazili-sinav-sonuclari-27-08-2022.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,59 @@ SEDDK sektor-duyurusu kataloğu: 27 Ağustos 2022 Tarihinde Yapılan Sigortacıl
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/upload/doc/sigortacilik-uzman-yardimciligi-yazili-sinav-sonuclari-27-08-2022.pdf (SEDDK resmî PDF) — OCR ile çekildi (Apple Vision, tr): 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+SİGORTACILIK VE ÖZEL EMEKLİLİK
+DÜZENLEME VE DENETLEME KURUMU
+SEDDK
+SİGORTACILIK UZMAN YARDIMCILIĞI
+GİRİŞ YAZILI SINAVI SONUÇLARINA AIT DUYURU
+27 Ağustos 2022 Cumartesi günü yapılan Sigortacılık Uzman Yardımcılığı giriş yazılı
+sınavına katılarak başarılı olan ve sözlü bölüme katılmaya hak kazanan adaylar ad sırasına göre
+aşağıda belirtilmiştir.
+Sözlü sınava girmeye hak kazanan adayların sözlü sınav tarihi ve yeri Kurumumuzun
+resmi internet sitesinde (https://www.seddk.gov.tr/) daha sonra yayımlanacaktır.
+S.NO
+1
+2
+3
+4
+5
+6
+7
+8
+T.C. KİMLİK NO
+18*******48
+25*******14
+41*******10
+19*******78
+42*******18
+18*******64
+16*******88
+15*******82
+ADI
+Abdulselam
+Esmanur
+Gökhan
+Mert Berkalp
+TalhaR
+Tarık
+Vahdeddin
+Yasin
+SOYADI
+BAŞARIR
+ÇAKMAK
+URLU
+ÖZ
+YILMAZ
+AYDIN
+ÇAPRAZ
+COŞKUN
+Sina
+İLAN OLUNUR
+Istanbul, 14/09/2022
+UmçiçÖz
+Komisyonu Başkanı a.
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

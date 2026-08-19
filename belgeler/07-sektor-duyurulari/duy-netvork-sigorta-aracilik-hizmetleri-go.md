@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/UploadContent/Documents/1793 sayılı Kurul Kararı.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,14 @@ SEDDK sektor-duyurusu kataloğu: Netvork Sigorta Aracılık Hizmetleri Gonca Ta�
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/UploadContent/Documents/1793 sayılı Kurul Kararı.pdf (SEDDK/TSB resmî PDF) — çekim: 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumundan;
+
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurulunun 24/06/2026 tarihli ve 1793 sayılı
+Kararıyla 5684 sayılı Sigortacılık Kanunu’nun 32 nci maddesi ile Sigorta Acenteleri Yönetmeliğinin 24
+üncü maddesi çerçevesinde, Netvork Sigorta Aracılık Hizmetleri Gonca Taş Karaali’nin aracılık
+faaliyetinin geçici olarak durdurulmasına karar verilmiştir.
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

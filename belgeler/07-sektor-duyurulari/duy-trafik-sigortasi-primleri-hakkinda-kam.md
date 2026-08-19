@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/upload/Trafik Sig Prim İliş Bas Duy.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,35 @@ SEDDK sektor-duyurusu kataloğu: Trafik Sigortası Primleri Hakkında Kamuoyu Bi
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/upload/Trafik Sig Prim İliş Bas Duy.pdf (SEDDK/TSB resmî PDF) — çekim: 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+BASIN DUYURUSU
+(10/12/2025)
+
+Trafik Sigortası Primleri Hakkında Kamuoyu Bilgilendirmesi
+
+Son dönemde bazı basın ve yayın organlarında, trafik sigortasında yüksek oranlı prim artışları
+yapıldığına veya yapılacağına ilişkin haberler yer almaktadır. Kamuoyunun doğru
+bilgilendirilmesi amacıyla aşağıdaki açıklamanın yapılması gerekli görülmüştür.
+
+Trafik sigortası azami primleri; araç türü, sigortalının risk düzeyi ve ikamet ettiği il, aracın
+kullanım amacı ve araç yakıt cinsi gibi çeşitli değişkenlere göre Kurumumuzca aylık olarak
+belirlenmektedir.
+
+Güncel ekonomik koşulların primlere doğru şekilde yansıtılabilmesi ve primlerin dinamik
+şekilde yönetilebilmesi için Kurumumuzca 2024 yılı Mayıs ayından itibaren trafik sigortası
+primlerinin belirlenmesinde hasar-maliyet endeksi devreye alınmıştır. Trafik sigortası
+maliyetlerini esas alan bu endeks; araç fiyatları, yedek parça fiyatları, bakım ve onarım
+maliyetleri ile asgari ücretteki değişimleri belli ağırlıkta içermektedir. Söz konusu endeks ile
+yapılan hesaplama sonucunda 2026 yılı Ocak ayı için trafik sigortasında uygulanacak aylık
+azami prim artışı %1’in altında hesaplanarak %0,66 olarak belirlenmiştir.
+
+Kurumumuz, sigortacılık sektörünün sağlıklı ve sürdürülebilir şekilde gelişmesini,
+sigortalıların ödenebilir primlerle sigorta hizmetine erişimini ve hak sahiplerinin gerçek
+zararlarının karşılanmasını gözeterek gerekli tüm adımları atmada azami özen göstermeye
+devam etmektedir.
+
+Kamuoyuna saygıyla duyurulur.
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

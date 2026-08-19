@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/upload/doc/SUY-giris-sinavi-sonuc-duyurusu-ekonomi-finans-alani.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,32 @@ SEDDK sektor-duyurusu kataloğu: Sigortacılık Uzman Yardımcılığı (ekonomi
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/upload/doc/SUY-giris-sinavi-sonuc-duyurusu-ekonomi-finans-alani.pdf (SEDDK/TSB resmî PDF) — çekim: 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumu
+(Adres: Barbaros Mah. Kardelen Sokak Palladium Tower No:2 34. Kat Ataşehir/İSTANBUL)
+İletişim
+Tel: (0216) 655 69 00-01
+(https://seddk.gov.tr)
+
+SİGORTACILIK UZMAN YARDIMCILIĞI (EKONOMİ/FİNANS ALANI)
+GİRİŞ SINAVI SONUÇ DUYURUSU
+
+08 Nisan 2023 tarihinde yazılısı yapılan Sigortacılık Uzman Yardımcılığı
+(Ekonomi/Finans Alanı) giriş sınavının sözlü aşaması tamamlanmış olup sınav sonuçları
+neticesinde
+başarılı
+olan
+adaylar
+belirlenmiştir.
+Adaylar
+sınav
+sonuçlarını
+(https://isealimkariyerkapisi.cbiko.gov.tr) adresi üzerinden giriş yaparak öğrenebilecektir.
+Başarılı olan adayların atama işlemine esas olmak üzere istenilen belgeler, teslim tarihi
+ve yeri Kurumun resmi internet sitesinden (https://seddk.gov.tr) ayrıca duyurulacaktır.
+
+İlan olunur. 22/08/2023
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

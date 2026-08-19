@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/UploadContent/Documents/Duyuru.11.12.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,17 @@ SEDDK sektor-duyurusu kataloğu: Trive Sigorta Ve Reasürans Brokerliği Aş Hak
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/UploadContent/Documents/Duyuru.11.12.pdf (SEDDK/TSB resmî PDF) — çekim: 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumundan;
+
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurulunun 26/11/2025 tarihli ve
+1400 sayılı Kararıyla, 5684 sayılı Sigortacılık Kanunu’nun 21 inci maddesinin ikinci fıkrası ile
+Sigorta ve Reasürans Brokerleri Yönetmeliği’nin 20 nci maddesi çerçevesinde, TRIVE
+SİGORTA VE REASÜRANS BROKERLİĞİ AŞ’nin faaliyetlerine son verme taleplerine
+istinaden hayat sigorta, hayat dışı sigorta ve reasürans brokerliği ruhsatlarının iptal edilmesine
+karar verilmiştir.
+Kamuoyuna saygıyla duyurulur.
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

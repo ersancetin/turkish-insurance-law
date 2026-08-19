@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/UploadContent/Documents/23.07.2026 Tarih ve 6 Numaralı Basın Duyurusu.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-20"
@@ -53,13 +53,23 @@ SEDDK sektor-duyurusu kataloğu: Vatandaşlarımıza Sunulan Sigorta Destek Hizm
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/UploadContent/Documents/23.07.2026 Tarih ve 6 Numaralı Basın Duyurusu.pdf (SEDDK/TSB resmî PDF) — çekim: 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+BASIN DUYURUSU
+(23/07/2026)
+Vatandaşlarımıza Sunulan Sigorta Destek Hizmetlerinde Yeni Dönem
+Vatandaşlarımızın kaza, arıza ve hasar gibi hallerde gerekli desteğe zamanında ve etkin
+şekilde erişebilmelerini sağlamak ve hizmet sağlayıcılardan kaynaklanabilecek mağduriyetleri
+önlemek amacıyla yeni bir düzenleme hayata geçirilmiştir.
+Bu kapsamda, sigorta şirketlerince sigorta poliçesinin yanında yol yardım, çekici, acil
+yardım gibi asistans hizmetlerinin sunumunda kullanılan destek kuruluşlarına belirli nitelik ve
+standartları taşıma zorunluluğu getirilmiştir.
+Bu doğrultuda, destek kuruluşlarının gerekli mali güç, teknik yeterlilik ve kurumsal yapıya
+sahip olmalarını teminen asgari sermaye şartı getirilmiş, kuruluş, ortaklık, organizasyon ve çalışma
+esaslarına ilişkin kriterler belirlenmiştir.
+Kamuoyuna saygıyla duyurulur.
+
+Sigortacılık Destek Hizmetleri Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi
