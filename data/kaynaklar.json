@@ -34762,6 +34762,36 @@
         "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=24454&MevzuatTur=2&MevzuatTertip=5",
         "yontem": "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 24454)"
       }
+    },
+    {
+      "id": "kvkk-32610-kisisel-saglik-verileri-hakkinda-y",
+      "baslik": "Kişisel Sağlık Verileri Hakkında Yönetmelik",
+      "tur": "yonetmelik",
+      "klasor": "belgeler/12-kesisen-mevzuat/kvkk",
+      "brans": [
+        "saglik",
+        "veri"
+      ],
+      "otorite": "KVKK",
+      "numara": null,
+      "rg_tarihi": "2019-06-21",
+      "rg_sayisi": "30808",
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=32610&MevzuatTur=2&MevzuatTertip=5"
+      ],
+      "etiketler": [
+        "kvkk",
+        "kesisen-mevzuat"
+      ],
+      "ozet": "Resmî ad: Kişisel Sağlık Verileri Hakkında Yönetmelik. Sigortacılığı etkileyen kesişen mevzuat; künye doğrulandı.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=32610&MevzuatTur=2&MevzuatTertip=5",
+        "yontem": "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 32610)"
+      }
     }
   ]
 }

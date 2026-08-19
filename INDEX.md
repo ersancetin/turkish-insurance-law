@@ -3,7 +3,7 @@
 > Bu dosya `scripts/uret.py` tarafından **otomatik üretilir**. Elle düzenlemeyin;
 > değişiklik için `data/kaynaklar.yaml` dosyasını güncelleyip betiği yeniden çalıştırın.
 
-**Toplam kayıt:** 1171  |  **Kütük sürümü:** 0.1.0  |  **Güncelleme:** 2026-08-19
+**Toplam kayıt:** 1172  |  **Kütük sürümü:** 0.1.0  |  **Güncelleme:** 2026-08-19
 
 Durum rozetleri: ✅ yürürlükte · ⚠️ kısmen iptal · 🔄 yakın değişiklik · ⛔ mülga · ❔ bilinmiyor
 
@@ -1379,7 +1379,8 @@ Durum rozetleri: ✅ yürürlükte · ⚠️ kısmen iptal · 🔄 yakın deği�
 | --- | --- | --- | --- | --- |
 | 1 | [Kişisel Verilerin Korunması Kanunu](belgeler/12-kesisen-mevzuat/kvkk/6698-kisisel-verilerin-korunmasi-kanunu.md) | Kanun | ✅ | P2 |
 | 2 | [Aydınlatma Yükümlülüğünün Yerine Getirilmesinde Uyulacak Usul Ve Esaslar Hakkında Tebliğ](belgeler/12-kesisen-mevzuat/kvkk/kvkk-24454-aydinlatma-yukumlulugunun-yerine-g.md) | Tebliğ | ✅ | P3 |
-| 3 | [Veri Sorumluları Sicili Hakkında Yönetmelik](belgeler/12-kesisen-mevzuat/kvkk/kvkk-24276-veri-sorumlulari-sicili-hakkinda-y.md) | Tebliğ | ✅ | P3 |
+| 3 | [Kişisel Sağlık Verileri Hakkında Yönetmelik](belgeler/12-kesisen-mevzuat/kvkk/kvkk-32610-kisisel-saglik-verileri-hakkinda-y.md) | Yönetmelik | ✅ | P3 |
+| 4 | [Veri Sorumluları Sicili Hakkında Yönetmelik](belgeler/12-kesisen-mevzuat/kvkk/kvkk-24276-veri-sorumlulari-sicili-hakkinda-y.md) | Tebliğ | ✅ | P3 |
 
 ## `belgeler/12-kesisen-mevzuat/masak`
 

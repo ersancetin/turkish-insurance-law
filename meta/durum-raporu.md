@@ -2,7 +2,7 @@
 
 > Otomatik üretilir (`scripts/uret.py`). Deponun kapsam ve tamamlanma durumunu gösterir.
 
-- **Kütükteki kayıt sayısı:** 1171
+- **Kütükteki kayıt sayısı:** 1172
 - **Tam metin eklenmiş belge sayısı:** dosyaların `metin_durumu` alanından hesaplanır (aşağıdaki tabloya bakın).
 
 ## Belge türüne göre dağılım
@@ -12,7 +12,7 @@
 | Sektör Duyurusu | 458 |
 | Genelge | 440 |
 | Yargı Kararı | 86 |
-| Yönetmelik | 62 |
+| Yönetmelik | 63 |
 | Genel Şart | 47 |
 | Tebliğ | 33 |
 | Kanun | 16 |
@@ -28,7 +28,7 @@
 
 | Durum | Adet |
 | --- | --- |
-| Yürürlükte | 1165 |
+| Yürürlükte | 1166 |
 | Kısmen iptal edilmiş | 3 |
 | Yakın tarihli değişiklik içeriyor | 3 |
 
@@ -38,7 +38,7 @@
 | --- | --- | --- |
 | P1 | 41 | Kritik — önce toplanacak |
 | P2 | 116 | Önemli |
-| P3 | 1014 | Tamamlayıcı |
+| P3 | 1015 | Tamamlayıcı |
 
 ## Künyesi eksik kayıtlar (Resmî Gazete tarihi girilmemiş)
 
@@ -92,7 +92,7 @@ Toplam **45** kayıt. Resmî metin çekilirken bu alanlar doldurulmalıdır.
 
 ## Künye doğrulama durumu
 
-Resmî kaynaktan (Resmî Gazete / mevzuat.gov.tr / SEDDK) künyesi teyit edilmiş **1096** kayıt / toplam 1171.
+Resmî kaynaktan (Resmî Gazete / mevzuat.gov.tr / SEDDK) künyesi teyit edilmiş **1097** kayıt / toplam 1172.
 
 | Kayıt | Resmî Gazete | Doğrulama tarihi |
 | --- | --- | --- |
@@ -992,6 +992,7 @@ Resmî kaynaktan (Resmî Gazete / mevzuat.gov.tr / SEDDK) künyesi teyit edilmi�
 | `kar-9593` | 2025-03-15 / 32842 | 2026-08-19 |
 | `kvkk-24276-veri-sorumlulari-sicili-hakkinda-y` | 2017-12-30 / 30286 | 2026-08-20 |
 | `kvkk-24454-aydinlatma-yukumlulugunun-yerine-g` | 2018-03-10 / 30356 | 2026-08-20 |
+| `kvkk-32610-kisisel-saglik-verileri-hakkinda-y` | 2019-06-21 / 30808 | 2026-08-20 |
 | `masak-12073-mali-suclari-arastirma-kurulu-gene` | 2008-04-09 / 26842 | 2026-08-20 |
 | `masak-13073-mali-suclari-arastirma-kurulu-gene` | 2009-05-26 / 27239 | 2026-08-20 |
 | `masak-18420-terorizmin-finansmaninin-onlenmesi` | 2013-05-31 / 28663 | 2026-08-20 |
