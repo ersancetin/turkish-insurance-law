@@ -2,15 +2,15 @@
 
 > Otomatik üretilir (`scripts/uret.py`). Deponun kapsam ve tamamlanma durumunu gösterir.
 
-- **Kütükteki kayıt sayısı:** 874
+- **Kütükteki kayıt sayısı:** 1051
 - **Tam metin eklenmiş belge sayısı:** dosyaların `metin_durumu` alanından hesaplanır (aşağıdaki tabloya bakın).
 
 ## Belge türüne göre dağılım
 
 | Tür | Adet |
 | --- | --- |
-| Genelge | 430 |
-| Sektör Duyurusu | 251 |
+| Genelge | 440 |
+| Sektör Duyurusu | 414 |
 | Yönetmelik | 62 |
 | Genel Şart | 47 |
 | Yargı Kararı | 25 |
@@ -18,8 +18,8 @@
 | Kanun | 12 |
 | Kurum Dosyası | 8 |
 | Koleksiyon (seri toplama görevi) | 7 |
+| Rehber | 7 |
 | Tarife / Talimat | 3 |
-| Rehber | 3 |
 | Cumhurbaşkanlığı Kararnamesi | 2 |
 | Bildirge / İlke Kararı | 1 |
 | Rapor | 1 |
@@ -28,7 +28,7 @@
 
 | Durum | Adet |
 | --- | --- |
-| Yürürlükte | 868 |
+| Yürürlükte | 1045 |
 | Kısmen iptal edilmiş | 3 |
 | Yakın tarihli değişiklik içeriyor | 3 |
 
@@ -38,7 +38,7 @@
 | --- | --- | --- |
 | P1 | 41 | Kritik — önce toplanacak |
 | P2 | 51 | Önemli |
-| P3 | 782 | Tamamlayıcı |
+| P3 | 959 | Tamamlayıcı |
 
 ## Künyesi eksik kayıtlar (Resmî Gazete tarihi girilmemiş)
 
@@ -92,7 +92,7 @@ Toplam **45** kayıt. Resmî metin çekilirken bu alanlar doldurulmalıdır.
 
 ## Künye doğrulama durumu
 
-Resmî kaynaktan (Resmî Gazete / mevzuat.gov.tr / SEDDK) künyesi teyit edilmiş **799** kayıt / toplam 874.
+Resmî kaynaktan (Resmî Gazete / mevzuat.gov.tr / SEDDK) künyesi teyit edilmiş **976** kayıt / toplam 1051.
 
 | Kayıt | Resmî Gazete | Doğrulama tarihi |
 | --- | --- | --- |
@@ -109,6 +109,24 @@ Resmî kaynaktan (Resmî Gazete / mevzuat.gov.tr / SEDDK) künyesi teyit edilmi�
 | `6502-tuketicinin-korunmasi` | 2013-11-28 / 28835 | 2026-08-19 |
 | `cbk-1-ilgili-hukumler` | 2018-07-10 / 30474 | 2026-08-19 |
 | `cbk-47-seddk-teskilati` | 2019-10-18 / 30922 | 2026-08-19 |
+| `duy-03-07-2024-tarihli-ve-709-sayili-kurul` | — / — | 2026-08-20 |
+| `duy-05-12-2024-tarih-ve-855-sayili-kurul-k` | — / — | 2026-08-20 |
+| `duy-06-12-2023-tarihli-ve-519-sayili-kurul` | — / — | 2026-08-20 |
+| `duy-07-08-2024-tarihli-ve-727-sayili-kurul` | — / — | 2026-08-20 |
+| `duy-07-08-2024-tarihli-ve-728-sayili-kurul` | — / — | 2026-08-20 |
+| `duy-07-08-2025-tarihli-basin-duyurusu` | — / — | 2026-08-20 |
+| `duy-1-08-2023-tarihinden-itibaren-uygulanm` | — / — | 2026-08-20 |
+| `duy-10-04-2025-tarihli-basin-duyurusu` | — / — | 2026-08-20 |
+| `duy-11-01-2024-tarihli-ve-554-sayili-kurul` | — / — | 2026-08-20 |
+| `duy-11-09-2024-tarih-ve-763-sayili-kurul-k` | — / — | 2026-08-20 |
+| `duy-12-11-2025-tarihli-basin-duyurusu` | — / — | 2026-08-20 |
+| `duy-14-06-2023-tarihli-ve-415-sayili-kurul` | — / — | 2026-08-20 |
+| `duy-15-04-2025-tarihli-basin-duyurusu` | — / — | 2026-08-20 |
+| `duy-17-11-2025-tarihli-basin-duyurusu` | — / — | 2026-08-20 |
+| `duy-18-01-2024-tarihli-ve-557-sayili-kurul` | — / — | 2026-08-20 |
+| `duy-19-12-2025-tarihli-basin-duyurusu` | — / — | 2026-08-20 |
+| `duy-20-10-2025-tarihli-basin-duyurusu` | — / — | 2026-08-20 |
+| `duy-2004-2` | — / — | 2026-08-20 |
 | `duy-2007-12` | — / — | 2026-08-19 |
 | `duy-2007-13` | — / — | 2026-08-19 |
 | `duy-2007-14` | — / — | 2026-08-19 |
@@ -120,6 +138,7 @@ Resmî kaynaktan (Resmî Gazete / mevzuat.gov.tr / SEDDK) künyesi teyit edilmi�
 | `duy-2007-7` | — / — | 2026-08-19 |
 | `duy-2007-8` | — / — | 2026-08-19 |
 | `duy-2007-9` | — / — | 2026-08-19 |
+| `duy-2008-1` | — / — | 2026-08-20 |
 | `duy-2008-10` | — / — | 2026-08-19 |
 | `duy-2008-12` | — / — | 2026-08-19 |
 | `duy-2008-13` | — / — | 2026-08-19 |
@@ -326,9 +345,12 @@ Resmî kaynaktan (Resmî Gazete / mevzuat.gov.tr / SEDDK) künyesi teyit edilmi�
 | `duy-2021-5` | — / — | 2026-08-19 |
 | `duy-2021-7` | — / — | 2026-08-19 |
 | `duy-2021-9` | — / — | 2026-08-19 |
+| `duy-2021-faaliyet-raporu-yayimlandi` | — / — | 2026-08-20 |
+| `duy-2021-yili-sigortacilik-ve-ozel-emeklil` | — / — | 2026-08-20 |
 | `duy-2022-1` | — / — | 2026-08-19 |
 | `duy-2022-10` | — / — | 2026-08-19 |
 | `duy-2022-11` | — / — | 2026-08-19 |
+| `duy-2022-12` | — / — | 2026-08-20 |
 | `duy-2022-13` | — / — | 2026-08-19 |
 | `duy-2022-14` | — / — | 2026-08-19 |
 | `duy-2022-15` | — / — | 2026-08-19 |
@@ -351,15 +373,156 @@ Resmî kaynaktan (Resmî Gazete / mevzuat.gov.tr / SEDDK) künyesi teyit edilmi�
 | `duy-2024-5` | — / — | 2026-08-19 |
 | `duy-2025-1` | — / — | 2026-08-19 |
 | `duy-2025-3` | — / — | 2026-08-19 |
+| `duy-2026-01` | — / — | 2026-08-20 |
+| `duy-2026-02` | — / — | 2026-08-20 |
 | `duy-2026-1` | — / — | 2026-08-19 |
+| `duy-22-08-2024-tarih-ve-738-sayili-kurul-k` | — / — | 2026-08-20 |
+| `duy-24-25-aralik-2022-tarihinde-yapilan-si` | — / — | 2026-08-20 |
+| `duy-25-10-2023-tarihli-ve-503-sayili-kurul` | — / — | 2026-08-20 |
+| `duy-27-agustos-2022-tarihinde-yapilan-sigo` | — / — | 2026-08-20 |
+| `duy-28-05-2025-tarihli-basin-duyurusu` | — / — | 2026-08-20 |
+| `duy-29-12-2025-tarihli-basin-duyurusu` | — / — | 2026-08-20 |
+| `duy-30-07-2025-tarihli-basin-duyurusu` | — / — | 2026-08-20 |
+| `duy-3578-sayili-cumhurbaskani-karari` | — / — | 2026-08-20 |
+| `duy-7012-sayili-cumhurbaskani-karari-devle` | — / — | 2026-08-20 |
+| `duy-acnturk-sigorta-as-hakkinda-04-02-2026` | — / — | 2026-08-20 |
+| `duy-agesa-hayat-ve-emeklilik-a-s-ye-hastal` | — / — | 2026-08-20 |
+| `duy-akdag-polat-sigorta-aracilik-hizmetler` | — / — | 2026-08-20 |
+| `duy-aksu-sigorta-aracilik-hizmetleri-ltd-s` | — / — | 2026-08-20 |
+| `duy-alo-193-ortak-hasar-ihbar-merkezinin-k` | — / — | 2026-08-20 |
+| `duy-arex-sigorta-a-s-hakkinda-11-03-2026-t` | — / — | 2026-08-20 |
+| `duy-artik-tum-sigorta-policeleri-bir-arada` | — / — | 2026-08-20 |
+| `duy-aspera-sigorta-ve-reasurans-brokerligi` | — / — | 2026-08-20 |
+| `duy-aveon-global-sigorta-as-hakkinda-04-02` | — / — | 2026-08-20 |
+| `duy-basin-duyurusu` | — / — | 2026-08-20 |
+| `duy-bina-tamamlama-sigortasi-genel-sartlar` | — / — | 2026-08-20 |
+| `duy-bina-tamamlama-sigortasinda-yeni-donem` | — / — | 2026-08-20 |
+| `duy-bireysel-emeklilik-danisma-kurulunun-c` | — / — | 2026-08-20 |
+| `duy-bireysel-emeklilik-sistemi-hakkinda-yo` | — / — | 2026-08-20 |
+| `duy-bireysel-emeklilik-sisteminde-devlet-k` | — / — | 2026-08-20 |
+| `duy-bireysel-emeklilik-sisteminde-kismen-o` | — / — | 2026-08-20 |
+| `duy-bireysel-emeklilik-sistemine-bes-katki` | — / — | 2026-08-20 |
 | `duy-bireysel-emeklilik-ve-sahis-sigortasi-ge` | — / — | 2026-08-19 |
 | `duy-borsa-istanbul-un-pay-piyasasi-islemleri` | — / — | 2026-08-19 |
+| `duy-dalya-sigorta-aracilik-ve-danismanlik-` | — / — | 2026-08-20 |
+| `duy-deniz-araclari-zorunlu-mali-sorumluluk` | — / — | 2026-08-20 |
+| `duy-deprem-felaketine-iliskin-sigortacilik` | — / — | 2026-08-20 |
+| `duy-devlet-destekli-aricilik-sigortasi-tar` | — / — | 2026-08-20 |
+| `duy-devlet-destekli-bitkisel-urun-sigortas` | — / — | 2026-08-20 |
+| `duy-devlet-destekli-buyukbas-hayvan-hayat-` | — / — | 2026-08-20 |
+| `duy-devlet-destekli-gelir-koruma-sigortasi` | — / — | 2026-08-20 |
+| `duy-devlet-destekli-ipek-bocegi-sigortasi-` | — / — | 2026-08-20 |
+| `duy-devlet-destekli-koy-bazli-verim-tarife` | — / — | 2026-08-20 |
+| `duy-devlet-destekli-kucukbas-hayvan-hayat-` | — / — | 2026-08-20 |
+| `duy-devlet-destekli-kumes-hayvanlari-hayat` | — / — | 2026-08-20 |
+| `duy-devlet-destekli-sera-sigortasi-tarife-` | — / — | 2026-08-20 |
+| `duy-devlet-destekli-su-urunleri-hayat-sigo` | — / — | 2026-08-20 |
+| `duy-devlet-destekli-ticari-alacak-sigortas` | — / — | 2026-08-20 |
+| `duy-devlet-katkisinin-yatirim-araclarindak` | — / — | 2026-08-20 |
+| `duy-emeklilik-yatirim-fonlari-daha-guclu-h` | — / — | 2026-08-20 |
+| `duy-gelir-koruma-sigortasi-genel-sartlari` | — / — | 2026-08-20 |
+| `duy-gelir-koruma-sigortasi-tarife-ve-talim` | — / — | 2026-08-20 |
+| `duy-gelir-vergisi-genel-tebligi-seri-no-25` | — / — | 2026-08-20 |
+| `duy-gri-sigorta-as-nezdinde-yurutulen-soru` | — / — | 2026-08-20 |
+| `duy-harclar-kanunu-genel-tebligi-seri-no-4` | — / — | 2026-08-20 |
+| `duy-hasar-istismarcilarini-engellemeye-yon` | — / — | 2026-08-20 |
+| `duy-hayat-sigortasi-genel-sartlari` | — / — | 2026-08-20 |
+| `duy-hdi-sigorta-as-ye-destek-bransinda-mut` | — / — | 2026-08-20 |
+| `duy-ihtiyari-deprem-ve-yanardag-puskurmesi` | — / — | 2026-08-20 |
+| `duy-imc-sigorta-ve-reasurans-brokerligi-as` | — / — | 2026-08-20 |
+| `duy-insurance-and-private-pension-regulati` | — / — | 2026-08-20 |
+| `duy-istem-sigorta-aracilik-hizmetleri-ltd-` | — / — | 2026-08-20 |
+| `duy-izmir-de-meydana-gelen-orman-yangini-a` | — / — | 2026-08-20 |
+| `duy-karayollari-motorlu-araclar-zorunlu-ma` | — / — | 2026-08-20 |
 | `duy-karayollari-motorlu-araclar-zorunlu-mali` | — / — | 2026-08-19 |
 | `duy-katilim-esasli-sigortacilik-faaliyetleri` | — / — | 2026-08-19 |
+| `duy-katilim-sektor-raporu-2020` | — / — | 2026-08-20 |
+| `duy-konut-sigortalari-yonetmeligi-degisikl` | — / — | 2026-08-20 |
+| `duy-luxus-sigorta-ve-reasurans-brokerligi-` | — / — | 2026-08-20 |
+| `duy-maden-calisanlari-zorunlu-ferdi-kaza-s` | — / — | 2026-08-20 |
+| `duy-magdeburger-sigorta-a-s-hakkinda-alina` | — / — | 2026-08-20 |
+| `duy-magdeburger-sigorta-as-ye-iliskin-kuru` | — / — | 2026-08-20 |
+| `duy-mercer-sigorta-brokerligi-a-s-nin-mars` | — / — | 2026-08-20 |
+| `duy-merkezi-alacagin-devri-fonunun-kurulma` | — / — | 2026-08-20 |
+| `duy-mevzuat-kapsaminda-yapilacak-guncellem` | — / — | 2026-08-20 |
+| `duy-motorlu-arac-sigortalarinda-tam-veya-a` | — / — | 2026-08-20 |
+| `duy-netvork-sigorta-aracilik-hizmetleri-go` | — / — | 2026-08-20 |
+| `duy-nn-hayat-ve-emeklilik-as-hakkinda-26-1` | — / — | 2026-08-20 |
+| `duy-ohal-ilan-edilen-illerde-uygulanacak-t` | — / — | 2026-08-20 |
+| `duy-ozel-riskler-yonetim-merkezi-calisma-u` | — / — | 2026-08-20 |
+| `duy-ozel-saglik-sigortalarinda-yeni-donem-` | — / — | 2026-08-20 |
+| `duy-press-release` | — / — | 2026-08-20 |
+| `duy-referans-sigorta-a-s-ye-kara-araclari-` | — / — | 2026-08-20 |
+| `duy-rys-sigorta-aracilik-hizmetleri-as-nin` | — / — | 2026-08-20 |
+| `duy-sahte-kefalet-senetlerinin-onlenmesine` | — / — | 2026-08-20 |
+| `duy-seddk-baskani-eroglu-fair-forum-da-37-` | — / — | 2026-08-20 |
+| `duy-seddk-baskanindan-3-yil-mesaji` | — / — | 2026-08-20 |
+| `duy-seddk-dan-trafik-sigortasi-icin-yeni-y` | — / — | 2026-08-20 |
+| `duy-seddk-dan-yasa-disi-hasar-takibine-kar` | — / — | 2026-08-20 |
+| `duy-seddk-dan-zorunlu-trafik-sigortasi-ici` | — / — | 2026-08-20 |
+| `duy-seddk-deger-kaybi-platform-basin-acikl` | — / — | 2026-08-20 |
+| `duy-seddk-nin-taslak-katilim-sigortaciligi` | — / — | 2026-08-20 |
+| `duy-seddk-nin-yeni-baskani-ve-kurul-uyeler` | — / — | 2026-08-20 |
+| `duy-seddk-trafik-sigortasi-icin-yeni-yol-h` | — / — | 2026-08-20 |
+| `duy-seddk-uluslararasi-sigorta-yatirimcila` | — / — | 2026-08-20 |
+| `duy-seddk-yabancilarin-bes-e-katilimina-il` | — / — | 2026-08-20 |
+| `duy-seddk-yeni-donem-stratejisini-paylasti` | — / — | 2026-08-20 |
+| `duy-sermaye-piyasasi-kurulu-nun-11-7-2003-` | — / — | 2026-08-20 |
+| `duy-sermaye-piyasasi-kurulu-nun-23-07-2010` | — / — | 2026-08-20 |
+| `duy-sermaye-piyasasi-kurulunun-03-06-2005-` | — / — | 2026-08-20 |
+| `duy-sermaye-piyasasi-kurulunun-30-06-2005-` | — / — | 2026-08-20 |
+| `duy-sermaye-piyasasinda-bagimsiz-denetim-h` | — / — | 2026-08-20 |
+| `duy-sicile-kayitli-aktuerlere-iliskin-bilg` | — / — | 2026-08-20 |
+| `duy-sigorta-aracilari-icin-teklif-platform` | — / — | 2026-08-20 |
+| `duy-sigorta-eksperligi-kursuna-iliskin-duy` | — / — | 2026-08-20 |
+| `duy-sigorta-sektoru-istisare-toplantisi-so` | — / — | 2026-08-20 |
+| `duy-sigorta-sektoru-raporlamalarinda-yeni-` | — / — | 2026-08-20 |
 | `duy-sigorta-sirketini-secme-hakkinin-sinirla` | — / — | 2026-08-19 |
+| `duy-sigorta-tahkim-sistemine-iliskin-hazir` | — / — | 2026-08-20 |
+| `duy-sigorta-ve-reasurans-ile-emeklilik-sir` | — / — | 2026-08-20 |
+| `duy-sigorta-ve-reasurans-sirketleri-ile-em` | — / — | 2026-08-20 |
+| `duy-sigorta-yelpazesi-sigorta-aracilik-hiz` | — / — | 2026-08-20 |
+| `duy-sigortacilik-ozel-emeklilik-sektorleri` | — / — | 2026-08-20 |
+| `duy-sigortacilik-tekduzen-hesap-plani-ve-i` | — / — | 2026-08-20 |
+| `duy-sigortacilik-uzman-yardimciligi-aktuer` | — / — | 2026-08-20 |
+| `duy-sigortacilik-uzman-yardimciligi-bilisi` | — / — | 2026-08-20 |
+| `duy-sigortacilik-uzman-yardimciligi-ekonom` | — / — | 2026-08-20 |
+| `duy-sigortacilik-uzman-yardimciligi-giris-` | — / — | 2026-08-20 |
+| `duy-sigortacilik-uzman-yardimciligi-hukuk-` | — / — | 2026-08-20 |
+| `duy-sigortacilik-ve-ozel-emeklilik-duzenle` | — / — | 2026-08-20 |
+| `duy-sigortacilik-ve-ozel-emeklilik-e-basvu` | — / — | 2026-08-20 |
+| `duy-sigortacilikta-tahkim-yonetmeligi-degi` | — / — | 2026-08-20 |
+| `duy-sigortacilikta-tahkime-iliskin-yonetme` | — / — | 2026-08-20 |
+| `duy-sigortafix-reasurans-ve-sigorta-broker` | — / — | 2026-08-20 |
+| `duy-sinirli-sorumlu-mellce-karsilikli-sigo` | — / — | 2026-08-20 |
+| `duy-sirali-eksper-atama-sistemi-pilot-uygu` | — / — | 2026-08-20 |
+| `duy-taban-ekspertiz-ucret-tarifelerinin-gu` | — / — | 2026-08-20 |
+| `duy-tahsilat-genel-tebligi-seri-a-sira-no-` | — / — | 2026-08-20 |
+| `duy-tfrs-degisiklerine-uyum-kapsaminda-kur` | — / — | 2026-08-20 |
 | `duy-tfrs-degisiklerine-uyum-kapsaminda-kurum` | — / — | 2026-08-19 |
+| `duy-tfrs-degisikliklerine-uyum-kapsaminda-` | — / — | 2026-08-20 |
 | `duy-tfrs-degisikliklerine-uyum-kapsaminda-ku` | — / — | 2026-08-19 |
+| `duy-tibbi-kotu-uygulamaya-iliskin-zorunlu-` | — / — | 2026-08-20 |
 | `duy-tibbi-kotu-uygulamaya-iliskin-zorunlu-ma` | — / — | 2026-08-19 |
+| `duy-ticari-alacak-kredi-sigortasi-genel-sa` | — / — | 2026-08-20 |
+| `duy-trafik-kazalari-nedeniyle-ilgililere-s` | — / — | 2026-08-20 |
+| `duy-trafik-sigortasi-genel-sart-degisiklig` | — / — | 2026-08-20 |
+| `duy-trafik-sigortasi-primleri-hakkinda-kam` | — / — | 2026-08-20 |
+| `duy-trive-sigorta-ve-reasurans-brokerligi-` | — / — | 2026-08-20 |
+| `duy-turk-dunyasi-sigorta-birligi-zirvesine` | — / — | 2026-08-20 |
+| `duy-turk-p-ve-i-sigorta-a-s-hakkinda-04-03` | — / — | 2026-08-20 |
+| `duy-turk-vatandasligi-kazanmak-icin-bireys` | — / — | 2026-08-20 |
+| `duy-turkcell-dijital-sigorta-a-s-nin-mutea` | — / — | 2026-08-20 |
+| `duy-uygunluk-belgeleri-iptal-edilen-acente` | — / — | 2026-08-20 |
+| `duy-vatandaslarimiza-sunulan-sigorta-deste` | — / — | 2026-08-20 |
+| `duy-vatandaslik-bes-plani` | — / — | 2026-08-20 |
+| `duy-yatirim-fonlarina-iliskin-esaslar-tebl` | — / — | 2026-08-20 |
+| `duy-yetistirilmek-amaciyla-yurt-disina-gon` | — / — | 2026-08-20 |
+| `duy-zorunlu-deprem-sigortasi-tarife-ve-tal` | — / — | 2026-08-20 |
+| `duy-zorunlu-trafik-sigortasi-prim-odemeler` | — / — | 2026-08-20 |
+| `duy-zorunlu-trafik-sigortasi-surprim-iades` | — / — | 2026-08-20 |
+| `duy-zorunlu-trafik-sigortasinda-yeni-donem` | — / — | 2026-08-20 |
+| `duy-zurich-yasam-ve-emeklilik-a-s-ye-faali` | — / — | 2026-08-20 |
 | `gen-2003-5` | — / — | 2026-08-19 |
 | `gen-2003-5-2` | — / — | 2026-08-19 |
 | `gen-2004-2` | — / — | 2026-08-19 |
@@ -648,11 +811,13 @@ Resmî kaynaktan (Resmî Gazete / mevzuat.gov.tr / SEDDK) künyesi teyit edilmi�
 | `gen-2021-2-2` | — / — | 2026-08-19 |
 | `gen-2021-20` | — / — | 2026-08-19 |
 | `gen-2021-21` | — / — | 2026-08-19 |
+| `gen-2021-22` | — / — | 2026-08-20 |
 | `gen-2021-23` | — / — | 2026-08-19 |
 | `gen-2021-24` | — / — | 2026-08-19 |
 | `gen-2021-25` | — / — | 2026-08-19 |
 | `gen-2021-27` | — / — | 2026-08-19 |
 | `gen-2021-29` | — / — | 2026-08-19 |
+| `gen-2021-3` | — / — | 2026-08-20 |
 | `gen-2021-31` | — / — | 2026-08-19 |
 | `gen-2021-7` | — / — | 2026-08-19 |
 | `gen-2021-8` | — / — | 2026-08-19 |
@@ -737,6 +902,7 @@ Resmî kaynaktan (Resmî Gazete / mevzuat.gov.tr / SEDDK) künyesi teyit edilmi�
 | `gen-2023-9` | — / — | 2026-08-19 |
 | `gen-2024-1` | — / — | 2026-08-19 |
 | `gen-2024-1-2` | — / — | 2026-08-19 |
+| `gen-2024-1-sayili-tfrs-17-kapsaminda-sunul` | — / — | 2026-08-20 |
 | `gen-2024-1-sayili-tfrs-17-kapsaminda-sunulac` | — / — | 2026-08-19 |
 | `gen-2024-10` | — / — | 2026-08-19 |
 | `gen-2024-13` | — / — | 2026-08-19 |
@@ -780,9 +946,16 @@ Resmî kaynaktan (Resmî Gazete / mevzuat.gov.tr / SEDDK) künyesi teyit edilmi�
 | `gen-2026-7` | — / — | 2026-08-19 |
 | `gen-bireysel-kredi-kullananlar-icin-uzun-sur` | — / — | 2026-08-19 |
 | `gen-hayat-ve-uzun-sureli-ferdi-kaza-ve-hasta` | — / — | 2026-08-19 |
+| `gen-kara-araclari-sorumluluk-bransinda-dev` | — / — | 2026-08-20 |
+| `gen-karayollari-motorlu-araclar-zorunlu-ma` | — / — | 2026-08-20 |
 | `gen-karayollari-motorlu-araclar-zorunlu-mali` | — / — | 2026-08-19 |
 | `gen-kucuk-ve-orta-olcekli-isletmelere-yoneli` | — / — | 2026-08-19 |
 | `gen-muallak-tazminat-karsiligina-iliskin-gen` | — / — | 2026-08-19 |
+| `gen-muallak-tazminat-karsiligindan-kaynakl` | — / — | 2026-08-20 |
+| `gen-sermaye-yeterlilik-hesaplamasinda-yazi` | — / — | 2026-08-20 |
+| `gen-sigorta-bilgi-ve-gozetim-merkezi-uygul` | — / — | 2026-08-20 |
+| `gen-sigorta-branslari-icin-ongorulen-minim` | — / — | 2026-08-20 |
+| `gen-sigorta-reasurans-ve-emeklilik-sirketl` | — / — | 2026-08-20 |
 | `gen-sigorta-ve-reasurans-sirketlerinin-tekni` | — / — | 2026-08-19 |
 | `gen-sigorta-ve-reasurans-sirketlerinin-tekni-2` | — / — | 2026-08-19 |
 | `gen-sigortacilik-ve-ozel-emeklilik-sektorler` | — / — | 2026-08-19 |
@@ -813,7 +986,11 @@ Resmî kaynaktan (Resmî Gazete / mevzuat.gov.tr / SEDDK) künyesi teyit edilmi�
 | `kar-9308` | 2024-12-25 / 32763 | 2026-08-19 |
 | `kar-954` | 2019-04-18 / 30749 | 2026-08-19 |
 | `kar-9593` | 2025-03-15 / 32842 | 2026-08-19 |
+| `reh-bina-tamamlama-sigortasi-bilgilendirme` | — / — | 2026-08-20 |
+| `reh-bina-tamamlama-sigortasi-hakkinda-bilg` | — / — | 2026-08-20 |
+| `reh-bireysel-emeklilik-islemleri-3-basamak` | — / — | 2026-08-20 |
 | `reh-ozel-saglik-sigortalarinda-yeni-donem-bi` | — / — | 2026-08-19 |
+| `reh-teknik-karsiliklar-denetim-rehberi` | — / — | 2026-08-20 |
 | `teb-birikimli-hayat-bes-aktarim` | 2004-07-12 / 25520 | 2026-08-19 |
 | `teb-dd-ticari-alacak-tarife-talimat` | 2023-01-07 / 32066 | 2026-08-19 |
 | `teb-deniz-araclari-tarife-talimat` | 2014-10-18 / 29149 | 2026-08-19 |

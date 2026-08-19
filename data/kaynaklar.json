@@ -26073,6 +26073,5139 @@
         "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4911&MevzuatTur=1&MevzuatTertip=5",
         "yontem": "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 4911) — künye 09.07.2003-25163"
       }
+    },
+    {
+      "id": "duy-vatandaslik-bes-plani",
+      "baslik": "Vatandaşlık Bes Planı",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/tr/../upload/yatirimcilarin-BESe-yatirim-yapmak-suretiyle-istisnai-T%C3%BCrk-vatandasligi-....pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Vatandaşlık Bes Planı. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/tr/../upload/yatirimcilarin-BESe-yatirim-yapmak-suretiyle-istisnai-T%C3%BCrk-vatandasligi-....pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "gen-2021-3",
+      "baslik": "Katılım Esaslı Sigortacılık Ve Bireysel Emeklilik Faaliyetlerine İlişkin Genelgede (2021/3) Değişiklik Yapılmasına İlişkin Genelge",
+      "tur": "genelge",
+      "klasor": "belgeler/06-genelgeler/sigortacilik",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": "2021/3",
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/UploadContent/Documents/2026-26 sayılı Genelge Değişikliği.pdf"
+      ],
+      "etiketler": [
+        "genelge",
+        "seddk"
+      ],
+      "ozet": "SEDDK genelge kataloğu: Katılım Esaslı Sigortacılık Ve Bireysel Emeklilik Faaliyetlerine İlişkin Genelgede (2021/3. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/UploadContent/Documents/2026-26 sayılı Genelge Değişikliği.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-2026-02",
+      "baslik": "Motorlu Araç Sigortaları Kapsamında Sigorta Tahkim Komisyonuna Yapılacak Başvurular Hakkında Kurum Sirküleri",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": "2026/02",
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/UploadContent/Documents/Motorlu Araç Sigortaları Kapsamında Sigorta Tahkim Komisyonuna Yapılacak Başvurular Hakkında Kurum Sirküleri - 2026-02.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Motorlu Araç Sigortaları Kapsamında Sigorta Tahkim Komisyonuna Yapılacak Başvurular Hakkın. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/UploadContent/Documents/Motorlu Araç Sigortaları Kapsamında Sigorta Tahkim Komisyonuna Yapılacak Başvurular Hakkında Kurum Sirküleri - 2026-02.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-2026-01",
+      "baslik": "Hasar Araştırmacıları Hakkında Kurum Sirküleri",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": "2026/01",
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/UploadContent/Documents/Hasar Araştırmacıları Kurum Sirküleri.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Hasar Araştırmacıları Hakkında Kurum Sirküleri. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/UploadContent/Documents/Hasar Araştırmacıları Kurum Sirküleri.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-alo-193-ortak-hasar-ihbar-merkezinin-k",
+      "baslik": "Alo 193 Ortak Hasar İhbar Merkezinin Kurulması Hakkında 24.07.2026 Tarih Ve 7 Numaralı Basın Duyurusu",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/UploadContent/Documents/Alo 193 Basın Duyurusu.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Alo 193 Ortak Hasar İhbar Merkezinin Kurulması Hakkında 24.07.2026 Tarih Ve 7 Numaralı Bas. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/UploadContent/Documents/Alo 193 Basın Duyurusu.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-vatandaslarimiza-sunulan-sigorta-deste",
+      "baslik": "Vatandaşlarımıza Sunulan Sigorta Destek Hizmetlerinde Yeni Dönem Hk. 23.07.2026 Tarih Ve 6 Numaralı Basın Duyurusu",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/UploadContent/Documents/23.07.2026 Tarih ve 6 Numaralı Basın Duyurusu.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Vatandaşlarımıza Sunulan Sigorta Destek Hizmetlerinde Yeni Dönem Hk. 23.07.2026 Tarih Ve 6. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/UploadContent/Documents/23.07.2026 Tarih ve 6 Numaralı Basın Duyurusu.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-sirali-eksper-atama-sistemi-pilot-uygu",
+      "baslik": "Sıralı Eksper Atama Sistemi Pilot Uygulamasına İlişkin 1798 Sayılı Kurul Kararı",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/UploadContent/Documents/30.06.2026 tarihli ve 1798 sayılı Kurul Kararı.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Sıralı Eksper Atama Sistemi Pilot Uygulamasına İlişkin 1798 Sayılı Kurul Kararı. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/UploadContent/Documents/30.06.2026 tarihli ve 1798 sayılı Kurul Kararı.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-netvork-sigorta-aracilik-hizmetleri-go",
+      "baslik": "Netvork Sigorta Aracılık Hizmetleri Gonca Taş Karaali’nin Aracılık Faaliyetinin Geçici Olarak Durdurulmasına İlişkin 1793 Sayılı Kurul Kararı",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/UploadContent/Documents/1793 sayılı Kurul Kararı.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Netvork Sigorta Aracılık Hizmetleri Gonca Taş Karaali’nin Aracılık Faaliyetinin Geçici Ola. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/UploadContent/Documents/1793 sayılı Kurul Kararı.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-seddk-dan-yasa-disi-hasar-takibine-kar",
+      "baslik": "Seddk’dan Yasa Dışı Hasar Takibine Karşı Yeni Tedbir Hk. 29.06.2026 Tarih Ve 5 Numaralı Basın Duyurusu",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/UploadContent/Documents/2026-15 Genelge Basın Duyurusu.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Seddk’dan Yasa Dışı Hasar Takibine Karşı Yeni Tedbir Hk. 29.06.2026 Tarih Ve 5 Numaralı Ba. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/UploadContent/Documents/2026-15 Genelge Basın Duyurusu.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-trafik-sigortasi-genel-sart-degisiklig",
+      "baslik": "Trafik Sigortası Genel Şart Değişikliği Hk. 12.06.2026 Tarih Ve 4 Numaralı Basın Duyurusu",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/UploadContent/Documents/Basın Duyurusu.12.6.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Trafik Sigortası Genel Şart Değişikliği Hk. 12.06.2026 Tarih Ve 4 Numaralı Basın Duyurusu. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/UploadContent/Documents/Basın Duyurusu.12.6.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-ozel-saglik-sigortalarinda-yeni-donem-",
+      "baslik": "Özel Sağlık Sigortalarında Yeni Dönem Duyurusu",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/UploadContent/Documents/ÖSS_Yeni_Dönem_Bilgilendirme_Rehberi.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Özel Sağlık Sigortalarında Yeni Dönem Duyurusu. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/UploadContent/Documents/ÖSS_Yeni_Dönem_Bilgilendirme_Rehberi.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-magdeburger-sigorta-as-ye-iliskin-kuru",
+      "baslik": "Magdeburger Sigorta Aş’ye İlişkin Kurumumuzca Alınan Tedbirler Hk. 16.04.2026 Tarih Ve 3 Numaralı Basın Duyurusu",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/UploadContent/Documents/Magdeburger_Sigorta_AŞ’ye_İlişkin_Kurumumuzca_Alınan_Tedbirler_Hakkında_Basın_Duyurusu.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Magdeburger Sigorta Aş’ye İlişkin Kurumumuzca Alınan Tedbirler Hk. 16.04.2026 Tarih Ve 3 N. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/UploadContent/Documents/Magdeburger_Sigorta_AŞ’ye_İlişkin_Kurumumuzca_Alınan_Tedbirler_Hakkında_Basın_Duyurusu.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-magdeburger-sigorta-a-s-hakkinda-alina",
+      "baslik": "Magdeburger Sigorta A.ş. Hakkında Alınan 15.04.2026 Tarih Ve 1693 Sayılı Kurul Kararı",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/UploadContent/Documents/Magdeburger_Sigorta_AŞ_Hk_1693_Sayılı_Kurul_Kararı.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Magdeburger Sigorta A.ş. Hakkında Alınan 15.04.2026 Tarih Ve 1693 Sayılı Kurul Kararı. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/UploadContent/Documents/Magdeburger_Sigorta_AŞ_Hk_1693_Sayılı_Kurul_Kararı.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-gri-sigorta-as-nezdinde-yurutulen-soru",
+      "baslik": "Gri Sigorta Aş Nezdinde Yürütülen Soruşturma Hk. 07.04.2026 Tarih Ve 2 Numaralı Basın Duyurusu",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/UploadContent/Documents/2026.04.07-2_nolu_Basın_Duyurusu-GRI_Sigorta_AŞ.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Gri Sigorta Aş Nezdinde Yürütülen Soruşturma Hk. 07.04.2026 Tarih Ve 2 Numaralı Basın Duyu. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/UploadContent/Documents/2026.04.07-2_nolu_Basın_Duyurusu-GRI_Sigorta_AŞ.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-arex-sigorta-a-s-hakkinda-11-03-2026-t",
+      "baslik": "Arex Sigorta A.ş. Hakkında 11.03.2026 Tarih Ve 1611 Sayılı Kurul Kararı",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/UploadContent/Documents/Arex_Sigorta_AŞ_Hakkında_11.03.2026_Tarih_ve_1611_Sayılı_Kurul_Kararı.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Arex Sigorta A.ş. Hakkında 11.03.2026 Tarih Ve 1611 Sayılı Kurul Kararı. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/UploadContent/Documents/Arex_Sigorta_AŞ_Hakkında_11.03.2026_Tarih_ve_1611_Sayılı_Kurul_Kararı.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-turk-p-ve-i-sigorta-a-s-hakkinda-04-03",
+      "baslik": "Türk P Ve I Sigorta A.ş. Hakkında 04.03.2026 Tarih Ve 1586 Sayılı Kurul Kararı",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/UploadContent/Documents/Türk P ve I Sigorta A.Ş. Hakkında 04.03.2026 Tarih ve 1586 Sayılı Kurul Kararı.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Türk P Ve I Sigorta A.ş. Hakkında 04.03.2026 Tarih Ve 1586 Sayılı Kurul Kararı. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/UploadContent/Documents/Türk P ve I Sigorta A.Ş. Hakkında 04.03.2026 Tarih ve 1586 Sayılı Kurul Kararı.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-rys-sigorta-aracilik-hizmetleri-as-nin",
+      "baslik": "Rys Sigorta Aracılık Hizmetleri Aş’nin Aracılık Faaliyetinin Geçici Olarak Durdurulmasına İlişkin 1581 Sayılı Kurul Kararı",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/UploadContent/Documents/24.02.2026 Tarihli ve 1581 Sayılı Kurul Kararı.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Rys Sigorta Aracılık Hizmetleri Aş’nin Aracılık Faaliyetinin Geçici Olarak Durdurulmasına . Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/UploadContent/Documents/24.02.2026 Tarihli ve 1581 Sayılı Kurul Kararı.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-hasar-istismarcilarini-engellemeye-yon",
+      "baslik": "Hasar İstismarcılarını Engellemeye Yönelik Atılan Adımlara İlişkin 17.02.2026 Tarih Ve 1 Numaralı Basın Duyurusu",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/UploadContent/Documents/BASIN_DUYURUSU-17.02.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Hasar İstismarcılarını Engellemeye Yönelik Atılan Adımlara İlişkin 17.02.2026 Tarih Ve 1 N. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/UploadContent/Documents/BASIN_DUYURUSU-17.02.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-aveon-global-sigorta-as-hakkinda-04-02",
+      "baslik": "Aveon Global Sigorta Aş Hakkında 04/02/2026 Tarih Ve 1539 Sayılı Kurul Kararı",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/UploadContent/Documents/Ruhsat_İptali-İlan_Aveon_Global_Sigorta_AŞ.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Aveon Global Sigorta Aş Hakkında 04/02/2026 Tarih Ve 1539 Sayılı Kurul Kararı. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/UploadContent/Documents/Ruhsat_İptali-İlan_Aveon_Global_Sigorta_AŞ.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-acnturk-sigorta-as-hakkinda-04-02-2026",
+      "baslik": "Acnturk Sigorta Aş Hakkında 04/02/2026 Tarih Ve 1540 Sayılı Kurul Kararı",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/UploadContent/Documents/Ruhsat_İptali-İlan_AcnTurk_Sigorta_AŞ.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Acnturk Sigorta Aş Hakkında 04/02/2026 Tarih Ve 1540 Sayılı Kurul Kararı. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/UploadContent/Documents/Ruhsat_İptali-İlan_AcnTurk_Sigorta_AŞ.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-mevzuat-kapsaminda-yapilacak-guncellem",
+      "baslik": "Mevzuat Kapsamında Yapılacak Güncellemeler Hakkındaki Duyuru",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/UploadContent/Documents/Mevzuat Kapsamında Yapılacak Güncellemeler Hakkındaki Duyuru.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Mevzuat Kapsamında Yapılacak Güncellemeler Hakkındaki Duyuru. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/UploadContent/Documents/Mevzuat Kapsamında Yapılacak Güncellemeler Hakkındaki Duyuru.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-zorunlu-deprem-sigortasi-tarife-ve-tal",
+      "baslik": "Zorunlu Deprem Sigortası Tarife Ve Talimat Tebliğinde Değişiklik Yapılmasına İlişkin Tebliğ",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.resmigazete.gov.tr/eskiler/2025/12/20251231M5-38.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Zorunlu Deprem Sigortası Tarife Ve Talimat Tebliğinde Değişiklik Yapılmasına İlişkin Tebli. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://www.resmigazete.gov.tr/eskiler/2025/12/20251231M5-38.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-29-12-2025-tarihli-basin-duyurusu",
+      "baslik": "29.12.2025 Tarihli Basın Duyurusu",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/UploadContent/Documents/Basın Duyurusu (29.12.25).pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: 29.12.2025 Tarihli Basın Duyurusu. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/UploadContent/Documents/Basın Duyurusu (29.12.25).pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-19-12-2025-tarihli-basin-duyurusu",
+      "baslik": "19/12/2025 Tarihli Basın Duyurusu",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/UploadContent/Documents/Trafik_Sigortası_Basamak_Basın_Duyurusu.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: 19/12/2025 Tarihli Basın Duyurusu. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/UploadContent/Documents/Trafik_Sigortası_Basamak_Basın_Duyurusu.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-trafik-sigortasi-primleri-hakkinda-kam",
+      "baslik": "Trafik Sigortası Primleri Hakkında Kamuoyu Bilgilendirmesi",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Trafik Sig Prim İliş Bas Duy.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Trafik Sigortası Primleri Hakkında Kamuoyu Bilgilendirmesi. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Trafik Sig Prim İliş Bas Duy.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-seddk-nin-taslak-katilim-sigortaciligi",
+      "baslik": "Seddk’nın Taslak Katılım Sigortacılığı Yönetmeliği Uluslararası Basında",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/20251210_Basin_Duyurusu2.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Seddk’nın Taslak Katılım Sigortacılığı Yönetmeliği Uluslararası Basında. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/20251210_Basin_Duyurusu2.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-ihtiyari-deprem-ve-yanardag-puskurmesi",
+      "baslik": "İhtiyari Deprem Ve Yanardağ Püskürmesi Teminatına İlişkin Tarife Ve Talimat",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/İht Dep ve Yan Püsk Tem İliş Tar ve Tal.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: İhtiyari Deprem Ve Yanardağ Püskürmesi Teminatına İlişkin Tarife Ve Talimat. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/İht Dep ve Yan Püsk Tem İliş Tar ve Tal.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-izmir-de-meydana-gelen-orman-yangini-a",
+      "baslik": "İzmir’de Meydana Gelen Orman Yangını Afeti Nedeniyle Bes Katılımcılarının Kısmen Ödeme Başvurularına İlişkin Basın Duyurusu",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Basın Duyurusu.5.12.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: İzmir’de Meydana Gelen Orman Yangını Afeti Nedeniyle Bes Katılımcılarının Kısmen Ödeme Baş. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Basın Duyurusu.5.12.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-trive-sigorta-ve-reasurans-brokerligi-",
+      "baslik": "Trive Sigorta Ve Reasürans Brokerliği Aş Hakkında 26/11/2025 Tarihli Ve 1400 Sayılı Kurul Kararı",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/UploadContent/Documents/Duyuru.11.12.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Trive Sigorta Ve Reasürans Brokerliği Aş Hakkında 26/11/2025 Tarihli Ve 1400 Sayılı Kurul . Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/UploadContent/Documents/Duyuru.11.12.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-aspera-sigorta-ve-reasurans-brokerligi",
+      "baslik": "Aspera Sigorta Ve Reasürans Brokerliği Aş’nin Gallagher Sigorta Ve Reasürans Brokerliği Aş İle Şirket Birleşmesi Talebine İlişkin 1399 Sayılı Kurul Ka",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/UploadContent/Documents/1399 Sayılı Kurul Kararı.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Aspera Sigorta Ve Reasürans Brokerliği Aş’nin Gallagher Sigorta Ve Reasürans Brokerliği Aş. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/UploadContent/Documents/1399 Sayılı Kurul Kararı.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-17-11-2025-tarihli-basin-duyurusu",
+      "baslik": "17.11.2025 Tarihli Basın Duyurusu",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/20251117_Basin_Duyurusu.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: 17.11.2025 Tarihli Basın Duyurusu. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/20251117_Basin_Duyurusu.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-12-11-2025-tarihli-basin-duyurusu",
+      "baslik": "12.11.2025 Tarihli Basın Duyurusu",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Basın Duyurusu-12.11.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: 12.11.2025 Tarihli Basın Duyurusu. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Basın Duyurusu-12.11.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-20-10-2025-tarihli-basin-duyurusu",
+      "baslik": "20.10.2025 Tarihli Basın Duyurusu",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Öss - Basın Duyurusu.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: 20.10.2025 Tarihli Basın Duyurusu. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Öss - Basın Duyurusu.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-sigorta-sektoru-istisare-toplantisi-so",
+      "baslik": "Sigorta Sektörü İstişare Toplantısı Sonuc¸ Bildirgesi",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/SigSekIstisareToplantisiSonucBildirgesi.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Sigorta Sektörü İstişare Toplantısı Sonuc¸ Bildirgesi. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/SigSekIstisareToplantisiSonucBildirgesi.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-sigorta-tahkim-sistemine-iliskin-hazir",
+      "baslik": "Sigorta Tahkim Sistemine İlişkin Hazırlanan Taslak Paydaş Görüşüne Sunulmuştur.",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Menu-jpg/03.10.2025 tarihli Duyuru.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Sigorta Tahkim Sistemine İlişkin Hazırlanan Taslak Paydaş Görüşüne Sunulmuştur.. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Menu-jpg/03.10.2025 tarihli Duyuru.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-turk-dunyasi-sigorta-birligi-zirvesine",
+      "baslik": "Türk Dünyası Sigorta Birliği Zirvesine Kurumumuzdan Üst Düzeyde Güçlü Katılım…",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/20250918_Turk_Dunyası_Sigorta_Birligi.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Türk Dünyası Sigorta Birliği Zirvesine Kurumumuzdan Üst Düzeyde Güçlü Katılım…. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/20250918_Turk_Dunyası_Sigorta_Birligi.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-07-08-2025-tarihli-basin-duyurusu",
+      "baslik": "07.08.2025 Tarihli Basın Duyurusu",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Basın Duyurusu (3).pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: 07.08.2025 Tarihli Basın Duyurusu. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Basın Duyurusu (3).pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-30-07-2025-tarihli-basin-duyurusu",
+      "baslik": "30.07.2025 Tarihli Basın Duyurusu",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Basın Duyurusu2.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: 30.07.2025 Tarihli Basın Duyurusu. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Basın Duyurusu2.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-taban-ekspertiz-ucret-tarifelerinin-gu",
+      "baslik": "Taban Ekspertiz Ücret Tarifelerinin Güncellenmesine İlişkin Kurul Kararı",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Taban Ekspertiz Ücret Tarifeleri Duyuru.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Taban Ekspertiz Ücret Tarifelerinin Güncellenmesine İlişkin Kurul Kararı. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Taban Ekspertiz Ücret Tarifeleri Duyuru.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "reh-bina-tamamlama-sigortasi-bilgilendirme",
+      "baslik": "Bina Tamamlama Sigortası Bilgilendirme Rehberi",
+      "tur": "rehber",
+      "klasor": "belgeler/08-seddk-kurumsal/rehberler",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Bilgilendirme Rehberi.pdf"
+      ],
+      "etiketler": [
+        "rehber",
+        "seddk"
+      ],
+      "ozet": "SEDDK rehber kataloğu: Bina Tamamlama Sigortası Bilgilendirme Rehberi. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Bilgilendirme Rehberi.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "reh-bina-tamamlama-sigortasi-hakkinda-bilg",
+      "baslik": "Bina Tamamlama Sigortası Hakkında Bilgilendirme Rehberi Yayımlandı",
+      "tur": "rehber",
+      "klasor": "belgeler/08-seddk-kurumsal/rehberler",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/BTS Rehber Basın Duyurusu.pdf"
+      ],
+      "etiketler": [
+        "rehber",
+        "seddk"
+      ],
+      "ozet": "SEDDK rehber kataloğu: Bina Tamamlama Sigortası Hakkında Bilgilendirme Rehberi Yayımlandı. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/BTS Rehber Basın Duyurusu.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-sicile-kayitli-aktuerlere-iliskin-bilg",
+      "baslik": "Sicile Kayıtlı Aktüerlere İlişkin Bilgilerin Güncellenmesi Hakkında Duyuru",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Aktüer Yazı.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Sicile Kayıtlı Aktüerlere İlişkin Bilgilerin Güncellenmesi Hakkında Duyuru. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Aktüer Yazı.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-sinirli-sorumlu-mellce-karsilikli-sigo",
+      "baslik": "Sınırlı Sorumlu Mellce Karşılıklı Sigorta Kooperatifi Hakkında 29/05/2025 Tarih Ve 1140 Sayılı Kurul Kararı",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/29.05.2025_Tarih_ve_1140_Sayılı_Kurul_Kararı.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Sınırlı Sorumlu Mellce Karşılıklı Sigorta Kooperatifi Hakkında 29/05/2025 Tarih Ve 1140 Sa. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/29.05.2025_Tarih_ve_1140_Sayılı_Kurul_Kararı.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-28-05-2025-tarihli-basin-duyurusu",
+      "baslik": "28.05.2025 Tarihli Basın Duyurusu",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/2025.05.28_BasinDuyurusu.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: 28.05.2025 Tarihli Basın Duyurusu. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/2025.05.28_BasinDuyurusu.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-referans-sigorta-a-s-ye-kara-araclari-",
+      "baslik": "Referans Sigorta A.ş.'ye Kara Araçları Sorumluluk Ruhsatı Verilmesine İlişkin 1104 Sayılı Kurul Kararı",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Referans Sigorta AŞ.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Referans Sigorta A.ş.'ye Kara Araçları Sorumluluk Ruhsatı Verilmesine İlişkin 1104 Sayılı . Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Referans Sigorta AŞ.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-agesa-hayat-ve-emeklilik-a-s-ye-hastal",
+      "baslik": "Agesa Hayat Ve Emeklilik A.ş.’ye Hastalık-sağlık Ruhsatı Verilmesine İlişkin 1088 Sayılı Kurul Kararı",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/30.04.2025_Tarih_ve_1088_Sayılı_Kurul_Kararı.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Agesa Hayat Ve Emeklilik A.ş.’ye Hastalık-sağlık Ruhsatı Verilmesine İlişkin 1088 Sayılı K. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/30.04.2025_Tarih_ve_1088_Sayılı_Kurul_Kararı.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-motorlu-arac-sigortalarinda-tam-veya-a",
+      "baslik": "Motorlu Araç Sigortalarında Tam Veya Ağır Hasar Uygulamalarına İlişkin Basın Duyurusu",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Ana Sayfa güncel/Basın Duyurusu 1.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Motorlu Araç Sigortalarında Tam Veya Ağır Hasar Uygulamalarına İlişkin Basın Duyurusu. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Ana Sayfa güncel/Basın Duyurusu 1.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-istem-sigorta-aracilik-hizmetleri-ltd-",
+      "baslik": "İstem Sigorta Aracılık Hizmetleri Ltd.şti.'nin Uygunluk Belgesinin İptaline İlişkin 1082 Sayılı Kurul Kararı",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/1082 sayılı Kurul Kararı.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: İstem Sigorta Aracılık Hizmetleri Ltd.şti.'nin Uygunluk Belgesinin İptaline İlişkin 1082 S. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/1082 sayılı Kurul Kararı.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-hdi-sigorta-as-ye-destek-bransinda-mut",
+      "baslik": "Hdı Sigorta Aş'ye Destek Branşında Müteakip Ruhsat Verilmesine İlişkin 1072 Sayılı Kurul Kararı",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/24.04.2025 tarih ve 1072 sayılı Kurul Kararı.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Hdı Sigorta Aş'ye Destek Branşında Müteakip Ruhsat Verilmesine İlişkin 1072 Sayılı Kurul K. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/24.04.2025 tarih ve 1072 sayılı Kurul Kararı.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-15-04-2025-tarihli-basin-duyurusu",
+      "baslik": "15.04.2025 Tarihli Basın Duyurusu",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/2025-04-15-BasinDuyurusu.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: 15.04.2025 Tarihli Basın Duyurusu. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/2025-04-15-BasinDuyurusu.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-uygunluk-belgeleri-iptal-edilen-acente",
+      "baslik": "Uygunluk Belgeleri İptal Edilen Acentelere İlişkin Kurul Kararları",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/DUYURU.11.04.25.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Uygunluk Belgeleri İptal Edilen Acentelere İlişkin Kurul Kararları. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/DUYURU.11.04.25.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-10-04-2025-tarihli-basin-duyurusu",
+      "baslik": "10.04.2025 Tarihli Basın Duyurusu",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/2025.04.10-BasinDuyurusu.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: 10.04.2025 Tarihli Basın Duyurusu. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/2025.04.10-BasinDuyurusu.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-sigortafix-reasurans-ve-sigorta-broker",
+      "baslik": "Sigortafix Reasürans Ve Sigorta Brokerliği Aş’nin Aracılık Faaliyetinin Geçici Olarak Durdurulması Hususundaki Tedbir Kararının Kaldırılmasına İlişkin",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/09.04.2025_Tarihli_ve_1043_Sayılı_Kurul_Kararı.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Sigortafix Reasürans Ve Sigorta Brokerliği Aş’nin Aracılık Faaliyetinin Geçici Olarak Durd. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/09.04.2025_Tarihli_ve_1043_Sayılı_Kurul_Kararı.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-artik-tum-sigorta-policeleri-bir-arada",
+      "baslik": "Artık Tüm Sigorta Poliçeleri Bir Arada, E-devlette Tek Ekranda…",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Ozel_Sigortalarım.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Artık Tüm Sigorta Poliçeleri Bir Arada, E-devlette Tek Ekranda…. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Ozel_Sigortalarım.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-basin-duyurusu",
+      "baslik": "Basın Duyurusu",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Basın duyurusu.27-12-24.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Basın Duyurusu. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Basın duyurusu.27-12-24.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-nn-hayat-ve-emeklilik-as-hakkinda-26-1",
+      "baslik": "Nn Hayat Ve Emeklilik Aş Hakkında 26/12/2024 Tarih Ve 898 Sayılı Kurul Kararı",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/26-12-2024 tarih ve 898 sayılı Kurul Kararı.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Nn Hayat Ve Emeklilik Aş Hakkında 26/12/2024 Tarih Ve 898 Sayılı Kurul Kararı. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/26-12-2024 tarih ve 898 sayılı Kurul Kararı.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-05-12-2024-tarih-ve-855-sayili-kurul-k",
+      "baslik": "05/12/2024 Tarih Ve 855 Sayılı Kurul Kararı",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/05-12-2024 tarih ve 855 sayılı Kurul Kararı .pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: 05/12/2024 Tarih Ve 855 Sayılı Kurul Kararı. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/05-12-2024 tarih ve 855 sayılı Kurul Kararı .pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-deniz-araclari-zorunlu-mali-sorumluluk",
+      "baslik": "Deniz Araçları Zorunlu Mali Sorumluluk Sigortası Tarife Ve Talimat Tebliğinde Değişiklik Yapılmasına Dair Tebliğ",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/resmigazete.gov.tr 2024_10_2024.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Deniz Araçları Zorunlu Mali Sorumluluk Sigortası Tarife Ve Talimat Tebliğinde Değişiklik Y. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/resmigazete.gov.tr 2024_10_2024.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-sigorta-yelpazesi-sigorta-aracilik-hiz",
+      "baslik": "Sigorta Yelpazesi Sigorta Aracılık Hizmetleri Ltd.şti.'nin Uygunluk Belgesinin İptaline İlişkin 768 Sayılı Kurul Kararı",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/768 sayılı Kurul Kararı.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Sigorta Yelpazesi Sigorta Aracılık Hizmetleri Ltd.şti.'nin Uygunluk Belgesinin İptaline İl. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/768 sayılı Kurul Kararı.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-11-09-2024-tarih-ve-763-sayili-kurul-k",
+      "baslik": "11.09.2024 Tarih Ve 763 Sayılı Kurul Kararı",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/11.09.2024_Tarihli_ve_763_Sayılı_Kurul_Kararı.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: 11.09.2024 Tarih Ve 763 Sayılı Kurul Kararı. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/11.09.2024_Tarihli_ve_763_Sayılı_Kurul_Kararı.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-imc-sigorta-ve-reasurans-brokerligi-as",
+      "baslik": "Imc Sigorta Ve Reasürans Brokerliği Aş’nin Aracılık Faaliyetinin Geçici Olarak Durdurulmasına İlişkin 749 Sayılı Kurul Kararı",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/IMC Duyuru.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Imc Sigorta Ve Reasürans Brokerliği Aş’nin Aracılık Faaliyetinin Geçici Olarak Durdurulmas. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/IMC Duyuru.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-22-08-2024-tarih-ve-738-sayili-kurul-k",
+      "baslik": "22.08.2024 Tarih Ve 738 Sayılı Kurul Kararı",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/22.08.2024 tarih ve 738 sayılı Kurul kararı.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: 22.08.2024 Tarih Ve 738 Sayılı Kurul Kararı. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/22.08.2024 tarih ve 738 sayılı Kurul kararı.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-07-08-2024-tarihli-ve-728-sayili-kurul",
+      "baslik": "07.08.2024 Tarihli Ve 728 Sayılı Kurul Kararı",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Ruhsat İptali.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: 07.08.2024 Tarihli Ve 728 Sayılı Kurul Kararı. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Ruhsat İptali.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-07-08-2024-tarihli-ve-727-sayili-kurul",
+      "baslik": "07.08.2024 Tarihli Ve 727 Sayılı Kurul Kararı",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/07.08.2024 tarihli ve 727 sayılı Kurul Kararı.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: 07.08.2024 Tarihli Ve 727 Sayılı Kurul Kararı. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/07.08.2024 tarihli ve 727 sayılı Kurul Kararı.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-zurich-yasam-ve-emeklilik-a-s-ye-faali",
+      "baslik": "Zurich Yaşam Ve Emeklilik A.ş’ye Faaliyet Ruhsatı Verilmesine İlişkin 716 Sayılı Kurul Kararı",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Zurich-Yaşam-ve-Emekilik-A.Ş.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Zurich Yaşam Ve Emeklilik A.ş’ye Faaliyet Ruhsatı Verilmesine İlişkin 716 Sayılı Kurul Kar. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Zurich-Yaşam-ve-Emekilik-A.Ş.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-03-07-2024-tarihli-ve-709-sayili-kurul",
+      "baslik": "03.07.2024 Tarihli Ve 709 Sayılı Kurul Kararı",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Quick Hayat Sigorta A.Ş.’ye Faaliyet Ruhsatı verilmesine ilişkin 709 sayılı Kurul Kararı.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: 03.07.2024 Tarihli Ve 709 Sayılı Kurul Kararı. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Quick Hayat Sigorta A.Ş.’ye Faaliyet Ruhsatı verilmesine ilişkin 709 sayılı Kurul Kararı.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-bireysel-emeklilik-danisma-kurulunun-c",
+      "baslik": "Bireysel Emeklilik Danışma Kurulunun Çalışma Esas Ve Usulleri Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Yönetmelik mühürlü son hal.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Bireysel Emeklilik Danışma Kurulunun Çalışma Esas Ve Usulleri Hakkında Yönetmelikte Değişi. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Yönetmelik mühürlü son hal.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-bina-tamamlama-sigortasi-genel-sartlar",
+      "baslik": "Bina Tamamlama Sigortası Genel Şartları",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/BTS-Genel-Şartlar.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Bina Tamamlama Sigortası Genel Şartları. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/BTS-Genel-Şartlar.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-bina-tamamlama-sigortasinda-yeni-donem",
+      "baslik": "Bina Tamamlama Sigortasında Yeni Dönem",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/BTS-Genel-Şartları-Basın-Duyurusu.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Bina Tamamlama Sigortasında Yeni Dönem. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/BTS-Genel-Şartları-Basın-Duyurusu.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-aksu-sigorta-aracilik-hizmetleri-ltd-s",
+      "baslik": "Aksu Sigorta Aracılık Hizmetleri Ltd.şti.'nin Uygunluk Belgesinin İptaline İlişkin 652 Sayılı Kurul Kararı",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/22.05.2024 Tarihli ve 652 Sayılı Kurul Kararı.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Aksu Sigorta Aracılık Hizmetleri Ltd.şti.'nin Uygunluk Belgesinin İptaline İlişkin 652 Say. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/22.05.2024 Tarihli ve 652 Sayılı Kurul Kararı.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-sigortacilik-uzman-yardimciligi-bilisi",
+      "baslik": "Sigortacılık Uzman Yardımcılığı (bilişim Alanı) Giriş Sınavı Sonuç Duyurusu",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/suy-giris-sinavi-sonuc-duyurusu-(bilisim-alani).pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Sigortacılık Uzman Yardımcılığı (bilişim Alanı) Giriş Sınavı Sonuç Duyurusu. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/suy-giris-sinavi-sonuc-duyurusu-(bilisim-alani).pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-bireysel-emeklilik-sisteminde-kismen-o",
+      "baslik": "Bireysel Emeklilik Sisteminde Kısmen Ödeme Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Yonetmelik-Muhurlu.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Bireysel Emeklilik Sisteminde Kısmen Ödeme Hakkında Yönetmelikte Değişiklik Yapılmasına Da. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Yonetmelik-Muhurlu.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-maden-calisanlari-zorunlu-ferdi-kaza-s",
+      "baslik": "Maden Çalışanları Zorunlu Ferdi Kaza Sigortasında Teminat Tutarı Artırıldı",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Maden Ferdi Kaza Sigortası Basın duyurusu.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Maden Çalışanları Zorunlu Ferdi Kaza Sigortasında Teminat Tutarı Artırıldı. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Maden Ferdi Kaza Sigortası Basın duyurusu.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-akdag-polat-sigorta-aracilik-hizmetler",
+      "baslik": "Akdağ Polat Sigorta Aracılık Hizmetleri Ltd. Şti.'nin Uygunluk Belgesinin İptaline İlişkin 573 Sayılı Kurul Kararı",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/14.02.2024 tarih ve 573 sayılı kurul kararı.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Akdağ Polat Sigorta Aracılık Hizmetleri Ltd. Şti.'nin Uygunluk Belgesinin İptaline İlişkin. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/14.02.2024 tarih ve 573 sayılı kurul kararı.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-sahte-kefalet-senetlerinin-onlenmesine",
+      "baslik": "Sahte Kefalet Senetlerinin Önlenmesine Yönelik Sbm Doğrulama Uygulaması Hakkında Basın Duyurusu",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Basın Duyurusu.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Sahte Kefalet Senetlerinin Önlenmesine Yönelik Sbm Doğrulama Uygulaması Hakkında Basın Duy. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Basın Duyurusu.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-mercer-sigorta-brokerligi-a-s-nin-mars",
+      "baslik": "Mercer Sigorta Brokerliği A.ş.’nin Marsh Sigorta Ve Reasürans Brokerliği A.ş. İle Şirket Birleşmesi Talebine İlişkin 577 Sayılı Kurul Kararı",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/21.02.2024 Tarihli ve 577 Sayılı Kurul Kararı.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Mercer Sigorta Brokerliği A.ş.’nin Marsh Sigorta Ve Reasürans Brokerliği A.ş. İle Şirket B. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/21.02.2024 Tarihli ve 577 Sayılı Kurul Kararı.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-sigorta-aracilari-icin-teklif-platform",
+      "baslik": "Sigorta Aracıları İçin Teklif Platformu Basın Duyurusu",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Sigorta Aracıları İçin Teklif Platformu Basın Duyurusu v1.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Sigorta Aracıları İçin Teklif Platformu Basın Duyurusu. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Sigorta Aracıları İçin Teklif Platformu Basın Duyurusu v1.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-18-01-2024-tarihli-ve-557-sayili-kurul",
+      "baslik": "18.01.2024 Tarihli Ve 557 Sayılı Kurul Kararı",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/18.01.2024 tarih ve 557 sayılı Kurul kararı.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: 18.01.2024 Tarihli Ve 557 Sayılı Kurul Kararı. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/18.01.2024 tarih ve 557 sayılı Kurul kararı.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-sigortacilik-uzman-yardimciligi-aktuer",
+      "baslik": "Sigortacılık Uzman Yardımcılığı (aktüerya Ve Bilişim Alanı) Giriş Yazılı Sınavı Sonuçlarına Ait Duyuru",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/SUY_Giriş_Yazılı_Sınavı_Sonucu_Duyurusu.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Sigortacılık Uzman Yardımcılığı (aktüerya Ve Bilişim Alanı) Giriş Yazılı Sınavı Sonuçların. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/SUY_Giriş_Yazılı_Sınavı_Sonucu_Duyurusu.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-sigorta-sektoru-raporlamalarinda-yeni-",
+      "baslik": "Sigorta Sektörü Raporlamalarında Yeni Dönem Başlıyor",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Sigorta Sektörü Raporlamaları.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Sigorta Sektörü Raporlamalarında Yeni Dönem Başlıyor. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Sigorta Sektörü Raporlamaları.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-11-01-2024-tarihli-ve-554-sayili-kurul",
+      "baslik": "11.01.2024 Tarihli Ve 554 Sayılı Kurul Kararı",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Sabancı Ageas Sağlık Sigorta A.Ş.’ye Faaliyet Ruhsatı verilmesine ilişkin 554 sayılı Kurul Kararı.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: 11.01.2024 Tarihli Ve 554 Sayılı Kurul Kararı. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Sabancı Ageas Sağlık Sigorta A.Ş.’ye Faaliyet Ruhsatı verilmesine ilişkin 554 sayılı Kurul Kararı.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-yetistirilmek-amaciyla-yurt-disina-gon",
+      "baslik": "Yetiştirilmek Amacıyla Yurt Dışına Gönderilecek Personel Duyurusu",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Yetiştirilmek-Amacıyla-Yurt-Dışına-Gönderilecek-Personel-Duyurusu.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Yetiştirilmek Amacıyla Yurt Dışına Gönderilecek Personel Duyurusu. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Yetiştirilmek-Amacıyla-Yurt-Dışına-Gönderilecek-Personel-Duyurusu.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "gen-2024-1-sayili-tfrs-17-kapsaminda-sunul",
+      "baslik": "2024-1 Sayılı Tfrs 17 Kapsamında Sunulacak Raporlara İlişkin Genelge",
+      "tur": "genelge",
+      "klasor": "belgeler/06-genelgeler/sigortacilik",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/2024-1 sayılı TFRS 17 Kapsamında Sunulacak Raporlara İlişkin Genelge .pdf"
+      ],
+      "etiketler": [
+        "genelge",
+        "seddk"
+      ],
+      "ozet": "SEDDK genelge kataloğu: 2024-1 Sayılı Tfrs 17 Kapsamında Sunulacak Raporlara İlişkin Genelge. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/2024-1 sayılı TFRS 17 Kapsamında Sunulacak Raporlara İlişkin Genelge .pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-sigorta-ve-reasurans-ile-emeklilik-sir",
+      "baslik": "Sigorta Ve Reasürans İle Emeklilik Şirketlerinin Finansal Tablolarının Sunumu Hakkında Tebliğde Değişiklik Yapılmasına Dair Tebliğ",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Sigorta_ve_Reasurans_ile_Emeklilik_Sirketlerinin_Finansal_Tablolarinin_S....pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Sigorta Ve Reasürans İle Emeklilik Şirketlerinin Finansal Tablolarının Sunumu Hakkında Teb. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Sigorta_ve_Reasurans_ile_Emeklilik_Sirketlerinin_Finansal_Tablolarinin_S....pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-sigortacilik-tekduzen-hesap-plani-ve-i",
+      "baslik": "Sigortacılık Tekdüzen Hesap Planı Ve İzahnamesi Hakkında Tebliğde Değişiklik Yapılmasına Dair Tebliğ",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Sigortacilik_Tekduzen_Hesap_Plani_ve_Izahnamesi_Hakkinda_Teblig-Degisikl....pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Sigortacılık Tekdüzen Hesap Planı Ve İzahnamesi Hakkında Tebliğde Değişiklik Yapılmasına D. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Sigortacilik_Tekduzen_Hesap_Plani_ve_Izahnamesi_Hakkinda_Teblig-Degisikl....pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-sigorta-ve-reasurans-sirketleri-ile-em",
+      "baslik": "Sigorta Ve Reasürans Şirketleri İle Emeklilik Şirketlerinin Finansal Raporlamaları Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelikte Deği",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Finansal_Raporlama_Yonetmeliginde_Degisiklik_Yapilmasina_Dair_Yonetmelik....pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Sigorta Ve Reasürans Şirketleri İle Emeklilik Şirketlerinin Finansal Raporlamaları Hakkınd. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Finansal_Raporlama_Yonetmeliginde_Degisiklik_Yapilmasina_Dair_Yonetmelik....pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-karayollari-motorlu-araclar-zorunlu-ma",
+      "baslik": "Karayolları Motorlu Araçlar Zorunlu Mali Sorumluluk Sigortasında Tarife Uygulama Esasları Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Yönetmelik.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Karayolları Motorlu Araçlar Zorunlu Mali Sorumluluk Sigortasında Tarife Uygulama Esasları . Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Yönetmelik.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-06-12-2023-tarihli-ve-519-sayili-kurul",
+      "baslik": "06/12/2023 Tarihli Ve 519 Sayılı Kurul Kararı",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/GP Karar.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: 06/12/2023 Tarihli Ve 519 Sayılı Kurul Kararı. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/GP Karar.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-merkezi-alacagin-devri-fonunun-kurulma",
+      "baslik": "Merkezi Alacağın Devri Fonunun Kurulmasına İlişkin 517 Sayılı Kurul Kararı",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Kurul Kararı (Web sitesinde yayımlanacak versiyon).pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Merkezi Alacağın Devri Fonunun Kurulmasına İlişkin 517 Sayılı Kurul Kararı. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Kurul Kararı (Web sitesinde yayımlanacak versiyon).pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-sigortacilik-uzman-yardimciligi-giris-",
+      "baslik": "Sigortacılık Uzman Yardımcılığı Giriş Yazılı Sınavı Duyurusu",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Sigortacılık Uzman Yardımcılığı Giriş Yazılı Sınavı Duyurusu (1).pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Sigortacılık Uzman Yardımcılığı Giriş Yazılı Sınavı Duyurusu. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Sigortacılık Uzman Yardımcılığı Giriş Yazılı Sınavı Duyurusu (1).pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-press-release",
+      "baslik": "Press Release",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/doc/basin-duyurusu-28.11.2023.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Press Release. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/doc/basin-duyurusu-28.11.2023.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-25-10-2023-tarihli-ve-503-sayili-kurul",
+      "baslik": "25/10/2023 Tarihli Ve 503 Sayılı Kurul Kararı",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Esyal İptal Kararı.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: 25/10/2023 Tarihli Ve 503 Sayılı Kurul Kararı. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Esyal İptal Kararı.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-turkcell-dijital-sigorta-a-s-nin-mutea",
+      "baslik": "Turkcell Dijital Sigorta A.ş’nin Müteakip Ruhsat Başvurusuna İlişkin 499 Sayılı Kurul Kararı",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/doc/499-nolu-karar.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Turkcell Dijital Sigorta A.ş’nin Müteakip Ruhsat Başvurusuna İlişkin 499 Sayılı Kurul Kara. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/doc/499-nolu-karar.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-sigortacilik-uzman-yardimciligi-ekonom",
+      "baslik": "Sigortacılık Uzman Yardımcılığı (ekonomi/finans Alanı) Giriş Sınavı Sonuç Duyurusu",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/doc/SUY-giris-sinavi-sonuc-duyurusu-ekonomi-finans-alani.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Sigortacılık Uzman Yardımcılığı (ekonomi/finans Alanı) Giriş Sınavı Sonuç Duyurusu. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/doc/SUY-giris-sinavi-sonuc-duyurusu-ekonomi-finans-alani.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-konut-sigortalari-yonetmeligi-degisikl",
+      "baslik": "Konut Sigortaları Yönetmeliği Değişikliği Basın Açıklaması",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/SEDDK - Basın Açıklaması-09.08.2023.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Konut Sigortaları Yönetmeliği Değişikliği Basın Açıklaması. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/SEDDK - Basın Açıklaması-09.08.2023.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-1-08-2023-tarihinden-itibaren-uygulanm",
+      "baslik": "1/08/2023 Tarihinden İtibaren Uygulanmak Üzere İhtiyari Deprem Ve Yanardağ Püskürmesi Teminatına İlişkin Tarife Ve Talimat Onaylanmıştır.",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/İhtiyari Deprem Tarife ve Talimat.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: 1/08/2023 Tarihinden İtibaren Uygulanmak Üzere İhtiyari Deprem Ve Yanardağ Püskürmesi Temi. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/İhtiyari Deprem Tarife ve Talimat.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-dalya-sigorta-aracilik-ve-danismanlik-",
+      "baslik": "Dalya Sigorta Aracılık Ve Danışmanlık Hizmetleri Ltd.şti.’nin Uygunluk Belgesinin İptal Edilmesine İlişkin 429 Sayılı Kurul Kararı",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Dalya Karar.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Dalya Sigorta Aracılık Ve Danışmanlık Hizmetleri Ltd.şti.’nin Uygunluk Belgesinin İptal Ed. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Dalya Karar.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-luxus-sigorta-ve-reasurans-brokerligi-",
+      "baslik": "Luxus Sigorta Ve Reasürans Brokerliği Aş’nin Ruhsatlarının İptal Edilmesine İlişkin 430 Sayılı Kurul Kararı",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Luxus Karar.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Luxus Sigorta Ve Reasürans Brokerliği Aş’nin Ruhsatlarının İptal Edilmesine İlişkin 430 Sa. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Luxus Karar.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-insurance-and-private-pension-regulati",
+      "baslik": "Insurance And Private Pension Regulation And Supervision Authority Annual Report 2021",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Insurance and Private Pension Regulation and Supervision Authority Annual Report 2021.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Insurance And Private Pension Regulation And Supervision Authority Annual Report 2021. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Insurance and Private Pension Regulation and Supervision Authority Annual Report 2021.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-sigortacilik-uzman-yardimciligi-hukuk-",
+      "baslik": "Sigortacılık Uzman Yardımcılığı (hukuk Alanı) Giriş Sınavı Sonuç Duyurusu",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/SUY Giriş Sınavı Sonuç Duyurusu (Hukuk Alanı).pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Sigortacılık Uzman Yardımcılığı (hukuk Alanı) Giriş Sınavı Sonuç Duyurusu. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/SUY Giriş Sınavı Sonuç Duyurusu (Hukuk Alanı).pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-14-06-2023-tarihli-ve-415-sayili-kurul",
+      "baslik": "14.06.2023 Tarihli Ve 415 Sayılı Kurul Kararı",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/14.06.2023 tarih ve 415 sayılı Kurul kararı.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: 14.06.2023 Tarihli Ve 415 Sayılı Kurul Kararı. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/14.06.2023 tarih ve 415 sayılı Kurul kararı.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-sigortacilikta-tahkim-yonetmeligi-degi",
+      "baslik": "Sigortacılıkta Tahkim Yönetmeliği Değişikliği Basın Duyurusu",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/SEDDK - Basın Duyurusu-05.06.2023-Vol.5.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Sigortacılıkta Tahkim Yönetmeliği Değişikliği Basın Duyurusu. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/SEDDK - Basın Duyurusu-05.06.2023-Vol.5.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-zorunlu-trafik-sigortasinda-yeni-donem",
+      "baslik": "Zorunlu Trafik Sigortasında Yeni Dönem Başlıyor",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/doc/SEDDK-basin-bulteni-04.04.2023.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Zorunlu Trafik Sigortasında Yeni Dönem Başlıyor. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/doc/SEDDK-basin-bulteni-04.04.2023.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-7012-sayili-cumhurbaskani-karari-devle",
+      "baslik": "7012 Sayılı Cumhurbaşkanı Kararı (devlet Destekli Ticari Alacak Sigortası Sistemine Dair Karar)",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.resmigazete.gov.tr/eskiler/2023/03/20230331-11.pdf "
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: 7012 Sayılı Cumhurbaşkanı Kararı (devlet Destekli Ticari Alacak Sigortası Sistemine Dair K. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://www.resmigazete.gov.tr/eskiler/2023/03/20230331-11.pdf ",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-bireysel-emeklilik-sistemi-hakkinda-yo",
+      "baslik": "Bireysel Emeklilik Sistemi Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Bireysel Emeklilik Sistemi Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Bireysel Emeklilik Sistemi Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Bireysel Emeklilik Sistemi Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-deprem-felaketine-iliskin-sigortacilik",
+      "baslik": "Deprem Felaketine İlişkin Sigortacılıkta Sık Sorulan Sorular",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/doc/seddk-sss.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Deprem Felaketine İlişkin Sigortacılıkta Sık Sorulan Sorular. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/doc/seddk-sss.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-sigorta-eksperligi-kursuna-iliskin-duy",
+      "baslik": "Sigorta Eksperliği Kursuna İlişkin Duyuru",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/doc/eksperlik-kursu-uygulama-metni.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Sigorta Eksperliği Kursuna İlişkin Duyuru. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/doc/eksperlik-kursu-uygulama-metni.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-devlet-destekli-buyukbas-hayvan-hayat-",
+      "baslik": "Devlet Destekli Büyükbaş Hayvan Hayat Sigortası Genel Şartlarında Değişiklik Yapılmasına Dair Genel Şartlar",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Devlet Destekli Büyükbaş Hayvan Hayat Sigortası Genel Şartlarında Değişiklik Yapılmasına Dair Genel Şartlar.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Devlet Destekli Büyükbaş Hayvan Hayat Sigortası Genel Şartlarında Değişiklik Yapılmasına D. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Devlet Destekli Büyükbaş Hayvan Hayat Sigortası Genel Şartlarında Değişiklik Yapılmasına Dair Genel Şartlar.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-devlet-destekli-kucukbas-hayvan-hayat-",
+      "baslik": "Devlet Destekli Küçükbaş Hayvan Hayat Sigortası Genel Şartlarında Değişiklik Yapılmasına Dair Genel Şartlar",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Devlet Destekli Küçükbaş Hayvan Hayat Sigortası Genel Şartlarında Değişiklik Yapılmasına Dair Genel Şartlar.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Devlet Destekli Küçükbaş Hayvan Hayat Sigortası Genel Şartlarında Değişiklik Yapılmasına D. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Devlet Destekli Küçükbaş Hayvan Hayat Sigortası Genel Şartlarında Değişiklik Yapılmasına Dair Genel Şartlar.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-2021-faaliyet-raporu-yayimlandi",
+      "baslik": "2021 Faaliyet Raporu Yayımlandı",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/doc/2021-faaliyet-raporu.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: 2021 Faaliyet Raporu Yayımlandı. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/doc/2021-faaliyet-raporu.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-bireysel-emeklilik-sisteminde-devlet-k",
+      "baslik": "Bireysel Emeklilik Sisteminde Devlet Katkısı Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/doc/32104-yonetmelik.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Bireysel Emeklilik Sisteminde Devlet Katkısı Hakkında Yönetmelikte Değişiklik Yapılmasına . Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/doc/32104-yonetmelik.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-devlet-katkisinin-yatirim-araclarindak",
+      "baslik": "Devlet Katkısının Yatırım Araçlarındaki Sınırlamalarına İlişkin Basın Duyurusu",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/doc/SEDDK-basin-duyurusu-14.02.2023.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Devlet Katkısının Yatırım Araçlarındaki Sınırlamalarına İlişkin Basın Duyurusu. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/doc/SEDDK-basin-duyurusu-14.02.2023.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-ohal-ilan-edilen-illerde-uygulanacak-t",
+      "baslik": "Ohal İlan Edilen İllerde Uygulanacak Tedbirlerle İlgili Basın Açıklaması",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/SEDDK-basin-aciklamasi-10.02.2023.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Ohal İlan Edilen İllerde Uygulanacak Tedbirlerle İlgili Basın Açıklaması. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/SEDDK-basin-aciklamasi-10.02.2023.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-24-25-aralik-2022-tarihinde-yapilan-si",
+      "baslik": "24-25 Aralık 2022 Tarihinde Yapılan Sigortacılık Uzman Yardımcılığı Giriş Yazılı Sınavı Sonuçları",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/24-25 Aralık 2022 Tarihinde Yapılan Sigortacılık Uzman Yardımcılığı Giriş Yazılı Sınavı Sonuçları .pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: 24-25 Aralık 2022 Tarihinde Yapılan Sigortacılık Uzman Yardımcılığı Giriş Yazılı Sınavı So. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/24-25 Aralık 2022 Tarihinde Yapılan Sigortacılık Uzman Yardımcılığı Giriş Yazılı Sınavı Sonuçları .pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-sigortacilik-ozel-emeklilik-sektorleri",
+      "baslik": "Sigortacılık-özel Emeklilik Sektörleri Türkiye Yüzyılına Hazırlanıyor",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/doc/SEDDK-basin-bulteni-19.12.2022-v3.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Sigortacılık-özel Emeklilik Sektörleri Türkiye Yüzyılına Hazırlanıyor. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/doc/SEDDK-basin-bulteni-19.12.2022-v3.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-seddk-dan-trafik-sigortasi-icin-yeni-y",
+      "baslik": "Seddk’dan Trafik Sigortası İçin Yeni Yol Haritası",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/doc/SEDDK-basin-bulteni-16.11.2022.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Seddk’dan Trafik Sigortası İçin Yeni Yol Haritası. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/doc/SEDDK-basin-bulteni-16.11.2022.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-seddk-baskanindan-3-yil-mesaji",
+      "baslik": "Seddk Başkanından 3. Yıl Mesajı",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/doc/SEDDK-baskani-3-yıl-mesaj.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Seddk Başkanından 3. Yıl Mesajı. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/doc/SEDDK-baskani-3-yıl-mesaj.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-seddk-uluslararasi-sigorta-yatirimcila",
+      "baslik": "Seddk, Uluslararası Sigorta Yatırımcılarıyla Görüştü",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/doc/SEDDK-basin-bulteni-14.10.2022.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Seddk, Uluslararası Sigorta Yatırımcılarıyla Görüştü. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/doc/SEDDK-basin-bulteni-14.10.2022.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-2022-12",
+      "baslik": "Katılım Esaslı Sigortacılık Ve Bireysel Emeklilik Faaliyetlerine İlişkin Sektör Duyurusu",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": "2022/12",
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/doc/2022-12-sektor-duyurusu.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Katılım Esaslı Sigortacılık Ve Bireysel Emeklilik Faaliyetlerine İlişkin Sektör Duyurusu. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/doc/2022-12-sektor-duyurusu.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-devlet-destekli-ticari-alacak-sigortas",
+      "baslik": "Devlet Destekli Ticari Alacak Sigortası Sistemine Devlet Tarafından Taahhüt Edilecek Reasürans Desteğine Dair Karar",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr/MevzuatMetin/20.5.6189.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Devlet Destekli Ticari Alacak Sigortası Sistemine Devlet Tarafından Taahhüt Edilecek Reasü. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://www.mevzuat.gov.tr/MevzuatMetin/20.5.6189.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-seddk-baskani-eroglu-fair-forum-da-37-",
+      "baslik": "Seddk Başkanı Eroğlu Fair Forum’da 37 Ülkeden 300 Katılımcıya Seslendi",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/doc/SEDDK-fair-forum.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Seddk Başkanı Eroğlu Fair Forum’da 37 Ülkeden 300 Katılımcıya Seslendi. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/doc/SEDDK-fair-forum.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-ticari-alacak-kredi-sigortasi-genel-sa",
+      "baslik": "Ticari Alacak (kredi) Sigortası Genel Şartları",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/doc/ticari-alacak-sigortasi-genel-sartlar.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Ticari Alacak (kredi) Sigortası Genel Şartları. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/doc/ticari-alacak-sigortasi-genel-sartlar.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-emeklilik-yatirim-fonlari-daha-guclu-h",
+      "baslik": "Emeklilik Yatırım Fonları Daha Güçlü Hale Gelecek",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/doc/SEDDK-basin-bulteni-19-09-2022.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Emeklilik Yatırım Fonları Daha Güçlü Hale Gelecek. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/doc/SEDDK-basin-bulteni-19-09-2022.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-27-agustos-2022-tarihinde-yapilan-sigo",
+      "baslik": "27 Ağustos 2022 Tarihinde Yapılan Sigortacılık Uzman Yardımcılığı Giriş Yazılı Sınavı Sonuçları Açıklandı",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/doc/sigortacilik-uzman-yardimciligi-yazili-sinav-sonuclari-27-08-2022.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: 27 Ağustos 2022 Tarihinde Yapılan Sigortacılık Uzman Yardımcılığı Giriş Yazılı Sınavı Sonu. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/doc/sigortacilik-uzman-yardimciligi-yazili-sinav-sonuclari-27-08-2022.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-seddk-yeni-donem-stratejisini-paylasti",
+      "baslik": "Seddk Yeni Dönem Stratejisini Paylaştı",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/doc/SEDDK-basin-bulteni-07.09.2022.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Seddk Yeni Dönem Stratejisini Paylaştı. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/doc/SEDDK-basin-bulteni-07.09.2022.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-zorunlu-trafik-sigortasi-surprim-iades",
+      "baslik": "Zorunlu Trafik Sigortası Sürprim İadesine İlişkin Duyuru",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/doc/SEDDK-basin-aciklamasi-17-08-2022.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Zorunlu Trafik Sigortası Sürprim İadesine İlişkin Duyuru. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/doc/SEDDK-basin-aciklamasi-17-08-2022.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-bireysel-emeklilik-sistemine-bes-katki",
+      "baslik": "Bireysel Emeklilik Sistemine (bes) Katkı Payı Yatırmak Suretiyle Vatandaşlık Veya Uzun Dönemli İkamet İzni Başvurusunda Bulunacak Yabancılar İçin Açık",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/doc/BES-aciklama.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Bireysel Emeklilik Sistemine (bes) Katkı Payı Yatırmak Suretiyle Vatandaşlık Veya Uzun Dön. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/doc/BES-aciklama.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-seddk-dan-zorunlu-trafik-sigortasi-ici",
+      "baslik": "Seddk'dan Zorunlu Trafik Sigortası İçin Kapsamlı Tarife",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/doc/SEDDK-basin-duyurusu-12-08-2022.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Seddk'dan Zorunlu Trafik Sigortası İçin Kapsamlı Tarife. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/doc/SEDDK-basin-duyurusu-12-08-2022.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-seddk-yabancilarin-bes-e-katilimina-il",
+      "baslik": "Seddk, Yabancıların Bes’e Katılımına İlişkin Usul Ve Esasları Belirledi",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/doc/SEDDK-basin-duyurusu-10-08-2022.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Seddk, Yabancıların Bes’e Katılımına İlişkin Usul Ve Esasları Belirledi. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/doc/SEDDK-basin-duyurusu-10-08-2022.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-seddk-trafik-sigortasi-icin-yeni-yol-h",
+      "baslik": "Seddk, Trafik Sigortası İçin Yeni Yol Haritası Çiziyor",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/doc/SEDDK-basin-aciklamasi-trafik-sigortasi.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Seddk, Trafik Sigortası İçin Yeni Yol Haritası Çiziyor. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/doc/SEDDK-basin-aciklamasi-trafik-sigortasi.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-zorunlu-trafik-sigortasi-prim-odemeler",
+      "baslik": "Zorunlu Trafik Sigortası Prim Ödemelerine İlişkin Basın Açıklaması",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/doc/SEDDK-zorunlu-trafik-sigortasi-basin-aciklamasi.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Zorunlu Trafik Sigortası Prim Ödemelerine İlişkin Basın Açıklaması. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/doc/SEDDK-zorunlu-trafik-sigortasi-basin-aciklamasi.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-seddk-nin-yeni-baskani-ve-kurul-uyeler",
+      "baslik": "Seddk'nın Yeni Başkanı Ve Kurul Üyeleri Göreve Başladı",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/doc/SEDDK-basin-aciklamasi.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Seddk'nın Yeni Başkanı Ve Kurul Üyeleri Göreve Başladı. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/doc/SEDDK-basin-aciklamasi.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-seddk-deger-kaybi-platform-basin-acikl",
+      "baslik": "Seddk Değer Kaybı Platform Basın Açıklaması",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/doc/SEDDK-deger-kaybi-platform-basin-aciklama-haziran-2022.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Seddk Değer Kaybı Platform Basın Açıklaması. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/doc/SEDDK-deger-kaybi-platform-basin-aciklama-haziran-2022.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "reh-bireysel-emeklilik-islemleri-3-basamak",
+      "baslik": "Bireysel Emeklilik İşlemleri (3. Basamak) Denetim Rehberi",
+      "tur": "rehber",
+      "klasor": "belgeler/08-seddk-kurumsal/rehberler",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/doc/bireysel-emeklilik-islemleri-3-basamak-denetim-rehberi-ekler.pdf"
+      ],
+      "etiketler": [
+        "rehber",
+        "seddk"
+      ],
+      "ozet": "SEDDK rehber kataloğu: Bireysel Emeklilik İşlemleri (3. Basamak) Denetim Rehberi. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/doc/bireysel-emeklilik-islemleri-3-basamak-denetim-rehberi-ekler.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-2021-yili-sigortacilik-ve-ozel-emeklil",
+      "baslik": "2021 Yılı Sigortacılık Ve Özel Emeklilik Faaliyetleri Hakkında Rapor",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/doc/2021-sigortacilik-ve-BES-faaliyet-raporu.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: 2021 Yılı Sigortacılık Ve Özel Emeklilik Faaliyetleri Hakkında Rapor. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/doc/2021-sigortacilik-ve-BES-faaliyet-raporu.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-hayat-sigortasi-genel-sartlari",
+      "baslik": "Hayat Sigortası Genel Şartları",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Sigortacılık Mevzuatı/Genel Şartlar/Can Sigortaları/Hayat Sigortası Genel Şartları.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Hayat Sigortası Genel Şartları. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Sigortacılık Mevzuatı/Genel Şartlar/Can Sigortaları/Hayat Sigortası Genel Şartları.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-turk-vatandasligi-kazanmak-icin-bireys",
+      "baslik": "Türk Vatandaşlığı Kazanmak İçin Bireysel Emeklilik Sistemine Yatırılacak En Az 500.000 Amerikan Doları Veya Karşılığı Döviz Tutarına Devlet Katkısı Uy",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Ana Sayfa güncel/BES-duyuru.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Türk Vatandaşlığı Kazanmak İçin Bireysel Emeklilik Sistemine Yatırılacak En Az 500.000 Ame. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Ana Sayfa güncel/BES-duyuru.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-sigortacilik-ve-ozel-emeklilik-e-basvu",
+      "baslik": "Sigortacılık Ve Özel Emeklilik E-başvuru Sistemi Hakkında Basın Açıklaması",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Duyurular/seddk-e-basvuru-sistemi-hakkinda-basin-aciklamasi-2022-04-26.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Sigortacılık Ve Özel Emeklilik E-başvuru Sistemi Hakkında Basın Açıklaması. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Duyurular/seddk-e-basvuru-sistemi-hakkinda-basin-aciklamasi-2022-04-26.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "gen-karayollari-motorlu-araclar-zorunlu-ma",
+      "baslik": "Karayolları Motorlu Araçlar Zorunlu Mali Sorumluluk Sigortası Primlerine İlişkin Genelgede Değişiklik Yapılmasına Dair Genelge",
+      "tur": "genelge",
+      "klasor": "belgeler/06-genelgeler/sigortacilik",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Ana Sayfa güncel/Karayolları Motorlu Araçlar Zorunlu Mali Sorumluluk Sigortası Primlerine İlişkin Genelgede Değişiklik Yapılmasına Dair Genelge 2022-1-genelge.pdf"
+      ],
+      "etiketler": [
+        "genelge",
+        "seddk"
+      ],
+      "ozet": "SEDDK genelge kataloğu: Karayolları Motorlu Araçlar Zorunlu Mali Sorumluluk Sigortası Primlerine İlişkin Genelgede. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Ana Sayfa güncel/Karayolları Motorlu Araçlar Zorunlu Mali Sorumluluk Sigortası Primlerine İlişkin Genelgede Değişiklik Yapılmasına Dair Genelge 2022-1-genelge.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "gen-sigorta-bilgi-ve-gozetim-merkezi-uygul",
+      "baslik": "Sigorta Bilgi Ve Gözetim Merkezi Uygulama Usul Ve Esaslarına İlişkin Genelgede Değişiklik Yapılmasına İlişkin Genelge",
+      "tur": "genelge",
+      "klasor": "belgeler/06-genelgeler/sigortacilik",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Ana Sayfa güncel/2021-32-genelge.pdf"
+      ],
+      "etiketler": [
+        "genelge",
+        "seddk"
+      ],
+      "ozet": "SEDDK genelge kataloğu: Sigorta Bilgi Ve Gözetim Merkezi Uygulama Usul Ve Esaslarına İlişkin Genelgede Değişiklik . Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Ana Sayfa güncel/2021-32-genelge.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "gen-kara-araclari-sorumluluk-bransinda-dev",
+      "baslik": "Kara Araçları Sorumluluk Branşında Devam Eden Riskler Karşılığına İlişkin Genelge Yayımlandı",
+      "tur": "genelge",
+      "klasor": "belgeler/06-genelgeler/sigortacilik",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Duyurular/Kara Araçları Sorumluluk Branşında Devam Eden Riskler Karşılığına İlişkin Genelge 2021-31.pdf"
+      ],
+      "etiketler": [
+        "genelge",
+        "seddk"
+      ],
+      "ozet": "SEDDK genelge kataloğu: Kara Araçları Sorumluluk Branşında Devam Eden Riskler Karşılığına İlişkin Genelge Yayımlan. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Duyurular/Kara Araçları Sorumluluk Branşında Devam Eden Riskler Karşılığına İlişkin Genelge 2021-31.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "gen-muallak-tazminat-karsiligindan-kaynakl",
+      "baslik": "Muallak Tazminat Karşılığından Kaynaklanan Nakit Akışlarının İskonto Edilmesi Hakkında Genelge Yayımlandı",
+      "tur": "genelge",
+      "klasor": "belgeler/06-genelgeler/sigortacilik",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Duyurular/Muallak Tazminat Karşılığından Kaynaklanan Nakit Akışlarının İskonto Edilmesi Hakkında Genelge.pdf"
+      ],
+      "etiketler": [
+        "genelge",
+        "seddk"
+      ],
+      "ozet": "SEDDK genelge kataloğu: Muallak Tazminat Karşılığından Kaynaklanan Nakit Akışlarının İskonto Edilmesi Hakkında Gen. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Duyurular/Muallak Tazminat Karşılığından Kaynaklanan Nakit Akışlarının İskonto Edilmesi Hakkında Genelge.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-tibbi-kotu-uygulamaya-iliskin-zorunlu-",
+      "baslik": "Tıbbi Kötü Uygulamaya İlişkin Zorunlu Mali Sorumluluk Sigortası Kapsamındaki Makul Giderler Hakkında Sektör Duyurusu Iı",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Ana Sayfa güncel/Tibbi-Kotu-Uygulamaya-Illiskin-Zorunlu-Mali-Sorumluluk-Sigortasi-Kapsamindaki-Makul-Giderler-Hakkinda-Sektor-Duyurusu-hk.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Tıbbi Kötü Uygulamaya İlişkin Zorunlu Mali Sorumluluk Sigortası Kapsamındaki Makul Giderle. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Ana Sayfa güncel/Tibbi-Kotu-Uygulamaya-Illiskin-Zorunlu-Mali-Sorumluluk-Sigortasi-Kapsamindaki-Makul-Giderler-Hakkinda-Sektor-Duyurusu-hk.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-sigortacilik-ve-ozel-emeklilik-duzenle",
+      "baslik": "Sigortacılık Ve Özel Emeklilik Düzenleme Ve Denetleme Kurumu 2020 Yılı Faaliyet Raporu Yayımlandı",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Duyurular/Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumu 2020 Yılı Faaliyet Raporu.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Sigortacılık Ve Özel Emeklilik Düzenleme Ve Denetleme Kurumu 2020 Yılı Faaliyet Raporu Yay. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Duyurular/Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumu 2020 Yılı Faaliyet Raporu.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-tfrs-degisikliklerine-uyum-kapsaminda-",
+      "baslik": "Tfrs Değişikliklerine Uyum Kapsamında Kurum Genel Değerlendirmeleri Hakkında Sektör Duyurusu (sayı 2)",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Ana Sayfa güncel/2021.12-TFRS-Degisikliklerine-Uyum-Kapsaminda-Kurum-Genel-Degerlendirme-Hakkinda-Sektor-Duyurusu-Sayi-2.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Tfrs Değişikliklerine Uyum Kapsamında Kurum Genel Değerlendirmeleri Hakkında Sektör Duyuru. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Ana Sayfa güncel/2021.12-TFRS-Degisikliklerine-Uyum-Kapsaminda-Kurum-Genel-Degerlendirme-Hakkinda-Sektor-Duyurusu-Sayi-2.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "gen-sigorta-branslari-icin-ongorulen-minim",
+      "baslik": "Sigorta Branşları İçin Öngörülen Minimum Sermaye Tutarlarına İlişkin Genelge Yayımlandı",
+      "tur": "genelge",
+      "klasor": "belgeler/06-genelgeler/sigortacilik",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Ana Sayfa güncel/2021-24-sayili-genelge.pdf"
+      ],
+      "etiketler": [
+        "genelge",
+        "seddk"
+      ],
+      "ozet": "SEDDK genelge kataloğu: Sigorta Branşları İçin Öngörülen Minimum Sermaye Tutarlarına İlişkin Genelge Yayımlandı. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Ana Sayfa güncel/2021-24-sayili-genelge.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "gen-sigorta-reasurans-ve-emeklilik-sirketl",
+      "baslik": "Sigorta, Reasürans Ve Emeklilik Şirketlerinin Kar Dağıtımına İlişkin Genelge Yayımlandı",
+      "tur": "genelge",
+      "klasor": "belgeler/06-genelgeler/sigortacilik",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Ana Sayfa güncel/2021-25-sayili-genelge.pdf"
+      ],
+      "etiketler": [
+        "genelge",
+        "seddk"
+      ],
+      "ozet": "SEDDK genelge kataloğu: Sigorta, Reasürans Ve Emeklilik Şirketlerinin Kar Dağıtımına İlişkin Genelge Yayımlandı. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Ana Sayfa güncel/2021-25-sayili-genelge.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "gen-2021-22",
+      "baslik": "Sermaye Yeterlilik Hesaplamasında Yazım Riski İçin Kullanılan Katsayılarda Değişiklik Yapılmasına İlişkin Genelge",
+      "tur": "genelge",
+      "klasor": "belgeler/06-genelgeler/sigortacilik",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": "2021/22",
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Duyurular/Sermaye Yeterlilik Hesaplamasında Yazım Riski İçin Kullanılan Katsayılarda Değişiklik Yapılmasına İlişkin Genelge (2021-22).pdf"
+      ],
+      "etiketler": [
+        "genelge",
+        "seddk"
+      ],
+      "ozet": "SEDDK genelge kataloğu: Sermaye Yeterlilik Hesaplamasında Yazım Riski İçin Kullanılan Katsayılarda Değişiklik Yapı. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Duyurular/Sermaye Yeterlilik Hesaplamasında Yazım Riski İçin Kullanılan Katsayılarda Değişiklik Yapılmasına İlişkin Genelge (2021-22).pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "gen-sermaye-yeterlilik-hesaplamasinda-yazi",
+      "baslik": "Sermaye Yeterlilik Hesaplamasında Yazım Riski İçin Kullanılan Katsayılarda Değişiklik Yapılmasına İlişkin Genelge Yayımlandı",
+      "tur": "genelge",
+      "klasor": "belgeler/06-genelgeler/sigortacilik",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Ana Sayfa güncel/2021-22-sayili-genelge.pdf"
+      ],
+      "etiketler": [
+        "genelge",
+        "seddk"
+      ],
+      "ozet": "SEDDK genelge kataloğu: Sermaye Yeterlilik Hesaplamasında Yazım Riski İçin Kullanılan Katsayılarda Değişiklik Yapı. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Ana Sayfa güncel/2021-22-sayili-genelge.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-tfrs-degisiklerine-uyum-kapsaminda-kur",
+      "baslik": "Tfrs Değişiklerine Uyum Kapsamında Kurumun Genel Değerlendirmeleri Hakkında Sektör Duyurusu (sayı I)",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Ana Sayfa güncel/TFRS17-sektor-duyurusu 2021-11.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Tfrs Değişiklerine Uyum Kapsamında Kurumun Genel Değerlendirmeleri Hakkında Sektör Duyurus. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Ana Sayfa güncel/TFRS17-sektor-duyurusu 2021-11.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-ozel-riskler-yonetim-merkezi-calisma-u",
+      "baslik": "Özel Riskler Yönetim Merkezi Çalışma Usul Ve Esasları Yönetmeliği",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Duyurular/Özel Riskler Yönetim Merkezi Çalışma Usul ve Esasları Yönetmeliği.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Özel Riskler Yönetim Merkezi Çalışma Usul Ve Esasları Yönetmeliği. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Duyurular/Özel Riskler Yönetim Merkezi Çalışma Usul ve Esasları Yönetmeliği.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-gelir-koruma-sigortasi-genel-sartlari",
+      "baslik": "Gelir Koruma Sigortası Genel Şartları",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Ana Sayfa güncel/gelir-koruma-sigortasi-genel-sartlari.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Gelir Koruma Sigortası Genel Şartları. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Ana Sayfa güncel/gelir-koruma-sigortasi-genel-sartlari.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-gelir-koruma-sigortasi-tarife-ve-talim",
+      "baslik": "Gelir Koruma Sigortası Tarife Ve Talimatları",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Ana Sayfa güncel/gelir-koruma-sigortasi-tarife-ve-talimatlari.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Gelir Koruma Sigortası Tarife Ve Talimatları. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Ana Sayfa güncel/gelir-koruma-sigortasi-tarife-ve-talimatlari.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-trafik-kazalari-nedeniyle-ilgililere-s",
+      "baslik": "Trafik Kazaları Nedeniyle İlgililere Sunulan Sağlık Hizmet Bedellerinin Tahsiline İlişkin Usul Ve Esaslar Hakkında Yönetmelikte Değişiklik Yapılmasına",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Duyurular/Trafik Kazaları Nedeniyle İlgililere Sunulan Sağlık Hizmet Bedellerinin Tahsiline İlişkin Usul ve Esaslar Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Trafik Kazaları Nedeniyle İlgililere Sunulan Sağlık Hizmet Bedellerinin Tahsiline İlişkin . Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Duyurular/Trafik Kazaları Nedeniyle İlgililere Sunulan Sağlık Hizmet Bedellerinin Tahsiline İlişkin Usul ve Esaslar Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-sigortacilikta-tahkime-iliskin-yonetme",
+      "baslik": "Sigortacılıkta Tahkime İlişkin Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Duyurular/Sigortacılıkta Tahkime İlişkin Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Sigortacılıkta Tahkime İlişkin Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Duyurular/Sigortacılıkta Tahkime İlişkin Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-3578-sayili-cumhurbaskani-karari",
+      "baslik": "3578 Sayılı Cumhurbaşkanı Kararı",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Ana Sayfa güncel/24.02.2021-tarih-ve-3578-sayili-Cumhurbaskani-Karari.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: 3578 Sayılı Cumhurbaşkanı Kararı. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Ana Sayfa güncel/24.02.2021-tarih-ve-3578-sayili-Cumhurbaskani-Karari.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-devlet-destekli-aricilik-sigortasi-tar",
+      "baslik": "Devlet Destekli Arıcılık Sigortası Tarife Ve Talimatlar",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/UploadContent/Documents/Devlet_Destekli_Ar%C4%B1c%C4%B1l%C4%B1k_Sigortas%C4%B1_Tarife_ve_Talimatlar.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Devlet Destekli Arıcılık Sigortası Tarife Ve Talimatlar. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/UploadContent/Documents/Devlet_Destekli_Ar%C4%B1c%C4%B1l%C4%B1k_Sigortas%C4%B1_Tarife_ve_Talimatlar.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-devlet-destekli-bitkisel-urun-sigortas",
+      "baslik": "Devlet Destekli Bitkisel Ürün Sigortası Tarife Ve Talimatlar",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/UploadContent/Documents/Devlet_Destekli_Bitkisel_%C3%9Cr%C3%BCn_Sigortas%C4%B1_Tarife_ve_Talimatlar.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Devlet Destekli Bitkisel Ürün Sigortası Tarife Ve Talimatlar. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/UploadContent/Documents/Devlet_Destekli_Bitkisel_%C3%9Cr%C3%BCn_Sigortas%C4%B1_Tarife_ve_Talimatlar.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-devlet-destekli-gelir-koruma-sigortasi",
+      "baslik": "Devlet Destekli Gelir Koruma Sigortası Tarife Ve Talimatlar",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/UploadContent/Documents/Devlet_Destekli_Gelir_Koruma_Sigortas%C4%B1_Tarife_ve_Talimatlar.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Devlet Destekli Gelir Koruma Sigortası Tarife Ve Talimatlar. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/UploadContent/Documents/Devlet_Destekli_Gelir_Koruma_Sigortas%C4%B1_Tarife_ve_Talimatlar.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-devlet-destekli-ipek-bocegi-sigortasi-",
+      "baslik": "Devlet Destekli İpek Böceği Sigortası Tarife Ve Talimatlar",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/UploadContent/Documents/Devlet_Destekli_%C4%B0pek_B%C3%B6ce%C4%9Fi_Sigortas%C4%B1_Tarife_ve_Talimatlar.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Devlet Destekli İpek Böceği Sigortası Tarife Ve Talimatlar. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/UploadContent/Documents/Devlet_Destekli_%C4%B0pek_B%C3%B6ce%C4%9Fi_Sigortas%C4%B1_Tarife_ve_Talimatlar.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-devlet-destekli-koy-bazli-verim-tarife",
+      "baslik": "Devlet Destekli Köy Bazlı Verim Tarife Ve Talimatlar",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/UploadContent/Documents/Devlet_Destekli_K%C3%B6y_Bazl%C4%B1_Verim_Tarife_ve_Talimatlar.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Devlet Destekli Köy Bazlı Verim Tarife Ve Talimatlar. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/UploadContent/Documents/Devlet_Destekli_K%C3%B6y_Bazl%C4%B1_Verim_Tarife_ve_Talimatlar.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-devlet-destekli-kumes-hayvanlari-hayat",
+      "baslik": "Devlet Destekli Kümes Hayvanları Hayat Sigortası Tarife Ve Talimatlar",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/UploadContent/Documents/Devlet_Destekli_K%C3%BCmes_Hayvanlar%C4%B1_Hayat_Sigortas%C4%B1_Tarife_ve_Talimatlar.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Devlet Destekli Kümes Hayvanları Hayat Sigortası Tarife Ve Talimatlar. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/UploadContent/Documents/Devlet_Destekli_K%C3%BCmes_Hayvanlar%C4%B1_Hayat_Sigortas%C4%B1_Tarife_ve_Talimatlar.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-devlet-destekli-sera-sigortasi-tarife-",
+      "baslik": "Devlet Destekli Sera Sigortası Tarife Ve Talimatlar",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/UploadContent/Documents/Devlet_Destekli_Sera_Sigortas%C4%B1_Tarife_ve_Talimatlar.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Devlet Destekli Sera Sigortası Tarife Ve Talimatlar. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/UploadContent/Documents/Devlet_Destekli_Sera_Sigortas%C4%B1_Tarife_ve_Talimatlar.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-devlet-destekli-su-urunleri-hayat-sigo",
+      "baslik": "Devlet Destekli Su Ürünleri Hayat Sigortası Tarife Ve Talimatlar",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/UploadContent/Documents/Devlet_Destekli_Su_%C3%9Cr%C3%BCnleri_Hayat_Sigortas%C4%B1_Tarife_ve_Talimatlar.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Devlet Destekli Su Ürünleri Hayat Sigortası Tarife Ve Talimatlar. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/UploadContent/Documents/Devlet_Destekli_Su_%C3%9Cr%C3%BCnleri_Hayat_Sigortas%C4%B1_Tarife_ve_Talimatlar.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "reh-teknik-karsiliklar-denetim-rehberi",
+      "baslik": "Teknik Karşılıklar Denetim Rehberi",
+      "tur": "rehber",
+      "klasor": "belgeler/08-seddk-kurumsal/rehberler",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Teknik Karşılıklar Denetim Rehberi - Ver2023.pdf"
+      ],
+      "etiketler": [
+        "rehber",
+        "seddk"
+      ],
+      "ozet": "SEDDK rehber kataloğu: Teknik Karşılıklar Denetim Rehberi. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Teknik Karşılıklar Denetim Rehberi - Ver2023.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-tahsilat-genel-tebligi-seri-a-sira-no-",
+      "baslik": "Tahsilat Genel Tebliği (seri: A Sıra No: 1)’nde Değişiklik Yapılmasına Dair Tebliğ",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Tahsilat Genel Tebliği Tebliğ (Seri A, No 5).pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Tahsilat Genel Tebliği (seri: A Sıra No: 1)’nde Değişiklik Yapılmasına Dair Tebliğ. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Tahsilat Genel Tebliği Tebliğ (Seri A, No 5).pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-yatirim-fonlarina-iliskin-esaslar-tebl",
+      "baslik": "Yatırım Fonlarına İlişkin Esaslar Tebliğinde Değişiklik Yapılmasına Dair Tebliğ",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Yatırım Fonlarına İl Tebliğ (Seri VIII, No 44).pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Yatırım Fonlarına İlişkin Esaslar Tebliğinde Değişiklik Yapılmasına Dair Tebliğ. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Yatırım Fonlarına İl Tebliğ (Seri VIII, No 44).pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-sermaye-piyasasi-kurulu-nun-23-07-2010",
+      "baslik": "Sermaye Piyasası Kurulu'nun 23.07.2010 Tarihli Ve 21/640 Sayılı Kararı",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Sermaye Piyasası Kurul 21-640 Sayılı Kararı.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Sermaye Piyasası Kurulu'nun 23.07.2010 Tarihli Ve 21/640 Sayılı Kararı. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Sermaye Piyasası Kurul 21-640 Sayılı Kararı.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-2008-1",
+      "baslik": "Finansal Tabloların Sunumu Hakkında Tebliğ",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": "2008/1",
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Finansal Raporların Sunum Teblig(2008-1).pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Finansal Tabloların Sunumu Hakkında Tebliğ. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Finansal Raporların Sunum Teblig(2008-1).pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-gelir-vergisi-genel-tebligi-seri-no-25",
+      "baslik": "Gelir Vergisi Genel Tebliği (seri No: 258)",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Gelir Vergisi Genel Tebliği (Seri No 258).pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Gelir Vergisi Genel Tebliği (seri No: 258). Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Gelir Vergisi Genel Tebliği (Seri No 258).pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-sermaye-piyasasi-kurulunun-03-06-2005-",
+      "baslik": "Sermaye Piyasası Kurulunun 03.06.2005 Tarih Ve 22/719 Sayılı Kararı",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Sermaye Piyasası Kurul 22-719 Sayılı Kararı.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Sermaye Piyasası Kurulunun 03.06.2005 Tarih Ve 22/719 Sayılı Kararı. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Sermaye Piyasası Kurul 22-719 Sayılı Kararı.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-sermaye-piyasasi-kurulunun-30-06-2005-",
+      "baslik": "Sermaye Piyasası Kurulunun 30.06.2005 Tarih Ve 26/843 Sayılı İlke Kararı",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Sermaye Piy Kurul 26-843 sayılı İlke Kararı.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Sermaye Piyasası Kurulunun 30.06.2005 Tarih Ve 26/843 Sayılı İlke Kararı. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Sermaye Piy Kurul 26-843 sayılı İlke Kararı.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-2004-2",
+      "baslik": "Emeklilik Şirketlerindeki Birikimli Hayat Sigortalarından Bireysel Emeklilik Sistemine Aktarımlara İlişkin Tebliğ",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": "2004/2",
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Emeklilik ŞirketlerindekTebliğ (2004-2).pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Emeklilik Şirketlerindeki Birikimli Hayat Sigortalarından Bireysel Emeklilik Sistemine Akt. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Emeklilik ŞirketlerindekTebliğ (2004-2).pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-harclar-kanunu-genel-tebligi-seri-no-4",
+      "baslik": "Harçlar Kanunu Genel Tebliği (seri No: 43)",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Harçlar Kanunu Genel Tebliği (Seri No 43).pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Harçlar Kanunu Genel Tebliği (seri No: 43). Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Harçlar Kanunu Genel Tebliği (Seri No 43).pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-sermaye-piyasasinda-bagimsiz-denetim-h",
+      "baslik": "Sermaye Piyasasında Bağımsız Denetim Hakkında Tebliğde Değişiklik Yapılmasına Dair Tebliğ",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Sermaye Piyasasında  Tebliğ (Seri X, No 20).pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Sermaye Piyasasında Bağımsız Denetim Hakkında Tebliğde Değişiklik Yapılmasına Dair Tebliğ. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Sermaye Piyasasında  Tebliğ (Seri X, No 20).pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-sermaye-piyasasi-kurulu-nun-11-7-2003-",
+      "baslik": "Sermaye Piyasası Kurulu'nun 11.7.2003 Tarih Ve 36/852 Sayılı Kararı",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Ser Piy Kur 36-852 Say Kararı.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Sermaye Piyasası Kurulu'nun 11.7.2003 Tarih Ve 36/852 Sayılı Kararı. Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Ser Piy Kur 36-852 Say Kararı.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
+    },
+    {
+      "id": "duy-katilim-sektor-raporu-2020",
+      "baslik": "Katılım Sektör Raporu (2020)",
+      "tur": "sektor-duyurusu",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://seddk.gov.tr/upload/Katılım Mevzuatı/Diğer Duyurular/katilim-sektor-raporu-2020.pdf"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "seddk"
+      ],
+      "ozet": "SEDDK sektor-duyurusu kataloğu: Katılım Sektör Raporu (2020). Kaynak PDF resmî SEDDK sitesinden.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-20",
+        "kaynak": "https://seddk.gov.tr/upload/Katılım Mevzuatı/Diğer Duyurular/katilim-sektor-raporu-2020.pdf",
+        "yontem": "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"
+      }
     }
   ]
 }
