@@ -665,8 +665,15 @@ belgeler:
 
 # ---------------------------------------------------------------------------
 # 05 — GENEL ŞARTLAR
-# Not: Tüm genel şartların resmî yayın yeri Resmî Gazete / SEDDK'dır.
-# TSB derlemesi ikincil ama pratik bir erişim noktasıdır.
+# Not: Genel şartlar iki gruba ayrılır:
+#  (a) Resmî Gazete'de SAYI ile yayımlananlar — genellikle zorunlu sorumluluk
+#      branşları (ZMSS trafik 29355, tıbbi kötü uygulama 27648, özel güvenlik 25739,
+#      zorunlu deprem/DASK 27933 vb.). Bunlarda rg_tarihi/rg_sayisi doldurulur.
+#  (b) Resmî Gazete'de sayı ile YAYIMLANMAYANLAR — Hazine/SEDDK veya (tarım için)
+#      TARSİM tarafından doğrudan çıkarılıp çoğu yıllık güncellenenler (kasko,
+#      sağlık, hayat, yangın, ferdi kaza, tüm devlet destekli tarım genel şartları).
+#      Bunlarda rg alanı BOŞ bırakılır; yürürlük/güncelleme bilgisi özete yazılır.
+# TSB ve SEDDK derlemeleri pratik erişim noktalarıdır.
 # ---------------------------------------------------------------------------
   - id: gs-zmss-trafik
     baslik: "Karayolları Motorlu Araçlar Zorunlu Mali Sorumluluk Sigortası (Trafik Sigortası) Genel Şartları"
@@ -832,12 +839,13 @@ belgeler:
     brans: [sorumluluk]
     otorite: SEDDK
     numara: null
-    rg_tarihi: null
-    rg_sayisi: null
+    rg_tarihi: "2005-02-26"
+    rg_sayisi: "25739"
     durum: yururlukte
     oncelik: 3
     kaynaklar: ["https://www.tsb.org.tr/tr/mevzuat/sigortacilik/genel-sartlar"]
     etiketler: [ozel-guvenlik, 5188, ucuncu-kisi-zarari]
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-19", yontem: "Resmî Gazete / Lexpera resmî gazete kaydı (genel-sartlari-25739) çevrimiçi teyit; repoda boş olan RG alanı dolduruldu"}
     ozet: "Özel güvenlik görevlilerinin görev sırasında üçüncü kişilere verdiği zararların zorunlu teminatı."
 
   - id: gs-deniz-araclari-zorunlu-sorumluluk
@@ -937,12 +945,13 @@ belgeler:
     brans: [dogal-afet]
     otorite: "SEDDK / DASK"
     numara: null
-    rg_tarihi: null
-    rg_sayisi: null
+    rg_tarihi: "2011-05-13"
+    rg_sayisi: "27933"
     durum: yururlukte
     oncelik: 1
     kaynaklar: ["https://dask.gov.tr", "https://www.tsb.org.tr/tr/mevzuat/sigortacilik/genel-sartlar"]
     etiketler: [dask, zorunlu-deprem, azami-teminat, muafiyet]
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-19", yontem: "Resmî Gazete / DASK / mevzuat.gov.tr çevrimiçi teyit (yürürlük 16.05.2011; önceki 2000/24164 metnin yerine); repoda boş olan RG alanı dolduruldu"}
     ozet: "Zorunlu deprem sigortasının kapsamı, kapsam dışı haller, azami teminat tutarı ve %2 muafiyet uygulaması."
 
   - id: gs-hirsizlik

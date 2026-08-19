@@ -40,7 +40,7 @@
 
 ## Künyesi eksik kayıtlar (Resmî Gazete tarihi girilmemiş)
 
-Toplam **54** kayıt. Resmî metin çekilirken bu alanlar doldurulmalıdır.
+Toplam **52** kayıt. Resmî metin çekilirken bu alanlar doldurulmalıdır.
 
 - `5941-cek-ve-diger-ilgili-mevzuat` — İlgili Diğer Kanunlar Derlemesi (TMK, HMK, İİK, MASAK 5549, KVKK 6698 kesişimleri)
 - `gs-asansor-kazalarinda-sorumluluk` — Asansör Kazalarında Üçüncü Kişilere Karşı Sorumluluk Sigortası Genel Şartları
@@ -74,7 +74,6 @@ Toplam **54** kayıt. Resmî metin çekilirken bu alanlar doldurulmalıdır.
 - `gs-makine-kirilmasi` — Makine Kırılması Sigortası Genel Şartları
 - `gs-mesleki-sorumluluk` — Mesleki Sorumluluk Sigortası Genel Şartları (ve meslek grubu ekleri)
 - `gs-montaj-butun-riskler` — Montaj Sigortası (Bütün Riskler) Genel Şartları
-- `gs-ozel-guvenlik-zorunlu-sorumluluk` — Özel Güvenlik Zorunlu Mali Sorumluluk Sigortası Genel Şartları
 - `gs-saglik` — Sağlık Sigortası Genel Şartları
 - `gs-seyahat-saglik` — Seyahat Sağlık Sigortası Genel Şartları
 - `gs-tehlikeli-maddeler-zorunlu-sorumluluk` — Tehlikeli Maddeler ve Tehlikeli Atık Zorunlu Mali Sorumluluk Sigortası Genel Şartları
@@ -85,7 +84,6 @@ Toplam **54** kayıt. Resmî metin çekilirken bu alanlar doldurulmalıdır.
 - `gs-yangin` — Yangın Sigortası Genel Şartları
 - `gs-yangina-bagli-kar-kaybi` — Yangın Sigortası ile Verilebilecek Kâr Kaybı Sigortası Genel Şartları
 - `gs-yat` — Yat Sigortası Genel Şartları
-- `gs-zorunlu-deprem-dask` — Zorunlu Deprem Sigortası Genel Şartları (DASK)
 - `gs-zorunlu-karayolu-tasimacilik-mali-sorumluluk` — Zorunlu Karayolu Taşımacılık Mali Sorumluluk Sigortası Genel Şartları
 - `gs-zorunlu-koltuk-ferdi-kaza` — Karayolu Yolcu Taşımacılığı Zorunlu Koltuk Ferdi Kaza Sigortası Genel Şartları
 - `teb-aktueryal-zincirleme-merdiven` — Aktüeryal Zincirleme Merdiven Metoduna İlişkin Genelge/Tebliğ
@@ -99,7 +97,7 @@ Toplam **54** kayıt. Resmî metin çekilirken bu alanlar doldurulmalıdır.
 
 ## Künye doğrulama durumu
 
-Resmî kaynaktan (Resmî Gazete / mevzuat.gov.tr / SEDDK) künyesi teyit edilmiş **30** kayıt / toplam 117.
+Resmî kaynaktan (Resmî Gazete / mevzuat.gov.tr / SEDDK) künyesi teyit edilmiş **32** kayıt / toplam 117.
 
 | Kayıt | Resmî Gazete | Doğrulama tarihi |
 | --- | --- | --- |
@@ -115,8 +113,10 @@ Resmî kaynaktan (Resmî Gazete / mevzuat.gov.tr / SEDDK) künyesi teyit edilmi�
 | `6502-tuketicinin-korunmasi` | 2013-11-28 / 28835 | 2026-08-19 |
 | `cbk-1-ilgili-hukumler` | 2018-07-10 / 30474 | 2026-08-19 |
 | `cbk-47-seddk-teskilati` | 2019-10-18 / 30922 | 2026-08-19 |
+| `gs-ozel-guvenlik-zorunlu-sorumluluk` | 2005-02-26 / 25739 | 2026-08-19 |
 | `gs-tibbi-kotu-uygulama` | 2010-07-21 / 27648 | 2026-08-19 |
 | `gs-zmss-trafik` | 2015-05-14 / 29355 | 2026-08-19 |
+| `gs-zorunlu-deprem-dask` | 2011-05-13 / 27933 | 2026-08-19 |
 | `yon-aktuerlik` | 2007-08-15 / 26614 | 2026-08-19 |
 | `yon-bes-hakkinda` | 2012-11-09 / 28462 | 2026-08-19 |
 | `yon-emeklilik-yatirim-fonlari` | 2013-03-13 / 28586 | 2026-08-19 |

@@ -1383,8 +1383,8 @@
       ],
       "otorite": "SEDDK",
       "numara": null,
-      "rg_tarihi": null,
-      "rg_sayisi": null,
+      "rg_tarihi": "2005-02-26",
+      "rg_sayisi": "25739",
       "durum": "yururlukte",
       "oncelik": 3,
       "kaynaklar": [
@@ -1395,6 +1395,11 @@
         5188,
         "ucuncu-kisi-zarari"
       ],
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "yontem": "Resmî Gazete / Lexpera resmî gazete kaydı (genel-sartlari-25739) çevrimiçi teyit; repoda boş olan RG alanı dolduruldu"
+      },
       "ozet": "Özel güvenlik görevlilerinin görev sırasında üçüncü kişilere verdiği zararların zorunlu teminatı."
     },
     {
@@ -1555,8 +1560,8 @@
       ],
       "otorite": "SEDDK / DASK",
       "numara": null,
-      "rg_tarihi": null,
-      "rg_sayisi": null,
+      "rg_tarihi": "2011-05-13",
+      "rg_sayisi": "27933",
       "durum": "yururlukte",
       "oncelik": 1,
       "kaynaklar": [
@@ -1569,6 +1574,11 @@
         "azami-teminat",
         "muafiyet"
       ],
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "yontem": "Resmî Gazete / DASK / mevzuat.gov.tr çevrimiçi teyit (yürürlük 16.05.2011; önceki 2000/24164 metnin yerine); repoda boş olan RG alanı dolduruldu"
+      },
       "ozet": "Zorunlu deprem sigortasının kapsamı, kapsam dışı haller, azami teminat tutarı ve %2 muafiyet uygulaması."
     },
     {

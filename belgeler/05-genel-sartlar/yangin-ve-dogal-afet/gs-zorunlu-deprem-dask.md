@@ -6,8 +6,8 @@ tur_etiket: "Genel Şart"
 otorite: "SEDDK / DASK"
 numara: null
 resmi_gazete:
-  tarih: null
-  sayi: null
+  tarih: "2011-05-13"
+  sayi: "27933"
 durum: yururlukte
 brans: [dogal-afet]
 etiketler: [dask, zorunlu-deprem, azami-teminat, muafiyet]
@@ -17,20 +17,18 @@ kaynaklar:
   - "https://www.tsb.org.tr/tr/mevzuat/sigortacilik/genel-sartlar"
 metin_durumu: iskelet
 dogrulama:
-  durum: dogrulanmadi
-  tarih: null
-  yontem: null
+  durum: dogrulandi
+  tarih: "2026-08-19"
+  yontem: "Resmî Gazete / DASK / mevzuat.gov.tr çevrimiçi teyit (yürürlük 16.05.2011; önceki 2000/24164 metnin yerine); repoda boş olan RG alanı dolduruldu"
 son_guncelleme: "2026-08-19"
 dil: tr
 lisans: "Resmî mevzuat metinleri 5846 s. FSEK m.31 uyarınca serbesttir; bu dosyadaki derleme ve notlar CC BY 4.0"
 ---
 # Zorunlu Deprem Sigortası Genel Şartları (DASK)
 
-> [!WARNING]
-> **Bu dosya bir iskelettir.** Resmî metin henüz eklenmemiştir ve künye bilgileri
-> (Resmî Gazete tarih/sayı, yürürlük durumu) **doğrulanmamıştır**.
-> Hukuki işlem yapmadan önce aşağıdaki resmî kaynaktan teyit edin.
-> Doldurma adımları için bkz. `KATKI-REHBERI.md`.
+> [!NOTE]
+> **Künye doğrulandı** (2026-08-19). Resmî Gazete tarih ve sayısı resmî kaynaktan teyit edilmiştir.
+> Ancak **tam metin henüz eklenmemiştir** (`metin_durumu: iskelet`); madde metinleri için aşağıdaki resmî kaynağa başvurun.
 
 ## Künye
 
@@ -39,9 +37,9 @@ lisans: "Resmî mevzuat metinleri 5846 s. FSEK m.31 uyarınca serbesttir; bu dos
 | Belge türü | Genel Şart |
 | Otorite | SEDDK / DASK |
 | Numara | — |
-| Resmî Gazete | — / — |
+| Resmî Gazete | 2011-05-13 / 27933 |
 | Durum | Yürürlükte |
-| Doğrulama | ⛔ Doğrulanmadı |
+| Doğrulama | ✅ Künye doğrulandı (2026-08-19) |
 | Branş | dogal-afet |
 | Öncelik | 1 |
 

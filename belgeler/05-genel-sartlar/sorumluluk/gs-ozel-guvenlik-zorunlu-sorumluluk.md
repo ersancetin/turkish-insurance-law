@@ -6,8 +6,8 @@ tur_etiket: "Genel Şart"
 otorite: "SEDDK"
 numara: null
 resmi_gazete:
-  tarih: null
-  sayi: null
+  tarih: "2005-02-26"
+  sayi: "25739"
 durum: yururlukte
 brans: [sorumluluk]
 etiketler: [ozel-guvenlik, 5188, ucuncu-kisi-zarari]
@@ -16,20 +16,18 @@ kaynaklar:
   - "https://www.tsb.org.tr/tr/mevzuat/sigortacilik/genel-sartlar"
 metin_durumu: iskelet
 dogrulama:
-  durum: dogrulanmadi
-  tarih: null
-  yontem: null
+  durum: dogrulandi
+  tarih: "2026-08-19"
+  yontem: "Resmî Gazete / Lexpera resmî gazete kaydı (genel-sartlari-25739) çevrimiçi teyit; repoda boş olan RG alanı dolduruldu"
 son_guncelleme: "2026-08-19"
 dil: tr
 lisans: "Resmî mevzuat metinleri 5846 s. FSEK m.31 uyarınca serbesttir; bu dosyadaki derleme ve notlar CC BY 4.0"
 ---
 # Özel Güvenlik Zorunlu Mali Sorumluluk Sigortası Genel Şartları
 
-> [!WARNING]
-> **Bu dosya bir iskelettir.** Resmî metin henüz eklenmemiştir ve künye bilgileri
-> (Resmî Gazete tarih/sayı, yürürlük durumu) **doğrulanmamıştır**.
-> Hukuki işlem yapmadan önce aşağıdaki resmî kaynaktan teyit edin.
-> Doldurma adımları için bkz. `KATKI-REHBERI.md`.
+> [!NOTE]
+> **Künye doğrulandı** (2026-08-19). Resmî Gazete tarih ve sayısı resmî kaynaktan teyit edilmiştir.
+> Ancak **tam metin henüz eklenmemiştir** (`metin_durumu: iskelet`); madde metinleri için aşağıdaki resmî kaynağa başvurun.
 
 ## Künye
 
@@ -38,9 +36,9 @@ lisans: "Resmî mevzuat metinleri 5846 s. FSEK m.31 uyarınca serbesttir; bu dos
 | Belge türü | Genel Şart |
 | Otorite | SEDDK |
 | Numara | — |
-| Resmî Gazete | — / — |
+| Resmî Gazete | 2005-02-26 / 25739 |
 | Durum | Yürürlükte |
-| Doğrulama | ⛔ Doğrulanmadı |
+| Doğrulama | ✅ Künye doğrulandı (2026-08-19) |
 | Branş | sorumluluk |
 | Öncelik | 3 |
 
