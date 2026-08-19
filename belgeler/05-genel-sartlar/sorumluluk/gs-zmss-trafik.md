@@ -66,9 +66,14 @@ Metni eklerken:
 
 ## Değişiklik geçmişi
 
-| Tarih | RG sayısı | Değişikliğin konusu | Not |
+| # | Tarih | RG sayısı | Değişikliğin konusu |
 | --- | --- | --- | --- |
-| — | — | — | _Doldurulacak_ |
+| 1 | 2016-02-02 | 29612 | Genel şartlarda değişiklik (başlıca) |
+| 2 | 2016-08-02 | 29789 | Genel şartlarda değişiklik (başlıca) |
+| 3 | 2020-03-20 | 31074 | Tanımlar ve bazı maddelerde değişiklik; yürürlük 01.04.2020 |
+| 4 | 2021-12-04 | 31679 | Genel şartlarda değişiklik (TSB 06.12.2021 konsolide metin) |
+
+> 4 değişiklik kaydı listelendi. Genel şartlar (özellikle ZMSS trafik) Resmî Gazete'de defalarca değiştirilmiştir; bu tablo başlıca/derlenen değişiklikleri gösterir, **resmî konsolide metin için aşağıdaki kaynağa** başvurun.
 
 ## İlgili belgeler
 

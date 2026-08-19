@@ -65,9 +65,12 @@ Metni eklerken:
 
 ## Değişiklik geçmişi
 
-| Tarih | RG sayısı | Değişikliğin konusu | Not |
+| # | Tarih | RG sayısı | Değişikliğin konusu |
 | --- | --- | --- | --- |
-| — | — | — | _Doldurulacak_ |
+| 1 | 2012-12-29 | 28512 | Yürürlük 01.01.2013; A1, A2, B2, B5, C1, C2, C6 maddelerinde değişiklik (kaynak: DASK resmî sitesi) |
+| 2 | 2015-12-31 | 29579 | Yürürlük 01.01.2016; B4 maddesinde değişiklik (kaynak: DASK resmî sitesi) |
+
+> 2 değişiklik kaydı listelendi. Genel şartlar (özellikle ZMSS trafik) Resmî Gazete'de defalarca değiştirilmiştir; bu tablo başlıca/derlenen değişiklikleri gösterir, **resmî konsolide metin için aşağıdaki kaynağa** başvurun.
 
 ## İlgili belgeler
 

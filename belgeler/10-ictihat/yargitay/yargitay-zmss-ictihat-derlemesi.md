@@ -63,7 +63,7 @@ Metni eklerken:
 
 ## Değişiklik geçmişi
 
-| Tarih | RG sayısı | Değişikliğin konusu | Not |
+| # | Tarih | RG sayısı | Değişikliğin konusu |
 | --- | --- | --- | --- |
 | — | — | — | _Doldurulacak_ |
 

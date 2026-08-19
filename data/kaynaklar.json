@@ -1143,7 +1143,29 @@
         "surekli-sakatlik",
         "ek-tablolar"
       ],
-      "ozet": "Trafik sigortasının kapsamı, teminat dışı haller, tazminat türleri ve ekli hesaplama tabloları; 2015 metni ve sonraki değişiklikleri ile AYM/Danıştay iptalleri birlikte izlenmelidir."
+      "ozet": "Trafik sigortasının kapsamı, teminat dışı haller, tazminat türleri ve ekli hesaplama tabloları; 2015 metni ve sonraki değişiklikleri ile AYM/Danıştay iptalleri birlikte izlenmelidir.",
+      "degisiklikler": [
+        {
+          "tarih": "2016-02-02",
+          "sayi": "29612",
+          "konu": "Genel şartlarda değişiklik (başlıca)"
+        },
+        {
+          "tarih": "2016-08-02",
+          "sayi": "29789",
+          "konu": "Genel şartlarda değişiklik (başlıca)"
+        },
+        {
+          "tarih": "2020-03-20",
+          "sayi": "31074",
+          "konu": "Tanımlar ve bazı maddelerde değişiklik; yürürlük 01.04.2020"
+        },
+        {
+          "tarih": "2021-12-04",
+          "sayi": "31679",
+          "konu": "Genel şartlarda değişiklik (TSB 06.12.2021 konsolide metin)"
+        }
+      ]
     },
     {
       "id": "gs-kasko",
@@ -1587,7 +1609,19 @@
         "kaynak": "https://dask.gov.tr/tr/zds-genel-sartlar",
         "yontem": "DASK resmî sitesinden (dask.gov.tr) doğrudan teyit — sayfa 13.05.2011/27933 yayımını ve değişiklikleri (28512, 29579) belirtiyor; yürürlük 16.05.2011; repoda boş olan RG alanı dolduruldu"
       },
-      "ozet": "Zorunlu deprem sigortasının kapsamı, kapsam dışı haller, azami teminat tutarı ve %2 muafiyet uygulaması."
+      "ozet": "Zorunlu deprem sigortasının kapsamı, kapsam dışı haller, azami teminat tutarı ve %2 muafiyet uygulaması.",
+      "degisiklikler": [
+        {
+          "tarih": "2012-12-29",
+          "sayi": "28512",
+          "konu": "Yürürlük 01.01.2013; A1, A2, B2, B5, C1, C2, C6 maddelerinde değişiklik (kaynak: DASK resmî sitesi)"
+        },
+        {
+          "tarih": "2015-12-31",
+          "sayi": "29579",
+          "konu": "Yürürlük 01.01.2016; B4 maddesinde değişiklik (kaynak: DASK resmî sitesi)"
+        }
+      ]
     },
     {
       "id": "gs-hirsizlik",

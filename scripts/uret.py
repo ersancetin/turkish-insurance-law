@@ -162,6 +162,27 @@ def govde(kayit: dict) -> str:
         )
         dog_satiri = "| Doğrulama | ⛔ Doğrulanmadı |"
 
+    degisiklikler = kayit.get("degisiklikler") or []
+    if degisiklikler:
+        dsatir = ["| # | Tarih | RG sayısı | Değişikliğin konusu |", "| --- | --- | --- | --- |"]
+        for i, d in enumerate(degisiklikler, 1):
+            dsatir.append(
+                f"| {i} | {d.get('tarih') or '—'} | {d.get('sayi') or '—'} | {d.get('konu') or '—'} |"
+            )
+        degisiklik_tablosu = "\n".join(dsatir)
+        degisiklik_not = (
+            f"\n\n> {len(degisiklikler)} değişiklik kaydı listelendi. Genel şartlar (özellikle "
+            "ZMSS trafik) Resmî Gazete'de defalarca değiştirilmiştir; bu tablo başlıca/derlenen "
+            "değişiklikleri gösterir, **resmî konsolide metin için aşağıdaki kaynağa** başvurun."
+        )
+    else:
+        degisiklik_tablosu = (
+            "| # | Tarih | RG sayısı | Değişikliğin konusu |\n"
+            "| --- | --- | --- | --- |\n"
+            "| — | — | — | _Doldurulacak_ |"
+        )
+        degisiklik_not = ""
+
     return f"""
 # {kayit['baslik']}
 
@@ -198,9 +219,7 @@ Metni eklerken:
 
 ## Değişiklik geçmişi
 
-| Tarih | RG sayısı | Değişikliğin konusu | Not |
-| --- | --- | --- | --- |
-| — | — | — | _Doldurulacak_ |
+{degisiklik_tablosu}{degisiklik_not}
 
 ## İlgili belgeler
 
