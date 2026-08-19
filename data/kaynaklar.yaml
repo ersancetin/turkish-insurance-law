@@ -313,6 +313,7 @@ belgeler:
     oncelik: 1
     kaynaklar: ["https://www.seddk.gov.tr/tr/mevzuat/sigortacilik/yonetmelikler"]
     etiketler: [acente, levha-kaydi, teknik-personel, beyaz-liste]
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-19", yontem: "Resmî Gazete (20140422-3) / mevzuat.gov.tr çevrimiçi teyit"}
     ozet: "Acentelik faaliyeti, nitelikler, levha kaydı, teknik personel ve denetim esasları."
 
   - id: yon-sigorta-eksperleri
@@ -401,12 +402,13 @@ belgeler:
     brans: [genel]
     otorite: SEDDK
     numara: null
-    rg_tarihi: null
-    rg_sayisi: null
+    rg_tarihi: "2007-08-15"
+    rg_sayisi: "26614"
     durum: yururlukte
     oncelik: 3
     kaynaklar: ["https://www.seddk.gov.tr/tr/mevzuat/sigortacilik/yonetmelikler"]
     etiketler: [aktuer, aktueryal-rapor, sicil]
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-19", yontem: "Resmî Gazete / mevzuat.gov.tr çevrimiçi teyit (Aktüerler Yönetmeliği, 15.08.2007); repoda boş olan RG alanı dolduruldu"}
     ozet: "Aktüerlerin nitelikleri, sicili ve aktüeryal raporlama yükümlülükleri."
 
   - id: yon-bagimsiz-denetim
@@ -431,12 +433,13 @@ belgeler:
     brans: [genel]
     otorite: SEDDK
     numara: null
-    rg_tarihi: null
-    rg_sayisi: null
+    rg_tarihi: "2021-11-25"
+    rg_sayisi: "31670"
     durum: yururlukte
     oncelik: 3
     kaynaklar: ["https://www.seddk.gov.tr/tr/mevzuat/sigortacilik/yonetmelikler"]
     etiketler: [ic-kontrol, ic-denetim, risk-yonetimi, uyum]
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-19", yontem: "Resmî Gazete / SEDDK çevrimiçi teyit (Sigortacılık ve Özel Emeklilik Sektörlerinde İç Sistemlere Dair Yön., 25.11.2021); repoda boş olan RG alanı dolduruldu"}
     ozet: "İç kontrol, iç denetim, risk yönetimi ve uyum fonksiyonlarının kurulmasına ilişkin esaslar."
 
   - id: yon-sigortacilik-destek-hizmetleri
@@ -446,12 +449,13 @@ belgeler:
     brans: [hasar, genel]
     otorite: SEDDK
     numara: null
-    rg_tarihi: null
-    rg_sayisi: null
+    rg_tarihi: "2015-08-28"
+    rg_sayisi: "29459"
     durum: degisiklik-bekliyor
     oncelik: 1
     kaynaklar: ["https://www.seddk.gov.tr/tr/mevzuat/sigortacilik/yonetmelikler"]
     etiketler: [hasar-yonetimi, asistans, hasar-arastiriciligi, destek-hizmeti, 2026-degisikligi]
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-19", yontem: "Resmî Gazete (20150828-2) / mevzuat.gov.tr çevrimiçi teyit (asıl metin 28.08.2015); repoda boş olan RG alanı dolduruldu"}
     ozet: "Hasar yönetimi, asistans ve hasar araştırmacılığı faaliyetlerinin izne bağlanması; 23/07/2026 değişikliği ile özsermaye ve uyum şartları getirildi."
 
   - id: yon-sigortacilik-kapsaminda-degerlendirilecek-faaliyetler
@@ -498,6 +502,7 @@ belgeler:
     oncelik: 2
     kaynaklar: ["https://www.seddk.gov.tr/tr/mevzuat/sigortacilik/yonetmelikler"]
     etiketler: [hayat-sigortasi, kar-payi, istirak-hakki, birikimli-hayat]
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-19", yontem: "Resmî Gazete / mevzuat.gov.tr çevrimiçi teyit (10.10.2012)"}
     ozet: "Hayat sigortalarında kâr payı, iştira, ikraz ve tarife esasları."
 
   - id: yon-sigortacilikta-tahkim

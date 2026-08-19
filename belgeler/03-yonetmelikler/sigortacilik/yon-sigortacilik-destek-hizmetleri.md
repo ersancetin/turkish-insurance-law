@@ -6,8 +6,8 @@ tur_etiket: "Yönetmelik"
 otorite: "SEDDK"
 numara: null
 resmi_gazete:
-  tarih: null
-  sayi: null
+  tarih: "2015-08-28"
+  sayi: "29459"
 durum: degisiklik-bekliyor
 brans: [hasar, genel]
 etiketler: [hasar-yonetimi, asistans, hasar-arastiriciligi, destek-hizmeti, 2026-degisikligi]
@@ -16,20 +16,18 @@ kaynaklar:
   - "https://www.seddk.gov.tr/tr/mevzuat/sigortacilik/yonetmelikler"
 metin_durumu: iskelet
 dogrulama:
-  durum: dogrulanmadi
-  tarih: null
-  yontem: null
+  durum: dogrulandi
+  tarih: "2026-08-19"
+  yontem: "Resmî Gazete (20150828-2) / mevzuat.gov.tr çevrimiçi teyit (asıl metin 28.08.2015); repoda boş olan RG alanı dolduruldu"
 son_guncelleme: "2026-08-19"
 dil: tr
 lisans: "Resmî mevzuat metinleri 5846 s. FSEK m.31 uyarınca serbesttir; bu dosyadaki derleme ve notlar CC BY 4.0"
 ---
 # Sigortacılık Destek Hizmetleri Hakkında Yönetmelik
 
-> [!WARNING]
-> **Bu dosya bir iskelettir.** Resmî metin henüz eklenmemiştir ve künye bilgileri
-> (Resmî Gazete tarih/sayı, yürürlük durumu) **doğrulanmamıştır**.
-> Hukuki işlem yapmadan önce aşağıdaki resmî kaynaktan teyit edin.
-> Doldurma adımları için bkz. `KATKI-REHBERI.md`.
+> [!NOTE]
+> **Künye doğrulandı** (2026-08-19). Resmî Gazete tarih ve sayısı resmî kaynaktan teyit edilmiştir.
+> Ancak **tam metin henüz eklenmemiştir** (`metin_durumu: iskelet`); madde metinleri için aşağıdaki resmî kaynağa başvurun.
 
 ## Künye
 
@@ -38,9 +36,9 @@ lisans: "Resmî mevzuat metinleri 5846 s. FSEK m.31 uyarınca serbesttir; bu dos
 | Belge türü | Yönetmelik |
 | Otorite | SEDDK |
 | Numara | — |
-| Resmî Gazete | — / — |
+| Resmî Gazete | 2015-08-28 / 29459 |
 | Durum | Yakın tarihli değişiklik içeriyor |
-| Doğrulama | ⛔ Doğrulanmadı |
+| Doğrulama | ✅ Künye doğrulandı (2026-08-19) |
 | Branş | hasar, genel |
 | Öncelik | 1 |
 

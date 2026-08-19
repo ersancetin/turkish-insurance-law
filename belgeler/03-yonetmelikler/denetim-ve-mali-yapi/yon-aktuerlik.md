@@ -6,8 +6,8 @@ tur_etiket: "Yönetmelik"
 otorite: "SEDDK"
 numara: null
 resmi_gazete:
-  tarih: null
-  sayi: null
+  tarih: "2007-08-15"
+  sayi: "26614"
 durum: yururlukte
 brans: [genel]
 etiketler: [aktuer, aktueryal-rapor, sicil]
@@ -16,20 +16,18 @@ kaynaklar:
   - "https://www.seddk.gov.tr/tr/mevzuat/sigortacilik/yonetmelikler"
 metin_durumu: iskelet
 dogrulama:
-  durum: dogrulanmadi
-  tarih: null
-  yontem: null
+  durum: dogrulandi
+  tarih: "2026-08-19"
+  yontem: "Resmî Gazete / mevzuat.gov.tr çevrimiçi teyit (Aktüerler Yönetmeliği, 15.08.2007); repoda boş olan RG alanı dolduruldu"
 son_guncelleme: "2026-08-19"
 dil: tr
 lisans: "Resmî mevzuat metinleri 5846 s. FSEK m.31 uyarınca serbesttir; bu dosyadaki derleme ve notlar CC BY 4.0"
 ---
 # Aktüerlik Yönetmeliği
 
-> [!WARNING]
-> **Bu dosya bir iskelettir.** Resmî metin henüz eklenmemiştir ve künye bilgileri
-> (Resmî Gazete tarih/sayı, yürürlük durumu) **doğrulanmamıştır**.
-> Hukuki işlem yapmadan önce aşağıdaki resmî kaynaktan teyit edin.
-> Doldurma adımları için bkz. `KATKI-REHBERI.md`.
+> [!NOTE]
+> **Künye doğrulandı** (2026-08-19). Resmî Gazete tarih ve sayısı resmî kaynaktan teyit edilmiştir.
+> Ancak **tam metin henüz eklenmemiştir** (`metin_durumu: iskelet`); madde metinleri için aşağıdaki resmî kaynağa başvurun.
 
 ## Künye
 
@@ -38,9 +36,9 @@ lisans: "Resmî mevzuat metinleri 5846 s. FSEK m.31 uyarınca serbesttir; bu dos
 | Belge türü | Yönetmelik |
 | Otorite | SEDDK |
 | Numara | — |
-| Resmî Gazete | — / — |
+| Resmî Gazete | 2007-08-15 / 26614 |
 | Durum | Yürürlükte |
-| Doğrulama | ⛔ Doğrulanmadı |
+| Doğrulama | ✅ Künye doğrulandı (2026-08-19) |
 | Branş | genel |
 | Öncelik | 3 |
 
