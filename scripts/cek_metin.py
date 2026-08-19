@@ -73,6 +73,8 @@ def main():
         yol = KOK / kayit["klasor"] / f"{kayit['id']}.md"
         if not yol.exists():
             atla += 1; continue
+        if re.search(r"^metin_durumu: tam-metin", yol.read_text(encoding="utf-8"), re.M):
+            atla += 1; continue
         no, tur, tertip = hedef
         try:
             metin = html2text(getiframe(no, tur, tertip))
