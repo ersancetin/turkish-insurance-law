@@ -46,7 +46,7 @@ lisans: "Resmî mevzuat metinleri 5846 s. FSEK m.31 uyarınca serbesttir; bu dos
 
 ## Özet
 
-Trafik kazası tedavi giderlerinin SGK'ya devri ve sigorta şirketlerinden tahsil usulü.
+Trafik kazası tedavi giderlerinin SGK'ya devri ve sigorta şirketlerinden tahsil usulü. GÖZDEN GEÇİRİLECEK: RG sayısı 27/08/2011 tarihi için kaynaklarda 28037 ve 28038 olarak farklı görünüyor; resmî kaynaktan teyit edilmeli.
 
 ## Resmî metin
 

@@ -40,7 +40,7 @@
 
 ## Künyesi eksik kayıtlar (Resmî Gazete tarihi girilmemiş)
 
-Toplam **56** kayıt. Resmî metin çekilirken bu alanlar doldurulmalıdır.
+Toplam **57** kayıt. Resmî metin çekilirken bu alanlar doldurulmalıdır.
 
 - `5941-cek-ve-diger-ilgili-mevzuat` — İlgili Diğer Kanunlar Derlemesi (TMK, HMK, İİK, MASAK 5549, KVKK 6698 kesişimleri)
 - `gs-asansor-kazalarinda-sorumluluk` — Asansör Kazalarında Üçüncü Kişilere Karşı Sorumluluk Sigortası Genel Şartları
@@ -65,6 +65,7 @@ Toplam **56** kayıt. Resmî metin çekilirken bu alanlar doldurulmalıdır.
 - `gs-imm-ihtiyari-mali-sorumluluk` — Motorlu Kara Taşıt Araçları İhtiyari Mali Sorumluluk Sigortası Genel Şartları
 - `gs-insaat-butun-riskler` — İnşaat Sigortası (Bütün Riskler) Genel Şartları
 - `gs-isveren-sorumluluk` — İşveren Sorumluluk Sigortası Genel Şartları
+- `gs-kasko` — Kara Araçları Kasko Sigortası Genel Şartları
 - `gs-kefalet` — Kefalet Sigortası Genel Şartları
 - `gs-kiyi-tesisleri-deniz-kirliligi` — Kıyı Tesisleri Deniz Kirliliği Zorunlu Mali Sorumluluk Sigortası Genel Şartları
 - `gs-kiymet-nakliyat` — Kıymet Nakliyat Sigortası Genel Şartları
@@ -101,7 +102,7 @@ Toplam **56** kayıt. Resmî metin çekilirken bu alanlar doldurulmalıdır.
 
 ## Künye doğrulama durumu
 
-Resmî kaynaktan (Resmî Gazete / mevzuat.gov.tr / SEDDK) künyesi teyit edilmiş **20** kayıt / toplam 117.
+Resmî kaynaktan (Resmî Gazete / mevzuat.gov.tr / SEDDK) künyesi teyit edilmiş **25** kayıt / toplam 117.
 
 | Kayıt | Resmî Gazete | Doğrulama tarihi |
 | --- | --- | --- |
@@ -119,9 +120,14 @@ Resmî kaynaktan (Resmî Gazete / mevzuat.gov.tr / SEDDK) künyesi teyit edilmi�
 | `cbk-47-seddk-teskilati` | 2019-10-18 / 30922 | 2026-08-19 |
 | `gs-tibbi-kotu-uygulama` | 2010-07-21 / 27648 | 2026-08-19 |
 | `gs-zmss-trafik` | 2015-05-14 / 29355 | 2026-08-19 |
+| `yon-bes-hakkinda` | 2012-11-09 / 28462 | 2026-08-19 |
+| `yon-emeklilik-yatirim-fonlari` | 2013-03-13 / 28586 | 2026-08-19 |
+| `yon-katilim-sigortaciligi` | 2020-12-19 / 31339 | 2026-08-19 |
 | `yon-kurulus-ve-calisma-esaslari` | 2007-08-24 / 26623 | 2026-08-19 |
 | `yon-mali-bunye` | 2007-08-07 / 26606 | 2026-08-19 |
+| `yon-otomatik-katilim` | 2017-01-02 / 29936 | 2026-08-19 |
 | `yon-ozel-saglik-sigortalari` | 2013-10-23 / 28800 | 2026-08-19 |
+| `yon-sbm` | 2008-08-09 / 26962 | 2026-08-19 |
 | `yon-sigorta-reasurans-brokerleri` | 2008-06-21 / 26913 | 2026-08-19 |
 | `yon-sigortacilikta-tahkim` | 2007-08-17 / 26616 | 2026-08-19 |
 | `yon-teknik-karsiliklar` | 2007-08-07 / 26606 | 2026-08-19 |

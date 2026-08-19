@@ -847,6 +847,11 @@
         "hayat",
         "sagmer"
       ],
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "yontem": "Resmî Gazete / Hazine ve Maliye Bakanlığı / mevzuat.gov.tr çevrimiçi teyit (asıl metin 09.08.2008)"
+      },
       "ozet": "SBM'nin görevleri, veri toplama ve paylaşım esasları; 23/06/2026 tarihli değişiklikle güncellendi."
     },
     {
@@ -874,7 +879,7 @@
         "hasarsizlik-indirimi",
         "riskli-sigortalilar-havuzu"
       ],
-      "ozet": "Trafik sigortasında azami prim tarifesi, basamak (hasarsızlık) sistemi ve havuz uygulaması."
+      "ozet": "Trafik sigortasında azami prim tarifesi, basamak (hasarsızlık) sistemi ve havuz uygulaması. GÖZDEN GEÇİRİLECEK: Künyedeki 2017-07-14/30124 doğrulanamadı; yönetmeliğin asıl yayımı 14/07/2007 (RG 26582) olup basamak sistemi sonraki değişikliklerle gelmiştir — hangi metnin esas alındığı resmî kaynaktan netleştirilmeli."
     },
     {
       "id": "yon-trafik-kazasi-saglik-bedelleri",
@@ -899,7 +904,7 @@
         "sgk-devri",
         "ktk-gecici-madde-1"
       ],
-      "ozet": "Trafik kazası tedavi giderlerinin SGK'ya devri ve sigorta şirketlerinden tahsil usulü."
+      "ozet": "Trafik kazası tedavi giderlerinin SGK'ya devri ve sigorta şirketlerinden tahsil usulü. GÖZDEN GEÇİRİLECEK: RG sayısı 27/08/2011 tarihi için kaynaklarda 28037 ve 28038 olarak farklı görünüyor; resmî kaynaktan teyit edilmeli."
     },
     {
       "id": "yon-katilim-sigortaciligi",
@@ -924,6 +929,11 @@
         "danisma-komitesi",
         "vekalet-mudarebe"
       ],
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "yontem": "Resmî Gazete / mevzuat.gov.tr çevrimiçi teyit (19.12.2020 tarihli metin; 2017/30186 yönetmeliği ilga edildi)"
+      },
       "ozet": "Katılım (tekafül) esaslı sigortacılıkta risk fonu, danışma komitesi ve yönetim modelleri."
     },
     {
@@ -949,6 +959,11 @@
         "kesinti",
         "aktarim"
       ],
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "yontem": "Resmî Gazete (20121109-2) / mevzuat.gov.tr çevrimiçi teyit"
+      },
       "ozet": "Emeklilik sözleşmesi, kesintiler, aktarım ve sistemden çıkış esasları."
     },
     {
@@ -973,6 +988,11 @@
         "portfoy-yonetimi",
         "fon-turleri"
       ],
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "yontem": "Resmî Gazete / mevzuat.gov.tr çevrimiçi teyit (asıl metin 13.03.2013)"
+      },
       "ozet": "Emeklilik yatırım fonlarının kuruluşu, portföy sınırlamaları ve gözetimi."
     },
     {
@@ -998,6 +1018,11 @@
         "cayma-hakki",
         "isveren-yukumlulugu"
       ],
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "yontem": "Resmî Gazete / mevzuat.gov.tr çevrimiçi teyit (BKK 2017/9721)"
+      },
       "ozet": "Otomatik katılım sisteminde işveren yükümlülükleri, cayma ve devlet katkısı."
     },
     {
@@ -1098,7 +1123,7 @@
       ],
       "otorite": "SEDDK",
       "numara": null,
-      "rg_tarihi": "2013-01-01",
+      "rg_tarihi": null,
       "rg_sayisi": null,
       "durum": "yururlukte",
       "oncelik": 1,
@@ -1114,7 +1139,7 @@
         "cari-teminat",
         "dar-kasko"
       ],
-      "ozet": "Kasko teminat kapsamı, ek sözleşmeyle teminat altına alınabilecek haller, teminat dışı haller ve hasar ödeme esasları."
+      "ozet": "Kasko teminat kapsamı, ek sözleşmeyle teminat altına alınabilecek haller, teminat dışı haller ve hasar ödeme esasları. Not: Bu genel şart Hazine Müsteşarlığı tarafından çıkarılmış olup Resmî Gazete'de sayı ile yayımlanmamıştır; yürürlük 01/04/2013, son değişiklik 01/06/2015 (kaynak: TSB derlemesi)."
     },
     {
       "id": "gs-imm-ihtiyari-mali-sorumluluk",

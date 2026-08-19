@@ -46,7 +46,7 @@ lisans: "Resmî mevzuat metinleri 5846 s. FSEK m.31 uyarınca serbesttir; bu dos
 
 ## Özet
 
-Trafik sigortasında azami prim tarifesi, basamak (hasarsızlık) sistemi ve havuz uygulaması.
+Trafik sigortasında azami prim tarifesi, basamak (hasarsızlık) sistemi ve havuz uygulaması. GÖZDEN GEÇİRİLECEK: Künyedeki 2017-07-14/30124 doğrulanamadı; yönetmeliğin asıl yayımı 14/07/2007 (RG 26582) olup basamak sistemi sonraki değişikliklerle gelmiştir — hangi metnin esas alındığı resmî kaynaktan netleştirilmeli.
 
 ## Resmî metin
 

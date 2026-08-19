@@ -6,7 +6,7 @@ tur_etiket: "Genel Şart"
 otorite: "SEDDK"
 numara: null
 resmi_gazete:
-  tarih: "2013-01-01"
+  tarih: null
   sayi: null
 durum: yururlukte
 brans: [kara-araclari]
@@ -39,7 +39,7 @@ lisans: "Resmî mevzuat metinleri 5846 s. FSEK m.31 uyarınca serbesttir; bu dos
 | Belge türü | Genel Şart |
 | Otorite | SEDDK |
 | Numara | — |
-| Resmî Gazete | 2013-01-01 / — |
+| Resmî Gazete | — / — |
 | Durum | Yürürlükte |
 | Doğrulama | ⛔ Doğrulanmadı |
 | Branş | kara-araclari |
@@ -47,7 +47,7 @@ lisans: "Resmî mevzuat metinleri 5846 s. FSEK m.31 uyarınca serbesttir; bu dos
 
 ## Özet
 
-Kasko teminat kapsamı, ek sözleşmeyle teminat altına alınabilecek haller, teminat dışı haller ve hasar ödeme esasları.
+Kasko teminat kapsamı, ek sözleşmeyle teminat altına alınabilecek haller, teminat dışı haller ve hasar ödeme esasları. Not: Bu genel şart Hazine Müsteşarlığı tarafından çıkarılmış olup Resmî Gazete'de sayı ile yayımlanmamıştır; yürürlük 01/04/2013, son değişiklik 01/06/2015 (kaynak: TSB derlemesi).
 
 ## Resmî metin
 

@@ -531,6 +531,7 @@ belgeler:
     oncelik: 2
     kaynaklar: ["https://www.seddk.gov.tr/tr/mevzuat/sigortacilik/yonetmelikler"]
     etiketler: [sbm, veri-paylasimi, hasar-gecmisi, tramer, hayat, sagmer]
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-19", yontem: "Resmî Gazete / Hazine ve Maliye Bakanlığı / mevzuat.gov.tr çevrimiçi teyit (asıl metin 09.08.2008)"}
     ozet: "SBM'nin görevleri, veri toplama ve paylaşım esasları; 23/06/2026 tarihli değişiklikle güncellendi."
 
   - id: yon-zmss-tarife-uygulama-esaslari
@@ -546,7 +547,7 @@ belgeler:
     oncelik: 1
     kaynaklar: ["https://www.seddk.gov.tr/tr/mevzuat/sigortacilik/yonetmelikler"]
     etiketler: [zmss, azami-prim, basamak-sistemi, hasarsizlik-indirimi, riskli-sigortalilar-havuzu]
-    ozet: "Trafik sigortasında azami prim tarifesi, basamak (hasarsızlık) sistemi ve havuz uygulaması."
+    ozet: "Trafik sigortasında azami prim tarifesi, basamak (hasarsızlık) sistemi ve havuz uygulaması. GÖZDEN GEÇİRİLECEK: Künyedeki 2017-07-14/30124 doğrulanamadı; yönetmeliğin asıl yayımı 14/07/2007 (RG 26582) olup basamak sistemi sonraki değişikliklerle gelmiştir — hangi metnin esas alındığı resmî kaynaktan netleştirilmeli."
 
   - id: yon-trafik-kazasi-saglik-bedelleri
     baslik: "Trafik Kazaları Nedeniyle İlgililere Sunulan Sağlık Hizmet Bedellerinin Tahsiline İlişkin Usul ve Esaslar Hakkında Yönetmelik"
@@ -561,7 +562,7 @@ belgeler:
     oncelik: 2
     kaynaklar: ["https://www.mevzuat.gov.tr"]
     etiketler: [tedavi-gideri, sgk-devri, ktk-gecici-madde-1]
-    ozet: "Trafik kazası tedavi giderlerinin SGK'ya devri ve sigorta şirketlerinden tahsil usulü."
+    ozet: "Trafik kazası tedavi giderlerinin SGK'ya devri ve sigorta şirketlerinden tahsil usulü. GÖZDEN GEÇİRİLECEK: RG sayısı 27/08/2011 tarihi için kaynaklarda 28037 ve 28038 olarak farklı görünüyor; resmî kaynaktan teyit edilmeli."
 
   - id: yon-katilim-sigortaciligi
     baslik: "Katılım Sigortacılığı Çalışma Usul ve Esasları Hakkında Yönetmelik"
@@ -576,6 +577,7 @@ belgeler:
     oncelik: 2
     kaynaklar: ["https://www.seddk.gov.tr/tr/mevzuat"]
     etiketler: [tekafül, risk-fonu, danisma-komitesi, vekalet-mudarebe]
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-19", yontem: "Resmî Gazete / mevzuat.gov.tr çevrimiçi teyit (19.12.2020 tarihli metin; 2017/30186 yönetmeliği ilga edildi)"}
     ozet: "Katılım (tekafül) esaslı sigortacılıkta risk fonu, danışma komitesi ve yönetim modelleri."
 
   - id: yon-bes-hakkinda
@@ -591,6 +593,7 @@ belgeler:
     oncelik: 2
     kaynaklar: ["https://www.seddk.gov.tr/tr/mevzuat/bireysel-emeklilik/genelge-teblig-ve-sektor-duyurulari"]
     etiketler: [bes, emeklilik-sozlesmesi, kesinti, aktarim]
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-19", yontem: "Resmî Gazete (20121109-2) / mevzuat.gov.tr çevrimiçi teyit"}
     ozet: "Emeklilik sözleşmesi, kesintiler, aktarım ve sistemden çıkış esasları."
 
   - id: yon-emeklilik-yatirim-fonlari
@@ -606,6 +609,7 @@ belgeler:
     oncelik: 3
     kaynaklar: ["https://www.seddk.gov.tr/tr/mevzuat"]
     etiketler: [emeklilik-yatirim-fonu, portfoy-yonetimi, fon-turleri]
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-19", yontem: "Resmî Gazete / mevzuat.gov.tr çevrimiçi teyit (asıl metin 13.03.2013)"}
     ozet: "Emeklilik yatırım fonlarının kuruluşu, portföy sınırlamaları ve gözetimi."
 
   - id: yon-otomatik-katilim
@@ -621,6 +625,7 @@ belgeler:
     oncelik: 3
     kaynaklar: ["https://www.seddk.gov.tr/tr/mevzuat"]
     etiketler: [otomatik-katilim, oks, cayma-hakki, isveren-yukumlulugu]
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-19", yontem: "Resmî Gazete / mevzuat.gov.tr çevrimiçi teyit (BKK 2017/9721)"}
     ozet: "Otomatik katılım sisteminde işveren yükümlülükleri, cayma ve devlet katkısı."
 
   - id: yon-dask-calisma-esaslari
@@ -684,7 +689,7 @@ belgeler:
     brans: [kara-araclari]
     otorite: SEDDK
     numara: null
-    rg_tarihi: "2013-01-01"
+    rg_tarihi: null
     rg_sayisi: null
     durum: yururlukte
     oncelik: 1
@@ -692,7 +697,7 @@ belgeler:
       - "https://www.tsb.org.tr/content/Legislations/Kara_Araclar%C4%B1_Kasko_Sigortas%C4%B1_Genel_Sartlar%C4%B1.pdf"
       - "https://www.tsb.org.tr/tr/mevzuat/sigortacilik/genel-sartlar"
     etiketler: [kasko, pert, rayic-deger, muafiyet, cari-teminat, dar-kasko]
-    ozet: "Kasko teminat kapsamı, ek sözleşmeyle teminat altına alınabilecek haller, teminat dışı haller ve hasar ödeme esasları."
+    ozet: "Kasko teminat kapsamı, ek sözleşmeyle teminat altına alınabilecek haller, teminat dışı haller ve hasar ödeme esasları. Not: Bu genel şart Hazine Müsteşarlığı tarafından çıkarılmış olup Resmî Gazete'de sayı ile yayımlanmamıştır; yürürlük 01/04/2013, son değişiklik 01/06/2015 (kaynak: TSB derlemesi)."
 
   - id: gs-imm-ihtiyari-mali-sorumluluk
     baslik: "Motorlu Kara Taşıt Araçları İhtiyari Mali Sorumluluk Sigortası Genel Şartları"
