@@ -546,13 +546,14 @@ belgeler:
     brans: [sorumluluk, motorlu-arac]
     otorite: SEDDK
     numara: null
-    rg_tarihi: "2017-07-14"
-    rg_sayisi: "30124"
+    rg_tarihi: "2007-07-14"
+    rg_sayisi: "26582"
     durum: yururlukte
     oncelik: 1
     kaynaklar: ["https://www.seddk.gov.tr/tr/mevzuat/sigortacilik/yonetmelikler"]
     etiketler: [zmss, azami-prim, basamak-sistemi, hasarsizlik-indirimi, riskli-sigortalilar-havuzu]
-    ozet: "Trafik sigortasında azami prim tarifesi, basamak (hasarsızlık) sistemi ve havuz uygulaması. GÖZDEN GEÇİRİLECEK: Künyedeki 2017-07-14/30124 doğrulanamadı; yönetmeliğin asıl yayımı 14/07/2007 (RG 26582) olup basamak sistemi sonraki değişikliklerle gelmiştir — hangi metnin esas alındığı resmî kaynaktan netleştirilmeli."
+    ozet: "Trafik sigortasında azami prim tarifesi, basamak (hasarsızlık) sistemi ve havuz uygulaması. Yönetmeliğin asıl yayımı 14/07/2007 (RG 26582); basamak sistemi sonraki değişikliklerle gelmiştir."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-19", kaynak: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=11444&MevzuatTur=7&MevzuatTertip=5", yontem: "mevzuat.gov.tr DataTable arama API'sinden DOĞRUDAN teyit (no 11444) — künye 14/07/2007-26582; repodaki hatalı 2017-07-14/30124 düzeltildi"}
 
   - id: yon-trafik-kazasi-saglik-bedelleri
     baslik: "Trafik Kazaları Nedeniyle İlgililere Sunulan Sağlık Hizmet Bedellerinin Tahsiline İlişkin Usul ve Esaslar Hakkında Yönetmelik"
@@ -562,12 +563,13 @@ belgeler:
     otorite: "Hazine ve Maliye Bakanlığı / SGK"
     numara: null
     rg_tarihi: "2011-08-27"
-    rg_sayisi: "28037"
+    rg_sayisi: "28038"
     durum: yururlukte
     oncelik: 2
     kaynaklar: ["https://www.mevzuat.gov.tr"]
     etiketler: [tedavi-gideri, sgk-devri, ktk-gecici-madde-1]
-    ozet: "Trafik kazası tedavi giderlerinin SGK'ya devri ve sigorta şirketlerinden tahsil usulü. GÖZDEN GEÇİRİLECEK: RG sayısı 27/08/2011 tarihi için kaynaklarda 28037 ve 28038 olarak farklı görünüyor; resmî kaynaktan teyit edilmeli."
+    ozet: "Trafik kazası tedavi giderlerinin SGK'ya devri ve sigorta şirketlerinden tahsil usulü."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-19", kaynak: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=15259&MevzuatTur=7&MevzuatTertip=5", yontem: "mevzuat.gov.tr DataTable arama API'sinden DOĞRUDAN teyit (no 15259) — künye 27/08/2011-28038; repodaki hatalı 28037 düzeltildi"}
 
   - id: yon-katilim-sigortaciligi
     baslik: "Katılım Sigortacılığı Çalışma Usul ve Esasları Hakkında Yönetmelik"

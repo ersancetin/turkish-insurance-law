@@ -95,7 +95,7 @@ Toplam **50** kayıt. Resmî metin çekilirken bu alanlar doldurulmalıdır.
 
 ## Künye doğrulama durumu
 
-Resmî kaynaktan (Resmî Gazete / mevzuat.gov.tr / SEDDK) künyesi teyit edilmiş **34** kayıt / toplam 117.
+Resmî kaynaktan (Resmî Gazete / mevzuat.gov.tr / SEDDK) künyesi teyit edilmiş **36** kayıt / toplam 117.
 
 | Kayıt | Resmî Gazete | Doğrulama tarihi |
 | --- | --- | --- |
@@ -133,6 +133,8 @@ Resmî kaynaktan (Resmî Gazete / mevzuat.gov.tr / SEDDK) künyesi teyit edilmi�
 | `yon-sigortacilik-destek-hizmetleri` | 2015-08-28 / 29459 | 2026-08-19 |
 | `yon-sigortacilikta-tahkim` | 2007-08-17 / 26616 | 2026-08-19 |
 | `yon-teknik-karsiliklar` | 2007-08-07 / 26606 | 2026-08-19 |
+| `yon-trafik-kazasi-saglik-bedelleri` | 2011-08-27 / 28038 | 2026-08-19 |
+| `yon-zmss-tarife-uygulama-esaslari` | 2007-07-14 / 26582 | 2026-08-19 |
 
 ## Doğrulama uyarısı
 

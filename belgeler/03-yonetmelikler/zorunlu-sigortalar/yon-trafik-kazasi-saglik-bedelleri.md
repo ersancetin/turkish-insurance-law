@@ -7,7 +7,7 @@ otorite: "Hazine ve Maliye Bakanlığı / SGK"
 numara: null
 resmi_gazete:
   tarih: "2011-08-27"
-  sayi: "28037"
+  sayi: "28038"
 durum: yururlukte
 brans: [sorumluluk, saglik]
 etiketler: [tedavi-gideri, sgk-devri, ktk-gecici-madde-1]
@@ -16,21 +16,22 @@ kaynaklar:
   - "https://www.mevzuat.gov.tr"
 metin_durumu: iskelet
 dogrulama:
-  durum: dogrulanmadi
-  tarih: null
-  kaynak: null
-  yontem: null
+  durum: dogrulandi
+  tarih: "2026-08-19"
+  kaynak: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=15259&MevzuatTur=7&MevzuatTertip=5"
+  yontem: "mevzuat.gov.tr DataTable arama API'sinden DOĞRUDAN teyit (no 15259) — künye 27/08/2011-28038; repodaki hatalı 28037 düzeltildi"
 son_guncelleme: "2026-08-19"
 dil: tr
 lisans: "Resmî mevzuat metinleri 5846 s. FSEK m.31 uyarınca serbesttir; bu dosyadaki derleme ve notlar CC BY 4.0"
 ---
 # Trafik Kazaları Nedeniyle İlgililere Sunulan Sağlık Hizmet Bedellerinin Tahsiline İlişkin Usul ve Esaslar Hakkında Yönetmelik
 
-> [!WARNING]
-> **Bu dosya bir iskelettir.** Resmî metin henüz eklenmemiştir ve künye bilgileri
-> (Resmî Gazete tarih/sayı, yürürlük durumu) **doğrulanmamıştır**.
-> Hukuki işlem yapmadan önce aşağıdaki resmî kaynaktan teyit edin.
-> Doldurma adımları için bkz. `KATKI-REHBERI.md`.
+> [!NOTE]
+> **Künye doğrulandı.** Resmî Gazete tarih ve sayısı resmî kaynaktan teyit edilmiştir.
+> - **Doğrulama kaynağı (resmî kurum):** <https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=15259&MevzuatTur=7&MevzuatTertip=5>
+> - **Erişim / doğrulama tarihi:** 2026-08-19
+> - **Yöntem:** mevzuat.gov.tr DataTable arama API'sinden DOĞRUDAN teyit (no 15259) — künye 27/08/2011-28038; repodaki hatalı 28037 düzeltildi
+> - **Tam metin durumu:** henüz eklenmedi (`metin_durumu: iskelet`); madde metinleri için aşağıdaki resmî kaynağa başvurun.
 
 ## Künye
 
@@ -39,15 +40,15 @@ lisans: "Resmî mevzuat metinleri 5846 s. FSEK m.31 uyarınca serbesttir; bu dos
 | Belge türü | Yönetmelik |
 | Otorite | Hazine ve Maliye Bakanlığı / SGK |
 | Numara | — |
-| Resmî Gazete | 2011-08-27 / 28037 |
+| Resmî Gazete | 2011-08-27 / 28038 |
 | Durum | Yürürlükte |
-| Doğrulama | ⛔ Doğrulanmadı |
+| Doğrulama | ✅ Künye doğrulandı — 2026-08-19 |
 | Branş | sorumluluk, saglik |
 | Öncelik | 2 |
 
 ## Özet
 
-Trafik kazası tedavi giderlerinin SGK'ya devri ve sigorta şirketlerinden tahsil usulü. GÖZDEN GEÇİRİLECEK: RG sayısı 27/08/2011 tarihi için kaynaklarda 28037 ve 28038 olarak farklı görünüyor; resmî kaynaktan teyit edilmeli.
+Trafik kazası tedavi giderlerinin SGK'ya devri ve sigorta şirketlerinden tahsil usulü.
 
 ## Resmî metin
 
