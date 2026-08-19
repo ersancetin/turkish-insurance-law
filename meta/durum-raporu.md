@@ -2,14 +2,14 @@
 
 > Otomatik üretilir (`scripts/uret.py`). Deponun kapsam ve tamamlanma durumunu gösterir.
 
-- **Kütükteki kayıt sayısı:** 1151
+- **Kütükteki kayıt sayısı:** 1156
 - **Tam metin eklenmiş belge sayısı:** dosyaların `metin_durumu` alanından hesaplanır (aşağıdaki tabloya bakın).
 
 ## Belge türüne göre dağılım
 
 | Tür | Adet |
 | --- | --- |
-| Sektör Duyurusu | 453 |
+| Sektör Duyurusu | 458 |
 | Genelge | 440 |
 | Yargı Kararı | 86 |
 | Yönetmelik | 62 |
@@ -28,7 +28,7 @@
 
 | Durum | Adet |
 | --- | --- |
-| Yürürlükte | 1145 |
+| Yürürlükte | 1150 |
 | Kısmen iptal edilmiş | 3 |
 | Yakın tarihli değişiklik içeriyor | 3 |
 
@@ -38,7 +38,7 @@
 | --- | --- | --- |
 | P1 | 41 | Kritik — önce toplanacak |
 | P2 | 112 | Önemli |
-| P3 | 998 | Tamamlayıcı |
+| P3 | 1003 | Tamamlayıcı |
 
 ## Künyesi eksik kayıtlar (Resmî Gazete tarihi girilmemiş)
 
@@ -92,7 +92,7 @@ Toplam **45** kayıt. Resmî metin çekilirken bu alanlar doldurulmalıdır.
 
 ## Künye doğrulama durumu
 
-Resmî kaynaktan (Resmî Gazete / mevzuat.gov.tr / SEDDK) künyesi teyit edilmiş **1076** kayıt / toplam 1151.
+Resmî kaynaktan (Resmî Gazete / mevzuat.gov.tr / SEDDK) künyesi teyit edilmiş **1081** kayıt / toplam 1156.
 
 | Kayıt | Resmî Gazete | Doğrulama tarihi |
 | --- | --- | --- |
@@ -1027,6 +1027,11 @@ Resmî kaynaktan (Resmî Gazete / mevzuat.gov.tr / SEDDK) künyesi teyit edilmi�
 | `tahkim-duyuru-manset-58` | — / — | 2026-08-20 |
 | `tahkim-duyuru-manset-59` | — / — | 2026-08-20 |
 | `tahkim-duyuru-manset-6` | — / — | 2026-08-20 |
+| `tahkim-duyuru-manset-60` | — / — | 2026-08-20 |
+| `tahkim-duyuru-manset-63` | — / — | 2026-08-20 |
+| `tahkim-duyuru-manset-65` | — / — | 2026-08-20 |
+| `tahkim-duyuru-manset-66` | — / — | 2026-08-20 |
+| `tahkim-duyuru-manset-67` | — / — | 2026-08-20 |
 | `tahkim-duyuru-manset-7` | — / — | 2026-08-20 |
 | `tahkim-duyuru-manset-8` | — / — | 2026-08-20 |
 | `tahkim-duyuru-manset-9` | — / — | 2026-08-20 |

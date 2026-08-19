@@ -3,7 +3,7 @@
 > Bu dosya `scripts/uret.py` tarafından **otomatik üretilir**. Elle düzenlemeyin;
 > değişiklik için `data/kaynaklar.yaml` dosyasını güncelleyip betiği yeniden çalıştırın.
 
-**Toplam kayıt:** 1151  |  **Kütük sürümü:** 0.1.0  |  **Güncelleme:** 2026-08-19
+**Toplam kayıt:** 1156  |  **Kütük sürümü:** 0.1.0  |  **Güncelleme:** 2026-08-19
 
 Durum rozetleri: ✅ yürürlükte · ⚠️ kısmen iptal · 🔄 yakın değişiklik · ⛔ mülga · ❔ bilinmiyor
 
@@ -1180,37 +1180,42 @@ Durum rozetleri: ✅ yürürlükte · ⚠️ kısmen iptal · 🔄 yakın deği�
 | 8 | [Baro Pulu Ödemelerinin Baro Kart Üzerinden Online Olarak Tahsil Edilmesi Türkiye Barolar B](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-10.md) | Sektör Duyurusu | ✅ | P3 |
 | 9 | [Başvuru Formunda Yapılan Güncelleme Hakkında Sigortacılıkta Tahkime İlişkin Yönetmeliğin 1](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-13.md) | Sektör Duyurusu | ✅ | P3 |
 | 10 | [Başvuru Formunun Otomatik Şekilde Oluşturulmasına Dair Sistemsel Geliştirme Tahkim Sisteml](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-32.md) | Sektör Duyurusu | ✅ | P3 |
-| 11 | [Başvuru Ücret Tarifesinde Yapılan Güncelleme 5684 Sayılı Sigortacılık Kanunu’nun 30’uncu M](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-33.md) | Sektör Duyurusu | ✅ | P3 |
-| 12 | [Başvuru Ücret Tarifesinin Uygulanmasına Dair Usul Ve Esaslar 15/01/2025 Tarihinde Yürürlüğ](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-34.md) | Sektör Duyurusu | ✅ | P3 |
-| 13 | [Bilirkişi Listelerinde Güncelleme Yapılacaktır Komisyon Nezdinde Tutulan Bilirkişilik List](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-12.md) | Sektör Duyurusu | ✅ | P3 |
-| 14 | [Bilirkişi Listelerinin Alım Yolu İle Güncellenmesi Sigorta Tahkim Komisyonu Bilirkişilik Y](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-36.md) | Sektör Duyurusu | ✅ | P3 |
-| 15 | [Bilirkişi Listelerinin Alım Yolu İle Güncellenmesi Sigorta Tahkim Komisyonu Bilirkişilik Y](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-58.md) | Sektör Duyurusu | ✅ | P3 |
-| 16 | [Bilirkişi Ücret Tarifesinde Yapılan Güncelleme Sigorta Tahkim Komisyonu Bilirkişilik Ücret](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-25.md) | Sektör Duyurusu | ✅ | P3 |
-| 17 | [Bilirkişi Ücretlerinin Sanal Pos Yöntemi İle Tahsili Hakkında Tahkim Sistemlerinde Yapılan](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-38.md) | Sektör Duyurusu | ✅ | P3 |
-| 18 | [Deprem Bölgesinde İşleyen Sürelerin Durdurulması Ülkemizde Yaşanan Ve Aşağıdaki İllerimizi](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-8.md) | Sektör Duyurusu | ✅ | P3 |
-| 19 | [Elektronik Ortamda Satın Alınan Vekalet Pullarına (baro Pullarına) İlişkin Önemli Duyuru T](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-47.md) | Sektör Duyurusu | ✅ | P3 |
-| 20 | [Elektronik Ortamda Satın Alınan Vekâlet Pullarına (baro Pullarına) İlişkin Önemli Duyuru D](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-51.md) | Sektör Duyurusu | ✅ | P3 |
-| 21 | [Islah / Bedel Artırım İşlemleri Hakkında Sistemsel Geliştirme Tahkim Sistemlerinde Yapılan](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-54.md) | Sektör Duyurusu | ✅ | P3 |
-| 22 | [Komisyon Banka Hesaplarına Fazla/sehven Yatırılan Ücret Veya Paraların İadesine Yönelik Us](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-37.md) | Sektör Duyurusu | ✅ | P3 |
-| 23 | [Komisyon Başkanlığı Kararları 5684 Sayılı Sigortacılık Kanunu’nun 30’uncu Maddesinin Komis](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-2.md) | Sektör Duyurusu | ✅ | P3 |
-| 24 | [Komisyon Başkanlığının 07.04.2023 Tarihli Ek Duyurusu 05.01.2023 Tarihli Resmî Gazetede Ya](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-6.md) | Sektör Duyurusu | ✅ | P3 |
-| 25 | [Komisyon Başkanlığının 13.02.2023 Tarihli Ek Duyurusu Komisyonumuz Tarafından Yapılan 08.0](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-7.md) | Sektör Duyurusu | ✅ | P3 |
-| 26 | [Komisyona Başvuru Esnasında Hasar Dosyası Seçimi Sigorta Tahkim Komisyonu, Sigorta Ettiren](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-14.md) | Sektör Duyurusu | ✅ | P3 |
-| 27 | [Komisyona Başvuru Esnasında Hasar Dosyası Seçimine İlişkin Ek Açıklamalar Komisyonumuz Tar](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-15.md) | Sektör Duyurusu | ✅ | P3 |
-| 28 | [Nvi Servis Sorunu Giderilmiştir Sbm Tarafından Aşağıda Paylaşılan Duyuruda Belirtilen Soru](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-45.md) | Sektör Duyurusu | ✅ | P3 |
-| 29 | [Online Başvuru Esnasında Sisteme Yüklenecek Olan Belgeler Yönünden Tür Ve Boyut Sınırlamas](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-50.md) | Sektör Duyurusu | ✅ | P3 |
-| 30 | [Parasal Sınırların Arttırılması Sigortacılık Kanunu’nun 30’uncu Maddesinin On İkinci Ve On](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-9.md) | Sektör Duyurusu | ✅ | P3 |
-| 31 | [Sbm Servis Sorununun Düzelmesi Hakkında Sbm Tarafından 05.06.2025 Tarihli Duyuruda Belirti](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-46.md) | Sektör Duyurusu | ✅ | P3 |
-| 32 | [Sigorta Hakemi Av.mehmet Tabak In Vefatı Komisyonumuz 1387 Sicil Numaralı Sigorta Hakemi S](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-48.md) | Sektör Duyurusu | ✅ | P3 |
-| 33 | [Sigorta Hakemleri ve İtiraz Hakemleri Listeleri](belgeler/09-tahkim/duyurular/tahkim-hakem-listeleri.md) | Koleksiyon (seri toplama görevi) | ✅ | P3 |
-| 34 | [Sigorta Tahkim Komisyonu Uygulaması Üzerinden E-pul Satın Alma Kılavuzu 1. Adım : Komisyon](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-53.md) | Sektör Duyurusu | ✅ | P3 |
-| 35 | [Sigorta Tahkim Komisyonuna Vekalet İle Yapılan Başvurular Komisyon Başvurularının, 6100 Sa](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-3.md) | Sektör Duyurusu | ✅ | P3 |
-| 36 | [Sigortacılıkta Tahkim Yargılamasında Geçerli Olan Parasal Sınırlar Güncellenmiştir Seddk’n](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-57.md) | Sektör Duyurusu | ✅ | P3 |
-| 37 | [Sigortacılıkta Tahkim Yargılamasında Geçerli Olan Parasal Sınırlar Güncellenmiştir. “sigor](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-42.md) | Sektör Duyurusu | ✅ | P3 |
-| 38 | [Tebligat Giderleri Hakkında 7 Haziran 2023 Tarihli Ve 32214 Sayılı Resmî Gazetede Yayımlan](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-11.md) | Sektör Duyurusu | ✅ | P3 |
-| 39 | [Uyuşmazlık Başvuru Ücreti Ve Tebligat Giderinin Sanal Pos Yöntemi İle Tahsili Hakkında Tah](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-31.md) | Sektör Duyurusu | ✅ | P3 |
-| 40 | [Uyuşmazlık Başvuru Ücreti Ödemelerinde (eft/havale) Yeni Uygulama Güvenli Ödeme Sistemleri](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-59.md) | Sektör Duyurusu | ✅ | P3 |
-| 41 | [İtiraz Başvuru Ücretlerinin Sanal Pos Yöntemi İle Tahsili Hakkında Tahkim Sistemlerinde Ya](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-49.md) | Sektör Duyurusu | ✅ | P3 |
+| 11 | [Başvuru Ücret Tarifesi Değişikliği Hakkında 16/07/2026 Tarihinden İtibaren Geçerli Olacak](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-63.md) | Sektör Duyurusu | ✅ | P3 |
+| 12 | [Başvuru Ücret Tarifesinde Yapılan Güncelleme 5684 Sayılı Sigortacılık Kanunu’nun 30’uncu M](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-33.md) | Sektör Duyurusu | ✅ | P3 |
+| 13 | [Başvuru Ücret Tarifesinin Uygulanmasına Dair Usul Ve Esaslar 15/01/2025 Tarihinde Yürürlüğ](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-34.md) | Sektör Duyurusu | ✅ | P3 |
+| 14 | [Bilirkişi Listelerinde Güncelleme Yapılacaktır Komisyon Nezdinde Tutulan Bilirkişilik List](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-12.md) | Sektör Duyurusu | ✅ | P3 |
+| 15 | [Bilirkişi Listelerinin Alım Yolu İle Güncellenmesi Sigorta Tahkim Komisyonu Bilirkişilik Y](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-36.md) | Sektör Duyurusu | ✅ | P3 |
+| 16 | [Bilirkişi Listelerinin Alım Yolu İle Güncellenmesi Sigorta Tahkim Komisyonu Bilirkişilik Y](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-58.md) | Sektör Duyurusu | ✅ | P3 |
+| 17 | [Bilirkişi Ücret Tarifesinde Yapılan Güncelleme Sigorta Tahkim Komisyonu Bilirkişilik Ücret](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-25.md) | Sektör Duyurusu | ✅ | P3 |
+| 18 | [Bilirkişi Ücretlerinin Sanal Pos Yöntemi İle Tahsili Hakkında Tahkim Sistemlerinde Yapılan](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-38.md) | Sektör Duyurusu | ✅ | P3 |
+| 19 | [Deprem Bölgesinde İşleyen Sürelerin Durdurulması Ülkemizde Yaşanan Ve Aşağıdaki İllerimizi](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-8.md) | Sektör Duyurusu | ✅ | P3 |
+| 20 | [Elektronik Ortamda Satın Alınan Vekalet Pullarına (baro Pullarına) İlişkin Önemli Duyuru T](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-47.md) | Sektör Duyurusu | ✅ | P3 |
+| 21 | [Elektronik Ortamda Satın Alınan Vekâlet Pullarına (baro Pullarına) İlişkin Önemli Duyuru D](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-51.md) | Sektör Duyurusu | ✅ | P3 |
+| 22 | [Islah / Bedel Artırım İşlemleri Hakkında Sistemsel Geliştirme Tahkim Sistemlerinde Yapılan](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-54.md) | Sektör Duyurusu | ✅ | P3 |
+| 23 | [Komisyon Banka Hesaplarına Fazla/sehven Yatırılan Ücret Veya Paraların İadesine Yönelik Us](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-37.md) | Sektör Duyurusu | ✅ | P3 |
+| 24 | [Komisyon Başkanlığı Kararları 5684 Sayılı Sigortacılık Kanunu’nun 30’uncu Maddesinin Komis](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-2.md) | Sektör Duyurusu | ✅ | P3 |
+| 25 | [Komisyon Başkanlığının 07.04.2023 Tarihli Ek Duyurusu 05.01.2023 Tarihli Resmî Gazetede Ya](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-6.md) | Sektör Duyurusu | ✅ | P3 |
+| 26 | [Komisyon Başkanlığının 13.02.2023 Tarihli Ek Duyurusu Komisyonumuz Tarafından Yapılan 08.0](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-7.md) | Sektör Duyurusu | ✅ | P3 |
+| 27 | [Komisyona Başvuru Esnasında Hasar Dosyası Seçimi Sigorta Tahkim Komisyonu, Sigorta Ettiren](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-14.md) | Sektör Duyurusu | ✅ | P3 |
+| 28 | [Komisyona Başvuru Esnasında Hasar Dosyası Seçimine İlişkin Ek Açıklamalar Komisyonumuz Tar](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-15.md) | Sektör Duyurusu | ✅ | P3 |
+| 29 | [Motorlu Araç Sigortaları Kapsamında Sigorta Tahkim Komisyonuna Yapılacak Başvurular Hakkın](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-66.md) | Sektör Duyurusu | ✅ | P3 |
+| 30 | [Nvi Servis Sorunu Giderilmiştir Sbm Tarafından Aşağıda Paylaşılan Duyuruda Belirtilen Soru](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-45.md) | Sektör Duyurusu | ✅ | P3 |
+| 31 | [Online Başvuru Esnasında Sisteme Yüklenecek Olan Belgeler Yönünden Tür Ve Boyut Sınırlamas](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-50.md) | Sektör Duyurusu | ✅ | P3 |
+| 32 | [Otomatik Bildirim E-posta Adresimizin Güncellenmesi Hakkında Komisyonumuz Sistemlerinin Da](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-65.md) | Sektör Duyurusu | ✅ | P3 |
+| 33 | [Parasal Sınırların Arttırılması Sigortacılık Kanunu’nun 30’uncu Maddesinin On İkinci Ve On](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-9.md) | Sektör Duyurusu | ✅ | P3 |
+| 34 | [Parasal Sınırların Uygulanmasında Değişiklik 19/03/2026 Tarihli Ve 33201 Sayılı Resmî Gaze](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-60.md) | Sektör Duyurusu | ✅ | P3 |
+| 35 | [Sbm Servis Sorununun Düzelmesi Hakkında Sbm Tarafından 05.06.2025 Tarihli Duyuruda Belirti](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-46.md) | Sektör Duyurusu | ✅ | P3 |
+| 36 | [Sigorta Hakemi Av.mehmet Tabak In Vefatı Komisyonumuz 1387 Sicil Numaralı Sigorta Hakemi S](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-48.md) | Sektör Duyurusu | ✅ | P3 |
+| 37 | [Sigorta Hakemleri ve İtiraz Hakemleri Listeleri](belgeler/09-tahkim/duyurular/tahkim-hakem-listeleri.md) | Koleksiyon (seri toplama görevi) | ✅ | P3 |
+| 38 | [Sigorta Tahkim Komisyonu Uygulaması Üzerinden E-pul Satın Alma Kılavuzu 1. Adım : Komisyon](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-53.md) | Sektör Duyurusu | ✅ | P3 |
+| 39 | [Sigorta Tahkim Komisyonuna Vekalet İle Yapılan Başvurular Komisyon Başvurularının, 6100 Sa](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-3.md) | Sektör Duyurusu | ✅ | P3 |
+| 40 | [Sigortacılıkta Tahkim Yargılamasında Geçerli Olan Parasal Sınırlar Güncellenmiştir Seddk’n](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-57.md) | Sektör Duyurusu | ✅ | P3 |
+| 41 | [Sigortacılıkta Tahkim Yargılamasında Geçerli Olan Parasal Sınırlar Güncellenmiştir. “sigor](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-42.md) | Sektör Duyurusu | ✅ | P3 |
+| 42 | [Tebligat Giderleri Hakkında 7 Haziran 2023 Tarihli Ve 32214 Sayılı Resmî Gazetede Yayımlan](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-11.md) | Sektör Duyurusu | ✅ | P3 |
+| 43 | [Uyuşmazlık Başvuru Ücreti Ve Tebligat Giderinin Sanal Pos Yöntemi İle Tahsili Hakkında Tah](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-31.md) | Sektör Duyurusu | ✅ | P3 |
+| 44 | [Uyuşmazlık Başvuru Ücreti Ödemelerinde (eft/havale) Yeni Uygulama Güvenli Ödeme Sistemleri](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-59.md) | Sektör Duyurusu | ✅ | P3 |
+| 45 | [Uyuşmazlık Ve İtiraz Başvuruları Hakkında Uygulama Kararı 31/07/2026 Tarihli Ve 33326 Sayı](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-67.md) | Sektör Duyurusu | ✅ | P3 |
+| 46 | [İtiraz Başvuru Ücretlerinin Sanal Pos Yöntemi İle Tahsili Hakkında Tahkim Sistemlerinde Ya](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-49.md) | Sektör Duyurusu | ✅ | P3 |
 
 ## `belgeler/09-tahkim/ilkesel-kararlar`
 

@@ -17470,3 +17470,80 @@ belgeler:
     etiketler: [tahkim-duyurusu, manset]
     ozet: "Sigorta Tahkim Komisyonu resmî duyurusu (manşet 59): Uyuşmazlık Başvuru Ücreti Ödemelerinde (eft/havale) Yeni Uygulama Güvenli Ödeme ."
     dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/manset/59", yontem: "Sigorta Tahkim Komisyonu resmî sitesi manşet/duyuru sayfasından"}
+
+# ==== Tahkim manşet duyuruları ek (60-67), 20/08/2026 ====
+  - id: tahkim-duyuru-manset-60
+    baslik: "Parasal Sınırların Uygulanmasında Değişiklik 19/03/2026 Tarihli Ve 33201 Sayılı Resmî Gaze"
+    tur: sektor-duyurusu
+    klasor: belgeler/09-tahkim/duyurular
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: null
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.sigortatahkim.org/manset/60"]
+    etiketler: [tahkim-duyurusu, manset]
+    ozet: "Sigorta Tahkim Komisyonu resmî duyurusu (manşet 60): Parasal Sınırların Uygulanmasında Değişiklik 19/03/2026 Tarihli Ve 33201 Sayılı ."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/manset/60", yontem: "Sigorta Tahkim Komisyonu resmî sitesi manşet sayfasından"}
+  - id: tahkim-duyuru-manset-63
+    baslik: "Başvuru Ücret Tarifesi Değişikliği Hakkında 16/07/2026 Tarihinden İtibaren Geçerli Olacak"
+    tur: sektor-duyurusu
+    klasor: belgeler/09-tahkim/duyurular
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: null
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.sigortatahkim.org/manset/63"]
+    etiketler: [tahkim-duyurusu, manset]
+    ozet: "Sigorta Tahkim Komisyonu resmî duyurusu (manşet 63): Başvuru Ücret Tarifesi Değişikliği Hakkında 16/07/2026 Tarihinden İtibaren Geçer."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/manset/63", yontem: "Sigorta Tahkim Komisyonu resmî sitesi manşet sayfasından"}
+  - id: tahkim-duyuru-manset-65
+    baslik: "Otomatik Bildirim E-posta Adresimizin Güncellenmesi Hakkında Komisyonumuz Sistemlerinin Da"
+    tur: sektor-duyurusu
+    klasor: belgeler/09-tahkim/duyurular
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: null
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.sigortatahkim.org/manset/65"]
+    etiketler: [tahkim-duyurusu, manset]
+    ozet: "Sigorta Tahkim Komisyonu resmî duyurusu (manşet 65): Otomatik Bildirim E-posta Adresimizin Güncellenmesi Hakkında Komisyonumuz Sistem."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/manset/65", yontem: "Sigorta Tahkim Komisyonu resmî sitesi manşet sayfasından"}
+  - id: tahkim-duyuru-manset-66
+    baslik: "Motorlu Araç Sigortaları Kapsamında Sigorta Tahkim Komisyonuna Yapılacak Başvurular Hakkın"
+    tur: sektor-duyurusu
+    klasor: belgeler/09-tahkim/duyurular
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: null
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.sigortatahkim.org/manset/66"]
+    etiketler: [tahkim-duyurusu, manset]
+    ozet: "Sigorta Tahkim Komisyonu resmî duyurusu (manşet 66): Motorlu Araç Sigortaları Kapsamında Sigorta Tahkim Komisyonuna Yapılacak Başvuru."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/manset/66", yontem: "Sigorta Tahkim Komisyonu resmî sitesi manşet sayfasından"}
+  - id: tahkim-duyuru-manset-67
+    baslik: "Uyuşmazlık Ve İtiraz Başvuruları Hakkında Uygulama Kararı 31/07/2026 Tarihli Ve 33326 Sayı"
+    tur: sektor-duyurusu
+    klasor: belgeler/09-tahkim/duyurular
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: null
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.sigortatahkim.org/manset/67"]
+    etiketler: [tahkim-duyurusu, manset]
+    ozet: "Sigorta Tahkim Komisyonu resmî duyurusu (manşet 67): Uyuşmazlık Ve İtiraz Başvuruları Hakkında Uygulama Kararı 31/07/2026 Tarihli Ve ."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/manset/67", yontem: "Sigorta Tahkim Komisyonu resmî sitesi manşet sayfasından"}
