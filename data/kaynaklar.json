@@ -1060,11 +1060,12 @@
       ],
       "otorite": "Hazine ve Maliye Bakanlığı / SEDDK",
       "numara": null,
-      "rg_tarihi": null,
-      "rg_sayisi": null,
+      "rg_tarihi": "2012-08-15",
+      "rg_sayisi": "28385",
       "durum": "yururlukte",
       "oncelik": 2,
       "kaynaklar": [
+        "https://dask.gov.tr/tr/yonetmelik",
         "https://dask.gov.tr",
         "https://www.mevzuat.gov.tr"
       ],
@@ -1074,6 +1075,12 @@
         "yonetim-kurulu",
         "reasurans"
       ],
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "kaynak": "https://dask.gov.tr/tr/yonetmelik",
+        "yontem": "DASK resmî sitesinden (dask.gov.tr/tr/yonetmelik) doğrudan teyit — 'Yönetmeliğin Yayımlandığı Resmî Gazete' tablosu 15.08.2012/28385 gösteriyor; repoda boş olan RG alanı dolduruldu"
+      },
       "ozet": "DASK'ın organları, teknik işleyişi ve zorunlu deprem sigortası uygulama esasları."
     },
     {

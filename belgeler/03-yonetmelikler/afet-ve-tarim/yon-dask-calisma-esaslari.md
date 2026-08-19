@@ -6,32 +6,34 @@ tur_etiket: "Yönetmelik"
 otorite: "Hazine ve Maliye Bakanlığı / SEDDK"
 numara: null
 resmi_gazete:
-  tarih: null
-  sayi: null
+  tarih: "2012-08-15"
+  sayi: "28385"
 durum: yururlukte
 brans: [dogal-afet]
 etiketler: [dask, zorunlu-deprem-sigortasi, yonetim-kurulu, reasurans]
 oncelik: 2
 kaynaklar:
+  - "https://dask.gov.tr/tr/yonetmelik"
   - "https://dask.gov.tr"
   - "https://www.mevzuat.gov.tr"
 metin_durumu: iskelet
 dogrulama:
-  durum: dogrulanmadi
-  tarih: null
-  kaynak: null
-  yontem: null
+  durum: dogrulandi
+  tarih: "2026-08-19"
+  kaynak: "https://dask.gov.tr/tr/yonetmelik"
+  yontem: "DASK resmî sitesinden (dask.gov.tr/tr/yonetmelik) doğrudan teyit — 'Yönetmeliğin Yayımlandığı Resmî Gazete' tablosu 15.08.2012/28385 gösteriyor; repoda boş olan RG alanı dolduruldu"
 son_guncelleme: "2026-08-19"
 dil: tr
 lisans: "Resmî mevzuat metinleri 5846 s. FSEK m.31 uyarınca serbesttir; bu dosyadaki derleme ve notlar CC BY 4.0"
 ---
 # Doğal Afet Sigortaları Kurumu Çalışma Esasları Yönetmeliği
 
-> [!WARNING]
-> **Bu dosya bir iskelettir.** Resmî metin henüz eklenmemiştir ve künye bilgileri
-> (Resmî Gazete tarih/sayı, yürürlük durumu) **doğrulanmamıştır**.
-> Hukuki işlem yapmadan önce aşağıdaki resmî kaynaktan teyit edin.
-> Doldurma adımları için bkz. `KATKI-REHBERI.md`.
+> [!NOTE]
+> **Künye doğrulandı.** Resmî Gazete tarih ve sayısı resmî kaynaktan teyit edilmiştir.
+> - **Doğrulama kaynağı (resmî kurum):** <https://dask.gov.tr/tr/yonetmelik>
+> - **Erişim / doğrulama tarihi:** 2026-08-19
+> - **Yöntem:** DASK resmî sitesinden (dask.gov.tr/tr/yonetmelik) doğrudan teyit — 'Yönetmeliğin Yayımlandığı Resmî Gazete' tablosu 15.08.2012/28385 gösteriyor; repoda boş olan RG alanı dolduruldu
+> - **Tam metin durumu:** henüz eklenmedi (`metin_durumu: iskelet`); madde metinleri için aşağıdaki resmî kaynağa başvurun.
 
 ## Künye
 
@@ -40,9 +42,9 @@ lisans: "Resmî mevzuat metinleri 5846 s. FSEK m.31 uyarınca serbesttir; bu dos
 | Belge türü | Yönetmelik |
 | Otorite | Hazine ve Maliye Bakanlığı / SEDDK |
 | Numara | — |
-| Resmî Gazete | — / — |
+| Resmî Gazete | 2012-08-15 / 28385 |
 | Durum | Yürürlükte |
-| Doğrulama | ⛔ Doğrulanmadı |
+| Doğrulama | ✅ Künye doğrulandı — 2026-08-19 |
 | Branş | dogal-afet |
 | Öncelik | 2 |
 
@@ -74,6 +76,7 @@ Metni eklerken:
 
 ## Resmî kaynaklar
 
+- <https://dask.gov.tr/tr/yonetmelik>
 - <https://dask.gov.tr>
 - <https://www.mevzuat.gov.tr>
 

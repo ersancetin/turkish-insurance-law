@@ -40,7 +40,7 @@
 
 ## Künyesi eksik kayıtlar (Resmî Gazete tarihi girilmemiş)
 
-Toplam **52** kayıt. Resmî metin çekilirken bu alanlar doldurulmalıdır.
+Toplam **51** kayıt. Resmî metin çekilirken bu alanlar doldurulmalıdır.
 
 - `5941-cek-ve-diger-ilgili-mevzuat` — İlgili Diğer Kanunlar Derlemesi (TMK, HMK, İİK, MASAK 5549, KVKK 6698 kesişimleri)
 - `gs-asansor-kazalarinda-sorumluluk` — Asansör Kazalarında Üçüncü Kişilere Karşı Sorumluluk Sigortası Genel Şartları
@@ -90,14 +90,13 @@ Toplam **52** kayıt. Resmî metin çekilirken bu alanlar doldurulmalıdır.
 - `teb-sigortacilik-hesap-plani` — Sigortacılık Hesap Planı ve İzahnamesi Hakkında Tebliğ
 - `teb-zorunlu-deprem-tarife-talimat` — Zorunlu Deprem Sigortası Tarife ve Talimat Tebliği
 - `yon-bagimsiz-denetim` — Sigorta ve Reasürans ile Emeklilik Şirketlerinde Bağımsız Denetim Yapılmasına İlişkin Yönetmelik
-- `yon-dask-calisma-esaslari` — Doğal Afet Sigortaları Kurumu Çalışma Esasları Yönetmeliği
 - `yon-sigorta-eksperleri` — Sigorta Eksperleri Yönetmeliği
 - `yon-sigortacilik-kapsaminda-degerlendirilecek-faaliyetler` — Sigortacılık Kapsamında Değerlendirilecek Faaliyetlere, Tüketici Lehine Yapılan Sigorta Sözleşmeleri ile Mesafeli Akdedilen Sigorta Sözleşmelerine İlişkin Yönetmelik
 - `yon-tarim-sigortalari-havuzu` — Tarım Sigortaları Havuzu Çalışma Usul ve Esasları Hakkında Yönetmelik
 
 ## Künye doğrulama durumu
 
-Resmî kaynaktan (Resmî Gazete / mevzuat.gov.tr / SEDDK) künyesi teyit edilmiş **32** kayıt / toplam 117.
+Resmî kaynaktan (Resmî Gazete / mevzuat.gov.tr / SEDDK) künyesi teyit edilmiş **33** kayıt / toplam 117.
 
 | Kayıt | Resmî Gazete | Doğrulama tarihi |
 | --- | --- | --- |
@@ -119,6 +118,7 @@ Resmî kaynaktan (Resmî Gazete / mevzuat.gov.tr / SEDDK) künyesi teyit edilmi�
 | `gs-zorunlu-deprem-dask` | 2011-05-13 / 27933 | 2026-08-19 |
 | `yon-aktuerlik` | 2007-08-15 / 26614 | 2026-08-19 |
 | `yon-bes-hakkinda` | 2012-11-09 / 28462 | 2026-08-19 |
+| `yon-dask-calisma-esaslari` | 2012-08-15 / 28385 | 2026-08-19 |
 | `yon-emeklilik-yatirim-fonlari` | 2013-03-13 / 28586 | 2026-08-19 |
 | `yon-hayat-grubu-sigortalari` | 2012-10-10 / 28437 | 2026-08-19 |
 | `yon-ic-sistemler` | 2021-11-25 / 31670 | 2026-08-19 |

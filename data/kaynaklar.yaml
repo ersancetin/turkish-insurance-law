@@ -640,12 +640,13 @@ belgeler:
     brans: [dogal-afet]
     otorite: "Hazine ve Maliye Bakanlığı / SEDDK"
     numara: null
-    rg_tarihi: null
-    rg_sayisi: null
+    rg_tarihi: "2012-08-15"
+    rg_sayisi: "28385"
     durum: yururlukte
     oncelik: 2
-    kaynaklar: ["https://dask.gov.tr", "https://www.mevzuat.gov.tr"]
+    kaynaklar: ["https://dask.gov.tr/tr/yonetmelik", "https://dask.gov.tr", "https://www.mevzuat.gov.tr"]
     etiketler: [dask, zorunlu-deprem-sigortasi, yonetim-kurulu, reasurans]
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-19", kaynak: "https://dask.gov.tr/tr/yonetmelik", yontem: "DASK resmî sitesinden (dask.gov.tr/tr/yonetmelik) doğrudan teyit — 'Yönetmeliğin Yayımlandığı Resmî Gazete' tablosu 15.08.2012/28385 gösteriyor; repoda boş olan RG alanı dolduruldu"}
     ozet: "DASK'ın organları, teknik işleyişi ve zorunlu deprem sigortası uygulama esasları."
 
   - id: yon-tarim-sigortalari-havuzu
@@ -673,6 +674,13 @@ belgeler:
 #      TARSİM tarafından doğrudan çıkarılıp çoğu yıllık güncellenenler (kasko,
 #      sağlık, hayat, yangın, ferdi kaza, tüm devlet destekli tarım genel şartları).
 #      Bunlarda rg alanı BOŞ bırakılır; yürürlük/güncelleme bilgisi özete yazılır.
+#  UYARI (a grubu): Eski zorunlu sorumluluk branşlarında (koltuk ferdi kaza,
+#      karayolu taşımacılık, tüpgaz, tehlikeli maddeler, deniz araçları, asansör,
+#      maden) Genel Şartların KENDİ RG'si; onu zorunlu kılan Bakanlar Kurulu Kararı
+#      ve Tarife/Talimat Tebliği RG'lerinden FARKLIDIR ve çevrimiçi aramalar bunları
+#      sık karıştırır. Kesin Genel Şart RG'si için resmî belgenin esas alınması
+#      gerekir; resmî kaynak (tüm genel şartlar):
+#      https://www.seddk.gov.tr/tr/mevzuat/sigortacilik/genel-sartlar
 # TSB ve SEDDK derlemeleri pratik erişim noktalarıdır.
 # ---------------------------------------------------------------------------
   - id: gs-zmss-trafik
