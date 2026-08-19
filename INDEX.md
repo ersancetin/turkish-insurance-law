@@ -3,7 +3,7 @@
 > Bu dosya `scripts/uret.py` tarafından **otomatik üretilir**. Elle düzenlemeyin;
 > değişiklik için `data/kaynaklar.yaml` dosyasını güncelleyip betiği yeniden çalıştırın.
 
-**Toplam kayıt:** 117  |  **Kütük sürümü:** 0.1.0  |  **Güncelleme:** 2026-08-19
+**Toplam kayıt:** 158  |  **Kütük sürümü:** 0.1.0  |  **Güncelleme:** 2026-08-19
 
 Durum rozetleri: ✅ yürürlükte · ⚠️ kısmen iptal · 🔄 yakın değişiklik · ⛔ mülga · ❔ bilinmiyor
 
@@ -35,25 +35,35 @@ Durum rozetleri: ✅ yürürlükte · ⚠️ kısmen iptal · 🔄 yakın deği�
 | # | Belge | Tür | Durum | Öncelik |
 | --- | --- | --- | --- | --- |
 | 1 | [Doğal Afet Sigortaları Kurumu Çalışma Esasları Yönetmeliği](belgeler/03-yonetmelikler/afet-ve-tarim/yon-dask-calisma-esaslari.md) | Yönetmelik | ✅ | P2 |
-| 2 | [Tarım Sigortaları Havuzu Çalışma Usul ve Esasları Hakkında Yönetmelik](belgeler/03-yonetmelikler/afet-ve-tarim/yon-tarim-sigortalari-havuzu.md) | Yönetmelik | ✅ | P3 |
+| 2 | [Tarım Sigortaları Uygulama Yönetmeliği](belgeler/03-yonetmelikler/afet-ve-tarim/yon-tarim-sigortalari-uygulama.md) | Yönetmelik | ✅ | P2 |
+| 3 | [Tarım Sigortaları Havuzu Çalışma Usul ve Esasları Hakkında Yönetmelik](belgeler/03-yonetmelikler/afet-ve-tarim/yon-tarim-sigortalari-havuzu.md) | Yönetmelik | ✅ | P3 |
 
 ## `belgeler/03-yonetmelikler/bireysel-emeklilik`
 
 | # | Belge | Tür | Durum | Öncelik |
 | --- | --- | --- | --- | --- |
-| 1 | [Bireysel Emeklilik Sistemi Hakkında Yönetmelik](belgeler/03-yonetmelikler/bireysel-emeklilik/yon-bes-hakkinda.md) | Yönetmelik | ✅ | P2 |
-| 2 | [Emeklilik Yatırım Fonlarının Kuruluş ve Faaliyetlerine İlişkin Yönetmelik](belgeler/03-yonetmelikler/bireysel-emeklilik/yon-emeklilik-yatirim-fonlari.md) | Yönetmelik | ✅ | P3 |
-| 3 | [Çalışanların İşverenleri Aracılığıyla Otomatik Olarak Emeklilik Planına Dâhil Edilmesine İlişkin Usul ve Esaslar Hakkında Yönetmelik](belgeler/03-yonetmelikler/bireysel-emeklilik/yon-otomatik-katilim.md) | Yönetmelik | ✅ | P3 |
+| 1 | [Bireysel Emeklilik Aracıları Hakkında Yönetmelik](belgeler/03-yonetmelikler/bireysel-emeklilik/yon-bes-aracilari.md) | Yönetmelik | ✅ | P2 |
+| 2 | [Bireysel Emeklilik Sistemi Hakkında Yönetmelik](belgeler/03-yonetmelikler/bireysel-emeklilik/yon-bes-hakkinda.md) | Yönetmelik | ✅ | P2 |
+| 3 | [Bireysel Emeklilik Sisteminde Devlet Katkısı Hakkında Yönetmelik](belgeler/03-yonetmelikler/bireysel-emeklilik/yon-bes-devlet-katkisi.md) | Yönetmelik | ✅ | P2 |
+| 4 | [Emeklilik Şirketleri Kuruluş Ve Çalışma Esaslarına İlişkin Yönetmelik](belgeler/03-yonetmelikler/bireysel-emeklilik/yon-emeklilik-sirketleri-kurulus.md) | Yönetmelik | ✅ | P2 |
+| 5 | [Yıllık Gelir Sigortaları Yönetmeliği](belgeler/03-yonetmelikler/bireysel-emeklilik/yon-yillik-gelir-sigortalari.md) | Yönetmelik | ✅ | P2 |
+| 6 | [Dernek, Vakıf, Sandık Ve Diğer Kuruluşlardan Bireysel Emeklilik Sistemine Aktarım Hakkında Yönetmelik](belgeler/03-yonetmelikler/bireysel-emeklilik/yon-bes-aktarim-dernek-vakif-sandik.md) | Yönetmelik | ✅ | P3 |
+| 7 | [Emeklilik Gözetim Merkezi Çalışma Esasları Yönetmeliği](belgeler/03-yonetmelikler/bireysel-emeklilik/yon-emeklilik-gozetim-merkezi.md) | Yönetmelik | ✅ | P3 |
+| 8 | [Emeklilik Yatırım Fonlarının Kuruluş ve Faaliyetlerine İlişkin Yönetmelik](belgeler/03-yonetmelikler/bireysel-emeklilik/yon-emeklilik-yatirim-fonlari.md) | Yönetmelik | ✅ | P3 |
+| 9 | [Çalışanların İşverenleri Aracılığıyla Otomatik Olarak Emeklilik Planına Dâhil Edilmesine İlişkin Usul ve Esaslar Hakkında Yönetmelik](belgeler/03-yonetmelikler/bireysel-emeklilik/yon-otomatik-katilim.md) | Yönetmelik | ✅ | P3 |
 
 ## `belgeler/03-yonetmelikler/denetim-ve-mali-yapi`
 
 | # | Belge | Tür | Durum | Öncelik |
 | --- | --- | --- | --- | --- |
-| 1 | [Sigorta ve Reasürans ile Emeklilik Şirketlerinin Mali Bünyelerine İlişkin Yönetmelik](belgeler/03-yonetmelikler/denetim-ve-mali-yapi/yon-mali-bunye.md) | Yönetmelik | ✅ | P2 |
-| 2 | [Sigorta ve Reasürans ile Emeklilik Şirketlerinin Teknik Karşılıklarına ve Bu Karşılıkların Yatırılacağı Varlıklara İlişkin Yönetmelik](belgeler/03-yonetmelikler/denetim-ve-mali-yapi/yon-teknik-karsiliklar.md) | Yönetmelik | ✅ | P2 |
-| 3 | [Aktüerlik Yönetmeliği](belgeler/03-yonetmelikler/denetim-ve-mali-yapi/yon-aktuerlik.md) | Yönetmelik | ✅ | P3 |
-| 4 | [Sigorta ve Reasürans ile Emeklilik Şirketlerinde Bağımsız Denetim Yapılmasına İlişkin Yönetmelik](belgeler/03-yonetmelikler/denetim-ve-mali-yapi/yon-bagimsiz-denetim.md) | Yönetmelik | ✅ | P3 |
-| 5 | [Sigortacılık Sektöründe İç Sistemlere Dair Yönetmelik](belgeler/03-yonetmelikler/denetim-ve-mali-yapi/yon-ic-sistemler.md) | Yönetmelik | ✅ | P3 |
+| 1 | [Sigorta Ve Reasürans İle Emeklilik Şirketlerinin Sermaye Yeterliliklerinin Ölçülmesine Ve Değerlendirilmesine İlişkin Yönetmelik](belgeler/03-yonetmelikler/denetim-ve-mali-yapi/yon-sermaye-yeterliligi.md) | Yönetmelik | ✅ | P2 |
+| 2 | [Sigorta ve Reasürans ile Emeklilik Şirketlerinin Mali Bünyelerine İlişkin Yönetmelik](belgeler/03-yonetmelikler/denetim-ve-mali-yapi/yon-mali-bunye.md) | Yönetmelik | ✅ | P2 |
+| 3 | [Sigorta ve Reasürans ile Emeklilik Şirketlerinin Teknik Karşılıklarına ve Bu Karşılıkların Yatırılacağı Varlıklara İlişkin Yönetmelik](belgeler/03-yonetmelikler/denetim-ve-mali-yapi/yon-teknik-karsiliklar.md) | Yönetmelik | ✅ | P2 |
+| 4 | [Sigortacılık Ve Özel Emeklilik Sektörlerinin Gözetim Ve Denetimine İlişkin Usul Ve Esaslar Hakkında Yönetmelik](belgeler/03-yonetmelikler/denetim-ve-mali-yapi/yon-gozetim-ve-denetim-usul.md) | Yönetmelik | ✅ | P2 |
+| 5 | [Aktüerlik Yönetmeliği](belgeler/03-yonetmelikler/denetim-ve-mali-yapi/yon-aktuerlik.md) | Yönetmelik | ✅ | P3 |
+| 6 | [Sigorta ve Reasürans ile Emeklilik Şirketlerinde Bağımsız Denetim Yapılmasına İlişkin Yönetmelik](belgeler/03-yonetmelikler/denetim-ve-mali-yapi/yon-bagimsiz-denetim.md) | Yönetmelik | ✅ | P3 |
+| 7 | [Sigortacılık Bağımsız Denetim İlkelerine İlişkin Yönetmelik](belgeler/03-yonetmelikler/denetim-ve-mali-yapi/yon-bagimsiz-denetim-ilkeleri.md) | Yönetmelik | ✅ | P3 |
+| 8 | [Sigortacılık Sektöründe İç Sistemlere Dair Yönetmelik](belgeler/03-yonetmelikler/denetim-ve-mali-yapi/yon-ic-sistemler.md) | Yönetmelik | ✅ | P3 |
 
 ## `belgeler/03-yonetmelikler/katilim-sigortaciligi`
 
@@ -66,15 +76,34 @@ Durum rozetleri: ✅ yürürlükte · ⚠️ kısmen iptal · 🔄 yakın deği�
 | # | Belge | Tür | Durum | Öncelik |
 | --- | --- | --- | --- | --- |
 | 1 | [Sigorta Acenteleri Yönetmeliği](belgeler/03-yonetmelikler/sigortacilik/yon-sigorta-acenteleri.md) | Yönetmelik | ✅ | P1 |
-| 2 | [Sigorta Eksperleri Yönetmeliği](belgeler/03-yonetmelikler/sigortacilik/yon-sigorta-eksperleri.md) | Yönetmelik | ✅ | P1 |
-| 3 | [Sigorta Sözleşmelerinde Bilgilendirmeye İlişkin Yönetmelik](belgeler/03-yonetmelikler/sigortacilik/yon-sigorta-sozlesmelerinde-bilgilendirme.md) | Yönetmelik | ✅ | P1 |
-| 4 | [Sigorta ve Reasürans ile Emeklilik Şirketlerinin Kuruluş ve Çalışma Esaslarına İlişkin Yönetmelik](belgeler/03-yonetmelikler/sigortacilik/yon-kurulus-ve-calisma-esaslari.md) | Yönetmelik | ✅ | P1 |
-| 5 | [Sigortacılık Destek Hizmetleri Hakkında Yönetmelik](belgeler/03-yonetmelikler/sigortacilik/yon-sigortacilik-destek-hizmetleri.md) | Yönetmelik | 🔄 | P1 |
-| 6 | [Özel Sağlık Sigortaları Yönetmeliği](belgeler/03-yonetmelikler/sigortacilik/yon-ozel-saglik-sigortalari.md) | Yönetmelik | 🔄 | P1 |
-| 7 | [Hayat Grubu Sigortaları Yönetmeliği](belgeler/03-yonetmelikler/sigortacilik/yon-hayat-grubu-sigortalari.md) | Yönetmelik | ✅ | P2 |
-| 8 | [Sigorta Bilgi ve Gözetim Merkezi Yönetmeliği](belgeler/03-yonetmelikler/sigortacilik/yon-sbm.md) | Yönetmelik | 🔄 | P2 |
-| 9 | [Sigorta ve Reasürans Brokerleri Yönetmeliği](belgeler/03-yonetmelikler/sigortacilik/yon-sigorta-reasurans-brokerleri.md) | Yönetmelik | ✅ | P2 |
-| 10 | [Sigortacılık Kapsamında Değerlendirilecek Faaliyetlere, Tüketici Lehine Yapılan Sigorta Sözleşmeleri ile Mesafeli Akdedilen Sigorta Sözleşmelerine İlişkin Yönetmelik](belgeler/03-yonetmelikler/sigortacilik/yon-sigortacilik-kapsaminda-degerlendirilecek-faaliyetler.md) | Yönetmelik | ✅ | P2 |
+| 2 | [Sigorta Eksperleri Atama Yönetmeliği](belgeler/03-yonetmelikler/sigortacilik/yon-sigorta-eksperleri-atama.md) | Yönetmelik | ✅ | P1 |
+| 3 | [Sigorta Eksperleri Yönetmeliği](belgeler/03-yonetmelikler/sigortacilik/yon-sigorta-eksperleri.md) | Yönetmelik | ✅ | P1 |
+| 4 | [Sigorta Sözleşmelerinde Bilgilendirmeye İlişkin Yönetmelik](belgeler/03-yonetmelikler/sigortacilik/yon-sigorta-sozlesmelerinde-bilgilendirme.md) | Yönetmelik | ✅ | P1 |
+| 5 | [Sigorta ve Reasürans ile Emeklilik Şirketlerinin Kuruluş ve Çalışma Esaslarına İlişkin Yönetmelik](belgeler/03-yonetmelikler/sigortacilik/yon-kurulus-ve-calisma-esaslari.md) | Yönetmelik | ✅ | P1 |
+| 6 | [Sigortacılık Destek Hizmetleri Hakkında Yönetmelik](belgeler/03-yonetmelikler/sigortacilik/yon-sigortacilik-destek-hizmetleri.md) | Yönetmelik | 🔄 | P1 |
+| 7 | [Sigortacılık Verilerinin Toplanması, Saklanması Ve Paylaşılmasına Dair Yönetmelik](belgeler/03-yonetmelikler/sigortacilik/yon-sigortacilik-verilerinin-toplanmasi.md) | Yönetmelik | ✅ | P1 |
+| 8 | [Yanlış Sigorta Uygulamalarının Tespiti, Bildirimi, Kaydı Ve Bu Uygulamalarla Mücadele Usul Ve Esasları Hakkında Yönetmelik](belgeler/03-yonetmelikler/sigortacilik/yon-yanlis-sigorta-uygulamalari-suistimal.md) | Yönetmelik | ✅ | P1 |
+| 9 | [Özel Sağlık Sigortaları Yönetmeliği](belgeler/03-yonetmelikler/sigortacilik/yon-ozel-saglik-sigortalari.md) | Yönetmelik | 🔄 | P1 |
+| 10 | [Bireysel Kredilerle Bağlantılı Sigortalar Uygulama Esasları Yönetmeliği](belgeler/03-yonetmelikler/sigortacilik/yon-bireysel-kredi-baglantili-sigortalar.md) | Yönetmelik | ✅ | P2 |
+| 11 | [Hayat Grubu Sigortaları Yönetmeliği](belgeler/03-yonetmelikler/sigortacilik/yon-hayat-grubu-sigortalari.md) | Yönetmelik | ✅ | P2 |
+| 12 | [Nükleer Risklere İlişkin Sorumluluk Sigortasına Ve Teminatına Dair Yönetmelik](belgeler/03-yonetmelikler/sigortacilik/yon-nukleer-sorumluluk-sigortasi.md) | Yönetmelik | ✅ | P2 |
+| 13 | [Sigorta Bilgi ve Gözetim Merkezi Yönetmeliği](belgeler/03-yonetmelikler/sigortacilik/yon-sbm.md) | Yönetmelik | 🔄 | P2 |
+| 14 | [Sigorta ve Reasürans Brokerleri Yönetmeliği](belgeler/03-yonetmelikler/sigortacilik/yon-sigorta-reasurans-brokerleri.md) | Yönetmelik | ✅ | P2 |
+| 15 | [Sigortacılık Kapsamında Değerlendirilecek Faaliyetlere, Tüketici Lehine Yapılan Sigorta Sözleşmeleri ile Mesafeli Akdedilen Sigorta Sözleşmelerine İlişkin Yönetmelik](belgeler/03-yonetmelikler/sigortacilik/yon-sigortacilik-kapsaminda-degerlendirilecek-faaliyetler.md) | Yönetmelik | ✅ | P2 |
+| 16 | [Sivil Hava Araçları Üçüncü Şahıs Mali Sorumluluk Sigortası Hakkında Yönetmelik](belgeler/03-yonetmelikler/sigortacilik/yon-sivil-hava-araclari-ucuncu-sahis.md) | Yönetmelik | ✅ | P2 |
+| 17 | [Yabancı Plakalı Motorlu Kara Taşıtlarının Ülkemizde İşletilmesinden Kaynaklanan Hukuki Sorumluluk İçin Yaptırılacak Sigortaya İlişkin Usul Ve Esaslar Hakkında Yönetmelik](belgeler/03-yonetmelikler/sigortacilik/yon-yabanci-plakali-tasit-sinir-sigortasi.md) | Yönetmelik | ✅ | P2 |
+| 18 | [Zorunlu Sigorta Takibine İlişkin Yönetmelik](belgeler/03-yonetmelikler/sigortacilik/yon-zorunlu-sigorta-takibi.md) | Yönetmelik | ✅ | P2 |
+| 19 | [Özel Hukuk Hükümlerine Tabi Sigortalar Kapsamında Hak Sahiplerince Aranmayan Paralar Hakkında Yönetmelik](belgeler/03-yonetmelikler/sigortacilik/yon-hak-sahiplerince-aranmayan-paralar.md) | Yönetmelik | ✅ | P2 |
+| 20 | [Deniz Alacaklarına İlişkin Gemilerin Sigortalandırılması Ve Denetlenmesi Hakkında Yönetmelik](belgeler/03-yonetmelikler/sigortacilik/yon-deniz-alacaklari-gemi-sigortasi.md) | Yönetmelik | ✅ | P3 |
+| 21 | [Nükleer Sigorta Havuzunun Çalışma Usul Ve Esasları Hakkında Yönetmelik](belgeler/03-yonetmelikler/sigortacilik/yon-nukleer-sigorta-havuzu.md) | Yönetmelik | ✅ | P3 |
+| 22 | [Sertifika Mali Sorumluluk Sigortası Yönetmeliği](belgeler/03-yonetmelikler/sigortacilik/yon-sertifika-mali-sorumluluk.md) | Yönetmelik | ✅ | P3 |
+| 23 | [Sigorta Acenteleri Sektör Meclisi İle Sigorta Acenteleri İcra Komitesinin Kuruluş Ve Çalışma Usul Ve Esasları Hakkında Yönetmelik](belgeler/03-yonetmelikler/sigortacilik/yon-acente-sektor-meclisi-icra-komitesi.md) | Yönetmelik | ✅ | P3 |
+| 24 | [Sigorta Eksperleri İcra Komitesinin Kuruluş Ve Çalışma Usul Ve Esasları Yönetmeliği](belgeler/03-yonetmelikler/sigortacilik/yon-sigorta-eksperleri-icra-komitesi.md) | Yönetmelik | ✅ | P3 |
+| 25 | [Sigorta Prodüktörleri Yönetmeliği](belgeler/03-yonetmelikler/sigortacilik/yon-sigorta-produktorleri.md) | Yönetmelik | ✅ | P3 |
+| 26 | [Sigorta İhtisas Komiteleri Yönetmeliği](belgeler/03-yonetmelikler/sigortacilik/yon-sigorta-ihtisas-komiteleri.md) | Yönetmelik | ✅ | P3 |
+| 27 | [Sigortacılık Eğitim Merkezi Yönetmeliği](belgeler/03-yonetmelikler/sigortacilik/yon-segem-sigortacilik-egitim-merkezi.md) | Yönetmelik | ✅ | P3 |
+| 28 | [Türkiye Sigorta, Reasürans Ve Emeklilik Şirketleri Birliğinin Çalışma Usul Ve Esasları Hakkında Yönetmelik](belgeler/03-yonetmelikler/sigortacilik/yon-tsb-calisma-usul.md) | Yönetmelik | ✅ | P3 |
+| 29 | [Türkiye’de Faaliyet Gösteren Hava Araçları İçin Yolcu, Bagaj, Yük Ve Posta Malî Sorumluluk Sigortası Hakkında Yönetmelik](belgeler/03-yonetmelikler/sigortacilik/yon-hava-araclari-yolcu-bagaj-yuk.md) | Yönetmelik | ✅ | P3 |
 
 ## `belgeler/03-yonetmelikler/zorunlu-sigortalar`
 
@@ -88,9 +117,20 @@ Durum rozetleri: ✅ yürürlükte · ⚠️ kısmen iptal · 🔄 yakın deği�
 | # | Belge | Tür | Durum | Öncelik |
 | --- | --- | --- | --- | --- |
 | 1 | [Karayolları Motorlu Araçlar Zorunlu Mali Sorumluluk Sigortası Azami Prim Tutarları ve Teminat Limitleri](belgeler/04-tebligler-ve-tarifeler/teb-zmss-azami-prim-tarifesi.md) | Tarife / Talimat | ✅ | P1 |
-| 2 | [Zorunlu Deprem Sigortası Tarife ve Talimat Tebliği](belgeler/04-tebligler-ve-tarifeler/teb-zorunlu-deprem-tarife-talimat.md) | Tebliğ | ✅ | P2 |
-| 3 | [Aktüeryal Zincirleme Merdiven Metoduna İlişkin Genelge/Tebliğ](belgeler/04-tebligler-ve-tarifeler/teb-aktueryal-zincirleme-merdiven.md) | Tebliğ | ✅ | P3 |
-| 4 | [Sigortacılık Hesap Planı ve İzahnamesi Hakkında Tebliğ](belgeler/04-tebligler-ve-tarifeler/teb-sigortacilik-hesap-plani.md) | Tebliğ | ✅ | P3 |
+| 2 | [Sigortacılık Kanununun 30 Uncu Maddesinin On İkinci Ve On Beşinci Fıkralarında Yer Alan Parasal Sınırların Artırılmasına İlişkin Tebliğ](belgeler/04-tebligler-ve-tarifeler/teb-sigortacilik-kanunu-m30-tahkim.md) | Tebliğ | ✅ | P2 |
+| 3 | [Sigortacılık Tekdüzen Hesap Planı Ve İzahnamesi Hakkında Tebliğ](belgeler/04-tebligler-ve-tarifeler/teb-tekduzen-hesap-plani-2023.md) | Tebliğ | ✅ | P2 |
+| 4 | [Zorunlu Deprem Sigortası Tarife Ve Talimat Tebliği](belgeler/04-tebligler-ve-tarifeler/teb-zorunlu-deprem-tarife-talimat-2016.md) | Tebliğ | ✅ | P2 |
+| 5 | [Zorunlu Deprem Sigortası Tarife ve Talimat Tebliği](belgeler/04-tebligler-ve-tarifeler/teb-zorunlu-deprem-tarife-talimat.md) | Tebliğ | ✅ | P2 |
+| 6 | [Aktüeryal Zincirleme Merdiven Metoduna İlişkin Genelge/Tebliğ](belgeler/04-tebligler-ve-tarifeler/teb-aktueryal-zincirleme-merdiven.md) | Tebliğ | ✅ | P3 |
+| 7 | [Deniz Araçları Zorunlu Mali Sorumluluk Sigortası Tarife Ve Talimat Tebliği](belgeler/04-tebligler-ve-tarifeler/teb-deniz-araclari-tarife-talimat.md) | Tebliğ | ✅ | P3 |
+| 8 | [Karayolu Yolcu Taşımacılığı Zorunlu Koltuk Ferdi Kaza Sigortası Tarife Ve Talimatı](belgeler/04-tebligler-ve-tarifeler/teb-koltuk-ferdi-kaza-tarife-talimat.md) | Tebliğ | ✅ | P3 |
+| 9 | [Kıyı Tesisleri Deniz Kirliliği Zorunlu Mali Sorumluluk Sigortası Tarife Ve Talimat Tebliği](belgeler/04-tebligler-ve-tarifeler/teb-kiyi-tesisleri-tarife-talimat.md) | Tebliğ | ✅ | P3 |
+| 10 | [Maden Çalışanları Zorunlu Ferdi Kaza Sigortası Tarife Ve Talimatı Tebliği](belgeler/04-tebligler-ve-tarifeler/teb-maden-calisanlari-tarife-talimat.md) | Tebliğ | ✅ | P3 |
+| 11 | [Sigorta Branşlarına İlişkin Tebliğ Tebliğ No: (2007/1)](belgeler/04-tebligler-ve-tarifeler/teb-sigorta-branslari-2007-1.md) | Tebliğ | ✅ | P3 |
+| 12 | [Sigorta Ve Reasürans İle Emeklilik Şirketlerinin Teknik Karşılıklarının Yatırılacağı Yabancı Varlıklara İlişkin Tebliğ](belgeler/04-tebligler-ve-tarifeler/teb-teknik-karsiliklar.md) | Tebliğ | ✅ | P3 |
+| 13 | [Sigortacılık Hesap Planı ve İzahnamesi Hakkında Tebliğ](belgeler/04-tebligler-ve-tarifeler/teb-sigortacilik-hesap-plani.md) | Tebliğ | ✅ | P3 |
+| 14 | [Tehlikeli Maddeler İçin Yaptırılacak Zorunlu Sorumluluk Sigortalarına İlişkin Tarife Ve Talimat](belgeler/04-tebligler-ve-tarifeler/teb-tehlikeli-maddeler-tarife-talimat.md) | Tebliğ | ✅ | P3 |
+| 15 | [Özel Güvenlik Mali Sorumluluk Sigortası Tarife Ve Talimatı](belgeler/04-tebligler-ve-tarifeler/teb-ozel-guvenlik-tarife-talimat.md) | Tebliğ | ✅ | P3 |
 
 ## `belgeler/05-genel-sartlar/kara-araclari`
 
@@ -251,6 +291,7 @@ Durum rozetleri: ✅ yürürlükte · ⚠️ kısmen iptal · 🔄 yakın deği�
 | # | Belge | Tür | Durum | Öncelik |
 | --- | --- | --- | --- | --- |
 | 1 | [Sigortacılıkta Tahkime İlişkin Yönetmelik](belgeler/09-tahkim/mevzuat/yon-sigortacilikta-tahkim.md) | Yönetmelik | ✅ | P1 |
+| 2 | [Sigorta Tahkim Komisyonu Bilirkişilik Yönetmeliği](belgeler/09-tahkim/mevzuat/yon-tahkim-bilirkisilik.md) | Yönetmelik | ✅ | P2 |
 
 ## `belgeler/09-tahkim/parasal-sinirlar-ve-tarifeler`
 

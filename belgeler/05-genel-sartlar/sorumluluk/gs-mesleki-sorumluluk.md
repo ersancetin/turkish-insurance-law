@@ -6,31 +6,33 @@ tur_etiket: "Genel Şart"
 otorite: "SEDDK"
 numara: null
 resmi_gazete:
-  tarih: null
-  sayi: null
+  tarih: "2013-05-26"
+  sayi: "28658"
 durum: yururlukte
 brans: [sorumluluk, mesleki]
 etiketler: [mesleki-sorumluluk, smmm-ymm-eki, avukat-eki, sigorta-aracilari-eki]
 oncelik: 2
 kaynaklar:
+  - "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18400&MevzuatTur=9&MevzuatTertip=5"
   - "https://www.tsb.org.tr/tr/mevzuat/sigortacilik/genel-sartlar"
 metin_durumu: iskelet
 dogrulama:
-  durum: dogrulanmadi
-  tarih: null
-  kaynak: null
-  yontem: null
+  durum: dogrulandi
+  tarih: "2026-08-19"
+  kaynak: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18400&MevzuatTur=9&MevzuatTertip=5"
+  yontem: "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 18400) — künye 26/05/2013-28658"
 son_guncelleme: "2026-08-19"
 dil: tr
 lisans: "Resmî mevzuat metinleri 5846 s. FSEK m.31 uyarınca serbesttir; bu dosyadaki derleme ve notlar CC BY 4.0"
 ---
 # Mesleki Sorumluluk Sigortası Genel Şartları (ve meslek grubu ekleri)
 
-> [!WARNING]
-> **Bu dosya bir iskelettir.** Resmî metin henüz eklenmemiştir ve künye bilgileri
-> (Resmî Gazete tarih/sayı, yürürlük durumu) **doğrulanmamıştır**.
-> Hukuki işlem yapmadan önce aşağıdaki resmî kaynaktan teyit edin.
-> Doldurma adımları için bkz. `KATKI-REHBERI.md`.
+> [!NOTE]
+> **Künye doğrulandı.** Resmî Gazete tarih ve sayısı resmî kaynaktan teyit edilmiştir.
+> - **Doğrulama kaynağı (resmî kurum):** <https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18400&MevzuatTur=9&MevzuatTertip=5>
+> - **Erişim / doğrulama tarihi:** 2026-08-19
+> - **Yöntem:** mevzuat.gov.tr arama API'sinden doğrudan teyit (no 18400) — künye 26/05/2013-28658
+> - **Tam metin durumu:** henüz eklenmedi (`metin_durumu: iskelet`); madde metinleri için aşağıdaki resmî kaynağa başvurun.
 
 ## Künye
 
@@ -39,9 +41,9 @@ lisans: "Resmî mevzuat metinleri 5846 s. FSEK m.31 uyarınca serbesttir; bu dos
 | Belge türü | Genel Şart |
 | Otorite | SEDDK |
 | Numara | — |
-| Resmî Gazete | — / — |
+| Resmî Gazete | 2013-05-26 / 28658 |
 | Durum | Yürürlükte |
-| Doğrulama | ⛔ Doğrulanmadı |
+| Doğrulama | ✅ Künye doğrulandı — 2026-08-19 |
 | Branş | sorumluluk, mesleki |
 | Öncelik | 2 |
 
@@ -73,6 +75,7 @@ Metni eklerken:
 
 ## Resmî kaynaklar
 
+- <https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18400&MevzuatTur=9&MevzuatTertip=5>
 - <https://www.tsb.org.tr/tr/mevzuat/sigortacilik/genel-sartlar>
 
 ## Notlar

@@ -428,8 +428,8 @@
       ],
       "otorite": "SEDDK",
       "numara": null,
-      "rg_tarihi": "2007-10-28",
-      "rg_sayisi": "26684",
+      "rg_tarihi": "2020-02-14",
+      "rg_sayisi": "31039",
       "durum": "yururlukte",
       "oncelik": 1,
       "kaynaklar": [
@@ -440,6 +440,12 @@
         "aydinlatma-yukumlulugu",
         "cayma"
       ],
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=34276&MevzuatTur=7&MevzuatTertip=5",
+        "yontem": "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 34276) — yürürlükteki 14/02/2020-31039 metni; önceki 28/10/2007-26684 yönetmeliğinin yerine geçmiştir"
+      },
       "ozet": "Sözleşme öncesi ve süresince sigortacının aydınlatma yükümlülüğü ve bilgilendirme formu esasları."
     },
     {
@@ -483,11 +489,12 @@
       ],
       "otorite": "SEDDK",
       "numara": null,
-      "rg_tarihi": null,
-      "rg_sayisi": null,
+      "rg_tarihi": "2008-06-22",
+      "rg_sayisi": "26914",
       "durum": "yururlukte",
       "oncelik": 1,
       "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=12219&MevzuatTur=7&MevzuatTertip=5",
         "https://www.seddk.gov.tr/tr/mevzuat/sigortacilik/yonetmelikler"
       ],
       "etiketler": [
@@ -496,6 +503,12 @@
         "hasar-tespiti",
         "atama-sistemi"
       ],
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=12219&MevzuatTur=7&MevzuatTertip=5",
+        "yontem": "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 12219) — künye 22/06/2008-26914; güncel atama yön. için bkz. yon-sigorta-eksperleri-atama"
+      },
       "ozet": "Sigorta eksperliği ruhsatı, ekspertiz raporunun içeriği ve eksper atama sistemi."
     },
     {
@@ -508,8 +521,8 @@
       ],
       "otorite": "SEDDK",
       "numara": null,
-      "rg_tarihi": "2008-06-21",
-      "rg_sayisi": "26913",
+      "rg_tarihi": "2015-05-27",
+      "rg_sayisi": "29368",
       "durum": "yururlukte",
       "oncelik": 2,
       "kaynaklar": [
@@ -523,7 +536,8 @@
       "dogrulama": {
         "durum": "dogrulandi",
         "tarih": "2026-08-19",
-        "yontem": "Resmî Gazete (20080621-8) / mevzuat.gov.tr çevrimiçi teyit"
+        "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=20786&MevzuatTur=7&MevzuatTertip=5",
+        "yontem": "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 20786) — yürürlükteki 27/05/2015-29368 metni; önceki 21/06/2008-26913 yönetmeliğinin yerine geçmiştir"
       },
       "ozet": "Brokerlik ruhsatı, faaliyet esasları ve sigorta ettiren adına aracılık yükümlülükleri."
     },
@@ -656,17 +670,24 @@
       ],
       "otorite": "SEDDK",
       "numara": null,
-      "rg_tarihi": null,
-      "rg_sayisi": null,
+      "rg_tarihi": "2008-07-12",
+      "rg_sayisi": "26934",
       "durum": "yururlukte",
       "oncelik": 3,
       "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=12250&MevzuatTur=7&MevzuatTertip=5",
         "https://www.seddk.gov.tr/tr/mevzuat/sigortacilik/yonetmelikler"
       ],
       "etiketler": [
         "bagimsiz-denetim",
         "denetim-kurulusu"
       ],
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=12250&MevzuatTur=7&MevzuatTertip=5",
+        "yontem": "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 12250) — künye 12/07/2008-26934"
+      },
       "ozet": "Bağımsız denetim kuruluşlarının yetkilendirilmesi ve denetim raporlarının esasları."
     },
     {
@@ -741,11 +762,12 @@
       ],
       "otorite": "SEDDK",
       "numara": null,
-      "rg_tarihi": null,
-      "rg_sayisi": null,
+      "rg_tarihi": "2021-06-16",
+      "rg_sayisi": "31513",
       "durum": "yururlukte",
       "oncelik": 2,
       "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=38724&MevzuatTur=7&MevzuatTertip=5",
         "https://www.seddk.gov.tr/tr/mevzuat/sigortacilik/yonetmelikler"
       ],
       "etiketler": [
@@ -753,6 +775,12 @@
         "tuketici-lehine-sigorta",
         "uzaktan-satis"
       ],
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=38724&MevzuatTur=7&MevzuatTertip=5",
+        "yontem": "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 38724) — künye 16/06/2021-31513"
+      },
       "ozet": "Uzaktan/mesafeli sigorta satışı ve tüketici lehine yapılan sözleşmelerde bilgilendirme ve cayma esasları."
     },
     {
@@ -1105,13 +1133,13 @@
       ],
       "otorite": "Tarım ve Orman Bakanlığı / SEDDK",
       "numara": null,
-      "rg_tarihi": null,
-      "rg_sayisi": null,
+      "rg_tarihi": "2006-05-18",
+      "rg_sayisi": "26172",
       "durum": "yururlukte",
       "oncelik": 3,
       "kaynaklar": [
-        "https://www.tarsim.gov.tr",
-        "https://www.mevzuat.gov.tr"
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=10308&MevzuatTur=7&MevzuatTertip=5",
+        "https://www.tarsim.gov.tr"
       ],
       "etiketler": [
         "tarsim",
@@ -1119,6 +1147,12 @@
         "devlet-destegi",
         "prim-destegi"
       ],
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=10308&MevzuatTur=7&MevzuatTertip=5",
+        "yontem": "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 10308) — künye 18/05/2006-26172"
+      },
       "ozet": "TARSİM havuzunun işleyişi, risk paylaşımı ve devlet prim desteği."
     },
     {
@@ -1419,11 +1453,12 @@
       ],
       "otorite": "SEDDK",
       "numara": null,
-      "rg_tarihi": null,
-      "rg_sayisi": null,
+      "rg_tarihi": "2013-05-26",
+      "rg_sayisi": "28658",
       "durum": "yururlukte",
       "oncelik": 2,
       "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18400&MevzuatTur=9&MevzuatTertip=5",
         "https://www.tsb.org.tr/tr/mevzuat/sigortacilik/genel-sartlar"
       ],
       "etiketler": [
@@ -1432,6 +1467,12 @@
         "avukat-eki",
         "sigorta-aracilari-eki"
       ],
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18400&MevzuatTur=9&MevzuatTertip=5",
+        "yontem": "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 18400) — künye 26/05/2013-28658"
+      },
       "ozet": "Serbest meslek mensuplarının mesleki hatalarından doğan sorumluluğun teminatı ve meslek bazlı ekler."
     },
     {
@@ -3208,6 +3249,1318 @@
         "fon-verileri"
       ],
       "ozet": "BES işlem gözetimi, fon performans verileri ve raporlama altyapısı."
+    },
+    {
+      "id": "yon-bes-aracilari",
+      "baslik": "Bireysel Emeklilik Aracıları Hakkında Yönetmelik",
+      "tur": "yonetmelik",
+      "klasor": "belgeler/03-yonetmelikler/bireysel-emeklilik",
+      "brans": [
+        "bes"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2019-06-13",
+      "rg_sayisi": "30800",
+      "durum": "yururlukte",
+      "oncelik": 2,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=32590&MevzuatTur=2&MevzuatTertip=5"
+      ],
+      "etiketler": [
+        "bireysel",
+        "emeklilik",
+        "aracilari",
+        "hakkinda",
+        "yonetmelik"
+      ],
+      "ozet": "Resmî ad: Bireysel Emeklilik Aracıları Hakkında Yönetmelik. mevzuat.gov.tr'den eklendi (no 32590); künye resmî kaynaktan doğrulandı.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=32590&MevzuatTur=2&MevzuatTertip=5",
+        "yontem": "mevzuat.gov.tr DataTable arama API'sinden doğrudan teyit (no 32590) — künye 13.06.2019/30800"
+      }
+    },
+    {
+      "id": "yon-bes-devlet-katkisi",
+      "baslik": "Bireysel Emeklilik Sisteminde Devlet Katkısı Hakkında Yönetmelik",
+      "tur": "yonetmelik",
+      "klasor": "belgeler/03-yonetmelikler/bireysel-emeklilik",
+      "brans": [
+        "bes"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2022-12-31",
+      "rg_sayisi": "32060",
+      "durum": "yururlukte",
+      "oncelik": 2,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=39939&MevzuatTur=2&MevzuatTertip=5"
+      ],
+      "etiketler": [
+        "bireysel",
+        "emeklilik",
+        "sisteminde",
+        "devlet",
+        "katkisi"
+      ],
+      "ozet": "Resmî ad: Bireysel Emeklilik Sisteminde Devlet Katkısı Hakkında Yönetmelik. mevzuat.gov.tr'den eklendi (no 39939); künye resmî kaynaktan doğrulandı.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=39939&MevzuatTur=2&MevzuatTertip=5",
+        "yontem": "mevzuat.gov.tr DataTable arama API'sinden doğrudan teyit (no 39939) — künye 31.12.2022/32060"
+      }
+    },
+    {
+      "id": "yon-emeklilik-gozetim-merkezi",
+      "baslik": "Emeklilik Gözetim Merkezi Çalışma Esasları Yönetmeliği",
+      "tur": "yonetmelik",
+      "klasor": "belgeler/03-yonetmelikler/bireysel-emeklilik",
+      "brans": [
+        "bes"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2020-10-09",
+      "rg_sayisi": "31269",
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=34918&MevzuatTur=2&MevzuatTertip=5"
+      ],
+      "etiketler": [
+        "emeklilik",
+        "gozetim",
+        "merkezi",
+        "calisma",
+        "esaslari"
+      ],
+      "ozet": "Resmî ad: Emeklilik Gözetim Merkezi Çalışma Esasları Yönetmeliği. mevzuat.gov.tr'den eklendi (no 34918); künye resmî kaynaktan doğrulandı.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=34918&MevzuatTur=2&MevzuatTertip=5",
+        "yontem": "mevzuat.gov.tr DataTable arama API'sinden doğrudan teyit (no 34918) — künye 09.10.2020/31269"
+      }
+    },
+    {
+      "id": "yon-emeklilik-sirketleri-kurulus",
+      "baslik": "Emeklilik Şirketleri Kuruluş Ve Çalışma Esaslarına İlişkin Yönetmelik",
+      "tur": "yonetmelik",
+      "klasor": "belgeler/03-yonetmelikler/bireysel-emeklilik",
+      "brans": [
+        "bes"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2008-01-08",
+      "rg_sayisi": "26750",
+      "durum": "yururlukte",
+      "oncelik": 2,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=11880&MevzuatTur=2&MevzuatTertip=5"
+      ],
+      "etiketler": [
+        "emeklilik",
+        "sirketleri",
+        "kurulus",
+        "ve",
+        "calisma"
+      ],
+      "ozet": "Resmî ad: Emeklilik Şirketleri Kuruluş Ve Çalışma Esaslarına İlişkin Yönetmelik. mevzuat.gov.tr'den eklendi (no 11880); künye resmî kaynaktan doğrulandı.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=11880&MevzuatTur=2&MevzuatTertip=5",
+        "yontem": "mevzuat.gov.tr DataTable arama API'sinden doğrudan teyit (no 11880) — künye 08.01.2008/26750"
+      }
+    },
+    {
+      "id": "yon-bes-aktarim-dernek-vakif-sandik",
+      "baslik": "Dernek, Vakıf, Sandık Ve Diğer Kuruluşlardan Bireysel Emeklilik Sistemine Aktarım Hakkında Yönetmelik",
+      "tur": "yonetmelik",
+      "klasor": "belgeler/03-yonetmelikler/bireysel-emeklilik",
+      "brans": [
+        "bes"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2021-12-08",
+      "rg_sayisi": "31683",
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=39092&MevzuatTur=2&MevzuatTertip=5"
+      ],
+      "etiketler": [
+        "dernek",
+        "vakif",
+        "sandik",
+        "ve",
+        "diger"
+      ],
+      "ozet": "Resmî ad: Dernek, Vakıf, Sandık Ve Diğer Kuruluşlardan Bireysel Emeklilik Sistemine Aktarım Hakkında Yönetmelik. mevzuat.gov.tr'den eklendi (no 39092); künye resmî kaynaktan doğrulandı.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=39092&MevzuatTur=2&MevzuatTertip=5",
+        "yontem": "mevzuat.gov.tr DataTable arama API'sinden doğrudan teyit (no 39092) — künye 08.12.2021/31683"
+      }
+    },
+    {
+      "id": "yon-yillik-gelir-sigortalari",
+      "baslik": "Yıllık Gelir Sigortaları Yönetmeliği",
+      "tur": "yonetmelik",
+      "klasor": "belgeler/03-yonetmelikler/bireysel-emeklilik",
+      "brans": [
+        "hayat",
+        "bes"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2015-04-01",
+      "rg_sayisi": "29313",
+      "durum": "yururlukte",
+      "oncelik": 2,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=20640&MevzuatTur=2&MevzuatTertip=5"
+      ],
+      "etiketler": [
+        "yillik",
+        "gelir",
+        "sigortalari",
+        "yonetmeligi"
+      ],
+      "ozet": "Resmî ad: Yıllık Gelir Sigortaları Yönetmeliği. mevzuat.gov.tr'den eklendi (no 20640); künye resmî kaynaktan doğrulandı.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=20640&MevzuatTur=2&MevzuatTertip=5",
+        "yontem": "mevzuat.gov.tr DataTable arama API'sinden doğrudan teyit (no 20640) — künye 01.04.2015/29313"
+      }
+    },
+    {
+      "id": "yon-sigorta-eksperleri-atama",
+      "baslik": "Sigorta Eksperleri Atama Yönetmeliği",
+      "tur": "yonetmelik",
+      "klasor": "belgeler/03-yonetmelikler/sigortacilik",
+      "brans": [
+        "aracilar",
+        "hasar"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2026-02-12",
+      "rg_sayisi": "33166",
+      "durum": "yururlukte",
+      "oncelik": 1,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=45086&MevzuatTur=2&MevzuatTertip=5"
+      ],
+      "etiketler": [
+        "sigorta",
+        "eksperleri",
+        "atama",
+        "yonetmeligi"
+      ],
+      "ozet": "Resmî ad: Sigorta Eksperleri Atama Yönetmeliği. mevzuat.gov.tr'den eklendi (no 45086); künye resmî kaynaktan doğrulandı.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=45086&MevzuatTur=2&MevzuatTertip=5",
+        "yontem": "mevzuat.gov.tr DataTable arama API'sinden doğrudan teyit (no 45086) — künye 12.02.2026/33166"
+      }
+    },
+    {
+      "id": "yon-sigorta-eksperleri-icra-komitesi",
+      "baslik": "Sigorta Eksperleri İcra Komitesinin Kuruluş Ve Çalışma Usul Ve Esasları Yönetmeliği",
+      "tur": "yonetmelik",
+      "klasor": "belgeler/03-yonetmelikler/sigortacilik",
+      "brans": [
+        "aracilar"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2009-03-01",
+      "rg_sayisi": "27156",
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=12903&MevzuatTur=2&MevzuatTertip=5"
+      ],
+      "etiketler": [
+        "sigorta",
+        "eksperleri",
+        "icra",
+        "komitesinin",
+        "kurulus"
+      ],
+      "ozet": "Resmî ad: Sigorta Eksperleri İcra Komitesinin Kuruluş Ve Çalışma Usul Ve Esasları Yönetmeliği. mevzuat.gov.tr'den eklendi (no 12903); künye resmî kaynaktan doğrulandı.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=12903&MevzuatTur=2&MevzuatTertip=5",
+        "yontem": "mevzuat.gov.tr DataTable arama API'sinden doğrudan teyit (no 12903) — künye 01.03.2009/27156"
+      }
+    },
+    {
+      "id": "yon-sigorta-produktorleri",
+      "baslik": "Sigorta Prodüktörleri Yönetmeliği",
+      "tur": "yonetmelik",
+      "klasor": "belgeler/03-yonetmelikler/sigortacilik",
+      "brans": [
+        "aracilar"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "1995-08-02",
+      "rg_sayisi": "22362",
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4367&MevzuatTur=2&MevzuatTertip=5"
+      ],
+      "etiketler": [
+        "sigorta",
+        "produktorleri",
+        "yonetmeligi"
+      ],
+      "ozet": "Resmî ad: Sigorta Prodüktörleri Yönetmeliği. mevzuat.gov.tr'den eklendi (no 4367); künye resmî kaynaktan doğrulandı.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4367&MevzuatTur=2&MevzuatTertip=5",
+        "yontem": "mevzuat.gov.tr DataTable arama API'sinden doğrudan teyit (no 4367) — künye 02.08.1995/22362"
+      }
+    },
+    {
+      "id": "yon-acente-sektor-meclisi-icra-komitesi",
+      "baslik": "Sigorta Acenteleri Sektör Meclisi İle Sigorta Acenteleri İcra Komitesinin Kuruluş Ve Çalışma Usul Ve Esasları Hakkında Yönetmelik",
+      "tur": "yonetmelik",
+      "klasor": "belgeler/03-yonetmelikler/sigortacilik",
+      "brans": [
+        "aracilar"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2008-09-10",
+      "rg_sayisi": "26993",
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=12412&MevzuatTur=2&MevzuatTertip=5"
+      ],
+      "etiketler": [
+        "sigorta",
+        "acenteleri",
+        "sektor",
+        "meclisi",
+        "ile"
+      ],
+      "ozet": "Resmî ad: Sigorta Acenteleri Sektör Meclisi İle Sigorta Acenteleri İcra Komitesinin Kuruluş Ve Çalışma Usul Ve Esasları Hakkında Yönetmelik. mevzuat.gov.tr'den eklendi (no 12412); künye resmî kaynaktan doğrulandı.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=12412&MevzuatTur=2&MevzuatTertip=5",
+        "yontem": "mevzuat.gov.tr DataTable arama API'sinden doğrudan teyit (no 12412) — künye 10.09.2008/26993"
+      }
+    },
+    {
+      "id": "yon-bireysel-kredi-baglantili-sigortalar",
+      "baslik": "Bireysel Kredilerle Bağlantılı Sigortalar Uygulama Esasları Yönetmeliği",
+      "tur": "yonetmelik",
+      "klasor": "belgeler/03-yonetmelikler/sigortacilik",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2015-03-13",
+      "rg_sayisi": "29294",
+      "durum": "yururlukte",
+      "oncelik": 2,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=20599&MevzuatTur=2&MevzuatTertip=5"
+      ],
+      "etiketler": [
+        "bireysel",
+        "kredilerle",
+        "baglantili",
+        "sigortalar",
+        "uygulama"
+      ],
+      "ozet": "Resmî ad: Bireysel Kredilerle Bağlantılı Sigortalar Uygulama Esasları Yönetmeliği. mevzuat.gov.tr'den eklendi (no 20599); künye resmî kaynaktan doğrulandı.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=20599&MevzuatTur=2&MevzuatTertip=5",
+        "yontem": "mevzuat.gov.tr DataTable arama API'sinden doğrudan teyit (no 20599) — künye 13.03.2015/29294"
+      }
+    },
+    {
+      "id": "yon-yanlis-sigorta-uygulamalari-suistimal",
+      "baslik": "Yanlış Sigorta Uygulamalarının Tespiti, Bildirimi, Kaydı Ve Bu Uygulamalarla Mücadele Usul Ve Esasları Hakkında Yönetmelik",
+      "tur": "yonetmelik",
+      "klasor": "belgeler/03-yonetmelikler/sigortacilik",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2011-04-30",
+      "rg_sayisi": "27920",
+      "durum": "yururlukte",
+      "oncelik": 1,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=14956&MevzuatTur=2&MevzuatTertip=5"
+      ],
+      "etiketler": [
+        "yanlis",
+        "sigorta",
+        "uygulamalarinin",
+        "tespiti",
+        "bildirimi"
+      ],
+      "ozet": "Resmî ad: Yanlış Sigorta Uygulamalarının Tespiti, Bildirimi, Kaydı Ve Bu Uygulamalarla Mücadele Usul Ve Esasları Hakkında Yönetmelik. mevzuat.gov.tr'den eklendi (no 14956); künye resmî kaynaktan doğrulandı.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=14956&MevzuatTur=2&MevzuatTertip=5",
+        "yontem": "mevzuat.gov.tr DataTable arama API'sinden doğrudan teyit (no 14956) — künye 30.04.2011/27920"
+      }
+    },
+    {
+      "id": "yon-sigortacilik-verilerinin-toplanmasi",
+      "baslik": "Sigortacılık Verilerinin Toplanması, Saklanması Ve Paylaşılmasına Dair Yönetmelik",
+      "tur": "yonetmelik",
+      "klasor": "belgeler/03-yonetmelikler/sigortacilik",
+      "brans": [
+        "genel",
+        "veri"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2022-10-18",
+      "rg_sayisi": "31987",
+      "durum": "yururlukte",
+      "oncelik": 1,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=39763&MevzuatTur=2&MevzuatTertip=5"
+      ],
+      "etiketler": [
+        "sigortacilik",
+        "verilerinin",
+        "toplanmasi",
+        "saklanmasi",
+        "ve"
+      ],
+      "ozet": "Resmî ad: Sigortacılık Verilerinin Toplanması, Saklanması Ve Paylaşılmasına Dair Yönetmelik. mevzuat.gov.tr'den eklendi (no 39763); künye resmî kaynaktan doğrulandı.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=39763&MevzuatTur=2&MevzuatTertip=5",
+        "yontem": "mevzuat.gov.tr DataTable arama API'sinden doğrudan teyit (no 39763) — künye 18.10.2022/31987"
+      }
+    },
+    {
+      "id": "yon-segem-sigortacilik-egitim-merkezi",
+      "baslik": "Sigortacılık Eğitim Merkezi Yönetmeliği",
+      "tur": "yonetmelik",
+      "klasor": "belgeler/03-yonetmelikler/sigortacilik",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2008-06-01",
+      "rg_sayisi": "26893",
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=12175&MevzuatTur=2&MevzuatTertip=5"
+      ],
+      "etiketler": [
+        "sigortacilik",
+        "egitim",
+        "merkezi",
+        "yonetmeligi"
+      ],
+      "ozet": "Resmî ad: Sigortacılık Eğitim Merkezi Yönetmeliği. mevzuat.gov.tr'den eklendi (no 12175); künye resmî kaynaktan doğrulandı.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=12175&MevzuatTur=2&MevzuatTertip=5",
+        "yontem": "mevzuat.gov.tr DataTable arama API'sinden doğrudan teyit (no 12175) — künye 01.06.2008/26893"
+      }
+    },
+    {
+      "id": "yon-sigorta-ihtisas-komiteleri",
+      "baslik": "Sigorta İhtisas Komiteleri Yönetmeliği",
+      "tur": "yonetmelik",
+      "klasor": "belgeler/03-yonetmelikler/sigortacilik",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2008-06-22",
+      "rg_sayisi": "26914",
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=12217&MevzuatTur=2&MevzuatTertip=5"
+      ],
+      "etiketler": [
+        "sigorta",
+        "ihtisas",
+        "komiteleri",
+        "yonetmeligi"
+      ],
+      "ozet": "Resmî ad: Sigorta İhtisas Komiteleri Yönetmeliği. mevzuat.gov.tr'den eklendi (no 12217); künye resmî kaynaktan doğrulandı.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=12217&MevzuatTur=2&MevzuatTertip=5",
+        "yontem": "mevzuat.gov.tr DataTable arama API'sinden doğrudan teyit (no 12217) — künye 22.06.2008/26914"
+      }
+    },
+    {
+      "id": "yon-tsb-calisma-usul",
+      "baslik": "Türkiye Sigorta, Reasürans Ve Emeklilik Şirketleri Birliğinin Çalışma Usul Ve Esasları Hakkında Yönetmelik",
+      "tur": "yonetmelik",
+      "klasor": "belgeler/03-yonetmelikler/sigortacilik",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2014-01-02",
+      "rg_sayisi": "28870",
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=19218&MevzuatTur=2&MevzuatTertip=5"
+      ],
+      "etiketler": [
+        "turkiye",
+        "sigorta",
+        "reasurans",
+        "ve",
+        "emeklilik"
+      ],
+      "ozet": "Resmî ad: Türkiye Sigorta, Reasürans Ve Emeklilik Şirketleri Birliğinin Çalışma Usul Ve Esasları Hakkında Yönetmelik. mevzuat.gov.tr'den eklendi (no 19218); künye resmî kaynaktan doğrulandı.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=19218&MevzuatTur=2&MevzuatTertip=5",
+        "yontem": "mevzuat.gov.tr DataTable arama API'sinden doğrudan teyit (no 19218) — künye 02.01.2014/28870"
+      }
+    },
+    {
+      "id": "yon-zorunlu-sigorta-takibi",
+      "baslik": "Zorunlu Sigorta Takibine İlişkin Yönetmelik",
+      "tur": "yonetmelik",
+      "klasor": "belgeler/03-yonetmelikler/sigortacilik",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2014-08-09",
+      "rg_sayisi": "29083",
+      "durum": "yururlukte",
+      "oncelik": 2,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=19959&MevzuatTur=2&MevzuatTertip=5"
+      ],
+      "etiketler": [
+        "zorunlu",
+        "sigorta",
+        "takibine",
+        "iliskin",
+        "yonetmelik"
+      ],
+      "ozet": "Resmî ad: Zorunlu Sigorta Takibine İlişkin Yönetmelik. mevzuat.gov.tr'den eklendi (no 19959); künye resmî kaynaktan doğrulandı.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=19959&MevzuatTur=2&MevzuatTertip=5",
+        "yontem": "mevzuat.gov.tr DataTable arama API'sinden doğrudan teyit (no 19959) — künye 09.08.2014/29083"
+      }
+    },
+    {
+      "id": "yon-hak-sahiplerince-aranmayan-paralar",
+      "baslik": "Özel Hukuk Hükümlerine Tabi Sigortalar Kapsamında Hak Sahiplerince Aranmayan Paralar Hakkında Yönetmelik",
+      "tur": "yonetmelik",
+      "klasor": "belgeler/03-yonetmelikler/sigortacilik",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2013-10-08",
+      "rg_sayisi": "28789",
+      "durum": "yururlukte",
+      "oncelik": 2,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18932&MevzuatTur=2&MevzuatTertip=5"
+      ],
+      "etiketler": [
+        "ozel",
+        "hukuk",
+        "hukumlerine",
+        "tabi",
+        "sigortalar"
+      ],
+      "ozet": "Resmî ad: Özel Hukuk Hükümlerine Tabi Sigortalar Kapsamında Hak Sahiplerince Aranmayan Paralar Hakkında Yönetmelik. mevzuat.gov.tr'den eklendi (no 18932); künye resmî kaynaktan doğrulandı.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18932&MevzuatTur=2&MevzuatTertip=5",
+        "yontem": "mevzuat.gov.tr DataTable arama API'sinden doğrudan teyit (no 18932) — künye 08.10.2013/28789"
+      }
+    },
+    {
+      "id": "yon-bagimsiz-denetim-ilkeleri",
+      "baslik": "Sigortacılık Bağımsız Denetim İlkelerine İlişkin Yönetmelik",
+      "tur": "yonetmelik",
+      "klasor": "belgeler/03-yonetmelikler/denetim-ve-mali-yapi",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2008-07-12",
+      "rg_sayisi": "26934",
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=12251&MevzuatTur=2&MevzuatTertip=5"
+      ],
+      "etiketler": [
+        "sigortacilik",
+        "bagimsiz",
+        "denetim",
+        "ilkelerine",
+        "iliskin"
+      ],
+      "ozet": "Resmî ad: Sigortacılık Bağımsız Denetim İlkelerine İlişkin Yönetmelik. mevzuat.gov.tr'den eklendi (no 12251); künye resmî kaynaktan doğrulandı.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=12251&MevzuatTur=2&MevzuatTertip=5",
+        "yontem": "mevzuat.gov.tr DataTable arama API'sinden doğrudan teyit (no 12251) — künye 12.07.2008/26934"
+      }
+    },
+    {
+      "id": "yon-sermaye-yeterliligi",
+      "baslik": "Sigorta Ve Reasürans İle Emeklilik Şirketlerinin Sermaye Yeterliliklerinin Ölçülmesine Ve Değerlendirilmesine İlişkin Yönetmelik",
+      "tur": "yonetmelik",
+      "klasor": "belgeler/03-yonetmelikler/denetim-ve-mali-yapi",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2015-08-23",
+      "rg_sayisi": "29454",
+      "durum": "yururlukte",
+      "oncelik": 2,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=21069&MevzuatTur=2&MevzuatTertip=5"
+      ],
+      "etiketler": [
+        "sigorta",
+        "ve",
+        "reasurans",
+        "ile",
+        "emeklilik"
+      ],
+      "ozet": "Resmî ad: Sigorta Ve Reasürans İle Emeklilik Şirketlerinin Sermaye Yeterliliklerinin Ölçülmesine Ve Değerlendirilmesine İlişkin Yönetmelik. mevzuat.gov.tr'den eklendi (no 21069); künye resmî kaynaktan doğrulandı.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=21069&MevzuatTur=2&MevzuatTertip=5",
+        "yontem": "mevzuat.gov.tr DataTable arama API'sinden doğrudan teyit (no 21069) — künye 23.08.2015/29454"
+      }
+    },
+    {
+      "id": "yon-gozetim-ve-denetim-usul",
+      "baslik": "Sigortacılık Ve Özel Emeklilik Sektörlerinin Gözetim Ve Denetimine İlişkin Usul Ve Esaslar Hakkında Yönetmelik",
+      "tur": "yonetmelik",
+      "klasor": "belgeler/03-yonetmelikler/denetim-ve-mali-yapi",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2011-09-14",
+      "rg_sayisi": "28054",
+      "durum": "yururlukte",
+      "oncelik": 2,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=15295&MevzuatTur=2&MevzuatTertip=5"
+      ],
+      "etiketler": [
+        "sigortacilik",
+        "ve",
+        "ozel",
+        "emeklilik",
+        "sektorlerinin"
+      ],
+      "ozet": "Resmî ad: Sigortacılık Ve Özel Emeklilik Sektörlerinin Gözetim Ve Denetimine İlişkin Usul Ve Esaslar Hakkında Yönetmelik. mevzuat.gov.tr'den eklendi (no 15295); künye resmî kaynaktan doğrulandı.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=15295&MevzuatTur=2&MevzuatTertip=5",
+        "yontem": "mevzuat.gov.tr DataTable arama API'sinden doğrudan teyit (no 15295) — künye 14.09.2011/28054"
+      }
+    },
+    {
+      "id": "yon-tarim-sigortalari-uygulama",
+      "baslik": "Tarım Sigortaları Uygulama Yönetmeliği",
+      "tur": "yonetmelik",
+      "klasor": "belgeler/03-yonetmelikler/afet-ve-tarim",
+      "brans": [
+        "tarim"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2006-05-18",
+      "rg_sayisi": "26172",
+      "durum": "yururlukte",
+      "oncelik": 2,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=10307&MevzuatTur=2&MevzuatTertip=5"
+      ],
+      "etiketler": [
+        "tarim",
+        "sigortalari",
+        "uygulama",
+        "yonetmeligi"
+      ],
+      "ozet": "Resmî ad: Tarım Sigortaları Uygulama Yönetmeliği. mevzuat.gov.tr'den eklendi (no 10307); künye resmî kaynaktan doğrulandı.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=10307&MevzuatTur=2&MevzuatTertip=5",
+        "yontem": "mevzuat.gov.tr DataTable arama API'sinden doğrudan teyit (no 10307) — künye 18.05.2006/26172"
+      }
+    },
+    {
+      "id": "yon-nukleer-sorumluluk-sigortasi",
+      "baslik": "Nükleer Risklere İlişkin Sorumluluk Sigortasına Ve Teminatına Dair Yönetmelik",
+      "tur": "yonetmelik",
+      "klasor": "belgeler/03-yonetmelikler/sigortacilik",
+      "brans": [
+        "sorumluluk"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2023-10-19",
+      "rg_sayisi": "32344",
+      "durum": "yururlukte",
+      "oncelik": 2,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=40369&MevzuatTur=2&MevzuatTertip=5"
+      ],
+      "etiketler": [
+        "nukleer",
+        "risklere",
+        "iliskin",
+        "sorumluluk",
+        "sigortasina"
+      ],
+      "ozet": "Resmî ad: Nükleer Risklere İlişkin Sorumluluk Sigortasına Ve Teminatına Dair Yönetmelik. mevzuat.gov.tr'den eklendi (no 40369); künye resmî kaynaktan doğrulandı.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=40369&MevzuatTur=2&MevzuatTertip=5",
+        "yontem": "mevzuat.gov.tr DataTable arama API'sinden doğrudan teyit (no 40369) — künye 19.10.2023/32344"
+      }
+    },
+    {
+      "id": "yon-nukleer-sigorta-havuzu",
+      "baslik": "Nükleer Sigorta Havuzunun Çalışma Usul Ve Esasları Hakkında Yönetmelik",
+      "tur": "yonetmelik",
+      "klasor": "belgeler/03-yonetmelikler/sigortacilik",
+      "brans": [
+        "sorumluluk"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2023-10-19",
+      "rg_sayisi": "32344",
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=40370&MevzuatTur=2&MevzuatTertip=5"
+      ],
+      "etiketler": [
+        "nukleer",
+        "sigorta",
+        "havuzunun",
+        "calisma",
+        "usul"
+      ],
+      "ozet": "Resmî ad: Nükleer Sigorta Havuzunun Çalışma Usul Ve Esasları Hakkında Yönetmelik. mevzuat.gov.tr'den eklendi (no 40370); künye resmî kaynaktan doğrulandı.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=40370&MevzuatTur=2&MevzuatTertip=5",
+        "yontem": "mevzuat.gov.tr DataTable arama API'sinden doğrudan teyit (no 40370) — künye 19.10.2023/32344"
+      }
+    },
+    {
+      "id": "yon-sivil-hava-araclari-ucuncu-sahis",
+      "baslik": "Sivil Hava Araçları Üçüncü Şahıs Mali Sorumluluk Sigortası Hakkında Yönetmelik",
+      "tur": "yonetmelik",
+      "klasor": "belgeler/03-yonetmelikler/sigortacilik",
+      "brans": [
+        "sorumluluk"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2017-07-27",
+      "rg_sayisi": "30136",
+      "durum": "yururlukte",
+      "oncelik": 2,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=23796&MevzuatTur=2&MevzuatTertip=5"
+      ],
+      "etiketler": [
+        "sivil",
+        "hava",
+        "araclari",
+        "ucuncu",
+        "sahis"
+      ],
+      "ozet": "Resmî ad: Sivil Hava Araçları Üçüncü Şahıs Mali Sorumluluk Sigortası Hakkında Yönetmelik. mevzuat.gov.tr'den eklendi (no 23796); künye resmî kaynaktan doğrulandı.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=23796&MevzuatTur=2&MevzuatTertip=5",
+        "yontem": "mevzuat.gov.tr DataTable arama API'sinden doğrudan teyit (no 23796) — künye 27.07.2017/30136"
+      }
+    },
+    {
+      "id": "yon-hava-araclari-yolcu-bagaj-yuk",
+      "baslik": "Türkiye’de Faaliyet Gösteren Hava Araçları İçin Yolcu, Bagaj, Yük Ve Posta Malî Sorumluluk Sigortası Hakkında Yönetmelik",
+      "tur": "yonetmelik",
+      "klasor": "belgeler/03-yonetmelikler/sigortacilik",
+      "brans": [
+        "sorumluluk"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2017-07-27",
+      "rg_sayisi": "30136",
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=23795&MevzuatTur=2&MevzuatTertip=5"
+      ],
+      "etiketler": [
+        "turkiye-de",
+        "faaliyet",
+        "gosteren",
+        "hava",
+        "araclari"
+      ],
+      "ozet": "Resmî ad: Türkiye’de Faaliyet Gösteren Hava Araçları İçin Yolcu, Bagaj, Yük Ve Posta Malî Sorumluluk Sigortası Hakkında Yönetmelik. mevzuat.gov.tr'den eklendi (no 23795); künye resmî kaynaktan doğrulandı.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=23795&MevzuatTur=2&MevzuatTertip=5",
+        "yontem": "mevzuat.gov.tr DataTable arama API'sinden doğrudan teyit (no 23795) — künye 27.07.2017/30136"
+      }
+    },
+    {
+      "id": "yon-yabanci-plakali-tasit-sinir-sigortasi",
+      "baslik": "Yabancı Plakalı Motorlu Kara Taşıtlarının Ülkemizde İşletilmesinden Kaynaklanan Hukuki Sorumluluk İçin Yaptırılacak Sigortaya İlişkin Usul Ve Esaslar Hakkında Yönetmelik",
+      "tur": "yonetmelik",
+      "klasor": "belgeler/03-yonetmelikler/sigortacilik",
+      "brans": [
+        "sorumluluk",
+        "motorlu-arac"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2011-07-13",
+      "rg_sayisi": "27993",
+      "durum": "yururlukte",
+      "oncelik": 2,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=15108&MevzuatTur=2&MevzuatTertip=5"
+      ],
+      "etiketler": [
+        "yabanci",
+        "plakali",
+        "motorlu",
+        "kara",
+        "tasitlarinin"
+      ],
+      "ozet": "Resmî ad: Yabancı Plakalı Motorlu Kara Taşıtlarının Ülkemizde İşletilmesinden Kaynaklanan Hukuki Sorumluluk İçin Yaptırılacak Sigortaya İlişkin Usul Ve Esaslar Hakkında Yönetmelik. mevzuat.gov.tr'den eklendi (no 15108); künye resmî kaynaktan doğrulandı.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=15108&MevzuatTur=2&MevzuatTertip=5",
+        "yontem": "mevzuat.gov.tr DataTable arama API'sinden doğrudan teyit (no 15108) — künye 13.07.2011/27993"
+      }
+    },
+    {
+      "id": "yon-deniz-alacaklari-gemi-sigortasi",
+      "baslik": "Deniz Alacaklarına İlişkin Gemilerin Sigortalandırılması Ve Denetlenmesi Hakkında Yönetmelik",
+      "tur": "yonetmelik",
+      "klasor": "belgeler/03-yonetmelikler/sigortacilik",
+      "brans": [
+        "deniz"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2010-11-14",
+      "rg_sayisi": "27759",
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=14443&MevzuatTur=2&MevzuatTertip=5"
+      ],
+      "etiketler": [
+        "deniz",
+        "alacaklarina",
+        "iliskin",
+        "gemilerin",
+        "sigortalandirilmasi"
+      ],
+      "ozet": "Resmî ad: Deniz Alacaklarına İlişkin Gemilerin Sigortalandırılması Ve Denetlenmesi Hakkında Yönetmelik. mevzuat.gov.tr'den eklendi (no 14443); künye resmî kaynaktan doğrulandı.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=14443&MevzuatTur=2&MevzuatTertip=5",
+        "yontem": "mevzuat.gov.tr DataTable arama API'sinden doğrudan teyit (no 14443) — künye 14.11.2010/27759"
+      }
+    },
+    {
+      "id": "yon-sertifika-mali-sorumluluk",
+      "baslik": "Sertifika Mali Sorumluluk Sigortası Yönetmeliği",
+      "tur": "yonetmelik",
+      "klasor": "belgeler/03-yonetmelikler/sigortacilik",
+      "brans": [
+        "sorumluluk"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2004-08-26",
+      "rg_sayisi": "25565",
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=7110&MevzuatTur=2&MevzuatTertip=5"
+      ],
+      "etiketler": [
+        "sertifika",
+        "mali",
+        "sorumluluk",
+        "sigortasi",
+        "yonetmeligi"
+      ],
+      "ozet": "Resmî ad: Sertifika Mali Sorumluluk Sigortası Yönetmeliği. mevzuat.gov.tr'den eklendi (no 7110); künye resmî kaynaktan doğrulandı.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=7110&MevzuatTur=2&MevzuatTertip=5",
+        "yontem": "mevzuat.gov.tr DataTable arama API'sinden doğrudan teyit (no 7110) — künye 26.08.2004/25565"
+      }
+    },
+    {
+      "id": "yon-tahkim-bilirkisilik",
+      "baslik": "Sigorta Tahkim Komisyonu Bilirkişilik Yönetmeliği",
+      "tur": "yonetmelik",
+      "klasor": "belgeler/09-tahkim/mevzuat",
+      "brans": [
+        "uyusmazlik"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2019-04-18",
+      "rg_sayisi": "30749",
+      "durum": "yururlukte",
+      "oncelik": 2,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=33728&MevzuatTur=2&MevzuatTertip=5"
+      ],
+      "etiketler": [
+        "sigorta",
+        "tahkim",
+        "komisyonu",
+        "bilirkisilik",
+        "yonetmeligi"
+      ],
+      "ozet": "Resmî ad: Sigorta Tahkim Komisyonu Bilirkişilik Yönetmeliği. mevzuat.gov.tr'den eklendi (no 33728); künye resmî kaynaktan doğrulandı.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=33728&MevzuatTur=2&MevzuatTertip=5",
+        "yontem": "mevzuat.gov.tr DataTable arama API'sinden doğrudan teyit (no 33728) — künye 18.04.2019/30749"
+      }
+    },
+    {
+      "id": "teb-tekduzen-hesap-plani-2023",
+      "baslik": "Sigortacılık Tekdüzen Hesap Planı Ve İzahnamesi Hakkında Tebliğ",
+      "tur": "teblig",
+      "klasor": "belgeler/04-tebligler-ve-tarifeler",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2023-10-01",
+      "rg_sayisi": "32326",
+      "durum": "yururlukte",
+      "oncelik": 2,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=45007&MevzuatTur=2&MevzuatTertip=5"
+      ],
+      "etiketler": [
+        "sigortacilik",
+        "tekduzen",
+        "hesap",
+        "plani",
+        "ve"
+      ],
+      "ozet": "Resmî ad: Sigortacılık Tekdüzen Hesap Planı Ve İzahnamesi Hakkında Tebliğ. mevzuat.gov.tr'den eklendi (no 45007); künye resmî kaynaktan doğrulandı.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=45007&MevzuatTur=2&MevzuatTertip=5",
+        "yontem": "mevzuat.gov.tr DataTable arama API'sinden doğrudan teyit (no 45007) — künye 01.10.2023/32326"
+      }
+    },
+    {
+      "id": "teb-teknik-karsiliklar",
+      "baslik": "Sigorta Ve Reasürans İle Emeklilik Şirketlerinin Teknik Karşılıklarının Yatırılacağı Yabancı Varlıklara İlişkin Tebliğ",
+      "tur": "teblig",
+      "klasor": "belgeler/04-tebligler-ve-tarifeler",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2009-01-21",
+      "rg_sayisi": "27117",
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=12803&MevzuatTur=2&MevzuatTertip=5"
+      ],
+      "etiketler": [
+        "sigorta",
+        "ve",
+        "reasurans",
+        "ile",
+        "emeklilik"
+      ],
+      "ozet": "Resmî ad: Sigorta Ve Reasürans İle Emeklilik Şirketlerinin Teknik Karşılıklarının Yatırılacağı Yabancı Varlıklara İlişkin Tebliğ. mevzuat.gov.tr'den eklendi (no 12803); künye resmî kaynaktan doğrulandı.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=12803&MevzuatTur=2&MevzuatTertip=5",
+        "yontem": "mevzuat.gov.tr DataTable arama API'sinden doğrudan teyit (no 12803) — künye 21.01.2009/27117"
+      }
+    },
+    {
+      "id": "teb-sigortacilik-kanunu-m30-tahkim",
+      "baslik": "Sigortacılık Kanununun 30 Uncu Maddesinin On İkinci Ve On Beşinci Fıkralarında Yer Alan Parasal Sınırların Artırılmasına İlişkin Tebliğ",
+      "tur": "teblig",
+      "klasor": "belgeler/04-tebligler-ve-tarifeler",
+      "brans": [
+        "uyusmazlik"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2022-04-16",
+      "rg_sayisi": "31811",
+      "durum": "yururlukte",
+      "oncelik": 2,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=39510&MevzuatTur=2&MevzuatTertip=5"
+      ],
+      "etiketler": [
+        "sigortacilik",
+        "kanununun",
+        30,
+        "uncu",
+        "maddesinin"
+      ],
+      "ozet": "Resmî ad: Sigortacılık Kanununun 30 Uncu Maddesinin On İkinci Ve On Beşinci Fıkralarında Yer Alan Parasal Sınırların Artırılmasına İlişkin Tebliğ. mevzuat.gov.tr'den eklendi (no 39510); künye resmî kaynaktan doğrulandı.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=39510&MevzuatTur=2&MevzuatTertip=5",
+        "yontem": "mevzuat.gov.tr DataTable arama API'sinden doğrudan teyit (no 39510) — künye 16.04.2022/31811"
+      }
+    },
+    {
+      "id": "teb-sigorta-branslari-2007-1",
+      "baslik": "Sigorta Branşlarına İlişkin Tebliğ Tebliğ No: (2007/1)",
+      "tur": "teblig",
+      "klasor": "belgeler/04-tebligler-ve-tarifeler",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2007-07-11",
+      "rg_sayisi": "26579",
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=11433&MevzuatTur=2&MevzuatTertip=5"
+      ],
+      "etiketler": [
+        "sigorta",
+        "branslarina",
+        "iliskin",
+        "teblig",
+        "teblig"
+      ],
+      "ozet": "Resmî ad: Sigorta Branşlarına İlişkin Tebliğ Tebliğ No: (2007/1). mevzuat.gov.tr'den eklendi (no 11433); künye resmî kaynaktan doğrulandı.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=11433&MevzuatTur=2&MevzuatTertip=5",
+        "yontem": "mevzuat.gov.tr DataTable arama API'sinden doğrudan teyit (no 11433) — künye 11.07.2007/26579"
+      }
+    },
+    {
+      "id": "teb-zorunlu-deprem-tarife-talimat-2016",
+      "baslik": "Zorunlu Deprem Sigortası Tarife Ve Talimat Tebliği",
+      "tur": "teblig",
+      "klasor": "belgeler/04-tebligler-ve-tarifeler",
+      "brans": [
+        "dogal-afet"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2016-12-31",
+      "rg_sayisi": "29935",
+      "durum": "yururlukte",
+      "oncelik": 2,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=23199&MevzuatTur=2&MevzuatTertip=5"
+      ],
+      "etiketler": [
+        "zorunlu",
+        "deprem",
+        "sigortasi",
+        "tarife",
+        "ve"
+      ],
+      "ozet": "Resmî ad: Zorunlu Deprem Sigortası Tarife Ve Talimat Tebliği. mevzuat.gov.tr'den eklendi (no 23199); künye resmî kaynaktan doğrulandı.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=23199&MevzuatTur=2&MevzuatTertip=5",
+        "yontem": "mevzuat.gov.tr DataTable arama API'sinden doğrudan teyit (no 23199) — künye 31.12.2016/29935"
+      }
+    },
+    {
+      "id": "teb-tehlikeli-maddeler-tarife-talimat",
+      "baslik": "Tehlikeli Maddeler İçin Yaptırılacak Zorunlu Sorumluluk Sigortalarına İlişkin Tarife Ve Talimat",
+      "tur": "teblig",
+      "klasor": "belgeler/04-tebligler-ve-tarifeler",
+      "brans": [
+        "sorumluluk"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2010-05-09",
+      "rg_sayisi": "27576",
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=13969&MevzuatTur=2&MevzuatTertip=5"
+      ],
+      "etiketler": [
+        "tehlikeli",
+        "maddeler",
+        "icin",
+        "yaptirilacak",
+        "zorunlu"
+      ],
+      "ozet": "Resmî ad: Tehlikeli Maddeler İçin Yaptırılacak Zorunlu Sorumluluk Sigortalarına İlişkin Tarife Ve Talimat. mevzuat.gov.tr'den eklendi (no 13969); künye resmî kaynaktan doğrulandı.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=13969&MevzuatTur=2&MevzuatTertip=5",
+        "yontem": "mevzuat.gov.tr DataTable arama API'sinden doğrudan teyit (no 13969) — künye 09.05.2010/27576"
+      }
+    },
+    {
+      "id": "teb-deniz-araclari-tarife-talimat",
+      "baslik": "Deniz Araçları Zorunlu Mali Sorumluluk Sigortası Tarife Ve Talimat Tebliği",
+      "tur": "teblig",
+      "klasor": "belgeler/04-tebligler-ve-tarifeler",
+      "brans": [
+        "sorumluluk",
+        "deniz"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2014-10-18",
+      "rg_sayisi": "29149",
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=20145&MevzuatTur=2&MevzuatTertip=5"
+      ],
+      "etiketler": [
+        "deniz",
+        "araclari",
+        "zorunlu",
+        "mali",
+        "sorumluluk"
+      ],
+      "ozet": "Resmî ad: Deniz Araçları Zorunlu Mali Sorumluluk Sigortası Tarife Ve Talimat Tebliği. mevzuat.gov.tr'den eklendi (no 20145); künye resmî kaynaktan doğrulandı.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=20145&MevzuatTur=2&MevzuatTertip=5",
+        "yontem": "mevzuat.gov.tr DataTable arama API'sinden doğrudan teyit (no 20145) — künye 18.10.2014/29149"
+      }
+    },
+    {
+      "id": "teb-maden-calisanlari-tarife-talimat",
+      "baslik": "Maden Çalışanları Zorunlu Ferdi Kaza Sigortası Tarife Ve Talimatı Tebliği",
+      "tur": "teblig",
+      "klasor": "belgeler/04-tebligler-ve-tarifeler",
+      "brans": [
+        "ferdi-kaza"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2015-05-06",
+      "rg_sayisi": "29347",
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=20738&MevzuatTur=2&MevzuatTertip=5"
+      ],
+      "etiketler": [
+        "maden",
+        "calisanlari",
+        "zorunlu",
+        "ferdi",
+        "kaza"
+      ],
+      "ozet": "Resmî ad: Maden Çalışanları Zorunlu Ferdi Kaza Sigortası Tarife Ve Talimatı Tebliği. mevzuat.gov.tr'den eklendi (no 20738); künye resmî kaynaktan doğrulandı.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=20738&MevzuatTur=2&MevzuatTertip=5",
+        "yontem": "mevzuat.gov.tr DataTable arama API'sinden doğrudan teyit (no 20738) — künye 06.05.2015/29347"
+      }
+    },
+    {
+      "id": "teb-kiyi-tesisleri-tarife-talimat",
+      "baslik": "Kıyı Tesisleri Deniz Kirliliği Zorunlu Mali Sorumluluk Sigortası Tarife Ve Talimat Tebliği",
+      "tur": "teblig",
+      "klasor": "belgeler/04-tebligler-ve-tarifeler",
+      "brans": [
+        "sorumluluk",
+        "deniz"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2018-04-25",
+      "rg_sayisi": "30402",
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=24538&MevzuatTur=2&MevzuatTertip=5"
+      ],
+      "etiketler": [
+        "kiyi",
+        "tesisleri",
+        "deniz",
+        "kirliligi",
+        "zorunlu"
+      ],
+      "ozet": "Resmî ad: Kıyı Tesisleri Deniz Kirliliği Zorunlu Mali Sorumluluk Sigortası Tarife Ve Talimat Tebliği. mevzuat.gov.tr'den eklendi (no 24538); künye resmî kaynaktan doğrulandı.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=24538&MevzuatTur=2&MevzuatTertip=5",
+        "yontem": "mevzuat.gov.tr DataTable arama API'sinden doğrudan teyit (no 24538) — künye 25.04.2018/30402"
+      }
+    },
+    {
+      "id": "teb-koltuk-ferdi-kaza-tarife-talimat",
+      "baslik": "Karayolu Yolcu Taşımacılığı Zorunlu Koltuk Ferdi Kaza Sigortası Tarife Ve Talimatı",
+      "tur": "teblig",
+      "klasor": "belgeler/04-tebligler-ve-tarifeler",
+      "brans": [
+        "sorumluluk",
+        "tasimacilik"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2005-12-29",
+      "rg_sayisi": "26038",
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=9748&MevzuatTur=2&MevzuatTertip=5"
+      ],
+      "etiketler": [
+        "karayolu",
+        "yolcu",
+        "tasimaciligi",
+        "zorunlu",
+        "koltuk"
+      ],
+      "ozet": "Resmî ad: Karayolu Yolcu Taşımacılığı Zorunlu Koltuk Ferdi Kaza Sigortası Tarife Ve Talimatı. mevzuat.gov.tr'den eklendi (no 9748); künye resmî kaynaktan doğrulandı.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=9748&MevzuatTur=2&MevzuatTertip=5",
+        "yontem": "mevzuat.gov.tr DataTable arama API'sinden doğrudan teyit (no 9748) — künye 29.12.2005/26038"
+      }
+    },
+    {
+      "id": "teb-ozel-guvenlik-tarife-talimat",
+      "baslik": "Özel Güvenlik Mali Sorumluluk Sigortası Tarife Ve Talimatı",
+      "tur": "teblig",
+      "klasor": "belgeler/04-tebligler-ve-tarifeler",
+      "brans": [
+        "sorumluluk"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2006-03-29",
+      "rg_sayisi": "26123",
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=10055&MevzuatTur=2&MevzuatTertip=5"
+      ],
+      "etiketler": [
+        "ozel",
+        "guvenlik",
+        "mali",
+        "sorumluluk",
+        "sigortasi"
+      ],
+      "ozet": "Resmî ad: Özel Güvenlik Mali Sorumluluk Sigortası Tarife Ve Talimatı. mevzuat.gov.tr'den eklendi (no 10055); künye resmî kaynaktan doğrulandı.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=10055&MevzuatTur=2&MevzuatTertip=5",
+        "yontem": "mevzuat.gov.tr DataTable arama API'sinden doğrudan teyit (no 10055) — künye 29.03.2006/26123"
+      }
     }
   ]
 }

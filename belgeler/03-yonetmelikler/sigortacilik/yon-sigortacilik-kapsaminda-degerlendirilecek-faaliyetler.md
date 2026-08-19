@@ -6,31 +6,33 @@ tur_etiket: "Yönetmelik"
 otorite: "SEDDK"
 numara: null
 resmi_gazete:
-  tarih: null
-  sayi: null
+  tarih: "2021-06-16"
+  sayi: "31513"
 durum: yururlukte
 brans: [genel]
 etiketler: [mesafeli-sigorta, tuketici-lehine-sigorta, uzaktan-satis]
 oncelik: 2
 kaynaklar:
+  - "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=38724&MevzuatTur=7&MevzuatTertip=5"
   - "https://www.seddk.gov.tr/tr/mevzuat/sigortacilik/yonetmelikler"
 metin_durumu: iskelet
 dogrulama:
-  durum: dogrulanmadi
-  tarih: null
-  kaynak: null
-  yontem: null
+  durum: dogrulandi
+  tarih: "2026-08-19"
+  kaynak: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=38724&MevzuatTur=7&MevzuatTertip=5"
+  yontem: "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 38724) — künye 16/06/2021-31513"
 son_guncelleme: "2026-08-19"
 dil: tr
 lisans: "Resmî mevzuat metinleri 5846 s. FSEK m.31 uyarınca serbesttir; bu dosyadaki derleme ve notlar CC BY 4.0"
 ---
 # Sigortacılık Kapsamında Değerlendirilecek Faaliyetlere, Tüketici Lehine Yapılan Sigorta Sözleşmeleri ile Mesafeli Akdedilen Sigorta Sözleşmelerine İlişkin Yönetmelik
 
-> [!WARNING]
-> **Bu dosya bir iskelettir.** Resmî metin henüz eklenmemiştir ve künye bilgileri
-> (Resmî Gazete tarih/sayı, yürürlük durumu) **doğrulanmamıştır**.
-> Hukuki işlem yapmadan önce aşağıdaki resmî kaynaktan teyit edin.
-> Doldurma adımları için bkz. `KATKI-REHBERI.md`.
+> [!NOTE]
+> **Künye doğrulandı.** Resmî Gazete tarih ve sayısı resmî kaynaktan teyit edilmiştir.
+> - **Doğrulama kaynağı (resmî kurum):** <https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=38724&MevzuatTur=7&MevzuatTertip=5>
+> - **Erişim / doğrulama tarihi:** 2026-08-19
+> - **Yöntem:** mevzuat.gov.tr arama API'sinden doğrudan teyit (no 38724) — künye 16/06/2021-31513
+> - **Tam metin durumu:** henüz eklenmedi (`metin_durumu: iskelet`); madde metinleri için aşağıdaki resmî kaynağa başvurun.
 
 ## Künye
 
@@ -39,9 +41,9 @@ lisans: "Resmî mevzuat metinleri 5846 s. FSEK m.31 uyarınca serbesttir; bu dos
 | Belge türü | Yönetmelik |
 | Otorite | SEDDK |
 | Numara | — |
-| Resmî Gazete | — / — |
+| Resmî Gazete | 2021-06-16 / 31513 |
 | Durum | Yürürlükte |
-| Doğrulama | ⛔ Doğrulanmadı |
+| Doğrulama | ✅ Künye doğrulandı — 2026-08-19 |
 | Branş | genel |
 | Öncelik | 2 |
 
@@ -73,6 +75,7 @@ Metni eklerken:
 
 ## Resmî kaynaklar
 
+- <https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=38724&MevzuatTur=7&MevzuatTertip=5>
 - <https://www.seddk.gov.tr/tr/mevzuat/sigortacilik/yonetmelikler>
 
 ## Notlar

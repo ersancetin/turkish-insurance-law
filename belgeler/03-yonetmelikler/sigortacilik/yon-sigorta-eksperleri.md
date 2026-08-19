@@ -6,31 +6,33 @@ tur_etiket: "Yönetmelik"
 otorite: "SEDDK"
 numara: null
 resmi_gazete:
-  tarih: null
-  sayi: null
+  tarih: "2008-06-22"
+  sayi: "26914"
 durum: yururlukte
 brans: [aracilar, hasar]
 etiketler: [eksper, ekspertiz-raporu, hasar-tespiti, atama-sistemi]
 oncelik: 1
 kaynaklar:
+  - "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=12219&MevzuatTur=7&MevzuatTertip=5"
   - "https://www.seddk.gov.tr/tr/mevzuat/sigortacilik/yonetmelikler"
 metin_durumu: iskelet
 dogrulama:
-  durum: dogrulanmadi
-  tarih: null
-  kaynak: null
-  yontem: null
+  durum: dogrulandi
+  tarih: "2026-08-19"
+  kaynak: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=12219&MevzuatTur=7&MevzuatTertip=5"
+  yontem: "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 12219) — künye 22/06/2008-26914; güncel atama yön. için bkz. yon-sigorta-eksperleri-atama"
 son_guncelleme: "2026-08-19"
 dil: tr
 lisans: "Resmî mevzuat metinleri 5846 s. FSEK m.31 uyarınca serbesttir; bu dosyadaki derleme ve notlar CC BY 4.0"
 ---
 # Sigorta Eksperleri Yönetmeliği
 
-> [!WARNING]
-> **Bu dosya bir iskelettir.** Resmî metin henüz eklenmemiştir ve künye bilgileri
-> (Resmî Gazete tarih/sayı, yürürlük durumu) **doğrulanmamıştır**.
-> Hukuki işlem yapmadan önce aşağıdaki resmî kaynaktan teyit edin.
-> Doldurma adımları için bkz. `KATKI-REHBERI.md`.
+> [!NOTE]
+> **Künye doğrulandı.** Resmî Gazete tarih ve sayısı resmî kaynaktan teyit edilmiştir.
+> - **Doğrulama kaynağı (resmî kurum):** <https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=12219&MevzuatTur=7&MevzuatTertip=5>
+> - **Erişim / doğrulama tarihi:** 2026-08-19
+> - **Yöntem:** mevzuat.gov.tr arama API'sinden doğrudan teyit (no 12219) — künye 22/06/2008-26914; güncel atama yön. için bkz. yon-sigorta-eksperleri-atama
+> - **Tam metin durumu:** henüz eklenmedi (`metin_durumu: iskelet`); madde metinleri için aşağıdaki resmî kaynağa başvurun.
 
 ## Künye
 
@@ -39,9 +41,9 @@ lisans: "Resmî mevzuat metinleri 5846 s. FSEK m.31 uyarınca serbesttir; bu dos
 | Belge türü | Yönetmelik |
 | Otorite | SEDDK |
 | Numara | — |
-| Resmî Gazete | — / — |
+| Resmî Gazete | 2008-06-22 / 26914 |
 | Durum | Yürürlükte |
-| Doğrulama | ⛔ Doğrulanmadı |
+| Doğrulama | ✅ Künye doğrulandı — 2026-08-19 |
 | Branş | aracilar, hasar |
 | Öncelik | 1 |
 
@@ -73,6 +75,7 @@ Metni eklerken:
 
 ## Resmî kaynaklar
 
+- <https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=12219&MevzuatTur=7&MevzuatTertip=5>
 - <https://www.seddk.gov.tr/tr/mevzuat/sigortacilik/yonetmelikler>
 
 ## Notlar

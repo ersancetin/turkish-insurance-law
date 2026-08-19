@@ -1,37 +1,36 @@
 ---
-id: yon-bagimsiz-denetim
-baslik: "Sigorta ve Reasürans ile Emeklilik Şirketlerinde Bağımsız Denetim Yapılmasına İlişkin Yönetmelik"
+id: yon-tsb-calisma-usul
+baslik: "Türkiye Sigorta, Reasürans Ve Emeklilik Şirketleri Birliğinin Çalışma Usul Ve Esasları Hakkında Yönetmelik"
 tur: yonetmelik
 tur_etiket: "Yönetmelik"
 otorite: "SEDDK"
 numara: null
 resmi_gazete:
-  tarih: "2008-07-12"
-  sayi: "26934"
+  tarih: "2014-01-02"
+  sayi: "28870"
 durum: yururlukte
 brans: [genel]
-etiketler: [bagimsiz-denetim, denetim-kurulusu]
+etiketler: [turkiye, sigorta, reasurans, ve, emeklilik]
 oncelik: 3
 kaynaklar:
-  - "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=12250&MevzuatTur=7&MevzuatTertip=5"
-  - "https://www.seddk.gov.tr/tr/mevzuat/sigortacilik/yonetmelikler"
+  - "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=19218&MevzuatTur=2&MevzuatTertip=5"
 metin_durumu: iskelet
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-19"
-  kaynak: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=12250&MevzuatTur=7&MevzuatTertip=5"
-  yontem: "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 12250) — künye 12/07/2008-26934"
+  kaynak: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=19218&MevzuatTur=2&MevzuatTertip=5"
+  yontem: "mevzuat.gov.tr DataTable arama API'sinden doğrudan teyit (no 19218) — künye 02.01.2014/28870"
 son_guncelleme: "2026-08-19"
 dil: tr
 lisans: "Resmî mevzuat metinleri 5846 s. FSEK m.31 uyarınca serbesttir; bu dosyadaki derleme ve notlar CC BY 4.0"
 ---
-# Sigorta ve Reasürans ile Emeklilik Şirketlerinde Bağımsız Denetim Yapılmasına İlişkin Yönetmelik
+# Türkiye Sigorta, Reasürans Ve Emeklilik Şirketleri Birliğinin Çalışma Usul Ve Esasları Hakkında Yönetmelik
 
 > [!NOTE]
 > **Künye doğrulandı.** Resmî Gazete tarih ve sayısı resmî kaynaktan teyit edilmiştir.
-> - **Doğrulama kaynağı (resmî kurum):** <https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=12250&MevzuatTur=7&MevzuatTertip=5>
+> - **Doğrulama kaynağı (resmî kurum):** <https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=19218&MevzuatTur=2&MevzuatTertip=5>
 > - **Erişim / doğrulama tarihi:** 2026-08-19
-> - **Yöntem:** mevzuat.gov.tr arama API'sinden doğrudan teyit (no 12250) — künye 12/07/2008-26934
+> - **Yöntem:** mevzuat.gov.tr DataTable arama API'sinden doğrudan teyit (no 19218) — künye 02.01.2014/28870
 > - **Tam metin durumu:** henüz eklenmedi (`metin_durumu: iskelet`); madde metinleri için aşağıdaki resmî kaynağa başvurun.
 
 ## Künye
@@ -41,7 +40,7 @@ lisans: "Resmî mevzuat metinleri 5846 s. FSEK m.31 uyarınca serbesttir; bu dos
 | Belge türü | Yönetmelik |
 | Otorite | SEDDK |
 | Numara | — |
-| Resmî Gazete | 2008-07-12 / 26934 |
+| Resmî Gazete | 2014-01-02 / 28870 |
 | Durum | Yürürlükte |
 | Doğrulama | ✅ Künye doğrulandı — 2026-08-19 |
 | Branş | genel |
@@ -49,7 +48,7 @@ lisans: "Resmî mevzuat metinleri 5846 s. FSEK m.31 uyarınca serbesttir; bu dos
 
 ## Özet
 
-Bağımsız denetim kuruluşlarının yetkilendirilmesi ve denetim raporlarının esasları.
+Resmî ad: Türkiye Sigorta, Reasürans Ve Emeklilik Şirketleri Birliğinin Çalışma Usul Ve Esasları Hakkında Yönetmelik. mevzuat.gov.tr'den eklendi (no 19218); künye resmî kaynaktan doğrulandı.
 
 ## Resmî metin
 
@@ -75,8 +74,7 @@ Metni eklerken:
 
 ## Resmî kaynaklar
 
-- <https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=12250&MevzuatTur=7&MevzuatTertip=5>
-- <https://www.seddk.gov.tr/tr/mevzuat/sigortacilik/yonetmelikler>
+- <https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=19218&MevzuatTur=2&MevzuatTertip=5>
 
 ## Notlar
 

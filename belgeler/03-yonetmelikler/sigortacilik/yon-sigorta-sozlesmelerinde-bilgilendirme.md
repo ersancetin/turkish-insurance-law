@@ -6,8 +6,8 @@ tur_etiket: "Yönetmelik"
 otorite: "SEDDK"
 numara: null
 resmi_gazete:
-  tarih: "2007-10-28"
-  sayi: "26684"
+  tarih: "2020-02-14"
+  sayi: "31039"
 durum: yururlukte
 brans: [genel]
 etiketler: [bilgilendirme-formu, aydinlatma-yukumlulugu, cayma]
@@ -16,21 +16,22 @@ kaynaklar:
   - "https://www.seddk.gov.tr/tr/mevzuat/sigortacilik/yonetmelikler"
 metin_durumu: iskelet
 dogrulama:
-  durum: dogrulanmadi
-  tarih: null
-  kaynak: null
-  yontem: null
+  durum: dogrulandi
+  tarih: "2026-08-19"
+  kaynak: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=34276&MevzuatTur=7&MevzuatTertip=5"
+  yontem: "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 34276) — yürürlükteki 14/02/2020-31039 metni; önceki 28/10/2007-26684 yönetmeliğinin yerine geçmiştir"
 son_guncelleme: "2026-08-19"
 dil: tr
 lisans: "Resmî mevzuat metinleri 5846 s. FSEK m.31 uyarınca serbesttir; bu dosyadaki derleme ve notlar CC BY 4.0"
 ---
 # Sigorta Sözleşmelerinde Bilgilendirmeye İlişkin Yönetmelik
 
-> [!WARNING]
-> **Bu dosya bir iskelettir.** Resmî metin henüz eklenmemiştir ve künye bilgileri
-> (Resmî Gazete tarih/sayı, yürürlük durumu) **doğrulanmamıştır**.
-> Hukuki işlem yapmadan önce aşağıdaki resmî kaynaktan teyit edin.
-> Doldurma adımları için bkz. `KATKI-REHBERI.md`.
+> [!NOTE]
+> **Künye doğrulandı.** Resmî Gazete tarih ve sayısı resmî kaynaktan teyit edilmiştir.
+> - **Doğrulama kaynağı (resmî kurum):** <https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=34276&MevzuatTur=7&MevzuatTertip=5>
+> - **Erişim / doğrulama tarihi:** 2026-08-19
+> - **Yöntem:** mevzuat.gov.tr arama API'sinden doğrudan teyit (no 34276) — yürürlükteki 14/02/2020-31039 metni; önceki 28/10/2007-26684 yönetmeliğinin yerine geçmiştir
+> - **Tam metin durumu:** henüz eklenmedi (`metin_durumu: iskelet`); madde metinleri için aşağıdaki resmî kaynağa başvurun.
 
 ## Künye
 
@@ -39,9 +40,9 @@ lisans: "Resmî mevzuat metinleri 5846 s. FSEK m.31 uyarınca serbesttir; bu dos
 | Belge türü | Yönetmelik |
 | Otorite | SEDDK |
 | Numara | — |
-| Resmî Gazete | 2007-10-28 / 26684 |
+| Resmî Gazete | 2020-02-14 / 31039 |
 | Durum | Yürürlükte |
-| Doğrulama | ⛔ Doğrulanmadı |
+| Doğrulama | ✅ Künye doğrulandı — 2026-08-19 |
 | Branş | genel |
 | Öncelik | 1 |
 

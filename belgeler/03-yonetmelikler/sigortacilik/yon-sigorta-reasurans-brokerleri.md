@@ -6,8 +6,8 @@ tur_etiket: "Yönetmelik"
 otorite: "SEDDK"
 numara: null
 resmi_gazete:
-  tarih: "2008-06-21"
-  sayi: "26913"
+  tarih: "2015-05-27"
+  sayi: "29368"
 durum: yururlukte
 brans: [aracilar]
 etiketler: [broker, reasurans, aracilik]
@@ -18,8 +18,8 @@ metin_durumu: iskelet
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-19"
-  kaynak: "https://www.seddk.gov.tr/tr/mevzuat/sigortacilik/yonetmelikler"
-  yontem: "Resmî Gazete (20080621-8) / mevzuat.gov.tr çevrimiçi teyit"
+  kaynak: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=20786&MevzuatTur=7&MevzuatTertip=5"
+  yontem: "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 20786) — yürürlükteki 27/05/2015-29368 metni; önceki 21/06/2008-26913 yönetmeliğinin yerine geçmiştir"
 son_guncelleme: "2026-08-19"
 dil: tr
 lisans: "Resmî mevzuat metinleri 5846 s. FSEK m.31 uyarınca serbesttir; bu dosyadaki derleme ve notlar CC BY 4.0"
@@ -28,9 +28,9 @@ lisans: "Resmî mevzuat metinleri 5846 s. FSEK m.31 uyarınca serbesttir; bu dos
 
 > [!NOTE]
 > **Künye doğrulandı.** Resmî Gazete tarih ve sayısı resmî kaynaktan teyit edilmiştir.
-> - **Doğrulama kaynağı (resmî kurum):** <https://www.seddk.gov.tr/tr/mevzuat/sigortacilik/yonetmelikler>
+> - **Doğrulama kaynağı (resmî kurum):** <https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=20786&MevzuatTur=7&MevzuatTertip=5>
 > - **Erişim / doğrulama tarihi:** 2026-08-19
-> - **Yöntem:** Resmî Gazete (20080621-8) / mevzuat.gov.tr çevrimiçi teyit
+> - **Yöntem:** mevzuat.gov.tr arama API'sinden doğrudan teyit (no 20786) — yürürlükteki 27/05/2015-29368 metni; önceki 21/06/2008-26913 yönetmeliğinin yerine geçmiştir
 > - **Tam metin durumu:** henüz eklenmedi (`metin_durumu: iskelet`); madde metinleri için aşağıdaki resmî kaynağa başvurun.
 
 ## Künye
@@ -40,7 +40,7 @@ lisans: "Resmî mevzuat metinleri 5846 s. FSEK m.31 uyarınca serbesttir; bu dos
 | Belge türü | Yönetmelik |
 | Otorite | SEDDK |
 | Numara | — |
-| Resmî Gazete | 2008-06-21 / 26913 |
+| Resmî Gazete | 2015-05-27 / 29368 |
 | Durum | Yürürlükte |
 | Doğrulama | ✅ Künye doğrulandı — 2026-08-19 |
 | Branş | aracilar |
