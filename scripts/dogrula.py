@@ -112,11 +112,13 @@ def dosya_denetle(yol: pathlib.Path, gorulen_id: dict[str, pathlib.Path]) -> lis
         hatalar.append(f"{goreli}: geçersiz dogrulama.durum → {dog.get('durum') if isinstance(dog, dict) else dog!r}")
     elif dog.get("durum") == "dogrulandi":
         if not dog.get("tarih"):
-            hatalar.append(f"{goreli}: dogrulandi ise dogrulama.tarih zorunlu")
+            hatalar.append(f"{goreli}: dogrulandi ise dogrulama.tarih (erişim tarihi) zorunlu")
         else:
             tarih_kontrol(dog.get("tarih"), f"{goreli}: dogrulama.tarih", hatalar)
         if not dog.get("yontem"):
             hatalar.append(f"{goreli}: dogrulandi ise dogrulama.yontem zorunlu")
+        if not str(dog.get("kaynak") or "").startswith("https://"):
+            hatalar.append(f"{goreli}: dogrulandi ise dogrulama.kaynak (resmî kurum URL'si) zorunlu")
 
     if kunye.get("metin_durumu") == "tam-metin":
         eslesme = METIN_BLOK.search(govde)

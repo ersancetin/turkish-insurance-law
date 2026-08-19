@@ -18,6 +18,7 @@ metin_durumu: iskelet
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-19"
+  kaynak: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6305&MevzuatTur=1&MevzuatTertip=5"
   yontem: "Resmî Gazete / DASK / mevzuat.gov.tr çevrimiçi teyit; önceki hatalı künye (2012-08-18 / 28388) düzeltildi"
 son_guncelleme: "2026-08-19"
 dil: tr
@@ -26,8 +27,11 @@ lisans: "Resmî mevzuat metinleri 5846 s. FSEK m.31 uyarınca serbesttir; bu dos
 # Afet Sigortaları Kanunu
 
 > [!NOTE]
-> **Künye doğrulandı** (2026-08-19). Resmî Gazete tarih ve sayısı resmî kaynaktan teyit edilmiştir.
-> Ancak **tam metin henüz eklenmemiştir** (`metin_durumu: iskelet`); madde metinleri için aşağıdaki resmî kaynağa başvurun.
+> **Künye doğrulandı.** Resmî Gazete tarih ve sayısı resmî kaynaktan teyit edilmiştir.
+> - **Doğrulama kaynağı (resmî kurum):** <https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6305&MevzuatTur=1&MevzuatTertip=5>
+> - **Erişim / doğrulama tarihi:** 2026-08-19
+> - **Yöntem:** Resmî Gazete / DASK / mevzuat.gov.tr çevrimiçi teyit; önceki hatalı künye (2012-08-18 / 28388) düzeltildi
+> - **Tam metin durumu:** henüz eklenmedi (`metin_durumu: iskelet`); madde metinleri için aşağıdaki resmî kaynağa başvurun.
 
 ## Künye
 
@@ -38,7 +42,7 @@ lisans: "Resmî mevzuat metinleri 5846 s. FSEK m.31 uyarınca serbesttir; bu dos
 | Numara | 6305 |
 | Resmî Gazete | 2012-05-18 / 28296 |
 | Durum | Yürürlükte |
-| Doğrulama | ✅ Künye doğrulandı (2026-08-19) |
+| Doğrulama | ✅ Künye doğrulandı — 2026-08-19 |
 | Branş | dogal-afet |
 | Öncelik | 1 |
 

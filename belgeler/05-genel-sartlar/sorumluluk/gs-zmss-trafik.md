@@ -20,6 +20,7 @@ metin_durumu: iskelet
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-19"
+  kaynak: "https://www.tsb.org.tr/content/Legislations/Karayollar%C4%B1_Motorlu_Araclar_Zorunlu_Mali_Sorumluluk_Sigortas%C4%B1_Trafik_Genel_Sartlar%C4%B1_.pdf"
   yontem: "Resmî Gazete / TSB / mevzuat.gov.tr çevrimiçi teyit (2015 metni)"
 son_guncelleme: "2026-08-19"
 dil: tr
@@ -28,8 +29,11 @@ lisans: "Resmî mevzuat metinleri 5846 s. FSEK m.31 uyarınca serbesttir; bu dos
 # Karayolları Motorlu Araçlar Zorunlu Mali Sorumluluk Sigortası (Trafik Sigortası) Genel Şartları
 
 > [!NOTE]
-> **Künye doğrulandı** (2026-08-19). Resmî Gazete tarih ve sayısı resmî kaynaktan teyit edilmiştir.
-> Ancak **tam metin henüz eklenmemiştir** (`metin_durumu: iskelet`); madde metinleri için aşağıdaki resmî kaynağa başvurun.
+> **Künye doğrulandı.** Resmî Gazete tarih ve sayısı resmî kaynaktan teyit edilmiştir.
+> - **Doğrulama kaynağı (resmî kurum):** <https://www.tsb.org.tr/content/Legislations/Karayollar%C4%B1_Motorlu_Araclar_Zorunlu_Mali_Sorumluluk_Sigortas%C4%B1_Trafik_Genel_Sartlar%C4%B1_.pdf>
+> - **Erişim / doğrulama tarihi:** 2026-08-19
+> - **Yöntem:** Resmî Gazete / TSB / mevzuat.gov.tr çevrimiçi teyit (2015 metni)
+> - **Tam metin durumu:** henüz eklenmedi (`metin_durumu: iskelet`); madde metinleri için aşağıdaki resmî kaynağa başvurun.
 
 ## Künye
 
@@ -40,7 +44,7 @@ lisans: "Resmî mevzuat metinleri 5846 s. FSEK m.31 uyarınca serbesttir; bu dos
 | Numara | — |
 | Resmî Gazete | 2015-05-14 / 29355 |
 | Durum | Kısmen iptal edilmiş |
-| Doğrulama | ✅ Künye doğrulandı (2026-08-19) |
+| Doğrulama | ✅ Künye doğrulandı — 2026-08-19 |
 | Branş | sorumluluk, motorlu-arac |
 | Öncelik | 1 |
 

@@ -18,6 +18,7 @@ metin_durumu: iskelet
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-19"
+  kaynak: "https://www.seddk.gov.tr/tr/mevzuat"
   yontem: "Resmî Gazete / mevzuat.gov.tr çevrimiçi teyit (19.12.2020 tarihli metin; 2017/30186 yönetmeliği ilga edildi)"
 son_guncelleme: "2026-08-19"
 dil: tr
@@ -26,8 +27,11 @@ lisans: "Resmî mevzuat metinleri 5846 s. FSEK m.31 uyarınca serbesttir; bu dos
 # Katılım Sigortacılığı Çalışma Usul ve Esasları Hakkında Yönetmelik
 
 > [!NOTE]
-> **Künye doğrulandı** (2026-08-19). Resmî Gazete tarih ve sayısı resmî kaynaktan teyit edilmiştir.
-> Ancak **tam metin henüz eklenmemiştir** (`metin_durumu: iskelet`); madde metinleri için aşağıdaki resmî kaynağa başvurun.
+> **Künye doğrulandı.** Resmî Gazete tarih ve sayısı resmî kaynaktan teyit edilmiştir.
+> - **Doğrulama kaynağı (resmî kurum):** <https://www.seddk.gov.tr/tr/mevzuat>
+> - **Erişim / doğrulama tarihi:** 2026-08-19
+> - **Yöntem:** Resmî Gazete / mevzuat.gov.tr çevrimiçi teyit (19.12.2020 tarihli metin; 2017/30186 yönetmeliği ilga edildi)
+> - **Tam metin durumu:** henüz eklenmedi (`metin_durumu: iskelet`); madde metinleri için aşağıdaki resmî kaynağa başvurun.
 
 ## Künye
 
@@ -38,7 +42,7 @@ lisans: "Resmî mevzuat metinleri 5846 s. FSEK m.31 uyarınca serbesttir; bu dos
 | Numara | — |
 | Resmî Gazete | 2020-12-19 / 31339 |
 | Durum | Yürürlükte |
-| Doğrulama | ✅ Künye doğrulandı (2026-08-19) |
+| Doğrulama | ✅ Künye doğrulandı — 2026-08-19 |
 | Branş | katilim |
 | Öncelik | 2 |
 

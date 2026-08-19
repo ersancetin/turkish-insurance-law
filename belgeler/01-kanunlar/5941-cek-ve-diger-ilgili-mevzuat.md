@@ -18,6 +18,7 @@ metin_durumu: iskelet
 dogrulama:
   durum: dogrulanmadi
   tarih: null
+  kaynak: null
   yontem: null
 son_guncelleme: "2026-08-19"
 dil: tr

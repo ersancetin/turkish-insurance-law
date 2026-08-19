@@ -18,6 +18,7 @@ metin_durumu: iskelet
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-19"
+  kaynak: "https://www.seddk.gov.tr/tr/mevzuat/sigortacilik/yonetmelikler"
   yontem: "Resmî Gazete / Hazine ve Maliye Bakanlığı / mevzuat.gov.tr çevrimiçi teyit (asıl metin 09.08.2008)"
 son_guncelleme: "2026-08-19"
 dil: tr
@@ -26,8 +27,11 @@ lisans: "Resmî mevzuat metinleri 5846 s. FSEK m.31 uyarınca serbesttir; bu dos
 # Sigorta Bilgi ve Gözetim Merkezi Yönetmeliği
 
 > [!NOTE]
-> **Künye doğrulandı** (2026-08-19). Resmî Gazete tarih ve sayısı resmî kaynaktan teyit edilmiştir.
-> Ancak **tam metin henüz eklenmemiştir** (`metin_durumu: iskelet`); madde metinleri için aşağıdaki resmî kaynağa başvurun.
+> **Künye doğrulandı.** Resmî Gazete tarih ve sayısı resmî kaynaktan teyit edilmiştir.
+> - **Doğrulama kaynağı (resmî kurum):** <https://www.seddk.gov.tr/tr/mevzuat/sigortacilik/yonetmelikler>
+> - **Erişim / doğrulama tarihi:** 2026-08-19
+> - **Yöntem:** Resmî Gazete / Hazine ve Maliye Bakanlığı / mevzuat.gov.tr çevrimiçi teyit (asıl metin 09.08.2008)
+> - **Tam metin durumu:** henüz eklenmedi (`metin_durumu: iskelet`); madde metinleri için aşağıdaki resmî kaynağa başvurun.
 
 ## Künye
 
@@ -38,7 +42,7 @@ lisans: "Resmî mevzuat metinleri 5846 s. FSEK m.31 uyarınca serbesttir; bu dos
 | Numara | — |
 | Resmî Gazete | 2008-08-09 / 26962 |
 | Durum | Yakın tarihli değişiklik içeriyor |
-| Doğrulama | ✅ Künye doğrulandı (2026-08-19) |
+| Doğrulama | ✅ Künye doğrulandı — 2026-08-19 |
 | Branş | genel, veri |
 | Öncelik | 2 |
 

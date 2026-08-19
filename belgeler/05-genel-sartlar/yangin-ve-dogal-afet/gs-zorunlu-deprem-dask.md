@@ -19,7 +19,8 @@ metin_durumu: iskelet
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-19"
-  yontem: "Resmî Gazete / DASK / mevzuat.gov.tr çevrimiçi teyit (yürürlük 16.05.2011; önceki 2000/24164 metnin yerine); repoda boş olan RG alanı dolduruldu"
+  kaynak: "https://dask.gov.tr/tr/zds-genel-sartlar"
+  yontem: "DASK resmî sitesinden (dask.gov.tr) doğrudan teyit — sayfa 13.05.2011/27933 yayımını ve değişiklikleri (28512, 29579) belirtiyor; yürürlük 16.05.2011; repoda boş olan RG alanı dolduruldu"
 son_guncelleme: "2026-08-19"
 dil: tr
 lisans: "Resmî mevzuat metinleri 5846 s. FSEK m.31 uyarınca serbesttir; bu dosyadaki derleme ve notlar CC BY 4.0"
@@ -27,8 +28,11 @@ lisans: "Resmî mevzuat metinleri 5846 s. FSEK m.31 uyarınca serbesttir; bu dos
 # Zorunlu Deprem Sigortası Genel Şartları (DASK)
 
 > [!NOTE]
-> **Künye doğrulandı** (2026-08-19). Resmî Gazete tarih ve sayısı resmî kaynaktan teyit edilmiştir.
-> Ancak **tam metin henüz eklenmemiştir** (`metin_durumu: iskelet`); madde metinleri için aşağıdaki resmî kaynağa başvurun.
+> **Künye doğrulandı.** Resmî Gazete tarih ve sayısı resmî kaynaktan teyit edilmiştir.
+> - **Doğrulama kaynağı (resmî kurum):** <https://dask.gov.tr/tr/zds-genel-sartlar>
+> - **Erişim / doğrulama tarihi:** 2026-08-19
+> - **Yöntem:** DASK resmî sitesinden (dask.gov.tr) doğrudan teyit — sayfa 13.05.2011/27933 yayımını ve değişiklikleri (28512, 29579) belirtiyor; yürürlük 16.05.2011; repoda boş olan RG alanı dolduruldu
+> - **Tam metin durumu:** henüz eklenmedi (`metin_durumu: iskelet`); madde metinleri için aşağıdaki resmî kaynağa başvurun.
 
 ## Künye
 
@@ -39,7 +43,7 @@ lisans: "Resmî mevzuat metinleri 5846 s. FSEK m.31 uyarınca serbesttir; bu dos
 | Numara | — |
 | Resmî Gazete | 2011-05-13 / 27933 |
 | Durum | Yürürlükte |
-| Doğrulama | ✅ Künye doğrulandı (2026-08-19) |
+| Doğrulama | ✅ Künye doğrulandı — 2026-08-19 |
 | Branş | dogal-afet |
 | Öncelik | 1 |
 

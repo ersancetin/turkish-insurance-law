@@ -18,6 +18,7 @@ metin_durumu: iskelet
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-19"
+  kaynak: "https://www.tsb.org.tr/tr/mevzuat/sigortacilik/genel-sartlar"
   yontem: "Resmî Gazete / Lexpera resmî gazete kaydı (genel-sartlari-25739) çevrimiçi teyit; repoda boş olan RG alanı dolduruldu"
 son_guncelleme: "2026-08-19"
 dil: tr
@@ -26,8 +27,11 @@ lisans: "Resmî mevzuat metinleri 5846 s. FSEK m.31 uyarınca serbesttir; bu dos
 # Özel Güvenlik Zorunlu Mali Sorumluluk Sigortası Genel Şartları
 
 > [!NOTE]
-> **Künye doğrulandı** (2026-08-19). Resmî Gazete tarih ve sayısı resmî kaynaktan teyit edilmiştir.
-> Ancak **tam metin henüz eklenmemiştir** (`metin_durumu: iskelet`); madde metinleri için aşağıdaki resmî kaynağa başvurun.
+> **Künye doğrulandı.** Resmî Gazete tarih ve sayısı resmî kaynaktan teyit edilmiştir.
+> - **Doğrulama kaynağı (resmî kurum):** <https://www.tsb.org.tr/tr/mevzuat/sigortacilik/genel-sartlar>
+> - **Erişim / doğrulama tarihi:** 2026-08-19
+> - **Yöntem:** Resmî Gazete / Lexpera resmî gazete kaydı (genel-sartlari-25739) çevrimiçi teyit; repoda boş olan RG alanı dolduruldu
+> - **Tam metin durumu:** henüz eklenmedi (`metin_durumu: iskelet`); madde metinleri için aşağıdaki resmî kaynağa başvurun.
 
 ## Künye
 
@@ -38,7 +42,7 @@ lisans: "Resmî mevzuat metinleri 5846 s. FSEK m.31 uyarınca serbesttir; bu dos
 | Numara | — |
 | Resmî Gazete | 2005-02-26 / 25739 |
 | Durum | Yürürlükte |
-| Doğrulama | ✅ Künye doğrulandı (2026-08-19) |
+| Doğrulama | ✅ Künye doğrulandı — 2026-08-19 |
 | Branş | sorumluluk |
 | Öncelik | 3 |
 

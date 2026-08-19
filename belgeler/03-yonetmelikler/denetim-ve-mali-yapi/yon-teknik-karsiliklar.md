@@ -18,6 +18,7 @@ metin_durumu: iskelet
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-19"
+  kaynak: "https://www.seddk.gov.tr/tr/mevzuat/sigortacilik/yonetmelikler"
   yontem: "Resmî Gazete (20070807-7) / mevzuat.gov.tr çevrimiçi teyit; önceki hatalı künye (2007-07-28 / 26597) düzeltildi"
 son_guncelleme: "2026-08-19"
 dil: tr
@@ -26,8 +27,11 @@ lisans: "Resmî mevzuat metinleri 5846 s. FSEK m.31 uyarınca serbesttir; bu dos
 # Sigorta ve Reasürans ile Emeklilik Şirketlerinin Teknik Karşılıklarına ve Bu Karşılıkların Yatırılacağı Varlıklara İlişkin Yönetmelik
 
 > [!NOTE]
-> **Künye doğrulandı** (2026-08-19). Resmî Gazete tarih ve sayısı resmî kaynaktan teyit edilmiştir.
-> Ancak **tam metin henüz eklenmemiştir** (`metin_durumu: iskelet`); madde metinleri için aşağıdaki resmî kaynağa başvurun.
+> **Künye doğrulandı.** Resmî Gazete tarih ve sayısı resmî kaynaktan teyit edilmiştir.
+> - **Doğrulama kaynağı (resmî kurum):** <https://www.seddk.gov.tr/tr/mevzuat/sigortacilik/yonetmelikler>
+> - **Erişim / doğrulama tarihi:** 2026-08-19
+> - **Yöntem:** Resmî Gazete (20070807-7) / mevzuat.gov.tr çevrimiçi teyit; önceki hatalı künye (2007-07-28 / 26597) düzeltildi
+> - **Tam metin durumu:** henüz eklenmedi (`metin_durumu: iskelet`); madde metinleri için aşağıdaki resmî kaynağa başvurun.
 
 ## Künye
 
@@ -38,7 +42,7 @@ lisans: "Resmî mevzuat metinleri 5846 s. FSEK m.31 uyarınca serbesttir; bu dos
 | Numara | — |
 | Resmî Gazete | 2007-08-07 / 26606 |
 | Durum | Yürürlükte |
-| Doğrulama | ✅ Künye doğrulandı (2026-08-19) |
+| Doğrulama | ✅ Künye doğrulandı — 2026-08-19 |
 | Branş | genel |
 | Öncelik | 2 |
 

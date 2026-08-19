@@ -66,6 +66,23 @@ def yml_liste(deger) -> str:
     return "[" + ", ".join(str(x) for x in deger) + "]"
 
 
+def dogrulama_kaynak(kayit: dict):
+    """Doğrulamanın yapıldığı resmî kaynak URL'si.
+
+    Açıkça `dogrulama.kaynak` verilmişse o kullanılır; verilmemişse ve kayıt
+    doğrulanmışsa, `kaynaklar` listesindeki ilk https adres (resmî yayın yeri)
+    doğrulama kaynağı olarak kabul edilir.
+    """
+    dog = kayit.get("dogrulama") or {}
+    if dog.get("kaynak"):
+        return dog["kaynak"]
+    if dog.get("durum") == "dogrulandi":
+        for k in kayit.get("kaynaklar") or []:
+            if str(k).startswith("https://"):
+                return k
+    return None
+
+
 def frontmatter(kayit: dict, guncelleme: str) -> str:
     kaynaklar = "\n".join(f'  - "{k}"' for k in kayit.get("kaynaklar") or []) or "  []"
     numara = f'"{kayit["numara"]}"' if kayit.get("numara") else "null"
@@ -75,6 +92,8 @@ def frontmatter(kayit: dict, guncelleme: str) -> str:
     dog_durum = dog.get("durum", "dogrulanmadi")
     dog_tarih = f'"{dog["tarih"]}"' if dog.get("tarih") else "null"
     dog_yontem = f'"{dog["yontem"]}"' if dog.get("yontem") else "null"
+    dk = dogrulama_kaynak(kayit)
+    dog_kaynak = f'"{dk}"' if dk else "null"
     return f"""---
 id: {kayit['id']}
 baslik: "{kayit['baslik']}"
@@ -95,6 +114,7 @@ metin_durumu: iskelet
 dogrulama:
   durum: {dog_durum}
   tarih: {dog_tarih}
+  kaynak: {dog_kaynak}
   yontem: {dog_yontem}
 son_guncelleme: "{guncelleme}"
 dil: tr
@@ -118,14 +138,20 @@ def govde(kayit: dict) -> str:
 
     dog = kayit.get("dogrulama") or {}
     if dog.get("durum") == "dogrulandi":
-        uyari = (
-            "> [!NOTE]\n"
-            f"> **Künye doğrulandı** ({dog.get('tarih')}). Resmî Gazete tarih ve sayısı "
-            "resmî kaynaktan teyit edilmiştir.\n"
-            "> Ancak **tam metin henüz eklenmemiştir** (`metin_durumu: iskelet`); madde metinleri "
-            "için aşağıdaki resmî kaynağa başvurun."
-        )
-        dog_satiri = f"| Doğrulama | ✅ Künye doğrulandı ({dog.get('tarih')}) |"
+        dk = dogrulama_kaynak(kayit)
+        satir = [
+            "> [!NOTE]",
+            "> **Künye doğrulandı.** Resmî Gazete tarih ve sayısı resmî kaynaktan teyit edilmiştir.",
+        ]
+        if dk:
+            satir.append(f"> - **Doğrulama kaynağı (resmî kurum):** <{dk}>")
+        if dog.get("tarih"):
+            satir.append(f"> - **Erişim / doğrulama tarihi:** {dog.get('tarih')}")
+        if dog.get("yontem"):
+            satir.append(f"> - **Yöntem:** {dog.get('yontem')}")
+        satir.append("> - **Tam metin durumu:** henüz eklenmedi (`metin_durumu: iskelet`); madde metinleri için aşağıdaki resmî kaynağa başvurun.")
+        uyari = "\n".join(satir)
+        dog_satiri = f"| Doğrulama | ✅ Künye doğrulandı — {dog.get('tarih')} |"
     else:
         uyari = (
             "> [!WARNING]\n"
