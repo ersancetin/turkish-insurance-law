@@ -3,7 +3,7 @@
 > Bu dosya `scripts/uret.py` tarafından **otomatik üretilir**. Elle düzenlemeyin;
 > değişiklik için `data/kaynaklar.yaml` dosyasını güncelleyip betiği yeniden çalıştırın.
 
-**Toplam kayıt:** 856  |  **Kütük sürümü:** 0.1.0  |  **Güncelleme:** 2026-08-19
+**Toplam kayıt:** 873  |  **Kütük sürümü:** 0.1.0  |  **Güncelleme:** 2026-08-19
 
 Durum rozetleri: ✅ yürürlükte · ⚠️ kısmen iptal · 🔄 yakın değişiklik · ⛔ mülga · ❔ bilinmiyor
 
@@ -133,20 +133,37 @@ Durum rozetleri: ✅ yürürlükte · ⚠️ kısmen iptal · 🔄 yakın deği�
 | 7 | [Bazı Sigorta Branşlarının Adlarının Değiştirilmesi Hakkında Tebliğ](belgeler/04-tebligler-ve-tarifeler/teb-sigorta-branslari-adlari.md) | Tebliğ | ✅ | P3 |
 | 8 | [Deniz Araçları Zorunlu Mali Sorumluluk Sigortası Tarife Ve Talimat Tebliği](belgeler/04-tebligler-ve-tarifeler/teb-deniz-araclari-tarife-talimat.md) | Tebliğ | ✅ | P3 |
 | 9 | [Devlet Destekli Ticari Alacak Sigortası Sisteminin Tarife Ve Talimatları İle Çalışma Usul Ve Esaslarına Dair Tebliğ](belgeler/04-tebligler-ve-tarifeler/teb-dd-ticari-alacak-tarife-talimat.md) | Tebliğ | ✅ | P3 |
-| 10 | [Emeklilik Fayda Planlarında Muhasebeleştirme Ve Raporlamaya İlişkin Türkiye Muhasebe Standardı (tms 26) Hakkında Tebliğ Sıra No: 23](belgeler/04-tebligler-ve-tarifeler/teb-emeklilik-fayda-plani-muhasebe.md) | Tebliğ | ✅ | P3 |
-| 11 | [Emeklilik Şirketlerindeki Birikimli Hayat Sigortalarından Bireysel Emeklilik Sistemine Aktarımlara İlişkin Tebliğ (tebliğ No:2004/2)](belgeler/04-tebligler-ve-tarifeler/teb-birikimli-hayat-bes-aktarim.md) | Tebliğ | ✅ | P3 |
-| 12 | [Hastalık Sigortası Branş Adının Sağlık Sigortası Olarak Değiştirilmesine İlişkin Tebliğ](belgeler/04-tebligler-ve-tarifeler/teb-hastalik-saglik-brans-adi.md) | Tebliğ | ✅ | P3 |
-| 13 | [Karayolu Yolcu Taşımacılığı Zorunlu Koltuk Ferdi Kaza Sigortası Tarife Ve Talimatı](belgeler/04-tebligler-ve-tarifeler/teb-koltuk-ferdi-kaza-tarife-talimat.md) | Tebliğ | ✅ | P3 |
-| 14 | [Kıyı Tesisleri Deniz Kirliliği Zorunlu Mali Sorumluluk Sigortası Tarife Ve Talimat Tebliği](belgeler/04-tebligler-ve-tarifeler/teb-kiyi-tesisleri-tarife-talimat.md) | Tebliğ | ✅ | P3 |
-| 15 | [Maden Çalışanları Zorunlu Ferdi Kaza Sigortası Tarife Ve Talimatı Tebliği](belgeler/04-tebligler-ve-tarifeler/teb-maden-calisanlari-tarife-talimat.md) | Tebliğ | ✅ | P3 |
-| 16 | [Sigorta Branşlarına İlişkin Tebliğ Tebliğ No: (2007/1)](belgeler/04-tebligler-ve-tarifeler/teb-sigorta-branslari-2007-1.md) | Tebliğ | ✅ | P3 |
-| 17 | [Sigorta Sektörüne İlişkin Grup Muafiyet Tebliği (tebliğ No: 2008/3)](belgeler/04-tebligler-ve-tarifeler/teb-grup-muafiyet-2008-3.md) | Tebliğ | ✅ | P3 |
-| 18 | [Sigorta Ve Reasürans İle Emeklilik Şirketlerinin Teknik Karşılıklarının Yatırılacağı Yabancı Varlıklara İlişkin Tebliğ](belgeler/04-tebligler-ve-tarifeler/teb-teknik-karsiliklar.md) | Tebliğ | ✅ | P3 |
-| 19 | [Sigorta Ve Reasürans Şirketleri İle Emeklilik Şirketlerinin Konsolide Finansal Tablolarının Düzenlenmesine İlişkin Tebliğ](belgeler/04-tebligler-ve-tarifeler/teb-konsolide-finansal-tablolar.md) | Tebliğ | ✅ | P3 |
-| 20 | [Sigortacılık Hesap Planı ve İzahnamesi Hakkında Tebliğ](belgeler/04-tebligler-ve-tarifeler/teb-sigortacilik-hesap-plani.md) | Tebliğ | ✅ | P3 |
-| 21 | [Tehlikeli Maddeler İçin Yaptırılacak Zorunlu Sorumluluk Sigortalarına İlişkin Tarife Ve Talimat](belgeler/04-tebligler-ve-tarifeler/teb-tehlikeli-maddeler-tarife-talimat.md) | Tebliğ | ✅ | P3 |
-| 22 | [Yeni Sigorta Branşı Tesisi Hakkında Tebliğ](belgeler/04-tebligler-ve-tarifeler/teb-yeni-sigorta-bransi.md) | Tebliğ | ✅ | P3 |
-| 23 | [Özel Güvenlik Mali Sorumluluk Sigortası Tarife Ve Talimatı](belgeler/04-tebligler-ve-tarifeler/teb-ozel-guvenlik-tarife-talimat.md) | Tebliğ | ✅ | P3 |
+| 10 | [Doğal Afet Sigortaları Kurumu Tarafından Üstlenilen Zorunlu Deprem Sigortası Riskleri İçin Devlet Tarafından Hasar Fazlası Reasürans Desteği Sağlanmas](belgeler/04-tebligler-ve-tarifeler/kar-3180.md) | Yargı Kararı | ✅ | P3 |
+| 11 | [Emeklilik Fayda Planlarında Muhasebeleştirme Ve Raporlamaya İlişkin Türkiye Muhasebe Standardı (tms 26) Hakkında Tebliğ Sıra No: 23](belgeler/04-tebligler-ve-tarifeler/teb-emeklilik-fayda-plani-muhasebe.md) | Tebliğ | ✅ | P3 |
+| 12 | [Emeklilik Şirketlerindeki Birikimli Hayat Sigortalarından Bireysel Emeklilik Sistemine Aktarımlara İlişkin Tebliğ (tebliğ No:2004/2)](belgeler/04-tebligler-ve-tarifeler/teb-birikimli-hayat-bes-aktarim.md) | Tebliğ | ✅ | P3 |
+| 13 | [Hastalık Sigortası Branş Adının Sağlık Sigortası Olarak Değiştirilmesine İlişkin Tebliğ](belgeler/04-tebligler-ve-tarifeler/teb-hastalik-saglik-brans-adi.md) | Tebliğ | ✅ | P3 |
+| 14 | [Karayolu Yolcu Taşımacılığı Zorunlu Koltuk Ferdi Kaza Sigortası Tarife Ve Talimatı](belgeler/04-tebligler-ve-tarifeler/teb-koltuk-ferdi-kaza-tarife-talimat.md) | Tebliğ | ✅ | P3 |
+| 15 | [Kıyı Tesisleri Deniz Kirliliği Zorunlu Mali Sorumluluk Sigortası Tarife Ve Talimat Tebliği](belgeler/04-tebligler-ve-tarifeler/teb-kiyi-tesisleri-tarife-talimat.md) | Tebliğ | ✅ | P3 |
+| 16 | [Maden Çalışanları Zorunlu Ferdi Kaza Sigortası Tarife Ve Talimatı Tebliği](belgeler/04-tebligler-ve-tarifeler/teb-maden-calisanlari-tarife-talimat.md) | Tebliğ | ✅ | P3 |
+| 17 | [Sigorta Branşlarına İlişkin Tebliğ Tebliğ No: (2007/1)](belgeler/04-tebligler-ve-tarifeler/teb-sigorta-branslari-2007-1.md) | Tebliğ | ✅ | P3 |
+| 18 | [Sigorta Sektörüne İlişkin Grup Muafiyet Tebliği (tebliğ No: 2008/3)](belgeler/04-tebligler-ve-tarifeler/teb-grup-muafiyet-2008-3.md) | Tebliğ | ✅ | P3 |
+| 19 | [Sigorta Ve Reasürans İle Emeklilik Şirketlerinin Teknik Karşılıklarının Yatırılacağı Yabancı Varlıklara İlişkin Tebliğ](belgeler/04-tebligler-ve-tarifeler/teb-teknik-karsiliklar.md) | Tebliğ | ✅ | P3 |
+| 20 | [Sigorta Ve Reasürans Şirketleri İle Emeklilik Şirketlerinin Konsolide Finansal Tablolarının Düzenlenmesine İlişkin Tebliğ](belgeler/04-tebligler-ve-tarifeler/teb-konsolide-finansal-tablolar.md) | Tebliğ | ✅ | P3 |
+| 21 | [Sigortacılık Hesap Planı ve İzahnamesi Hakkında Tebliğ](belgeler/04-tebligler-ve-tarifeler/teb-sigortacilik-hesap-plani.md) | Tebliğ | ✅ | P3 |
+| 22 | [Tarım Sigortaları Havuzu Tarafından 2019 Yılında Kapsama Alınacak Riskler, Ürünler Ve Bölgeler İle Prim Desteği Oranlarına İlişkin Karar (karar Sayısı](belgeler/04-tebligler-ve-tarifeler/kar-380.md) | Yargı Kararı | ✅ | P3 |
+| 23 | [Tarım Sigortaları Havuzu Tarafından 2020 Yılında Kapsama Alınacak Riskler, Ürünler Ve Bölgeler İle Prim Desteği Oranlarına İlişkin Karar (karar Sayısı](belgeler/04-tebligler-ve-tarifeler/kar-1902.md) | Yargı Kararı | ✅ | P3 |
+| 24 | [Tarım Sigortaları Havuzu Tarafından 2021 Yılında Kapsama Alınacak Riskler, Ürünler Ve Bölgeler İle Prim Desteği Oranlarına İlişkin Karar (karar Sayısı](belgeler/04-tebligler-ve-tarifeler/kar-3205.md) | Yargı Kararı | ✅ | P3 |
+| 25 | [Tarım Sigortaları Havuzu Tarafından 2021 Yılında Kapsama Alınacak Riskler, Ürünler Ve Bölgeler İle Prim Desteği Oranlarına İlişkin Kararda Değişiklik ](belgeler/04-tebligler-ve-tarifeler/kar-4637.md) | Yargı Kararı | ✅ | P3 |
+| 26 | [Tarım Sigortaları Havuzu Tarafından 2022 Yılında Kapsama Alınacak Riskler, Ürünler Ve Bölgeler İle Prim Desteği Oranlarına İlişkin Karar (karar Sayısı](belgeler/04-tebligler-ve-tarifeler/kar-4931.md) | Yargı Kararı | ✅ | P3 |
+| 27 | [Tarım Sigortaları Havuzu Tarafından 2023 Yılında Kapsama Alınacak Riskler, Ürünler Ve Bölgeler İle Prim Desteği Oranlarına İlişkin Karar (karar Sayısı](belgeler/04-tebligler-ve-tarifeler/kar-6490.md) | Yargı Kararı | ✅ | P3 |
+| 28 | [Tarım Sigortaları Havuzu Tarafından 2024 Yılında Kapsama Alınacak Riskler, Ürünler Ve Bölgeler İle Prim Desteği Oranlarına İlişkin Karar (karar Sayısı](belgeler/04-tebligler-ve-tarifeler/kar-8015.md) | Yargı Kararı | ✅ | P3 |
+| 29 | [Tarım Sigortaları Havuzu Tarafından 2025 Yılında Kapsama Alınacak Riskler, Ürünler Ve Bölgeler İle Prim Desteği Oranlarına İlişkin Karar (karar Sayısı](belgeler/04-tebligler-ve-tarifeler/kar-9308.md) | Yargı Kararı | ✅ | P3 |
+| 30 | [Tarım Sigortaları Havuzu Tarafından 2025 Yılında Kapsama Alınacak Riskler, Ürünler Ve Bölgeler İle Prim Desteği Oranlarına İlişkin Kararda Değişiklik ](belgeler/04-tebligler-ve-tarifeler/kar-10800.md) | Yargı Kararı | ✅ | P3 |
+| 31 | [Tarım Sigortaları Havuzu Tarafından 2026 Yılında Kapsama Alınacak Riskler, Ürünler Ve Bölgeler İle Prim Desteği Oranlarına İlişkin Karar (karar Sayısı](belgeler/04-tebligler-ve-tarifeler/kar-10801.md) | Yargı Kararı | ✅ | P3 |
+| 32 | [Tarım Sigortaları Havuzuna Devlet Tarafından Taahhüt Edilecek Hasar Fazlası Desteğine İlişkin Karar (karar Sayısı: 11109)](belgeler/04-tebligler-ve-tarifeler/kar-11109.md) | Yargı Kararı | ✅ | P3 |
+| 33 | [Tarım Sigortaları Havuzuna Devlet Tarafından Taahhüt Edilecek Hasar Fazlası Desteğine İlişkin Karar (karar Sayısı: 5480)](belgeler/04-tebligler-ve-tarifeler/kar-5480.md) | Yargı Kararı | ✅ | P3 |
+| 34 | [Tarım Sigortaları Havuzuna Devlet Tarafından Taahhüt Edilecek Hasar Fazlası Desteğine İlişkin Karar (karar Sayısı: 6894)](belgeler/04-tebligler-ve-tarifeler/kar-6894.md) | Yargı Kararı | ✅ | P3 |
+| 35 | [Tarım Sigortaları Havuzuna Devlet Tarafından Taahhüt Edilecek Hasar Fazlası Desteğine İlişkin Karar (karar Sayısı: 8437)](belgeler/04-tebligler-ve-tarifeler/kar-8437.md) | Yargı Kararı | ✅ | P3 |
+| 36 | [Tarım Sigortaları Havuzuna Devlet Tarafından Taahhüt Edilecek Hasar Fazlası Desteğine İlişkin Karar (karar Sayısı: 954)](belgeler/04-tebligler-ve-tarifeler/kar-954.md) | Yargı Kararı | ✅ | P3 |
+| 37 | [Tarım Sigortaları Havuzuna Devlet Tarafından Taahhüt Edilecek Hasar Fazlası Desteğine İlişkin Karar (karar Sayısı: 9593)](belgeler/04-tebligler-ve-tarifeler/kar-9593.md) | Yargı Kararı | ✅ | P3 |
+| 38 | [Tehlikeli Maddeler İçin Yaptırılacak Zorunlu Sorumluluk Sigortalarına İlişkin Tarife Ve Talimat](belgeler/04-tebligler-ve-tarifeler/teb-tehlikeli-maddeler-tarife-talimat.md) | Tebliğ | ✅ | P3 |
+| 39 | [Yeni Sigorta Branşı Tesisi Hakkında Tebliğ](belgeler/04-tebligler-ve-tarifeler/teb-yeni-sigorta-bransi.md) | Tebliğ | ✅ | P3 |
+| 40 | [Özel Güvenlik Mali Sorumluluk Sigortası Tarife Ve Talimatı](belgeler/04-tebligler-ve-tarifeler/teb-ozel-guvenlik-tarife-talimat.md) | Tebliğ | ✅ | P3 |
 
 ## `belgeler/05-genel-sartlar/kara-araclari`
 

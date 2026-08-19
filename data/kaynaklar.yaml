@@ -13037,3 +13037,260 @@ belgeler:
     etiketler: [genelge, seddk, emeklilik]
     ozet: "SEDDK genelge kataloğu: Emeklilik Şirketlerinin Kullanacakları Hesaplar İle Bu Hesapların Açıklamalarına İlişkin G. Kaynak PDF resmî SEDDK sitesinden."
     dogrulama: {durum: dogrulandi, tarih: "2026-08-19", kaynak: "https://seddk.gov.tr/upload/Emeklilik Şirketlerinin  Genelge (2003-7).pdf", yontem: "SEDDK resmî sitesi genelge/duyuru listesinden katalog kaydı (numara+başlık+PDF linki); genelge/duyuru RG'de yayımlanmaz"}
+
+# ==== Cumhurbaşkanı Kararları: tarım/DASK devlet desteği (mevzuat.gov.tr, 19/08/2026) ====
+  - id: kar-11109
+    baslik: "Tarım Sigortaları Havuzuna Devlet Tarafından Taahhüt Edilecek Hasar Fazlası Desteğine İlişkin Karar (karar Sayısı: 11109)"
+    tur: karar
+    klasor: belgeler/04-tebligler-ve-tarifeler
+    brans: [tarim]
+    otorite: "Cumhurbaşkanlığı"
+    numara: "11109"
+    rg_tarihi: "2026-03-27"
+    rg_sayisi: "33206"
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=11109&MevzuatTur=20&MevzuatTertip=5"]
+    etiketler: [cumhurbaskani-karari, tarim, devlet-destegi]
+    ozet: "Resmî ad: Tarım Sigortaları Havuzuna Devlet Tarafından Taahhüt Edilecek Hasar Fazlası Desteğine İliş. Cumhurbaşkanı Kararı; mevzuat.gov.tr'den eklendi (no 11109), künye doğrulandı."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-19", kaynak: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=11109&MevzuatTur=20&MevzuatTertip=5", yontem: "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 11109) — künye 27.03.2026/33206"}
+  - id: kar-10801
+    baslik: "Tarım Sigortaları Havuzu Tarafından 2026 Yılında Kapsama Alınacak Riskler, Ürünler Ve Bölgeler İle Prim Desteği Oranlarına İlişkin Karar (karar Sayısı"
+    tur: karar
+    klasor: belgeler/04-tebligler-ve-tarifeler
+    brans: [tarim]
+    otorite: "Cumhurbaşkanlığı"
+    numara: "10801"
+    rg_tarihi: "2025-12-31"
+    rg_sayisi: "33124"
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=10801&MevzuatTur=20&MevzuatTertip=5"]
+    etiketler: [cumhurbaskani-karari, tarim, devlet-destegi]
+    ozet: "Resmî ad: Tarım Sigortaları Havuzu Tarafından 2026 Yılında Kapsama Alınacak Riskler, Ürünler Ve Bölg. Cumhurbaşkanı Kararı; mevzuat.gov.tr'den eklendi (no 10801), künye doğrulandı."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-19", kaynak: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=10801&MevzuatTur=20&MevzuatTertip=5", yontem: "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 10801) — künye 31.12.2025/33124"}
+  - id: kar-10800
+    baslik: "Tarım Sigortaları Havuzu Tarafından 2025 Yılında Kapsama Alınacak Riskler, Ürünler Ve Bölgeler İle Prim Desteği Oranlarına İlişkin Kararda Değişiklik "
+    tur: karar
+    klasor: belgeler/04-tebligler-ve-tarifeler
+    brans: [tarim]
+    otorite: "Cumhurbaşkanlığı"
+    numara: "10800"
+    rg_tarihi: "2025-12-31"
+    rg_sayisi: "33124"
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=10800&MevzuatTur=20&MevzuatTertip=5"]
+    etiketler: [cumhurbaskani-karari, tarim, devlet-destegi]
+    ozet: "Resmî ad: Tarım Sigortaları Havuzu Tarafından 2025 Yılında Kapsama Alınacak Riskler, Ürünler Ve Bölg. Cumhurbaşkanı Kararı; mevzuat.gov.tr'den eklendi (no 10800), künye doğrulandı."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-19", kaynak: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=10800&MevzuatTur=20&MevzuatTertip=5", yontem: "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 10800) — künye 31.12.2025/33124"}
+  - id: kar-9593
+    baslik: "Tarım Sigortaları Havuzuna Devlet Tarafından Taahhüt Edilecek Hasar Fazlası Desteğine İlişkin Karar (karar Sayısı: 9593)"
+    tur: karar
+    klasor: belgeler/04-tebligler-ve-tarifeler
+    brans: [tarim]
+    otorite: "Cumhurbaşkanlığı"
+    numara: "9593"
+    rg_tarihi: "2025-03-15"
+    rg_sayisi: "32842"
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=9593&MevzuatTur=20&MevzuatTertip=5"]
+    etiketler: [cumhurbaskani-karari, tarim, devlet-destegi]
+    ozet: "Resmî ad: Tarım Sigortaları Havuzuna Devlet Tarafından Taahhüt Edilecek Hasar Fazlası Desteğine İliş. Cumhurbaşkanı Kararı; mevzuat.gov.tr'den eklendi (no 9593), künye doğrulandı."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-19", kaynak: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=9593&MevzuatTur=20&MevzuatTertip=5", yontem: "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 9593) — künye 15.03.2025/32842"}
+  - id: kar-9308
+    baslik: "Tarım Sigortaları Havuzu Tarafından 2025 Yılında Kapsama Alınacak Riskler, Ürünler Ve Bölgeler İle Prim Desteği Oranlarına İlişkin Karar (karar Sayısı"
+    tur: karar
+    klasor: belgeler/04-tebligler-ve-tarifeler
+    brans: [tarim]
+    otorite: "Cumhurbaşkanlığı"
+    numara: "9308"
+    rg_tarihi: "2024-12-25"
+    rg_sayisi: "32763"
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=9308&MevzuatTur=20&MevzuatTertip=5"]
+    etiketler: [cumhurbaskani-karari, tarim, devlet-destegi]
+    ozet: "Resmî ad: Tarım Sigortaları Havuzu Tarafından 2025 Yılında Kapsama Alınacak Riskler, Ürünler Ve Bölg. Cumhurbaşkanı Kararı; mevzuat.gov.tr'den eklendi (no 9308), künye doğrulandı."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-19", kaynak: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=9308&MevzuatTur=20&MevzuatTertip=5", yontem: "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 9308) — künye 25.12.2024/32763"}
+  - id: kar-8437
+    baslik: "Tarım Sigortaları Havuzuna Devlet Tarafından Taahhüt Edilecek Hasar Fazlası Desteğine İlişkin Karar (karar Sayısı: 8437)"
+    tur: karar
+    klasor: belgeler/04-tebligler-ve-tarifeler
+    brans: [tarim]
+    otorite: "Cumhurbaşkanlığı"
+    numara: "8437"
+    rg_tarihi: "2024-05-11"
+    rg_sayisi: "32543"
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=8437&MevzuatTur=20&MevzuatTertip=5"]
+    etiketler: [cumhurbaskani-karari, tarim, devlet-destegi]
+    ozet: "Resmî ad: Tarım Sigortaları Havuzuna Devlet Tarafından Taahhüt Edilecek Hasar Fazlası Desteğine İliş. Cumhurbaşkanı Kararı; mevzuat.gov.tr'den eklendi (no 8437), künye doğrulandı."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-19", kaynak: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=8437&MevzuatTur=20&MevzuatTertip=5", yontem: "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 8437) — künye 11.05.2024/32543"}
+  - id: kar-8015
+    baslik: "Tarım Sigortaları Havuzu Tarafından 2024 Yılında Kapsama Alınacak Riskler, Ürünler Ve Bölgeler İle Prim Desteği Oranlarına İlişkin Karar (karar Sayısı"
+    tur: karar
+    klasor: belgeler/04-tebligler-ve-tarifeler
+    brans: [tarim]
+    otorite: "Cumhurbaşkanlığı"
+    numara: "8015"
+    rg_tarihi: "2023-12-29"
+    rg_sayisi: "32414"
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=8015&MevzuatTur=20&MevzuatTertip=5"]
+    etiketler: [cumhurbaskani-karari, tarim, devlet-destegi]
+    ozet: "Resmî ad: Tarım Sigortaları Havuzu Tarafından 2024 Yılında Kapsama Alınacak Riskler, Ürünler Ve Bölg. Cumhurbaşkanı Kararı; mevzuat.gov.tr'den eklendi (no 8015), künye doğrulandı."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-19", kaynak: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=8015&MevzuatTur=20&MevzuatTertip=5", yontem: "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 8015) — künye 29.12.2023/32414"}
+  - id: kar-6894
+    baslik: "Tarım Sigortaları Havuzuna Devlet Tarafından Taahhüt Edilecek Hasar Fazlası Desteğine İlişkin Karar (karar Sayısı: 6894)"
+    tur: karar
+    klasor: belgeler/04-tebligler-ve-tarifeler
+    brans: [tarim]
+    otorite: "Cumhurbaşkanlığı"
+    numara: "6894"
+    rg_tarihi: "2023-03-07"
+    rg_sayisi: "32125"
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6894&MevzuatTur=20&MevzuatTertip=5"]
+    etiketler: [cumhurbaskani-karari, tarim, devlet-destegi]
+    ozet: "Resmî ad: Tarım Sigortaları Havuzuna Devlet Tarafından Taahhüt Edilecek Hasar Fazlası Desteğine İliş. Cumhurbaşkanı Kararı; mevzuat.gov.tr'den eklendi (no 6894), künye doğrulandı."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-19", kaynak: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6894&MevzuatTur=20&MevzuatTertip=5", yontem: "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 6894) — künye 07.03.2023/32125"}
+  - id: kar-6490
+    baslik: "Tarım Sigortaları Havuzu Tarafından 2023 Yılında Kapsama Alınacak Riskler, Ürünler Ve Bölgeler İle Prim Desteği Oranlarına İlişkin Karar (karar Sayısı"
+    tur: karar
+    klasor: belgeler/04-tebligler-ve-tarifeler
+    brans: [tarim]
+    otorite: "Cumhurbaşkanlığı"
+    numara: "6490"
+    rg_tarihi: "2022-12-10"
+    rg_sayisi: "32039"
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6490&MevzuatTur=20&MevzuatTertip=5"]
+    etiketler: [cumhurbaskani-karari, tarim, devlet-destegi]
+    ozet: "Resmî ad: Tarım Sigortaları Havuzu Tarafından 2023 Yılında Kapsama Alınacak Riskler, Ürünler Ve Bölg. Cumhurbaşkanı Kararı; mevzuat.gov.tr'den eklendi (no 6490), künye doğrulandı."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-19", kaynak: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6490&MevzuatTur=20&MevzuatTertip=5", yontem: "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 6490) — künye 10.12.2022/32039"}
+  - id: kar-5480
+    baslik: "Tarım Sigortaları Havuzuna Devlet Tarafından Taahhüt Edilecek Hasar Fazlası Desteğine İlişkin Karar (karar Sayısı: 5480)"
+    tur: karar
+    klasor: belgeler/04-tebligler-ve-tarifeler
+    brans: [tarim]
+    otorite: "Cumhurbaşkanlığı"
+    numara: "5480"
+    rg_tarihi: "2022-04-21"
+    rg_sayisi: "31816"
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5480&MevzuatTur=20&MevzuatTertip=5"]
+    etiketler: [cumhurbaskani-karari, tarim, devlet-destegi]
+    ozet: "Resmî ad: Tarım Sigortaları Havuzuna Devlet Tarafından Taahhüt Edilecek Hasar Fazlası Desteğine İliş. Cumhurbaşkanı Kararı; mevzuat.gov.tr'den eklendi (no 5480), künye doğrulandı."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-19", kaynak: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5480&MevzuatTur=20&MevzuatTertip=5", yontem: "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 5480) — künye 21.04.2022/31816"}
+  - id: kar-4931
+    baslik: "Tarım Sigortaları Havuzu Tarafından 2022 Yılında Kapsama Alınacak Riskler, Ürünler Ve Bölgeler İle Prim Desteği Oranlarına İlişkin Karar (karar Sayısı"
+    tur: karar
+    klasor: belgeler/04-tebligler-ve-tarifeler
+    brans: [tarim]
+    otorite: "Cumhurbaşkanlığı"
+    numara: "4931"
+    rg_tarihi: "2021-12-22"
+    rg_sayisi: "31697"
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4931&MevzuatTur=20&MevzuatTertip=5"]
+    etiketler: [cumhurbaskani-karari, tarim, devlet-destegi]
+    ozet: "Resmî ad: Tarım Sigortaları Havuzu Tarafından 2022 Yılında Kapsama Alınacak Riskler, Ürünler Ve Bölg. Cumhurbaşkanı Kararı; mevzuat.gov.tr'den eklendi (no 4931), künye doğrulandı."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-19", kaynak: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4931&MevzuatTur=20&MevzuatTertip=5", yontem: "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 4931) — künye 22.12.2021/31697"}
+  - id: kar-4637
+    baslik: "Tarım Sigortaları Havuzu Tarafından 2021 Yılında Kapsama Alınacak Riskler, Ürünler Ve Bölgeler İle Prim Desteği Oranlarına İlişkin Kararda Değişiklik "
+    tur: karar
+    klasor: belgeler/04-tebligler-ve-tarifeler
+    brans: [tarim]
+    otorite: "Cumhurbaşkanlığı"
+    numara: "4637"
+    rg_tarihi: "2021-10-28"
+    rg_sayisi: "31642"
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4637&MevzuatTur=20&MevzuatTertip=5"]
+    etiketler: [cumhurbaskani-karari, tarim, devlet-destegi]
+    ozet: "Resmî ad: Tarım Sigortaları Havuzu Tarafından 2021 Yılında Kapsama Alınacak Riskler, Ürünler Ve Bölg. Cumhurbaşkanı Kararı; mevzuat.gov.tr'den eklendi (no 4637), künye doğrulandı."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-19", kaynak: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4637&MevzuatTur=20&MevzuatTertip=5", yontem: "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 4637) — künye 28.10.2021/31642"}
+  - id: kar-3205
+    baslik: "Tarım Sigortaları Havuzu Tarafından 2021 Yılında Kapsama Alınacak Riskler, Ürünler Ve Bölgeler İle Prim Desteği Oranlarına İlişkin Karar (karar Sayısı"
+    tur: karar
+    klasor: belgeler/04-tebligler-ve-tarifeler
+    brans: [tarim]
+    otorite: "Cumhurbaşkanlığı"
+    numara: "3205"
+    rg_tarihi: "2020-11-25"
+    rg_sayisi: "31315"
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=3205&MevzuatTur=20&MevzuatTertip=5"]
+    etiketler: [cumhurbaskani-karari, tarim, devlet-destegi]
+    ozet: "Resmî ad: Tarım Sigortaları Havuzu Tarafından 2021 Yılında Kapsama Alınacak Riskler, Ürünler Ve Bölg. Cumhurbaşkanı Kararı; mevzuat.gov.tr'den eklendi (no 3205), künye doğrulandı."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-19", kaynak: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=3205&MevzuatTur=20&MevzuatTertip=5", yontem: "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 3205) — künye 25.11.2020/31315"}
+  - id: kar-1902
+    baslik: "Tarım Sigortaları Havuzu Tarafından 2020 Yılında Kapsama Alınacak Riskler, Ürünler Ve Bölgeler İle Prim Desteği Oranlarına İlişkin Karar (karar Sayısı"
+    tur: karar
+    klasor: belgeler/04-tebligler-ve-tarifeler
+    brans: [tarim]
+    otorite: "Cumhurbaşkanlığı"
+    numara: "1902"
+    rg_tarihi: "2019-12-25"
+    rg_sayisi: "30989"
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=1902&MevzuatTur=20&MevzuatTertip=5"]
+    etiketler: [cumhurbaskani-karari, tarim, devlet-destegi]
+    ozet: "Resmî ad: Tarım Sigortaları Havuzu Tarafından 2020 Yılında Kapsama Alınacak Riskler, Ürünler Ve Bölg. Cumhurbaşkanı Kararı; mevzuat.gov.tr'den eklendi (no 1902), künye doğrulandı."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-19", kaynak: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=1902&MevzuatTur=20&MevzuatTertip=5", yontem: "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 1902) — künye 25.12.2019/30989"}
+  - id: kar-954
+    baslik: "Tarım Sigortaları Havuzuna Devlet Tarafından Taahhüt Edilecek Hasar Fazlası Desteğine İlişkin Karar (karar Sayısı: 954)"
+    tur: karar
+    klasor: belgeler/04-tebligler-ve-tarifeler
+    brans: [tarim]
+    otorite: "Cumhurbaşkanlığı"
+    numara: "954"
+    rg_tarihi: "2019-04-18"
+    rg_sayisi: "30749"
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=954&MevzuatTur=20&MevzuatTertip=5"]
+    etiketler: [cumhurbaskani-karari, tarim, devlet-destegi]
+    ozet: "Resmî ad: Tarım Sigortaları Havuzuna Devlet Tarafından Taahhüt Edilecek Hasar Fazlası Desteğine İliş. Cumhurbaşkanı Kararı; mevzuat.gov.tr'den eklendi (no 954), künye doğrulandı."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-19", kaynak: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=954&MevzuatTur=20&MevzuatTertip=5", yontem: "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 954) — künye 18.04.2019/30749"}
+  - id: kar-380
+    baslik: "Tarım Sigortaları Havuzu Tarafından 2019 Yılında Kapsama Alınacak Riskler, Ürünler Ve Bölgeler İle Prim Desteği Oranlarına İlişkin Karar (karar Sayısı"
+    tur: karar
+    klasor: belgeler/04-tebligler-ve-tarifeler
+    brans: [tarim]
+    otorite: "Cumhurbaşkanlığı"
+    numara: "380"
+    rg_tarihi: "2018-11-27"
+    rg_sayisi: "30608"
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=380&MevzuatTur=20&MevzuatTertip=5"]
+    etiketler: [cumhurbaskani-karari, tarim, devlet-destegi]
+    ozet: "Resmî ad: Tarım Sigortaları Havuzu Tarafından 2019 Yılında Kapsama Alınacak Riskler, Ürünler Ve Bölg. Cumhurbaşkanı Kararı; mevzuat.gov.tr'den eklendi (no 380), künye doğrulandı."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-19", kaynak: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=380&MevzuatTur=20&MevzuatTertip=5", yontem: "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 380) — künye 27.11.2018/30608"}
+  - id: kar-3180
+    baslik: "Doğal Afet Sigortaları Kurumu Tarafından Üstlenilen Zorunlu Deprem Sigortası Riskleri İçin Devlet Tarafından Hasar Fazlası Reasürans Desteği Sağlanmas"
+    tur: karar
+    klasor: belgeler/04-tebligler-ve-tarifeler
+    brans: [dogal-afet]
+    otorite: "Cumhurbaşkanlığı"
+    numara: "3180"
+    rg_tarihi: "2020-11-05"
+    rg_sayisi: "31295"
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=3180&MevzuatTur=20&MevzuatTertip=5"]
+    etiketler: [cumhurbaskani-karari, dogal-afet, devlet-destegi]
+    ozet: "Resmî ad: Doğal Afet Sigortaları Kurumu Tarafından Üstlenilen Zorunlu Deprem Sigortası Riskleri İçin. Cumhurbaşkanı Kararı; mevzuat.gov.tr'den eklendi (no 3180), künye doğrulandı."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-19", kaynak: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=3180&MevzuatTur=20&MevzuatTertip=5", yontem: "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 3180) — künye 05.11.2020/31295"}

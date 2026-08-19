@@ -2,7 +2,7 @@
 
 > Otomatik üretilir (`scripts/uret.py`). Deponun kapsam ve tamamlanma durumunu gösterir.
 
-- **Kütükteki kayıt sayısı:** 856
+- **Kütükteki kayıt sayısı:** 873
 - **Tam metin eklenmiş belge sayısı:** dosyaların `metin_durumu` alanından hesaplanır (aşağıdaki tabloya bakın).
 
 ## Belge türüne göre dağılım
@@ -13,9 +13,9 @@
 | Sektör Duyurusu | 251 |
 | Yönetmelik | 62 |
 | Genel Şart | 47 |
+| Yargı Kararı | 25 |
 | Tebliğ | 22 |
 | Kanun | 11 |
-| Yargı Kararı | 8 |
 | Kurum Dosyası | 8 |
 | Koleksiyon (seri toplama görevi) | 7 |
 | Tarife / Talimat | 3 |
@@ -28,7 +28,7 @@
 
 | Durum | Adet |
 | --- | --- |
-| Yürürlükte | 850 |
+| Yürürlükte | 867 |
 | Kısmen iptal edilmiş | 3 |
 | Yakın tarihli değişiklik içeriyor | 3 |
 
@@ -38,7 +38,7 @@
 | --- | --- | --- |
 | P1 | 41 | Kritik — önce toplanacak |
 | P2 | 51 | Önemli |
-| P3 | 764 | Tamamlayıcı |
+| P3 | 781 | Tamamlayıcı |
 
 ## Künyesi eksik kayıtlar (Resmî Gazete tarihi girilmemiş)
 
@@ -92,7 +92,7 @@ Toplam **45** kayıt. Resmî metin çekilirken bu alanlar doldurulmalıdır.
 
 ## Künye doğrulama durumu
 
-Resmî kaynaktan (Resmî Gazete / mevzuat.gov.tr / SEDDK) künyesi teyit edilmiş **781** kayıt / toplam 856.
+Resmî kaynaktan (Resmî Gazete / mevzuat.gov.tr / SEDDK) künyesi teyit edilmiş **798** kayıt / toplam 873.
 
 | Kayıt | Resmî Gazete | Doğrulama tarihi |
 | --- | --- | --- |
@@ -795,6 +795,23 @@ Resmî kaynaktan (Resmî Gazete / mevzuat.gov.tr / SEDDK) künyesi teyit edilmi�
 | `gs-zmss-trafik` | 2015-05-14 / 29355 | 2026-08-19 |
 | `gs-zorunlu-deprem-dask` | 2011-05-13 / 27933 | 2026-08-19 |
 | `gs-zorunlu-karayolu-tasimacilik-mali-sorumluluk` | 2004-01-18 / 25350 | 2026-08-19 |
+| `kar-10800` | 2025-12-31 / 33124 | 2026-08-19 |
+| `kar-10801` | 2025-12-31 / 33124 | 2026-08-19 |
+| `kar-11109` | 2026-03-27 / 33206 | 2026-08-19 |
+| `kar-1902` | 2019-12-25 / 30989 | 2026-08-19 |
+| `kar-3180` | 2020-11-05 / 31295 | 2026-08-19 |
+| `kar-3205` | 2020-11-25 / 31315 | 2026-08-19 |
+| `kar-380` | 2018-11-27 / 30608 | 2026-08-19 |
+| `kar-4637` | 2021-10-28 / 31642 | 2026-08-19 |
+| `kar-4931` | 2021-12-22 / 31697 | 2026-08-19 |
+| `kar-5480` | 2022-04-21 / 31816 | 2026-08-19 |
+| `kar-6490` | 2022-12-10 / 32039 | 2026-08-19 |
+| `kar-6894` | 2023-03-07 / 32125 | 2026-08-19 |
+| `kar-8015` | 2023-12-29 / 32414 | 2026-08-19 |
+| `kar-8437` | 2024-05-11 / 32543 | 2026-08-19 |
+| `kar-9308` | 2024-12-25 / 32763 | 2026-08-19 |
+| `kar-954` | 2019-04-18 / 30749 | 2026-08-19 |
+| `kar-9593` | 2025-03-15 / 32842 | 2026-08-19 |
 | `reh-ozel-saglik-sigortalarinda-yeni-donem-bi` | — / — | 2026-08-19 |
 | `teb-birikimli-hayat-bes-aktarim` | 2004-07-12 / 25520 | 2026-08-19 |
 | `teb-dd-ticari-alacak-tarife-talimat` | 2023-01-07 / 32066 | 2026-08-19 |
