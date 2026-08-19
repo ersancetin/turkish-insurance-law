@@ -14,7 +14,7 @@ etiketler: [basvuru-ucreti, tarife-2026, 5684-m30]
 oncelik: 1
 kaynaklar:
   - "https://www.sigortatahkim.org/manset/5"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulanmadi
   tarih: null
@@ -52,13 +52,66 @@ lisans: "Resmî mevzuat metinleri 5846 s. FSEK m.31 uyarınca serbesttir; bu dos
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://www.sigortatahkim.org/manset/5 (Sigorta Tahkim Komisyonu 2026 Başvuru Ücret Tarifesi) — çekim: 2026-08-20.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+Sigorta Tahkim Komisyonu
+
+		Manşet
+
+				 DUYURU
+
+				2026 Başvuru Ücret Tarifesi Hakkında
+
+				01/01/2026 tarihinden
+itibaren geçerli olacak başvuru ücret tarifesi aşağıdaki gibidir;
+ 
+
+  5684 sayılı Sigortacılık
+  Kanunu’nun 30’uncu maddesinin on sekizinci fıkrası uyarınca güncellenen
+  ve 01/01/2026 tarihinden itibaren (bu tarih dahil) yürürlüğe
+  girecek olan “Sigorta Tahkim Komisyonu Başvuru Ücret Tarifesi” aşağıdaki
+  gibidir;
+
+   
+
+    Uyuşmazlığa Konu Miktar (TL)
+
+    Başvuru Ücreti (KDV Dahil)
+
+    0 – 8.500
+
+    520-TL
+
+    8.501 – 17.000
+
+    1.040-TL
+
+    17.001 – 85.000
+
+    1.560-TL
+
+    85.001 ve üzeri
+
+    Uyuşmazlık tutarının %1,8’i (En az 1.560 TL olmak
+    üzere)
+
+   
+
+   İtiraz
+       başvurularında da aynı başvuru ücreti alınır.
+
+   15.01.2025
+       tarihli ücret tarifesi yürürlükten kaldırılmıştır.
+
+   Bu
+       tarife 01.01.2026 tarihinden itibaren yürürlüğe girer.
+
+   
+
+ 
+Kamuoyunun
+bilgilerine sunulur.
+(31.12.2025)
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi
