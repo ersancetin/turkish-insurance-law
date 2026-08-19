@@ -40,6 +40,7 @@ lisans: "Resmî mevzuat metinleri 5846 s. FSEK m.31 uyarınca serbesttir; bu dos
 | Numara | — |
 | Resmî Gazete | 2017-07-14 / 30124 |
 | Durum | Yürürlükte |
+| Doğrulama | ⛔ Doğrulanmadı |
 | Branş | sorumluluk, motorlu-arac |
 | Öncelik | 1 |
 

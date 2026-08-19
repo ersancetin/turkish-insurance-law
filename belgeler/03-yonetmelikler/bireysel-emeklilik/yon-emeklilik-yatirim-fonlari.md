@@ -40,6 +40,7 @@ lisans: "Resmî mevzuat metinleri 5846 s. FSEK m.31 uyarınca serbesttir; bu dos
 | Numara | — |
 | Resmî Gazete | 2013-03-13 / 28586 |
 | Durum | Yürürlükte |
+| Doğrulama | ⛔ Doğrulanmadı |
 | Branş | bes |
 | Öncelik | 3 |
 

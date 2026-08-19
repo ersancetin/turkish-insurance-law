@@ -40,6 +40,7 @@ lisans: "Resmî mevzuat metinleri 5846 s. FSEK m.31 uyarınca serbesttir; bu dos
 | Numara | — |
 | Resmî Gazete | 2007-08-24 / 26623 |
 | Durum | Yürürlükte |
+| Doğrulama | ⛔ Doğrulanmadı |
 | Branş | genel |
 | Öncelik | 1 |
 

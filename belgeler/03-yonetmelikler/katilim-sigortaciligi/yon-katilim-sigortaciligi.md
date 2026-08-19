@@ -40,6 +40,7 @@ lisans: "Resmî mevzuat metinleri 5846 s. FSEK m.31 uyarınca serbesttir; bu dos
 | Numara | — |
 | Resmî Gazete | 2020-12-19 / 31339 |
 | Durum | Yürürlükte |
+| Doğrulama | ⛔ Doğrulanmadı |
 | Branş | katilim |
 | Öncelik | 2 |
 

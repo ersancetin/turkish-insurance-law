@@ -40,6 +40,7 @@ lisans: "Resmî mevzuat metinleri 5846 s. FSEK m.31 uyarınca serbesttir; bu dos
 | Numara | — |
 | Resmî Gazete | 2013-10-23 / 28800 |
 | Durum | Yakın tarihli değişiklik içeriyor |
+| Doğrulama | ⛔ Doğrulanmadı |
 | Branş | saglik |
 | Öncelik | 1 |
 

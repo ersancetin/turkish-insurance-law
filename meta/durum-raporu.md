@@ -99,7 +99,29 @@ Toplam **56** kayıt. Resmî metin çekilirken bu alanlar doldurulmalıdır.
 - `yon-sigortacilik-kapsaminda-degerlendirilecek-faaliyetler` — Sigortacılık Kapsamında Değerlendirilecek Faaliyetlere, Tüketici Lehine Yapılan Sigorta Sözleşmeleri ile Mesafeli Akdedilen Sigorta Sözleşmelerine İlişkin Yönetmelik
 - `yon-tarim-sigortalari-havuzu` — Tarım Sigortaları Havuzu Çalışma Usul ve Esasları Hakkında Yönetmelik
 
+## Künye doğrulama durumu
+
+Resmî kaynaktan (Resmî Gazete / mevzuat.gov.tr / SEDDK) künyesi teyit edilmiş **15** kayıt / toplam 117.
+
+| Kayıt | Resmî Gazete | Doğrulama tarihi |
+| --- | --- | --- |
+| `2918-karayollari-trafik-kanunu` | 1983-10-18 / 18195 | 2026-08-19 |
+| `4632-bireysel-emeklilik-kanunu` | 2001-04-07 / 24366 | 2026-08-19 |
+| `4925-karayolu-tasima-kanunu` | 2003-07-19 / 25173 | 2026-08-19 |
+| `5363-tarim-sigortalari-kanunu` | 2005-06-21 / 25852 | 2026-08-19 |
+| `5510-sosyal-sigortalar-rucu` | 2006-06-16 / 26200 | 2026-08-19 |
+| `5684-sigortacilik-kanunu` | 2007-06-14 / 26552 | 2026-08-19 |
+| `6098-tbk-ilgili-hukumler` | 2011-02-04 / 27836 | 2026-08-19 |
+| `6102-ttk-sigorta-hukumleri` | 2011-02-14 / 27846 | 2026-08-19 |
+| `6305-afet-sigortalari-kanunu` | 2012-05-18 / 28296 | 2026-08-19 |
+| `6502-tuketicinin-korunmasi` | 2013-11-28 / 28835 | 2026-08-19 |
+| `cbk-1-ilgili-hukumler` | 2018-07-10 / 30474 | 2026-08-19 |
+| `cbk-47-seddk-teskilati` | 2019-10-18 / 30922 | 2026-08-19 |
+| `gs-tibbi-kotu-uygulama` | 2010-07-21 / 27648 | 2026-08-19 |
+| `gs-zmss-trafik` | 2015-05-14 / 29355 | 2026-08-19 |
+| `yon-sigortacilikta-tahkim` | 2007-08-17 / 26616 | 2026-08-19 |
+
 ## Doğrulama uyarısı
 
-Bu kütükteki Resmî Gazete tarih/sayı bilgileri model bilgisine dayanır ve ÇEVRİMİÇİ DOĞRULANMAMIŞTIR. Her kayıt için `dogrulama.durum` alanı belgelerde `dogrulanmadi` olarak işaretlidir; resmî metin çekildiğinde otomatik olarak güncellenmelidir.
+Bu kütükteki kayıtların bir bölümünün (öncelikli kanun, CBK, tahkim yönetmeliği ve öncelikli genel şartlar) Resmî Gazete tarih/sayı bilgileri 19/08/2026'da resmî kaynaklardan (resmigazete.gov.tr, mevzuat.gov.tr, SEDDK) çevrimiçi DOĞRULANMIŞTIR; bu kayıtlarda `dogrulama.durum: dogrulandi`. Geri kalan kayıtların künye bilgileri henüz doğrulanmamıştır (`dogrulanmadi`) veya boş bırakılmıştır; resmî metin çekilirken teyit edilmelidir. Doğrulanmış kayıtların listesi için bkz. `meta/durum-raporu.md`.
 

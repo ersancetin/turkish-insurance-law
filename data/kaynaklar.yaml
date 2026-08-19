@@ -27,10 +27,13 @@
 surum: "0.1.0"
 guncelleme: "2026-08-19"
 dogrulama_notu: >-
-  Bu kütükteki Resmî Gazete tarih/sayı bilgileri model bilgisine dayanır ve
-  ÇEVRİMİÇİ DOĞRULANMAMIŞTIR. Her kayıt için `dogrulama.durum` alanı
-  belgelerde `dogrulanmadi` olarak işaretlidir; resmî metin çekildiğinde
-  otomatik olarak güncellenmelidir.
+  Bu kütükteki kayıtların bir bölümünün (öncelikli kanun, CBK, tahkim yönetmeliği
+  ve öncelikli genel şartlar) Resmî Gazete tarih/sayı bilgileri 19/08/2026'da
+  resmî kaynaklardan (resmigazete.gov.tr, mevzuat.gov.tr, SEDDK) çevrimiçi
+  DOĞRULANMIŞTIR; bu kayıtlarda `dogrulama.durum: dogrulandi`. Geri kalan
+  kayıtların künye bilgileri henüz doğrulanmamıştır (`dogrulanmadi`) veya boş
+  bırakılmıştır; resmî metin çekilirken teyit edilmelidir. Doğrulanmış kayıtların
+  listesi için bkz. `meta/durum-raporu.md`.
 
 portallar:
   seddk_mevzuat: "https://www.seddk.gov.tr/tr/mevzuat"
@@ -65,6 +68,7 @@ belgeler:
     rg_tarihi: "2007-06-14"
     rg_sayisi: "26552"
     durum: yururlukte
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-19", yontem: "Resmî Gazete / mevzuat.gov.tr çevrimiçi teyit"}
     oncelik: 1
     kaynaklar:
       - "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5684&MevzuatTur=1&MevzuatTertip=5"
@@ -81,6 +85,7 @@ belgeler:
     rg_tarihi: "2011-02-14"
     rg_sayisi: "27846"
     durum: yururlukte
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-19", yontem: "Resmî Gazete / mevzuat.gov.tr çevrimiçi teyit"}
     oncelik: 1
     kaynaklar:
       - "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6102&MevzuatTur=1&MevzuatTertip=5"
@@ -97,6 +102,7 @@ belgeler:
     rg_tarihi: "1983-10-18"
     rg_sayisi: "18195"
     durum: kismen-iptal
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-19", yontem: "Resmî Gazete / mevzuat.gov.tr çevrimiçi teyit"}
     oncelik: 1
     kaynaklar:
       - "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2918&MevzuatTur=1&MevzuatTertip=5"
@@ -113,6 +119,7 @@ belgeler:
     rg_tarihi: "2001-04-07"
     rg_sayisi: "24366"
     durum: yururlukte
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-19", yontem: "Resmî Gazete / mevzuat.gov.tr çevrimiçi teyit"}
     oncelik: 1
     kaynaklar:
       - "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4632&MevzuatTur=1&MevzuatTertip=5"
@@ -126,9 +133,10 @@ belgeler:
     brans: [dogal-afet]
     otorite: TBMM
     numara: "6305"
-    rg_tarihi: "2012-08-18"
-    rg_sayisi: "28388"
+    rg_tarihi: "2012-05-18"
+    rg_sayisi: "28296"
     durum: yururlukte
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-19", yontem: "Resmî Gazete / DASK / mevzuat.gov.tr çevrimiçi teyit; önceki hatalı künye (2012-08-18 / 28388) düzeltildi"}
     oncelik: 1
     kaynaklar:
       - "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6305&MevzuatTur=1&MevzuatTertip=5"
@@ -145,6 +153,7 @@ belgeler:
     rg_tarihi: "2005-06-21"
     rg_sayisi: "25852"
     durum: yururlukte
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-19", yontem: "Resmî Gazete / mevzuat.gov.tr çevrimiçi teyit"}
     oncelik: 2
     kaynaklar:
       - "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5363&MevzuatTur=1&MevzuatTertip=5"
@@ -161,6 +170,7 @@ belgeler:
     rg_tarihi: "2011-02-04"
     rg_sayisi: "27836"
     durum: yururlukte
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-19", yontem: "Resmî Gazete / mevzuat.gov.tr çevrimiçi teyit"}
     oncelik: 1
     kaynaklar:
       - "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6098&MevzuatTur=1&MevzuatTertip=5"
@@ -177,6 +187,7 @@ belgeler:
     rg_tarihi: "2006-06-16"
     rg_sayisi: "26200"
     durum: yururlukte
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-19", yontem: "Resmî Gazete / mevzuat.gov.tr çevrimiçi teyit"}
     oncelik: 2
     kaynaklar:
       - "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5510&MevzuatTur=1&MevzuatTertip=5"
@@ -193,6 +204,7 @@ belgeler:
     rg_tarihi: "2013-11-28"
     rg_sayisi: "28835"
     durum: yururlukte
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-19", yontem: "Resmî Gazete / mevzuat.gov.tr çevrimiçi teyit"}
     oncelik: 2
     kaynaklar:
       - "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6502&MevzuatTur=1&MevzuatTertip=5"
@@ -209,6 +221,7 @@ belgeler:
     rg_tarihi: "2003-07-19"
     rg_sayisi: "25173"
     durum: yururlukte
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-19", yontem: "Resmî Gazete / mevzuat.gov.tr çevrimiçi teyit"}
     oncelik: 3
     kaynaklar:
       - "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4925&MevzuatTur=1&MevzuatTertip=5"
@@ -244,6 +257,7 @@ belgeler:
     rg_tarihi: "2019-10-18"
     rg_sayisi: "30922"
     durum: yururlukte
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-19", yontem: "Resmî Gazete / mevzuat.gov.tr çevrimiçi teyit"}
     oncelik: 1
     kaynaklar:
       - "https://www.mevzuat.gov.tr"
@@ -261,6 +275,7 @@ belgeler:
     rg_tarihi: "2018-07-10"
     rg_sayisi: "30474"
     durum: yururlukte
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-19", yontem: "Resmî Gazete / mevzuat.gov.tr çevrimiçi teyit"}
     oncelik: 3
     kaynaklar:
       - "https://www.mevzuat.gov.tr"
@@ -490,6 +505,7 @@ belgeler:
     rg_tarihi: "2007-08-17"
     rg_sayisi: "26616"
     durum: yururlukte
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-19", yontem: "Resmî Gazete / mevzuat.gov.tr çevrimiçi teyit"}
     oncelik: 1
     kaynaklar:
       - "https://www.seddk.gov.tr/tr/mevzuat/sigortacilik/yonetmelikler"
@@ -647,6 +663,7 @@ belgeler:
     rg_tarihi: "2015-05-14"
     rg_sayisi: "29355"
     durum: kismen-iptal
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-19", yontem: "Resmî Gazete / TSB / mevzuat.gov.tr çevrimiçi teyit (2015 metni)"}
     oncelik: 1
     kaynaklar:
       - "https://www.tsb.org.tr/content/Legislations/Karayollar%C4%B1_Motorlu_Araclar_Zorunlu_Mali_Sorumluluk_Sigortas%C4%B1_Trafik_Genel_Sartlar%C4%B1_.pdf"
@@ -772,6 +789,7 @@ belgeler:
     rg_tarihi: "2010-07-21"
     rg_sayisi: "27648"
     durum: yururlukte
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-19", yontem: "Resmî Gazete / mevzuat.gov.tr çevrimiçi teyit"}
     oncelik: 1
     kaynaklar: ["https://www.tsb.org.tr/tr/mevzuat/sigortacilik/genel-sartlar"]
     etiketler: [malpraktis, hekim-sorumlulugu, ihbar-esasli, gecmise-yonelik-teminat]

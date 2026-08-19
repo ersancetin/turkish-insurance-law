@@ -17,20 +17,18 @@ kaynaklar:
   - "https://www.sigortatahkim.org"
 metin_durumu: iskelet
 dogrulama:
-  durum: dogrulanmadi
-  tarih: null
-  yontem: null
+  durum: dogrulandi
+  tarih: "2026-08-19"
+  yontem: "Resmî Gazete / mevzuat.gov.tr çevrimiçi teyit"
 son_guncelleme: "2026-08-19"
 dil: tr
 lisans: "Resmî mevzuat metinleri 5846 s. FSEK m.31 uyarınca serbesttir; bu dosyadaki derleme ve notlar CC BY 4.0"
 ---
 # Sigortacılıkta Tahkime İlişkin Yönetmelik
 
-> [!WARNING]
-> **Bu dosya bir iskelettir.** Resmî metin henüz eklenmemiştir ve künye bilgileri
-> (Resmî Gazete tarih/sayı, yürürlük durumu) **doğrulanmamıştır**.
-> Hukuki işlem yapmadan önce aşağıdaki resmî kaynaktan teyit edin.
-> Doldurma adımları için bkz. `KATKI-REHBERI.md`.
+> [!NOTE]
+> **Künye doğrulandı** (2026-08-19). Resmî Gazete tarih ve sayısı resmî kaynaktan teyit edilmiştir.
+> Ancak **tam metin henüz eklenmemiştir** (`metin_durumu: iskelet`); madde metinleri için aşağıdaki resmî kaynağa başvurun.
 
 ## Künye
 
@@ -41,6 +39,7 @@ lisans: "Resmî mevzuat metinleri 5846 s. FSEK m.31 uyarınca serbesttir; bu dos
 | Numara | — |
 | Resmî Gazete | 2007-08-17 / 26616 |
 | Durum | Yürürlükte |
+| Doğrulama | ✅ Künye doğrulandı (2026-08-19) |
 | Branş | uyusmazlik |
 | Öncelik | 1 |
 

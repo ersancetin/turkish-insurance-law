@@ -71,6 +71,10 @@ def frontmatter(kayit: dict, guncelleme: str) -> str:
     numara = f'"{kayit["numara"]}"' if kayit.get("numara") else "null"
     rg_t = f'"{kayit["rg_tarihi"]}"' if kayit.get("rg_tarihi") else "null"
     rg_s = f'"{kayit["rg_sayisi"]}"' if kayit.get("rg_sayisi") else "null"
+    dog = kayit.get("dogrulama") or {}
+    dog_durum = dog.get("durum", "dogrulanmadi")
+    dog_tarih = f'"{dog["tarih"]}"' if dog.get("tarih") else "null"
+    dog_yontem = f'"{dog["yontem"]}"' if dog.get("yontem") else "null"
     return f"""---
 id: {kayit['id']}
 baslik: "{kayit['baslik']}"
@@ -89,9 +93,9 @@ kaynaklar:
 {kaynaklar}
 metin_durumu: iskelet
 dogrulama:
-  durum: dogrulanmadi
-  tarih: null
-  yontem: null
+  durum: {dog_durum}
+  tarih: {dog_tarih}
+  yontem: {dog_yontem}
 son_guncelleme: "{guncelleme}"
 dil: tr
 lisans: "Resmî mevzuat metinleri 5846 s. FSEK m.31 uyarınca serbesttir; bu dosyadaki derleme ve notlar CC BY 4.0"
@@ -112,14 +116,30 @@ def govde(kayit: dict) -> str:
             satirlar.append(f"- **Bilinen örnek:** {ornek}")
         seri_blok = "\n".join(satirlar) + "\n"
 
+    dog = kayit.get("dogrulama") or {}
+    if dog.get("durum") == "dogrulandi":
+        uyari = (
+            "> [!NOTE]\n"
+            f"> **Künye doğrulandı** ({dog.get('tarih')}). Resmî Gazete tarih ve sayısı "
+            "resmî kaynaktan teyit edilmiştir.\n"
+            "> Ancak **tam metin henüz eklenmemiştir** (`metin_durumu: iskelet`); madde metinleri "
+            "için aşağıdaki resmî kaynağa başvurun."
+        )
+        dog_satiri = f"| Doğrulama | ✅ Künye doğrulandı ({dog.get('tarih')}) |"
+    else:
+        uyari = (
+            "> [!WARNING]\n"
+            "> **Bu dosya bir iskelettir.** Resmî metin henüz eklenmemiştir ve künye bilgileri\n"
+            "> (Resmî Gazete tarih/sayı, yürürlük durumu) **doğrulanmamıştır**.\n"
+            "> Hukuki işlem yapmadan önce aşağıdaki resmî kaynaktan teyit edin.\n"
+            "> Doldurma adımları için bkz. `KATKI-REHBERI.md`."
+        )
+        dog_satiri = "| Doğrulama | ⛔ Doğrulanmadı |"
+
     return f"""
 # {kayit['baslik']}
 
-> [!WARNING]
-> **Bu dosya bir iskelettir.** Resmî metin henüz eklenmemiştir ve künye bilgileri
-> (Resmî Gazete tarih/sayı, yürürlük durumu) **doğrulanmamıştır**.
-> Hukuki işlem yapmadan önce aşağıdaki resmî kaynaktan teyit edin.
-> Doldurma adımları için bkz. `KATKI-REHBERI.md`.
+{uyari}
 
 ## Künye
 
@@ -130,6 +150,7 @@ def govde(kayit: dict) -> str:
 | Numara | {kayit.get('numara') or '—'} |
 | Resmî Gazete | {kayit.get('rg_tarihi') or '—'} / {kayit.get('rg_sayisi') or '—'} |
 | Durum | {DURUM_ETIKET.get(kayit.get('durum'), kayit.get('durum'))} |
+{dog_satiri}
 | Branş | {', '.join(kayit.get('brans') or []) or '—'} |
 | Öncelik | {kayit.get('oncelik', 3)} |
 
@@ -254,8 +275,24 @@ def durum_raporu_uret(veri: dict) -> str:
     for k in sorted(rg_eksik, key=lambda x: x["id"]):
         satirlar.append(f"- `{k['id']}` — {k['baslik']}")
 
+    dogrulanan = [k for k in belgeler if (k.get("dogrulama") or {}).get("durum") == "dogrulandi"]
     satirlar += [
         "",
+        "## Künye doğrulama durumu",
+        "",
+        f"Resmî kaynaktan (Resmî Gazete / mevzuat.gov.tr / SEDDK) künyesi teyit edilmiş "
+        f"**{len(dogrulanan)}** kayıt / toplam {len(belgeler)}.",
+        "",
+    ]
+    if dogrulanan:
+        satirlar += ["| Kayıt | Resmî Gazete | Doğrulama tarihi |", "| --- | --- | --- |"]
+        for k in sorted(dogrulanan, key=lambda x: x["id"]):
+            rg = f"{k.get('rg_tarihi') or '—'} / {k.get('rg_sayisi') or '—'}"
+            tarih = (k.get("dogrulama") or {}).get("tarih") or "—"
+            satirlar.append(f"| `{k['id']}` | {rg} | {tarih} |")
+        satirlar.append("")
+
+    satirlar += [
         "## Doğrulama uyarısı",
         "",
         veri.get("dogrulama_notu", "").strip(),
