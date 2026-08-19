@@ -14,7 +14,7 @@ etiketler: [genelge, seddk, vize]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/upload/doc/2022-9-sektor-duyurusu.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-19"
@@ -53,13 +53,34 @@ SEDDK genelge kataloğu: Vize Ve İkamet İzni Taleplerinde Yaptırılacak Sağl
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/upload/doc/2022-9-sektor-duyurusu.pdf (SEDDK resmî PDF) — OCR ile çekildi (Apple Vision, tr): 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumundan:
+1/7/2022
+VIZE VE İKAMET İZNİ TALEPLERINDE YAPTIRILACAK SAĞLIK SİGORTALARINA İLİŞKİN
+GENELGENIN UYGULANMASINA ILİŞKİN SEKTÖR DUYURUSU II
+(202219)
+Bilindiği üzere, 23/10/2013 tarihli ve 28800 sayılı Resmi Gazete'de yayımlanarak yürürlüğe giren
+Özel Sağlık Sigortaları Yönetmeliğinin "Bilgilendirme ve teklif" başlıklı 5 inci maddesinin birinci fikrası;
+"Şirket, özel sağlık sigortası isteyenlere sözleşme yapma kararını etkileyebilecek hususlar
+hakkında bilgi verir; dürüstlük ve iyi niyet ilkeleri çerçevesinde, sözleşmenin müzakeresi ve
+yapılması sırasında sigorta sisteminin işleyişine ilişkin teknik konularda yardımcı olur, tarafların
+hak ve yükümlülüklerine ilişkin gerekli her türlü bilgiyi sözlü ve yazılı olarak sağlar, yanıltıcı her
+türlü hâl ve davranıştan kaçınır."
+hükmünü amirdir.
+Bu kapsamda, ikamet izni taleplerinde yaptırılacak sağlık sigortalarında sigortacı tarafından
+sigortalının yararlanabileceği anlaşmalı sağlık kurumlarının bilgilendirme aşamasında yazılı liste şeklinde
+sigortalıya iletilmesi gerekmektedir. Mesafeli olarak akdedilen sözleşmelerde anlaşmalı sağlık
+kurumlarının listesi kalıcı veri saklayıcısı aracılığıyla sigortalıya iletilebilir. Bu çerçevede sağlık kurumları
+listesinin yalnızca link içeriğinde iletilmesi yeterli değildir.
+Söz konusu listenin sağlık kuruluşlarına rahat erişimi sağlayacak iletişim ve adres bilgilerini (asgari
+il/ilçe bilgisini) içermesi gerekir.
+Bu Sektör Duyurusu yayımı tarihinde yürürlüğe girer.
+Sorgor"
+SULENLAME
+KORUNU
+11773н,
+370
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

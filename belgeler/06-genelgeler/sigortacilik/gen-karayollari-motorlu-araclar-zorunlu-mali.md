@@ -14,7 +14,7 @@ etiketler: [genelge, seddk, karayollari]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/upload/Sigortacılık Mevzuatı/Genelge/2022/2022-1-genelge.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-19"
@@ -53,13 +53,31 @@ SEDDK genelge kataloğu: Karayolları Motorlu Araçlar Zorunlu Mali Sorumluluk S
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/upload/Sigortacılık Mevzuatı/Genelge/2022/2022-1-genelge.pdf (SEDDK resmî PDF) — OCR ile çekildi (Apple Vision, tr): 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumundan:
+6/1/2022
+10/4/2017 tarihli ve 2017/1 sayılı Karayolları Motorlu Araçlar Zorunlu Mali Sorumluluk
+Sigortası Primlerine İlişkin Genelgede Değişiklik Yapılmasına Dair Genelge
+(2022/1)
+1. 10/4/2017 tarihli ve 2017/1 sayılı Karayolları Motorlu Araçlar Zorunlu Mali Sorumluluk
+Sigortası Primlerine İlişkin Genelgenin 1 inci maddesi aşağıdaki şekilde değiştirilmiş ve 3/11/2021
+tarihli ve 2021/19 sayılı Genelgenin 2 nci maddesi yürürlükten kaldırılmıştır.
+"İlgili branșta ruhsat sahibi sigorta şirketleri tarafından her bir araç türü bazında 4. basamak
+için belirlenecek prim tutarları Tablo-l'de yer alan prim tutarlarını geçemez. Tablo-l'de yer alan
+azami prim tutarları 2022 yılı Şubat ayından itibaren, 31/12/2021 tarihli ve 31706 (7.Mükerrer)
+sayılı Resmî Gazete'de yayımlanan Karayolları Motorlu Araçlar Zorunlu Mali Sorumluluk
+Sigortasında Tarife Uygulama Esasları Hakkında Yönetmelikte Değişiklik Yapılmasına Dair
+Yönetmeliğin 3 üncü maddesiyle değişik Yönetmeliğin geçici 11 inci maddesinin ikinci fikrasına
+göre artırılacaktır."
+2. Bu Genelge 1/2/2022 tarihinden itibaren geçerli olmak üzere yayımı tarihinde yürürlüğe
+girer.
+C
+.*
+EME
+VE JZEV
+DENETLEN
+RUMU
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

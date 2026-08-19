@@ -14,7 +14,7 @@ etiketler: [genelge, seddk, 2017-13]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/upload/Tehlikeli Maddeler ve Teh Genelge (2017-13).pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-19"
@@ -53,13 +53,65 @@ SEDDK genelge kataloğu: 2017-13 Sayılı “tehlikeli Maddeler Ve Tehlikeli At�
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/upload/Tehlikeli Maddeler ve Teh Genelge (2017-13).pdf (SEDDK resmî PDF) — OCR ile çekildi (Apple Vision, tr): 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+Başbakanlık (Hazine Müsteşarlığı)'tan
+01/11/2017
+Tehlikeli Maddeler ve Tehlikeli Atık Zorunlu Mali Sorumluluk Sigortasının
+Uygulanmasına İlişkin Genelge
+(2017/13)
+Bakanlar Kurulu'nun 11/3/2010 tarihli ve 2010/190 sayıl "Tehlikeli Maddeler İçin
+Yaptırılacak Sorumluluk Sigortaları Hakkında Karar (Karar)'ın" 2 nci maddesinde sayılan
+faaliyetlere ilişkin olarak yaptırılacak Tehlikeli Maddeler ve Tehlikeli Atık Zorunlu Mali
+Sorumluluk Sigortasında aşağıdaki esaslara uyulması gerekmektedir.
+1. Karar'da sayılan faaliyetlerin ayrı ayrı veya tek bir poliçe ile sigortalanması
+mümkündür.
+2. Sigortalanan faaliyet (örneğin; depolama, üretim) ve maddelerin (örneğin;
+sıvılaştırılmış petrol gazları, sıkılaştırılmış doğal gaz ve havagazı) Karar'da yer aldığı biçimde
+poliçelerde açıkça belirtilmesi gerekmektedir.
+3. Bu sigortaya ilişkin dâhili fon bulunduran gerçek ve tüzel kişiler için Karar
+çerçevesinde işlem yapılır.
+4. Karar'da sayılan faaliyetlere ilişkin ruhsatın bulunmaması sigorta sözleşmesi olsun
+ya da olmasın sigorta teminatının varlığını ortadan kaldırmaz. Riziko gerçekleştiğinde
+tazminat talebi sigorta sözleşmesi mevcutsa ilgili sigorta şirketi tarafından, mevcut değilse
+5684 sayılı Sigortacılık Kanununun 14 üncü maddesi hükümleri saklı kalmak kaydıyla
+Güvence Hesabı tarafından karşılanır.
+5. Bul Genelge yayımı tarihinde yürürlüğe girer. Bu Genelgenin yayımı tarihi
+itibarıyla Müsteşarlığımızca daha önce yayımlanmış olan aşağıdaki Genelge ve Sektör
+Duyuruları yürürlükten kaldırılmıştır.
+Tarih
+08.11.2010
+Sayı
+2010/19
+03.07.2015
+2015/23
+GENELGELER
+Genelge Adı
+Tehlikeli Maddeler İçin Yaptırılacak Sorumluluk
+Sigortaları Hakkında Karar
+Kapsamındakı
+Sigortalar Hakkında Genelge
+Tehlikeli Maddeler İçin Yaptırılacak Sorumluluk
+Sigortalarına İlişkin Genelge
+1
+19.10.2007
+05.09.2014
+10.09.2014
+2007/15
+2014/19
+2014/20
+SEKTÖR DUYURULARI
+| Tehlikeli Maddeler Zorunlu Sorumluluk Sigortası
+Genel Şartlarında Yapılan Değişiklik Hakkında
+Sektör Duyurusu
+Tehlikeli Maddeler ve Tehlikeli Atık Zorunlu Mali
+Sorumluluk Sigortası Kapsamında Ruhsat veya İzin
+Belgesi Olmayan Sigortalıların Durumuna İlişkin
+Sektör Duyurusu
+| Tehlikeli Maddeler İçin Yaptırılacak Sorumluluk
+Sigortaları Hakkında Kararın
+Uygulanmasına
+Ilişkin Sektör Duyurusu
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

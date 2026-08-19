@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk, borsa]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/upload/2023-2-sektor-duyurusu.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-19"
@@ -53,13 +53,27 @@ SEDDK sektor-duyurusu kataloğu: Borsa İstanbul’un Pay Piyasası İşlemlerin
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/upload/2023-2-sektor-duyurusu.pdf (SEDDK resmî PDF) — OCR ile çekildi (Apple Vision, tr): 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumundan:
+08/02/2023
+BORSA İSTANBUL'UN PAY PİYASASI İŞLEMLERİNİN DURDURULMASINA
+BAĞLI OLARAK EMEKLİLİK YATIRIM FONLARININ ALIM VE SATIMI
+HAKKINDA SEKTÖR DUYURUSU
+(2023/2)
+Bilindiği üzere, 6 Şubat 2023 tarihinde ülkemizde yaşanan deprem felaketleri
+neticesinde ortaya çıkan olağanüstü gelişmelere bağlı olarak 08.02.2023 tarihinde Borsa
+İstanbul pay piyasası ile vadeli işlem ve opsiyon piyasası pay ve pay endeksi türev pazarlarında
+işlemler durdurulmuştur.
+Bu kapsamda, sistemden ayrılma, cayma, emeklilik, aktarım, fon dağılım değişikliği vb.
+işlemler esnasında hisse senedi içeren emeklilik yatırım fonlarının alım veya satımı noktasında
+fiili imkansızlık durumu meydana gelmiş bulunmaktadır.
+Bu çerçevede, Sermaye Piyasası Kurulunca pay piyasasının kapalı olmasına ilişkin
+alınan Kararlar da dikkate alınmak suretiyle, 08.02.2023 tarihinden başlayarak Pay Piyasası
+yeniden açılıncaya kadar katılımcılardan gelen taleplerin karşılanması ve fona ilişkin diğer
+işlemler noktasında, ilgili plan esasları çerçevesinde, Fon Kurullarının alacağı kararlar
+doğrultusunda gerekli işlemlerin yerine getirilmesi gerekmektedir.
+1/1
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

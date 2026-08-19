@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk, katilim]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/upload/Sigortacılık Mevzuatı/Sektör Duyuruları/2021/2021-6-katilim-esasli-sigortacilik-faaliyetleri-cercevesinde-türkiye-modelinin-tanimlanmas-.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-19"
@@ -53,13 +53,64 @@ SEDDK sektor-duyurusu kataloğu: Katılım Esaslı Sigortacılık Faaliyetleri �
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/upload/Sigortacılık Mevzuatı/Sektör Duyuruları/2021/2021-6-katilim-esasli-sigortacilik-faaliyetleri-cercevesinde-türkiye-modelinin-tanimlanmas-.pdf (SEDDK/TSB resmî PDF) — çekim: 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumundan:
+26/10/2021
+
+Katılım Esaslı Sigortacılık Faaliyetleri Çerçevesinde Türkiye Modelinin
+Tanımlanmasına İlişkin Sektör Duyurusu
+(2021/6)
+
+Bilindiği üzere, 19 Aralık 2020 tarih ve 31339 sayılı resmi gazetede yayımlanan ‘Katılım Esasları
+Çerçevesinde Sigortacılık ve Bireysel ile Emeklilik Faaliyetlerine İlişkin Yönetmelik’in “uygulamaya
+ilişkin genel esaslar” başlıklı 5 inci maddesi, katılım esaslı faaliyette bulunmak isteyen şirketlerin
+taşıması gereken asgari koşulları belirtmektedir. Kooperatif, anonim şirket veya farklı bir statüde
+faaliyet gösteren sigorta veya reasürans şirketleri özelinde söz konusu koşullar aşağıda özet olarak
+ifade edilmektedir.
+
+1) Danışma komitesi kurulması,
+2) Dinen meşru olmayan konu ve risklerin teminat altına alınmaması,
+3) Finansal varlıkların katılım esasları çerçevesinde yönetilmesi.
+
+Bu kapsamda, Türkiye modelinin asgari uygulama çerçevesi Yönetmeliğin 5 inci maddesinde
+belirtilmekte olup,  söz konusu model esas itibarıyla, danışma komitesi nezaretinde dinen meşru olan
+konu ve risklerin teminat altına alındığı, finansal varlıkların katılım esasları çerçevesinde yönetildiği
+sigortacılık uygulamasını ifade etmektedir.
+Diğer taraftan, mezkur Yönetmeliğin uygulamaya ilişkin özel esaslar başlıklı 6 ncı maddesinin birinci
+fıkrasında yer alan; “Şirket; dayanışma, yardımlaşma, fon veya hesapların ayırımı gibi esaslara dayalı
+farklı bir faaliyet modeli uygulayabilir. Söz konusu modelin danışma komitesince onaylanması ve bu
+Yönetmelik hükümlerine aykırılık oluşturmayacak şekilde uygulanması zorunludur.” hükmü 5 inci
+maddede belirtilen asgari koşullara riayet etmek şartıyla farklı uygulama biçimlerine de imkân
+tanımaktadır.
+
+Yukarıda belirtilen mevzuat hükümleri kapsamında Türkiye modelinin asgari çerçevesinde;
+
+sözleşmenin hibe esaslı olması,
+
+vekalet gibi ücretlendirme, mudaraba gibi kar paylaşım yöntemleri belirlenmesi,
+
+sermayedar fonlarının ayrıştırılması,
+
+tüzel kişiliği haiz fon kurulması,
+
+iade, bakiye veya borç (karz)
+ve benzeri uygulamalar zorunluluk arz etmemektedir.
+Yönetmeliğin 5 inci maddesinde belirtilen üç koşulu taşımak kaydıyla kooperatif, anonim şirket veya
+farklı bir statüde faaliyet gösteren sigorta veya reasürans şirketlerinin;
+
+mevcut sözleşme yapıları ile (hibe veya yardımlaşma esaslı olması zorunlu değil)
+
+mevcut sermaye yapıları ile (sermayedar ve katılımcı fonu ayrımı zorunlu değil)
+
+mevcut kar zarar uygulamaları ile (iade, bakiye veya borç (karz) uygulaması zorunlu değil)
+
+mevcut organizasyonel yapıları ile (operatör veya işletmeci ayrımı zorunlu değil)
+
+mevcut muhasebe ve raporlama yapıları ile (katılım esasları çerçevesinde paranın zaman
+değeri ve özün önceliği kavramlarına riayet etmek şartıyla)
+faaliyet gösterebilmesi mümkün bulunmakta olup, bu faaliyet biçimi Türkiye modeli kapsamında
+değerlendirilmektedir.
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

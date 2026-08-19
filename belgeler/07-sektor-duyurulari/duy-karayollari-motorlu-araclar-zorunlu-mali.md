@@ -14,7 +14,7 @@ etiketler: [sektor-duyurusu, seddk, karayollari]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/upload/Sigortacılık Mevzuatı/Sektör Duyuruları/2021/2021-14-sektor-duyurusu.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-19"
@@ -53,13 +53,26 @@ SEDDK sektor-duyurusu kataloğu: Karayolları Motorlu Araçlar Zorunlu Mali Soru
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/upload/Sigortacılık Mevzuatı/Sektör Duyuruları/2021/2021-14-sektor-duyurusu.pdf (SEDDK resmî PDF) — OCR ile çekildi (Apple Vision, tr): 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumundan:
+31/12/2021
+10/04/2017 tarihli ve 2017/1 sayılı Karayolları Motorlu Araçlar Zorunlu Mali Sorumluluk
+Sigortası Sözleşmelerinin Sonlandırılmasına İlişkin Sektör Duyurusunda Değişiklik
+Yapılmasına İlişkin Sektör Duyurusu
+(2021/14)
+1. 10/04/2017 tarihli ve 2017/1 sayılı Karayolları Motorlu Araçlar Zorunlu Mali Sorumluluk
+sigortası Sözleşmelerinin Sonlandırılmasına Ilişkin Sektör Duyurusunun 3 ünc
+naddesinin ikinci fikrası asağıdaki sekilde değistirilmistir
+"Ancak, mevcut zorunlu trafik sigortası sözleşmelerinin vadesinin bitiminin 15 gün
+öncesinden itibaren yeni sözleşme dönemi için geçerli olmak üzere sigorta şirketlerinin ve
+Merkez internet sayfalarında teklif verilir ve mükerrer sözleşme düzenlenebilir."
+2. Bu Sektör Duyurusu 01/01/2022 tarihinde yürürlüğe girer.
+C
+crIt
+UZEL
+DERETLAMS
+KUPU
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

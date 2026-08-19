@@ -14,7 +14,7 @@ etiketler: [genelge, seddk, kucuk]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/upload/Sigortacılık Mevzuatı/Genelge/2021/2021-18-genelge.pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-19"
@@ -53,13 +53,30 @@ SEDDK genelge kataloğu: Küçük Ve Orta Ölçekli İşletmelere Yönelik Devle
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/upload/Sigortacılık Mevzuatı/Genelge/2021/2021-18-genelge.pdf (SEDDK resmî PDF) — OCR ile çekildi (Apple Vision, tr): 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumundan:
+21.10.2021
+Küçük ve Orta Ölçekli İşletmelere Yönelik Devlet Destekli Ticari Alacak Sigortası
+Kapsamında Alıcılara Sağlanan Kredi Limitinin Belirlenmesi İşlemlerine İlişkin
+Genelgede Değişiklik Yapılmasına İlişkin Genelge
+(2021/18)
+1) 01.04.2020 tarihli 2020/7 sayılı Genelge'nin 1 inci maddesinin birinci fikrası aşağıdaki
+şekilde değıştırilmiştir.
+"(1) Bu Genelge, 24/12/2018 tarihli ve 30635 sayılı Resmi Gazete'de yayımlanan Küçük ve
+Orta Olçekli Işletmelere Yönelik Devlet Destekli Ticari Alacak Sigortası Tarife ve Talimat
+Tebliğinin 7 nci maddesinin üçüncü fikrası kapsamında alıcılara sağlanan kredi limitlerinin
+belirlenmesine ilişkin usul ve esasları düzenlemektedir."
+2) Aynı Genelge'nin 2 nci maddesinin birinci fikrasının ç bendinde yer alan "Olağandışı
+Riskler Yönetim Merkezi" ifadesi "Ozel Riskler Yönetim Merkezi" olacak şekilde d bendinde
+yer alan "Hazine ve Maliye Bakanlığınca" ifadesi "Sigortacılık ve Özel Emeklilik Düzenleme
+ve Denetleme Kurumunca" olacak şekilde değiştirilmiştir.
+3) Aynı Genelge'nin 3 üncü maddesinin birinci fikrasında yer alan "g" ifadesi "12" olacak
+şekilde değiştirilmiştir.
+4) Bu Genelge yayımı tarihinde yürürlüğe girer.
+MA219*7
+C
+LI. IN
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi

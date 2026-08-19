@@ -14,7 +14,7 @@ etiketler: [genelge, seddk, sigortacilik]
 oncelik: 3
 kaynaklar:
   - "https://seddk.gov.tr/upload/2023-15 Sayılı Genelge..pdf"
-metin_durumu: iskelet
+metin_durumu: tam-metin
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-19"
@@ -53,13 +53,31 @@ SEDDK genelge kataloğu: Sigortacılık Ve Özel Emeklilik Sektörlerinde İç S
 ## Resmî metin
 
 <!-- METIN:BASLANGIC -->
-_Resmî metin henüz eklenmedi._
+> Kaynak: https://seddk.gov.tr/upload/2023-15 Sayılı Genelge..pdf (SEDDK resmî PDF) — OCR ile çekildi (Apple Vision, tr): 2026-08-19.
 
-Metni eklerken:
-1. Aşağıdaki resmî kaynaktan tam metni alın (mümkünse konsolide/güncel hâli).
-2. Madde başlıklarını `## Madde N — Başlık` düzeninde işaretleyin.
-3. Değişiklik dipnotlarını maddenin altında `> Değişiklik:` satırı olarak koruyun.
-4. Frontmatter'da `metin_durumu: tam-metin` ve `dogrulama.durum: dogrulandi` yapın.
+Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumundan:
+13/04/2023
+SİGORTACILIK VE ÖZEL EMEKLİLİK SEKTÖRLERİNDE İÇ SİSTEMLERE
+DAIR YONETMELIK KAPSAMINDA KURUMA VE KAMUOYUNA YAPILACAK
+RAPORLAMALARDA SÜRE UZATIMI HAKKINDA GENELGE
+(2023/15)
+MADDE 1 - (1) Sigortacılık ve Özel Emeklilik Sektörlerinde İç Sistemlere Dair
+Yönetmeliğin Geçici Madde l'inin on birinci fikrası "Kurum, kuruluş iç sistemlerinin
+kurulması ve işletilmesine, denetim komitesinin, birim yöneticilerinin ve personelinin
+atanmasına, bilgi sistemlerinin bu Yönetmelikte belirtilen standartlara uyumlu hale
+getirilmesine, Kuruma ve kamuoyuna yapılacak raporlamalara ilişkin bu maddede belirtilen
+geçiş sürelerini ihtiyaç duyulması halinde bir yıl uzatabilir." hükmünü haizdir. Bu çerçevede
+Kurul kararına istinaden, Kuruma yapılacak raporlamaların başlangıç tarihi bir ay uzatılarak ilk
+raporlama tarihi 31.05.2023 olarak belirlenmiş; kamuoyuna internet sitesi üzerinden yapılacak
+raporlamaların başlangıç tarihi altı ay uzatılarak ilk raporlamanın 2023 yılı Temmuz-Eylül
+dönemi için Ekim ayı sonunda yapılmasına karar verilmiştir.
+MADDE 2 - (1) Bu Genelge yayımı tarihinde yürürlüğe girer.
+MADDE 3 - (1) Bu Genelge hükümlerini Sigortacılık ve Özel Emeklilik Düzenleme ve
+Denetleme Kurumu Başkanı yürütür.
+TN
+izEl
+LENE
+KURUMÜ
 <!-- METIN:BITIS -->
 
 ## Değişiklik geçmişi
