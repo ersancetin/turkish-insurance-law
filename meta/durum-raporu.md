@@ -101,7 +101,7 @@ Toplam **56** kayıt. Resmî metin çekilirken bu alanlar doldurulmalıdır.
 
 ## Künye doğrulama durumu
 
-Resmî kaynaktan (Resmî Gazete / mevzuat.gov.tr / SEDDK) künyesi teyit edilmiş **15** kayıt / toplam 117.
+Resmî kaynaktan (Resmî Gazete / mevzuat.gov.tr / SEDDK) künyesi teyit edilmiş **20** kayıt / toplam 117.
 
 | Kayıt | Resmî Gazete | Doğrulama tarihi |
 | --- | --- | --- |
@@ -119,7 +119,12 @@ Resmî kaynaktan (Resmî Gazete / mevzuat.gov.tr / SEDDK) künyesi teyit edilmi�
 | `cbk-47-seddk-teskilati` | 2019-10-18 / 30922 | 2026-08-19 |
 | `gs-tibbi-kotu-uygulama` | 2010-07-21 / 27648 | 2026-08-19 |
 | `gs-zmss-trafik` | 2015-05-14 / 29355 | 2026-08-19 |
+| `yon-kurulus-ve-calisma-esaslari` | 2007-08-24 / 26623 | 2026-08-19 |
+| `yon-mali-bunye` | 2007-08-07 / 26606 | 2026-08-19 |
+| `yon-ozel-saglik-sigortalari` | 2013-10-23 / 28800 | 2026-08-19 |
+| `yon-sigorta-reasurans-brokerleri` | 2008-06-21 / 26913 | 2026-08-19 |
 | `yon-sigortacilikta-tahkim` | 2007-08-17 / 26616 | 2026-08-19 |
+| `yon-teknik-karsiliklar` | 2007-08-07 / 26606 | 2026-08-19 |
 
 ## Doğrulama uyarısı
 

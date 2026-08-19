@@ -343,6 +343,7 @@ belgeler:
     oncelik: 2
     kaynaklar: ["https://www.seddk.gov.tr/tr/mevzuat/sigortacilik/yonetmelikler"]
     etiketler: [broker, reasurans, aracilik]
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-19", yontem: "Resmî Gazete (20080621-8) / mevzuat.gov.tr çevrimiçi teyit"}
     ozet: "Brokerlik ruhsatı, faaliyet esasları ve sigorta ettiren adına aracılık yükümlülükleri."
 
   - id: yon-kurulus-ve-calisma-esaslari
@@ -358,6 +359,7 @@ belgeler:
     oncelik: 1
     kaynaklar: ["https://www.seddk.gov.tr/tr/mevzuat/sigortacilik/yonetmelikler"]
     etiketler: [ruhsat, kurulus, sube, pay-devri, sermaye]
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-19", yontem: "Resmî Gazete / mevzuat.gov.tr çevrimiçi teyit"}
     ozet: "Şirket kuruluşu, ruhsat, pay devri, şube ve teşkilatlanma esasları."
 
   - id: yon-mali-bunye
@@ -373,6 +375,7 @@ belgeler:
     oncelik: 2
     kaynaklar: ["https://www.seddk.gov.tr/tr/mevzuat/sigortacilik/yonetmelikler"]
     etiketler: [sermaye-yeterliligi, mali-bunye, tedbir]
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-19", yontem: "Resmî Gazete / mevzuat.gov.tr çevrimiçi teyit"}
     ozet: "Sermaye yeterliliği hesabı, mali bünye zafiyeti ve alınacak tedbirler."
 
   - id: yon-teknik-karsiliklar
@@ -382,12 +385,13 @@ belgeler:
     brans: [genel]
     otorite: SEDDK
     numara: null
-    rg_tarihi: "2007-07-28"
-    rg_sayisi: "26597"
+    rg_tarihi: "2007-08-07"
+    rg_sayisi: "26606"
     durum: yururlukte
     oncelik: 2
     kaynaklar: ["https://www.seddk.gov.tr/tr/mevzuat/sigortacilik/yonetmelikler"]
     etiketler: [muallak-hasar-karsiligi, kazanilmamis-primler, dengeleme-karsiligi, ibnr]
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-19", yontem: "Resmî Gazete (20070807-7) / mevzuat.gov.tr çevrimiçi teyit; önceki hatalı künye (2007-07-28 / 26597) düzeltildi"}
     ozet: "Muallak hasar, kazanılmamış primler, devam eden riskler ve dengeleme karşılıklarının hesap esasları."
 
   - id: yon-aktuerlik
@@ -478,6 +482,7 @@ belgeler:
     oncelik: 1
     kaynaklar: ["https://www.seddk.gov.tr/tr/mevzuat/sigortacilik/yonetmelikler"]
     etiketler: [omur-boyu-yenileme-garantisi, bekleme-suresi, gecis-islemleri, tamamlayici-saglik]
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-19", yontem: "Resmî Gazete / mevzuat.gov.tr çevrimiçi teyit (2013 asıl metin)"}
     ozet: "Özel sağlık sigortalarında yenileme garantisi, bekleme süreleri ve geçiş işlemleri; 01/01/2026 yürürlüklü kapsamlı değişiklik içerir."
 
   - id: yon-hayat-grubu-sigortalari
