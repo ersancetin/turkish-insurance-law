@@ -17547,3 +17547,230 @@ belgeler:
     etiketler: [tahkim-duyurusu, manset]
     ozet: "Sigorta Tahkim Komisyonu resmî duyurusu (manşet 67): Uyuşmazlık Ve İtiraz Başvuruları Hakkında Uygulama Kararı 31/07/2026 Tarihli Ve ."
     dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/manset/67", yontem: "Sigorta Tahkim Komisyonu resmî sitesi manşet sayfasından"}
+
+# ==== KESİŞEN MEVZUAT: MASAK/AML, KVKK, vergi — sigortacılığı doğrudan etkiler (mevzuat.gov.tr, 20/08/2026) ====
+  - id: 5549-suc-gelirlerinin-aklanmasinin-onlenmesi-
+    baslik: "Suç Gelirlerinin Aklanmasının Önlenmesi Hakkında Kanun"
+    tur: kanun
+    klasor: belgeler/12-kesisen-mevzuat/masak
+    brans: [uyum]
+    otorite: TBMM
+    numara: "5549"
+    rg_tarihi: "2006-10-18"
+    rg_sayisi: "26323"
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5549&MevzuatTur=1&MevzuatTertip=5"]
+    etiketler: [masak, uyum, kesisen-mevzuat]
+    ozet: "MASAK kapsamında sigorta/emeklilik şirketlerinin yükümlü sıfatı; müşterini tanı, şüpheli işlem bildirimi."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5549&MevzuatTur=1&MevzuatTertip=5", yontem: "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 5549)"}
+  - id: 6415-terorizmin-finansmaninin-onlenmesi-hakki
+    baslik: "Terörizmin Finansmanının Önlenmesi Hakkında Kanun"
+    tur: kanun
+    klasor: belgeler/12-kesisen-mevzuat/masak
+    brans: [uyum]
+    otorite: TBMM
+    numara: "6415"
+    rg_tarihi: "2013-02-16"
+    rg_sayisi: "28561"
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6415&MevzuatTur=1&MevzuatTertip=5"]
+    etiketler: [masak, uyum, kesisen-mevzuat]
+    ozet: "Terörizmin finansmanı suçu ve malvarlığı dondurma; sigorta yükümlüleri için tarama yükümlülüğü."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6415&MevzuatTur=1&MevzuatTertip=5", yontem: "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 6415)"}
+  - id: 6698-kisisel-verilerin-korunmasi-kanunu
+    baslik: "Kişisel Verilerin Korunması Kanunu"
+    tur: kanun
+    klasor: belgeler/12-kesisen-mevzuat/kvkk
+    brans: [veri]
+    otorite: TBMM
+    numara: "6698"
+    rg_tarihi: "2016-04-07"
+    rg_sayisi: "29677"
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6698&MevzuatTur=1&MevzuatTertip=5"]
+    etiketler: [kvkk, veri, kesisen-mevzuat]
+    ozet: "Sigorta şirketlerinin kişisel/sağlık verisi işlemesine ilişkin temel çerçeve (açık rıza, aydınlatma, özel nitelikli veri)."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6698&MevzuatTur=1&MevzuatTertip=5", yontem: "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 6698)"}
+  - id: 6802-gider-vergileri-kanunu
+    baslik: "Gider Vergileri Kanunu"
+    tur: kanun
+    klasor: belgeler/12-kesisen-mevzuat/vergi
+    brans: [vergi]
+    otorite: TBMM
+    numara: "6802"
+    rg_tarihi: "1956-07-23"
+    rg_sayisi: "9362"
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6802&MevzuatTur=1&MevzuatTertip=3"]
+    etiketler: [vergi, vergi, kesisen-mevzuat]
+    ozet: "Banka ve Sigorta Muameleleri Vergisi (BSMV) — sigorta işlemlerinin vergilendirilmesi."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6802&MevzuatTur=1&MevzuatTertip=3", yontem: "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 6802)"}
+  - id: masak-42596-mali-suclari-arastirma-kurulu-gene
+    baslik: "Mali Suçları Araştırma Kurulu Genel Tebliği (sıra No: 30)"
+    tur: teblig
+    klasor: belgeler/12-kesisen-mevzuat/masak
+    brans: [uyum]
+    otorite: MASAK / Hazine ve Maliye Bakanlığı
+    numara: null
+    rg_tarihi: "2025-09-09"
+    rg_sayisi: "33012"
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=42596&MevzuatTur=2&MevzuatTertip=5"]
+    etiketler: [masak, uyum, kesisen-mevzuat]
+    ozet: "Resmî ad: Mali Suçları Araştırma Kurulu Genel Tebliği (sıra No: 30). Sigortacılığı etkileyen kesişen mevzuat; mevzuat.gov.tr'den, künye doğrulandı."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=42596&MevzuatTur=2&MevzuatTertip=5", yontem: "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 42596)"}
+  - id: masak-42465-mali-suclari-arastirma-kurulu-gene
+    baslik: "Mali Suçları Araştırma Kurulu Genel Tebliği (sıra No: 29)"
+    tur: teblig
+    klasor: belgeler/12-kesisen-mevzuat/masak
+    brans: [uyum]
+    otorite: MASAK / Hazine ve Maliye Bakanlığı
+    numara: null
+    rg_tarihi: "2025-06-28"
+    rg_sayisi: "32940"
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=42465&MevzuatTur=2&MevzuatTertip=5"]
+    etiketler: [masak, uyum, kesisen-mevzuat]
+    ozet: "Resmî ad: Mali Suçları Araştırma Kurulu Genel Tebliği (sıra No: 29). Sigortacılığı etkileyen kesişen mevzuat; mevzuat.gov.tr'den, künye doğrulandı."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=42465&MevzuatTur=2&MevzuatTertip=5", yontem: "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 42465)"}
+  - id: masak-39833-mali-suclari-arastirma-kurulu-gene
+    baslik: "Mali Suçları Araştırma Kurulu Genel Tebliği (sıra No: 21)"
+    tur: teblig
+    klasor: belgeler/12-kesisen-mevzuat/masak
+    brans: [uyum]
+    otorite: MASAK / Hazine ve Maliye Bakanlığı
+    numara: null
+    rg_tarihi: "2022-11-17"
+    rg_sayisi: "32016"
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=39833&MevzuatTur=2&MevzuatTertip=5"]
+    etiketler: [masak, uyum, kesisen-mevzuat]
+    ozet: "Resmî ad: Mali Suçları Araştırma Kurulu Genel Tebliği (sıra No: 21). Sigortacılığı etkileyen kesişen mevzuat; mevzuat.gov.tr'den, künye doğrulandı."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=39833&MevzuatTur=2&MevzuatTertip=5", yontem: "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 39833)"}
+  - id: masak-38566-mali-suclari-arastirma-kurulu-gene
+    baslik: "Mali Suçları Araştırma Kurulu Genel Tebliği (sıra No: 19)"
+    tur: teblig
+    klasor: belgeler/12-kesisen-mevzuat/masak
+    brans: [uyum]
+    otorite: MASAK / Hazine ve Maliye Bakanlığı
+    numara: null
+    rg_tarihi: "2021-04-30"
+    rg_sayisi: "31470"
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=38566&MevzuatTur=2&MevzuatTertip=5"]
+    etiketler: [masak, uyum, kesisen-mevzuat]
+    ozet: "Resmî ad: Mali Suçları Araştırma Kurulu Genel Tebliği (sıra No: 19). Sigortacılığı etkileyen kesişen mevzuat; mevzuat.gov.tr'den, künye doğrulandı."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=38566&MevzuatTur=2&MevzuatTertip=5", yontem: "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 38566)"}
+  - id: masak-19995-mali-suclari-arastirma-kurulu-gene
+    baslik: "Mali Suçları Araştırma Kurulu Genel Tebliği (sıra No: 13)"
+    tur: teblig
+    klasor: belgeler/12-kesisen-mevzuat/masak
+    brans: [uyum]
+    otorite: MASAK / Hazine ve Maliye Bakanlığı
+    numara: null
+    rg_tarihi: "2014-08-25"
+    rg_sayisi: "29099"
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=19995&MevzuatTur=2&MevzuatTertip=5"]
+    etiketler: [masak, uyum, kesisen-mevzuat]
+    ozet: "Resmî ad: Mali Suçları Araştırma Kurulu Genel Tebliği (sıra No: 13). Sigortacılığı etkileyen kesişen mevzuat; mevzuat.gov.tr'den, künye doğrulandı."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=19995&MevzuatTur=2&MevzuatTertip=5", yontem: "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 19995)"}
+  - id: masak-19810-mali-suclari-arastirma-kurulu-gene
+    baslik: "Mali Suçları Araştırma Kurulu Genel Tebliği (sıra No: 12)"
+    tur: teblig
+    klasor: belgeler/12-kesisen-mevzuat/masak
+    brans: [uyum]
+    otorite: MASAK / Hazine ve Maliye Bakanlığı
+    numara: null
+    rg_tarihi: "2014-06-21"
+    rg_sayisi: "29037"
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=19810&MevzuatTur=2&MevzuatTertip=5"]
+    etiketler: [masak, uyum, kesisen-mevzuat]
+    ozet: "Resmî ad: Mali Suçları Araştırma Kurulu Genel Tebliği (sıra No: 12). Sigortacılığı etkileyen kesişen mevzuat; mevzuat.gov.tr'den, künye doğrulandı."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=19810&MevzuatTur=2&MevzuatTertip=5", yontem: "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 19810)"}
+  - id: masak-13073-mali-suclari-arastirma-kurulu-gene
+    baslik: "Mali Suçları Araştırma Kurulu Genel Tebliği (sıra No: 8)"
+    tur: teblig
+    klasor: belgeler/12-kesisen-mevzuat/masak
+    brans: [uyum]
+    otorite: MASAK / Hazine ve Maliye Bakanlığı
+    numara: null
+    rg_tarihi: "2009-05-26"
+    rg_sayisi: "27239"
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=13073&MevzuatTur=2&MevzuatTertip=5"]
+    etiketler: [masak, uyum, kesisen-mevzuat]
+    ozet: "Resmî ad: Mali Suçları Araştırma Kurulu Genel Tebliği (sıra No: 8). Sigortacılığı etkileyen kesişen mevzuat; mevzuat.gov.tr'den, künye doğrulandı."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=13073&MevzuatTur=2&MevzuatTertip=5", yontem: "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 13073)"}
+  - id: masak-12073-mali-suclari-arastirma-kurulu-gene
+    baslik: "Mali Suçları Araştırma Kurulu Genel Tebliği (sıra No: 5)"
+    tur: teblig
+    klasor: belgeler/12-kesisen-mevzuat/masak
+    brans: [uyum]
+    otorite: MASAK / Hazine ve Maliye Bakanlığı
+    numara: null
+    rg_tarihi: "2008-04-09"
+    rg_sayisi: "26842"
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=12073&MevzuatTur=2&MevzuatTertip=5"]
+    etiketler: [masak, uyum, kesisen-mevzuat]
+    ozet: "Resmî ad: Mali Suçları Araştırma Kurulu Genel Tebliği (sıra No: 5). Sigortacılığı etkileyen kesişen mevzuat; mevzuat.gov.tr'den, künye doğrulandı."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=12073&MevzuatTur=2&MevzuatTertip=5", yontem: "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 12073)"}
+  - id: masak-18420-terorizmin-finansmaninin-onlenmesi
+    baslik: "Terörizmin Finansmanının Önlenmesi Hakkında Kanunun Uygulanmasına İlişkin Usul Ve Esaslar Hakkında Yönetmelik"
+    tur: teblig
+    klasor: belgeler/12-kesisen-mevzuat/masak
+    brans: [uyum]
+    otorite: MASAK / Hazine ve Maliye Bakanlığı
+    numara: null
+    rg_tarihi: "2013-05-31"
+    rg_sayisi: "28663"
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18420&MevzuatTur=2&MevzuatTertip=5"]
+    etiketler: [masak, uyum, kesisen-mevzuat]
+    ozet: "Resmî ad: Terörizmin Finansmanının Önlenmesi Hakkında Kanunun Uygulanmasına İlişkin Usul Ve Esaslar . Sigortacılığı etkileyen kesişen mevzuat; mevzuat.gov.tr'den, künye doğrulandı."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18420&MevzuatTur=2&MevzuatTertip=5", yontem: "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 18420)"}
+  - id: kvkk-24276-veri-sorumlulari-sicili-hakkinda-y
+    baslik: "Veri Sorumluları Sicili Hakkında Yönetmelik"
+    tur: teblig
+    klasor: belgeler/12-kesisen-mevzuat/kvkk
+    brans: [veri]
+    otorite: KVKK
+    numara: null
+    rg_tarihi: "2017-12-30"
+    rg_sayisi: "30286"
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=24276&MevzuatTur=2&MevzuatTertip=5"]
+    etiketler: [kvkk, veri, kesisen-mevzuat]
+    ozet: "Resmî ad: Veri Sorumluları Sicili Hakkında Yönetmelik. Sigortacılığı etkileyen kesişen mevzuat; mevzuat.gov.tr'den, künye doğrulandı."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=24276&MevzuatTur=2&MevzuatTertip=5", yontem: "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 24276)"}
+  - id: kvkk-24454-aydinlatma-yukumlulugunun-yerine-g
+    baslik: "Aydınlatma Yükümlülüğünün Yerine Getirilmesinde Uyulacak Usul Ve Esaslar Hakkında Tebliğ"
+    tur: teblig
+    klasor: belgeler/12-kesisen-mevzuat/kvkk
+    brans: [veri]
+    otorite: KVKK
+    numara: null
+    rg_tarihi: "2018-03-10"
+    rg_sayisi: "30356"
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=24454&MevzuatTur=2&MevzuatTertip=5"]
+    etiketler: [kvkk, veri, kesisen-mevzuat]
+    ozet: "Resmî ad: Aydınlatma Yükümlülüğünün Yerine Getirilmesinde Uyulacak Usul Ve Esaslar Hakkında Tebliğ. Sigortacılığı etkileyen kesişen mevzuat; mevzuat.gov.tr'den, künye doğrulandı."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=24454&MevzuatTur=2&MevzuatTertip=5", yontem: "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 24454)"}

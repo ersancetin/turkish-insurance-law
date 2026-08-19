@@ -3,7 +3,7 @@
 > Bu dosya `scripts/uret.py` tarafından **otomatik üretilir**. Elle düzenlemeyin;
 > değişiklik için `data/kaynaklar.yaml` dosyasını güncelleyip betiği yeniden çalıştırın.
 
-**Toplam kayıt:** 1156  |  **Kütük sürümü:** 0.1.0  |  **Güncelleme:** 2026-08-19
+**Toplam kayıt:** 1171  |  **Kütük sürümü:** 0.1.0  |  **Güncelleme:** 2026-08-19
 
 Durum rozetleri: ✅ yürürlükte · ⚠️ kısmen iptal · 🔄 yakın değişiklik · ⛔ mülga · ❔ bilinmiyor
 
@@ -1372,4 +1372,34 @@ Durum rozetleri: ✅ yürürlükte · ⚠️ kısmen iptal · 🔄 yakın deği�
 | # | Belge | Tür | Durum | Öncelik |
 | --- | --- | --- | --- | --- |
 | 1 | [Türkiye Sigorta, Reasürans ve Emeklilik Şirketleri Birliği (TSB) — mevzuat derlemesi ve sektör kararları](belgeler/11-kurumlar/tsb/kurum-tsb.md) | Kurum Dosyası | ✅ | P2 |
+
+## `belgeler/12-kesisen-mevzuat/kvkk`
+
+| # | Belge | Tür | Durum | Öncelik |
+| --- | --- | --- | --- | --- |
+| 1 | [Kişisel Verilerin Korunması Kanunu](belgeler/12-kesisen-mevzuat/kvkk/6698-kisisel-verilerin-korunmasi-kanunu.md) | Kanun | ✅ | P2 |
+| 2 | [Aydınlatma Yükümlülüğünün Yerine Getirilmesinde Uyulacak Usul Ve Esaslar Hakkında Tebliğ](belgeler/12-kesisen-mevzuat/kvkk/kvkk-24454-aydinlatma-yukumlulugunun-yerine-g.md) | Tebliğ | ✅ | P3 |
+| 3 | [Veri Sorumluları Sicili Hakkında Yönetmelik](belgeler/12-kesisen-mevzuat/kvkk/kvkk-24276-veri-sorumlulari-sicili-hakkinda-y.md) | Tebliğ | ✅ | P3 |
+
+## `belgeler/12-kesisen-mevzuat/masak`
+
+| # | Belge | Tür | Durum | Öncelik |
+| --- | --- | --- | --- | --- |
+| 1 | [Suç Gelirlerinin Aklanmasının Önlenmesi Hakkında Kanun](belgeler/12-kesisen-mevzuat/masak/5549-suc-gelirlerinin-aklanmasinin-onlenmesi-.md) | Kanun | ✅ | P2 |
+| 2 | [Terörizmin Finansmanının Önlenmesi Hakkında Kanun](belgeler/12-kesisen-mevzuat/masak/6415-terorizmin-finansmaninin-onlenmesi-hakki.md) | Kanun | ✅ | P2 |
+| 3 | [Mali Suçları Araştırma Kurulu Genel Tebliği (sıra No: 12)](belgeler/12-kesisen-mevzuat/masak/masak-19810-mali-suclari-arastirma-kurulu-gene.md) | Tebliğ | ✅ | P3 |
+| 4 | [Mali Suçları Araştırma Kurulu Genel Tebliği (sıra No: 13)](belgeler/12-kesisen-mevzuat/masak/masak-19995-mali-suclari-arastirma-kurulu-gene.md) | Tebliğ | ✅ | P3 |
+| 5 | [Mali Suçları Araştırma Kurulu Genel Tebliği (sıra No: 19)](belgeler/12-kesisen-mevzuat/masak/masak-38566-mali-suclari-arastirma-kurulu-gene.md) | Tebliğ | ✅ | P3 |
+| 6 | [Mali Suçları Araştırma Kurulu Genel Tebliği (sıra No: 21)](belgeler/12-kesisen-mevzuat/masak/masak-39833-mali-suclari-arastirma-kurulu-gene.md) | Tebliğ | ✅ | P3 |
+| 7 | [Mali Suçları Araştırma Kurulu Genel Tebliği (sıra No: 29)](belgeler/12-kesisen-mevzuat/masak/masak-42465-mali-suclari-arastirma-kurulu-gene.md) | Tebliğ | ✅ | P3 |
+| 8 | [Mali Suçları Araştırma Kurulu Genel Tebliği (sıra No: 30)](belgeler/12-kesisen-mevzuat/masak/masak-42596-mali-suclari-arastirma-kurulu-gene.md) | Tebliğ | ✅ | P3 |
+| 9 | [Mali Suçları Araştırma Kurulu Genel Tebliği (sıra No: 5)](belgeler/12-kesisen-mevzuat/masak/masak-12073-mali-suclari-arastirma-kurulu-gene.md) | Tebliğ | ✅ | P3 |
+| 10 | [Mali Suçları Araştırma Kurulu Genel Tebliği (sıra No: 8)](belgeler/12-kesisen-mevzuat/masak/masak-13073-mali-suclari-arastirma-kurulu-gene.md) | Tebliğ | ✅ | P3 |
+| 11 | [Terörizmin Finansmanının Önlenmesi Hakkında Kanunun Uygulanmasına İlişkin Usul Ve Esaslar Hakkında Yönetmelik](belgeler/12-kesisen-mevzuat/masak/masak-18420-terorizmin-finansmaninin-onlenmesi.md) | Tebliğ | ✅ | P3 |
+
+## `belgeler/12-kesisen-mevzuat/vergi`
+
+| # | Belge | Tür | Durum | Öncelik |
+| --- | --- | --- | --- | --- |
+| 1 | [Gider Vergileri Kanunu](belgeler/12-kesisen-mevzuat/vergi/6802-gider-vergileri-kanunu.md) | Kanun | ✅ | P2 |
 

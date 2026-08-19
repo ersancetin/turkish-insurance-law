@@ -2,7 +2,7 @@
 
 > Otomatik üretilir (`scripts/uret.py`). Deponun kapsam ve tamamlanma durumunu gösterir.
 
-- **Kütükteki kayıt sayısı:** 1156
+- **Kütükteki kayıt sayısı:** 1171
 - **Tam metin eklenmiş belge sayısı:** dosyaların `metin_durumu` alanından hesaplanır (aşağıdaki tabloya bakın).
 
 ## Belge türüne göre dağılım
@@ -14,8 +14,8 @@
 | Yargı Kararı | 86 |
 | Yönetmelik | 62 |
 | Genel Şart | 47 |
-| Tebliğ | 22 |
-| Kanun | 12 |
+| Tebliğ | 33 |
+| Kanun | 16 |
 | Kurum Dosyası | 8 |
 | Koleksiyon (seri toplama görevi) | 7 |
 | Rehber | 7 |
@@ -28,7 +28,7 @@
 
 | Durum | Adet |
 | --- | --- |
-| Yürürlükte | 1150 |
+| Yürürlükte | 1165 |
 | Kısmen iptal edilmiş | 3 |
 | Yakın tarihli değişiklik içeriyor | 3 |
 
@@ -37,8 +37,8 @@
 | Öncelik | Adet | Anlamı |
 | --- | --- | --- |
 | P1 | 41 | Kritik — önce toplanacak |
-| P2 | 112 | Önemli |
-| P3 | 1003 | Tamamlayıcı |
+| P2 | 116 | Önemli |
+| P3 | 1014 | Tamamlayıcı |
 
 ## Künyesi eksik kayıtlar (Resmî Gazete tarihi girilmemiş)
 
@@ -92,7 +92,7 @@ Toplam **45** kayıt. Resmî metin çekilirken bu alanlar doldurulmalıdır.
 
 ## Künye doğrulama durumu
 
-Resmî kaynaktan (Resmî Gazete / mevzuat.gov.tr / SEDDK) künyesi teyit edilmiş **1081** kayıt / toplam 1156.
+Resmî kaynaktan (Resmî Gazete / mevzuat.gov.tr / SEDDK) künyesi teyit edilmiş **1096** kayıt / toplam 1171.
 
 | Kayıt | Resmî Gazete | Doğrulama tarihi |
 | --- | --- | --- |
@@ -102,11 +102,15 @@ Resmî kaynaktan (Resmî Gazete / mevzuat.gov.tr / SEDDK) künyesi teyit edilmi�
 | `4925-karayolu-tasima-kanunu` | 2003-07-19 / 25173 | 2026-08-19 |
 | `5363-tarim-sigortalari-kanunu` | 2005-06-21 / 25852 | 2026-08-19 |
 | `5510-sosyal-sigortalar-rucu` | 2006-06-16 / 26200 | 2026-08-19 |
+| `5549-suc-gelirlerinin-aklanmasinin-onlenmesi-` | 2006-10-18 / 26323 | 2026-08-20 |
 | `5684-sigortacilik-kanunu` | 2007-06-14 / 26552 | 2026-08-19 |
 | `6098-tbk-ilgili-hukumler` | 2011-02-04 / 27836 | 2026-08-19 |
 | `6102-ttk-sigorta-hukumleri` | 2011-02-14 / 27846 | 2026-08-19 |
 | `6305-afet-sigortalari-kanunu` | 2012-05-18 / 28296 | 2026-08-19 |
+| `6415-terorizmin-finansmaninin-onlenmesi-hakki` | 2013-02-16 / 28561 | 2026-08-20 |
 | `6502-tuketicinin-korunmasi` | 2013-11-28 / 28835 | 2026-08-19 |
+| `6698-kisisel-verilerin-korunmasi-kanunu` | 2016-04-07 / 29677 | 2026-08-20 |
+| `6802-gider-vergileri-kanunu` | 1956-07-23 / 9362 | 2026-08-20 |
 | `cbk-1-ilgili-hukumler` | 2018-07-10 / 30474 | 2026-08-19 |
 | `cbk-47-seddk-teskilati` | 2019-10-18 / 30922 | 2026-08-19 |
 | `duy-03-07-2024-tarihli-ve-709-sayili-kurul` | — / — | 2026-08-20 |
@@ -986,6 +990,17 @@ Resmî kaynaktan (Resmî Gazete / mevzuat.gov.tr / SEDDK) künyesi teyit edilmi�
 | `kar-9308` | 2024-12-25 / 32763 | 2026-08-19 |
 | `kar-954` | 2019-04-18 / 30749 | 2026-08-19 |
 | `kar-9593` | 2025-03-15 / 32842 | 2026-08-19 |
+| `kvkk-24276-veri-sorumlulari-sicili-hakkinda-y` | 2017-12-30 / 30286 | 2026-08-20 |
+| `kvkk-24454-aydinlatma-yukumlulugunun-yerine-g` | 2018-03-10 / 30356 | 2026-08-20 |
+| `masak-12073-mali-suclari-arastirma-kurulu-gene` | 2008-04-09 / 26842 | 2026-08-20 |
+| `masak-13073-mali-suclari-arastirma-kurulu-gene` | 2009-05-26 / 27239 | 2026-08-20 |
+| `masak-18420-terorizmin-finansmaninin-onlenmesi` | 2013-05-31 / 28663 | 2026-08-20 |
+| `masak-19810-mali-suclari-arastirma-kurulu-gene` | 2014-06-21 / 29037 | 2026-08-20 |
+| `masak-19995-mali-suclari-arastirma-kurulu-gene` | 2014-08-25 / 29099 | 2026-08-20 |
+| `masak-38566-mali-suclari-arastirma-kurulu-gene` | 2021-04-30 / 31470 | 2026-08-20 |
+| `masak-39833-mali-suclari-arastirma-kurulu-gene` | 2022-11-17 / 32016 | 2026-08-20 |
+| `masak-42465-mali-suclari-arastirma-kurulu-gene` | 2025-06-28 / 32940 | 2026-08-20 |
+| `masak-42596-mali-suclari-arastirma-kurulu-gene` | 2025-09-09 / 33012 | 2026-08-20 |
 | `reh-bina-tamamlama-sigortasi-bilgilendirme` | — / — | 2026-08-20 |
 | `reh-bina-tamamlama-sigortasi-hakkinda-bilg` | — / — | 2026-08-20 |
 | `reh-bireysel-emeklilik-islemleri-3-basamak` | — / — | 2026-08-20 |
