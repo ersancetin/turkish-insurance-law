@@ -2,18 +2,18 @@
 
 > Otomatik üretilir (`scripts/uret.py`). Deponun kapsam ve tamamlanma durumunu gösterir.
 
-- **Kütükteki kayıt sayısı:** 1051
+- **Kütükteki kayıt sayısı:** 1151
 - **Tam metin eklenmiş belge sayısı:** dosyaların `metin_durumu` alanından hesaplanır (aşağıdaki tabloya bakın).
 
 ## Belge türüne göre dağılım
 
 | Tür | Adet |
 | --- | --- |
+| Sektör Duyurusu | 453 |
 | Genelge | 440 |
-| Sektör Duyurusu | 414 |
+| Yargı Kararı | 86 |
 | Yönetmelik | 62 |
 | Genel Şart | 47 |
-| Yargı Kararı | 25 |
 | Tebliğ | 22 |
 | Kanun | 12 |
 | Kurum Dosyası | 8 |
@@ -28,7 +28,7 @@
 
 | Durum | Adet |
 | --- | --- |
-| Yürürlükte | 1045 |
+| Yürürlükte | 1145 |
 | Kısmen iptal edilmiş | 3 |
 | Yakın tarihli değişiklik içeriyor | 3 |
 
@@ -37,8 +37,8 @@
 | Öncelik | Adet | Anlamı |
 | --- | --- | --- |
 | P1 | 41 | Kritik — önce toplanacak |
-| P2 | 51 | Önemli |
-| P3 | 959 | Tamamlayıcı |
+| P2 | 112 | Önemli |
+| P3 | 998 | Tamamlayıcı |
 
 ## Künyesi eksik kayıtlar (Resmî Gazete tarihi girilmemiş)
 
@@ -92,7 +92,7 @@ Toplam **45** kayıt. Resmî metin çekilirken bu alanlar doldurulmalıdır.
 
 ## Künye doğrulama durumu
 
-Resmî kaynaktan (Resmî Gazete / mevzuat.gov.tr / SEDDK) künyesi teyit edilmiş **976** kayıt / toplam 1051.
+Resmî kaynaktan (Resmî Gazete / mevzuat.gov.tr / SEDDK) künyesi teyit edilmiş **1076** kayıt / toplam 1151.
 
 | Kayıt | Resmî Gazete | Doğrulama tarihi |
 | --- | --- | --- |
@@ -991,6 +991,106 @@ Resmî kaynaktan (Resmî Gazete / mevzuat.gov.tr / SEDDK) künyesi teyit edilmi�
 | `reh-bireysel-emeklilik-islemleri-3-basamak` | — / — | 2026-08-20 |
 | `reh-ozel-saglik-sigortalarinda-yeni-donem-bi` | — / — | 2026-08-19 |
 | `reh-teknik-karsiliklar-denetim-rehberi` | — / — | 2026-08-20 |
+| `tahkim-duyuru-manset-10` | — / — | 2026-08-20 |
+| `tahkim-duyuru-manset-11` | — / — | 2026-08-20 |
+| `tahkim-duyuru-manset-12` | — / — | 2026-08-20 |
+| `tahkim-duyuru-manset-13` | — / — | 2026-08-20 |
+| `tahkim-duyuru-manset-14` | — / — | 2026-08-20 |
+| `tahkim-duyuru-manset-15` | — / — | 2026-08-20 |
+| `tahkim-duyuru-manset-2` | — / — | 2026-08-20 |
+| `tahkim-duyuru-manset-25` | — / — | 2026-08-20 |
+| `tahkim-duyuru-manset-29` | — / — | 2026-08-20 |
+| `tahkim-duyuru-manset-3` | — / — | 2026-08-20 |
+| `tahkim-duyuru-manset-31` | — / — | 2026-08-20 |
+| `tahkim-duyuru-manset-32` | — / — | 2026-08-20 |
+| `tahkim-duyuru-manset-33` | — / — | 2026-08-20 |
+| `tahkim-duyuru-manset-34` | — / — | 2026-08-20 |
+| `tahkim-duyuru-manset-35` | — / — | 2026-08-20 |
+| `tahkim-duyuru-manset-36` | — / — | 2026-08-20 |
+| `tahkim-duyuru-manset-37` | — / — | 2026-08-20 |
+| `tahkim-duyuru-manset-38` | — / — | 2026-08-20 |
+| `tahkim-duyuru-manset-42` | — / — | 2026-08-20 |
+| `tahkim-duyuru-manset-45` | — / — | 2026-08-20 |
+| `tahkim-duyuru-manset-46` | — / — | 2026-08-20 |
+| `tahkim-duyuru-manset-47` | — / — | 2026-08-20 |
+| `tahkim-duyuru-manset-48` | — / — | 2026-08-20 |
+| `tahkim-duyuru-manset-49` | — / — | 2026-08-20 |
+| `tahkim-duyuru-manset-5` | — / — | 2026-08-20 |
+| `tahkim-duyuru-manset-50` | — / — | 2026-08-20 |
+| `tahkim-duyuru-manset-51` | — / — | 2026-08-20 |
+| `tahkim-duyuru-manset-52` | — / — | 2026-08-20 |
+| `tahkim-duyuru-manset-53` | — / — | 2026-08-20 |
+| `tahkim-duyuru-manset-54` | — / — | 2026-08-20 |
+| `tahkim-duyuru-manset-55` | — / — | 2026-08-20 |
+| `tahkim-duyuru-manset-56` | — / — | 2026-08-20 |
+| `tahkim-duyuru-manset-57` | — / — | 2026-08-20 |
+| `tahkim-duyuru-manset-58` | — / — | 2026-08-20 |
+| `tahkim-duyuru-manset-59` | — / — | 2026-08-20 |
+| `tahkim-duyuru-manset-6` | — / — | 2026-08-20 |
+| `tahkim-duyuru-manset-7` | — / — | 2026-08-20 |
+| `tahkim-duyuru-manset-8` | — / — | 2026-08-20 |
+| `tahkim-duyuru-manset-9` | — / — | 2026-08-20 |
+| `tahkim-karar-dergisi-1` | — / — | 2026-08-20 |
+| `tahkim-karar-dergisi-10` | — / — | 2026-08-20 |
+| `tahkim-karar-dergisi-11` | — / — | 2026-08-20 |
+| `tahkim-karar-dergisi-12` | — / — | 2026-08-20 |
+| `tahkim-karar-dergisi-13` | — / — | 2026-08-20 |
+| `tahkim-karar-dergisi-14` | — / — | 2026-08-20 |
+| `tahkim-karar-dergisi-15` | — / — | 2026-08-20 |
+| `tahkim-karar-dergisi-16` | — / — | 2026-08-20 |
+| `tahkim-karar-dergisi-17` | — / — | 2026-08-20 |
+| `tahkim-karar-dergisi-18` | — / — | 2026-08-20 |
+| `tahkim-karar-dergisi-19` | — / — | 2026-08-20 |
+| `tahkim-karar-dergisi-2` | — / — | 2026-08-20 |
+| `tahkim-karar-dergisi-20` | — / — | 2026-08-20 |
+| `tahkim-karar-dergisi-21` | — / — | 2026-08-20 |
+| `tahkim-karar-dergisi-22` | — / — | 2026-08-20 |
+| `tahkim-karar-dergisi-23` | — / — | 2026-08-20 |
+| `tahkim-karar-dergisi-24` | — / — | 2026-08-20 |
+| `tahkim-karar-dergisi-25` | — / — | 2026-08-20 |
+| `tahkim-karar-dergisi-26` | — / — | 2026-08-20 |
+| `tahkim-karar-dergisi-27` | — / — | 2026-08-20 |
+| `tahkim-karar-dergisi-28` | — / — | 2026-08-20 |
+| `tahkim-karar-dergisi-29` | — / — | 2026-08-20 |
+| `tahkim-karar-dergisi-3` | — / — | 2026-08-20 |
+| `tahkim-karar-dergisi-30` | — / — | 2026-08-20 |
+| `tahkim-karar-dergisi-31` | — / — | 2026-08-20 |
+| `tahkim-karar-dergisi-32` | — / — | 2026-08-20 |
+| `tahkim-karar-dergisi-33` | — / — | 2026-08-20 |
+| `tahkim-karar-dergisi-34` | — / — | 2026-08-20 |
+| `tahkim-karar-dergisi-35` | — / — | 2026-08-20 |
+| `tahkim-karar-dergisi-36` | — / — | 2026-08-20 |
+| `tahkim-karar-dergisi-37` | — / — | 2026-08-20 |
+| `tahkim-karar-dergisi-38` | — / — | 2026-08-20 |
+| `tahkim-karar-dergisi-39` | — / — | 2026-08-20 |
+| `tahkim-karar-dergisi-40` | — / — | 2026-08-20 |
+| `tahkim-karar-dergisi-41` | — / — | 2026-08-20 |
+| `tahkim-karar-dergisi-42` | — / — | 2026-08-20 |
+| `tahkim-karar-dergisi-43` | — / — | 2026-08-20 |
+| `tahkim-karar-dergisi-44` | — / — | 2026-08-20 |
+| `tahkim-karar-dergisi-45` | — / — | 2026-08-20 |
+| `tahkim-karar-dergisi-46` | — / — | 2026-08-20 |
+| `tahkim-karar-dergisi-47` | — / — | 2026-08-20 |
+| `tahkim-karar-dergisi-48` | — / — | 2026-08-20 |
+| `tahkim-karar-dergisi-49` | — / — | 2026-08-20 |
+| `tahkim-karar-dergisi-5` | — / — | 2026-08-20 |
+| `tahkim-karar-dergisi-50` | — / — | 2026-08-20 |
+| `tahkim-karar-dergisi-51` | — / — | 2026-08-20 |
+| `tahkim-karar-dergisi-52` | — / — | 2026-08-20 |
+| `tahkim-karar-dergisi-53` | — / — | 2026-08-20 |
+| `tahkim-karar-dergisi-54` | — / — | 2026-08-20 |
+| `tahkim-karar-dergisi-55` | — / — | 2026-08-20 |
+| `tahkim-karar-dergisi-56` | — / — | 2026-08-20 |
+| `tahkim-karar-dergisi-6` | — / — | 2026-08-20 |
+| `tahkim-karar-dergisi-61` | — / — | 2026-08-20 |
+| `tahkim-karar-dergisi-62` | — / — | 2026-08-20 |
+| `tahkim-karar-dergisi-63` | — / — | 2026-08-20 |
+| `tahkim-karar-dergisi-64` | — / — | 2026-08-20 |
+| `tahkim-karar-dergisi-65` | — / — | 2026-08-20 |
+| `tahkim-karar-dergisi-66` | — / — | 2026-08-20 |
+| `tahkim-karar-dergisi-7` | — / — | 2026-08-20 |
+| `tahkim-karar-dergisi-8` | — / — | 2026-08-20 |
+| `tahkim-karar-dergisi-9` | — / — | 2026-08-20 |
 | `teb-birikimli-hayat-bes-aktarim` | 2004-07-12 / 25520 | 2026-08-19 |
 | `teb-dd-ticari-alacak-tarife-talimat` | 2023-01-07 / 32066 | 2026-08-19 |
 | `teb-deniz-araclari-tarife-talimat` | 2014-10-18 / 29149 | 2026-08-19 |

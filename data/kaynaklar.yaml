@@ -15968,3 +15968,1505 @@ belgeler:
     etiketler: [sektor-duyurusu, seddk]
     ozet: "SEDDK sektor-duyurusu kataloğu: Katılım Sektör Raporu (2020). Kaynak PDF resmî SEDDK sitesinden."
     dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://seddk.gov.tr/upload/Katılım Mevzuatı/Diğer Duyurular/katilim-sektor-raporu-2020.pdf", yontem: "SEDDK resmî sitesi duyuru/mevzuat listesinden katalog kaydı (başlık+PDF linki)"}
+
+# ==== Sigorta Tahkim Komisyonu: Hakem Karar Dergileri + manşet duyuruları (sigortatahkim.org, 20/08/2026) ====
+  - id: tahkim-karar-dergisi-66
+    baslik: "Hakem Karar Dergisi 66 Nisan - Haziran 2026"
+    tur: karar
+    klasor: belgeler/09-tahkim/ilkesel-kararlar
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: "66"
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.sigortatahkim.org/content/CmsFiles/karardrgs66.pdf"]
+    etiketler: [hakem-karari, tahkim, karar-dergisi]
+    ozet: "Sigorta Tahkim Komisyonu Hakem Karar Dergisi sayı 66: dönemsel hakem/itiraz hakem heyeti kararları derlemesi. Kaynak: sigortatahkim.org."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/content/CmsFiles/karardrgs66.pdf", yontem: "Sigorta Tahkim Komisyonu resmî sitesi Hakem Karar Dergisi listesinden"}
+  - id: tahkim-karar-dergisi-65
+    baslik: "Hakem Karar Dergisi 65 Ocak - Mart 2026"
+    tur: karar
+    klasor: belgeler/09-tahkim/ilkesel-kararlar
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: "65"
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.sigortatahkim.org/content/CmsFiles/karardrgs65.pdf"]
+    etiketler: [hakem-karari, tahkim, karar-dergisi]
+    ozet: "Sigorta Tahkim Komisyonu Hakem Karar Dergisi sayı 65: dönemsel hakem/itiraz hakem heyeti kararları derlemesi. Kaynak: sigortatahkim.org."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/content/CmsFiles/karardrgs65.pdf", yontem: "Sigorta Tahkim Komisyonu resmî sitesi Hakem Karar Dergisi listesinden"}
+  - id: tahkim-karar-dergisi-64
+    baslik: "Hakem Karar Dergisi 64 Ekim - Aralık 2025"
+    tur: karar
+    klasor: belgeler/09-tahkim/ilkesel-kararlar
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: "64"
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.sigortatahkim.org/content/CmsFiles/karardrgs64.pdf"]
+    etiketler: [hakem-karari, tahkim, karar-dergisi]
+    ozet: "Sigorta Tahkim Komisyonu Hakem Karar Dergisi sayı 64: dönemsel hakem/itiraz hakem heyeti kararları derlemesi. Kaynak: sigortatahkim.org."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/content/CmsFiles/karardrgs64.pdf", yontem: "Sigorta Tahkim Komisyonu resmî sitesi Hakem Karar Dergisi listesinden"}
+  - id: tahkim-karar-dergisi-62
+    baslik: "Hakem Karar Dergisi 62"
+    tur: karar
+    klasor: belgeler/09-tahkim/ilkesel-kararlar
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: "62"
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.sigortatahkim.org/content/CmsFiles/karardrgs62.pdf"]
+    etiketler: [hakem-karari, tahkim, karar-dergisi]
+    ozet: "Sigorta Tahkim Komisyonu Hakem Karar Dergisi sayı 62: dönemsel hakem/itiraz hakem heyeti kararları derlemesi. Kaynak: sigortatahkim.org."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/content/CmsFiles/karardrgs62.pdf", yontem: "Sigorta Tahkim Komisyonu resmî sitesi Hakem Karar Dergisi listesinden"}
+  - id: tahkim-karar-dergisi-63
+    baslik: "Hakem Karar Dergisi 63 Temmuz - Eylül 2025"
+    tur: karar
+    klasor: belgeler/09-tahkim/ilkesel-kararlar
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: "63"
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.sigortatahkim.org/content/CmsFiles/karardrgs63.pdf"]
+    etiketler: [hakem-karari, tahkim, karar-dergisi]
+    ozet: "Sigorta Tahkim Komisyonu Hakem Karar Dergisi sayı 63: dönemsel hakem/itiraz hakem heyeti kararları derlemesi. Kaynak: sigortatahkim.org."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/content/CmsFiles/karardrgs63.pdf", yontem: "Sigorta Tahkim Komisyonu resmî sitesi Hakem Karar Dergisi listesinden"}
+  - id: tahkim-karar-dergisi-61
+    baslik: "Hakem Karar Dergisi 61"
+    tur: karar
+    klasor: belgeler/09-tahkim/ilkesel-kararlar
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: "61"
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.sigortatahkim.org/content/CmsFiles/karardrgs61.pdf"]
+    etiketler: [hakem-karari, tahkim, karar-dergisi]
+    ozet: "Sigorta Tahkim Komisyonu Hakem Karar Dergisi sayı 61: dönemsel hakem/itiraz hakem heyeti kararları derlemesi. Kaynak: sigortatahkim.org."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/content/CmsFiles/karardrgs61.pdf", yontem: "Sigorta Tahkim Komisyonu resmî sitesi Hakem Karar Dergisi listesinden"}
+  - id: tahkim-karar-dergisi-56
+    baslik: "Hakem Karar Dergisi 56 Ekim - Aralık 2023"
+    tur: karar
+    klasor: belgeler/09-tahkim/ilkesel-kararlar
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: "56"
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.sigortatahkim.org/content/CmsFiles/karardrgs56.pdf"]
+    etiketler: [hakem-karari, tahkim, karar-dergisi]
+    ozet: "Sigorta Tahkim Komisyonu Hakem Karar Dergisi sayı 56: dönemsel hakem/itiraz hakem heyeti kararları derlemesi. Kaynak: sigortatahkim.org."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/content/CmsFiles/karardrgs56.pdf", yontem: "Sigorta Tahkim Komisyonu resmî sitesi Hakem Karar Dergisi listesinden"}
+  - id: tahkim-karar-dergisi-55
+    baslik: "Hakem Karar Dergisi 55 Temmuz - Eylül 2023"
+    tur: karar
+    klasor: belgeler/09-tahkim/ilkesel-kararlar
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: "55"
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.sigortatahkim.org/content/CmsFiles/karardrgs55.pdf"]
+    etiketler: [hakem-karari, tahkim, karar-dergisi]
+    ozet: "Sigorta Tahkim Komisyonu Hakem Karar Dergisi sayı 55: dönemsel hakem/itiraz hakem heyeti kararları derlemesi. Kaynak: sigortatahkim.org."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/content/CmsFiles/karardrgs55.pdf", yontem: "Sigorta Tahkim Komisyonu resmî sitesi Hakem Karar Dergisi listesinden"}
+  - id: tahkim-karar-dergisi-54
+    baslik: "Hakem Karar Dergisi 54 Nisan - Haziran 2023"
+    tur: karar
+    klasor: belgeler/09-tahkim/ilkesel-kararlar
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: "54"
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.sigortatahkim.org/content/CmsFiles/karardrgs54.pdf"]
+    etiketler: [hakem-karari, tahkim, karar-dergisi]
+    ozet: "Sigorta Tahkim Komisyonu Hakem Karar Dergisi sayı 54: dönemsel hakem/itiraz hakem heyeti kararları derlemesi. Kaynak: sigortatahkim.org."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/content/CmsFiles/karardrgs54.pdf", yontem: "Sigorta Tahkim Komisyonu resmî sitesi Hakem Karar Dergisi listesinden"}
+  - id: tahkim-karar-dergisi-53
+    baslik: "Hakem Karar Dergisi 53 Ocak - Mart 2023"
+    tur: karar
+    klasor: belgeler/09-tahkim/ilkesel-kararlar
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: "53"
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.sigortatahkim.org/content/CmsFiles/karardrgs53.pdf"]
+    etiketler: [hakem-karari, tahkim, karar-dergisi]
+    ozet: "Sigorta Tahkim Komisyonu Hakem Karar Dergisi sayı 53: dönemsel hakem/itiraz hakem heyeti kararları derlemesi. Kaynak: sigortatahkim.org."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/content/CmsFiles/karardrgs53.pdf", yontem: "Sigorta Tahkim Komisyonu resmî sitesi Hakem Karar Dergisi listesinden"}
+  - id: tahkim-karar-dergisi-52
+    baslik: "Hakem Karar Dergisi 52 Ekim - Aralık 2022"
+    tur: karar
+    klasor: belgeler/09-tahkim/ilkesel-kararlar
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: "52"
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.sigortatahkim.org/content/CmsFiles/karardrgs52.pdf"]
+    etiketler: [hakem-karari, tahkim, karar-dergisi]
+    ozet: "Sigorta Tahkim Komisyonu Hakem Karar Dergisi sayı 52: dönemsel hakem/itiraz hakem heyeti kararları derlemesi. Kaynak: sigortatahkim.org."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/content/CmsFiles/karardrgs52.pdf", yontem: "Sigorta Tahkim Komisyonu resmî sitesi Hakem Karar Dergisi listesinden"}
+  - id: tahkim-karar-dergisi-51
+    baslik: "Hakem Karar Dergisi 51 Temmuz - Eylül 2022"
+    tur: karar
+    klasor: belgeler/09-tahkim/ilkesel-kararlar
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: "51"
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.sigortatahkim.org/content/CmsFiles/karardrgs51.pdf"]
+    etiketler: [hakem-karari, tahkim, karar-dergisi]
+    ozet: "Sigorta Tahkim Komisyonu Hakem Karar Dergisi sayı 51: dönemsel hakem/itiraz hakem heyeti kararları derlemesi. Kaynak: sigortatahkim.org."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/content/CmsFiles/karardrgs51.pdf", yontem: "Sigorta Tahkim Komisyonu resmî sitesi Hakem Karar Dergisi listesinden"}
+  - id: tahkim-karar-dergisi-50
+    baslik: "Hakem Karar Dergisi 50 Nisan - Haziran 2022"
+    tur: karar
+    klasor: belgeler/09-tahkim/ilkesel-kararlar
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: "50"
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.sigortatahkim.org/content/CmsFiles/karardrgs50.pdf"]
+    etiketler: [hakem-karari, tahkim, karar-dergisi]
+    ozet: "Sigorta Tahkim Komisyonu Hakem Karar Dergisi sayı 50: dönemsel hakem/itiraz hakem heyeti kararları derlemesi. Kaynak: sigortatahkim.org."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/content/CmsFiles/karardrgs50.pdf", yontem: "Sigorta Tahkim Komisyonu resmî sitesi Hakem Karar Dergisi listesinden"}
+  - id: tahkim-karar-dergisi-49
+    baslik: "Hakem Karar Dergisi 49 Ocak - Mart 2022"
+    tur: karar
+    klasor: belgeler/09-tahkim/ilkesel-kararlar
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: "49"
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.sigortatahkim.org/content/CmsFiles/karardrgs49.pdf"]
+    etiketler: [hakem-karari, tahkim, karar-dergisi]
+    ozet: "Sigorta Tahkim Komisyonu Hakem Karar Dergisi sayı 49: dönemsel hakem/itiraz hakem heyeti kararları derlemesi. Kaynak: sigortatahkim.org."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/content/CmsFiles/karardrgs49.pdf", yontem: "Sigorta Tahkim Komisyonu resmî sitesi Hakem Karar Dergisi listesinden"}
+  - id: tahkim-karar-dergisi-48
+    baslik: "Hakem Karar Dergisi 48 Ekim - Aralık 2021"
+    tur: karar
+    klasor: belgeler/09-tahkim/ilkesel-kararlar
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: "48"
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.sigortatahkim.org/content/CmsFiles/karardrgs48.pdf"]
+    etiketler: [hakem-karari, tahkim, karar-dergisi]
+    ozet: "Sigorta Tahkim Komisyonu Hakem Karar Dergisi sayı 48: dönemsel hakem/itiraz hakem heyeti kararları derlemesi. Kaynak: sigortatahkim.org."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/content/CmsFiles/karardrgs48.pdf", yontem: "Sigorta Tahkim Komisyonu resmî sitesi Hakem Karar Dergisi listesinden"}
+  - id: tahkim-karar-dergisi-47
+    baslik: "Hakem Karar Dergisi 47 Temmuz - Eylül 2021"
+    tur: karar
+    klasor: belgeler/09-tahkim/ilkesel-kararlar
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: "47"
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.sigortatahkim.org/content/CmsFiles/karardrgs47.pdf"]
+    etiketler: [hakem-karari, tahkim, karar-dergisi]
+    ozet: "Sigorta Tahkim Komisyonu Hakem Karar Dergisi sayı 47: dönemsel hakem/itiraz hakem heyeti kararları derlemesi. Kaynak: sigortatahkim.org."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/content/CmsFiles/karardrgs47.pdf", yontem: "Sigorta Tahkim Komisyonu resmî sitesi Hakem Karar Dergisi listesinden"}
+  - id: tahkim-karar-dergisi-46
+    baslik: "Hakem Karar Dergisi 46 Nisan - Haziran 2021"
+    tur: karar
+    klasor: belgeler/09-tahkim/ilkesel-kararlar
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: "46"
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.sigortatahkim.org/content/CmsFiles/karardrgs46.pdf"]
+    etiketler: [hakem-karari, tahkim, karar-dergisi]
+    ozet: "Sigorta Tahkim Komisyonu Hakem Karar Dergisi sayı 46: dönemsel hakem/itiraz hakem heyeti kararları derlemesi. Kaynak: sigortatahkim.org."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/content/CmsFiles/karardrgs46.pdf", yontem: "Sigorta Tahkim Komisyonu resmî sitesi Hakem Karar Dergisi listesinden"}
+  - id: tahkim-karar-dergisi-45
+    baslik: "Hakem Karar Dergisi 45 Ocak - Mart 2021"
+    tur: karar
+    klasor: belgeler/09-tahkim/ilkesel-kararlar
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: "45"
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.sigortatahkim.org/content/CmsFiles/karardrgs45.pdf"]
+    etiketler: [hakem-karari, tahkim, karar-dergisi]
+    ozet: "Sigorta Tahkim Komisyonu Hakem Karar Dergisi sayı 45: dönemsel hakem/itiraz hakem heyeti kararları derlemesi. Kaynak: sigortatahkim.org."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/content/CmsFiles/karardrgs45.pdf", yontem: "Sigorta Tahkim Komisyonu resmî sitesi Hakem Karar Dergisi listesinden"}
+  - id: tahkim-karar-dergisi-44
+    baslik: "Hakem Karar Dergisi 44 Ekim - Aralık 2020"
+    tur: karar
+    klasor: belgeler/09-tahkim/ilkesel-kararlar
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: "44"
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.sigortatahkim.org/content/CmsFiles/karardrgs44.pdf"]
+    etiketler: [hakem-karari, tahkim, karar-dergisi]
+    ozet: "Sigorta Tahkim Komisyonu Hakem Karar Dergisi sayı 44: dönemsel hakem/itiraz hakem heyeti kararları derlemesi. Kaynak: sigortatahkim.org."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/content/CmsFiles/karardrgs44.pdf", yontem: "Sigorta Tahkim Komisyonu resmî sitesi Hakem Karar Dergisi listesinden"}
+  - id: tahkim-karar-dergisi-43
+    baslik: "Hakem Karar Dergisi 43 Temmuz - Eylül 2020"
+    tur: karar
+    klasor: belgeler/09-tahkim/ilkesel-kararlar
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: "43"
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.sigortatahkim.org/content/CmsFiles/karardrgs43.pdf"]
+    etiketler: [hakem-karari, tahkim, karar-dergisi]
+    ozet: "Sigorta Tahkim Komisyonu Hakem Karar Dergisi sayı 43: dönemsel hakem/itiraz hakem heyeti kararları derlemesi. Kaynak: sigortatahkim.org."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/content/CmsFiles/karardrgs43.pdf", yontem: "Sigorta Tahkim Komisyonu resmî sitesi Hakem Karar Dergisi listesinden"}
+  - id: tahkim-karar-dergisi-42
+    baslik: "Hakem Karar Dergisi 42 Nisan - Haziran 2020"
+    tur: karar
+    klasor: belgeler/09-tahkim/ilkesel-kararlar
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: "42"
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.sigortatahkim.org/content/CmsFiles/karardrgs42.pdf"]
+    etiketler: [hakem-karari, tahkim, karar-dergisi]
+    ozet: "Sigorta Tahkim Komisyonu Hakem Karar Dergisi sayı 42: dönemsel hakem/itiraz hakem heyeti kararları derlemesi. Kaynak: sigortatahkim.org."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/content/CmsFiles/karardrgs42.pdf", yontem: "Sigorta Tahkim Komisyonu resmî sitesi Hakem Karar Dergisi listesinden"}
+  - id: tahkim-karar-dergisi-41
+    baslik: "Hakem Karar Dergisi 41 Ocak - Mart 2020"
+    tur: karar
+    klasor: belgeler/09-tahkim/ilkesel-kararlar
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: "41"
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.sigortatahkim.org/content/CmsFiles/karardrgs41.pdf"]
+    etiketler: [hakem-karari, tahkim, karar-dergisi]
+    ozet: "Sigorta Tahkim Komisyonu Hakem Karar Dergisi sayı 41: dönemsel hakem/itiraz hakem heyeti kararları derlemesi. Kaynak: sigortatahkim.org."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/content/CmsFiles/karardrgs41.pdf", yontem: "Sigorta Tahkim Komisyonu resmî sitesi Hakem Karar Dergisi listesinden"}
+  - id: tahkim-karar-dergisi-40
+    baslik: "Hakem Karar Dergisi 40 Ekim - Aralık 2019"
+    tur: karar
+    klasor: belgeler/09-tahkim/ilkesel-kararlar
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: "40"
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.sigortatahkim.org/content/CmsFiles/karardrgs40.pdf"]
+    etiketler: [hakem-karari, tahkim, karar-dergisi]
+    ozet: "Sigorta Tahkim Komisyonu Hakem Karar Dergisi sayı 40: dönemsel hakem/itiraz hakem heyeti kararları derlemesi. Kaynak: sigortatahkim.org."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/content/CmsFiles/karardrgs40.pdf", yontem: "Sigorta Tahkim Komisyonu resmî sitesi Hakem Karar Dergisi listesinden"}
+  - id: tahkim-karar-dergisi-39
+    baslik: "Hakem Karar Dergisi 39 Temmuz - Eylül 2019"
+    tur: karar
+    klasor: belgeler/09-tahkim/ilkesel-kararlar
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: "39"
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.sigortatahkim.org/content/CmsFiles/karardrgs39.pdf"]
+    etiketler: [hakem-karari, tahkim, karar-dergisi]
+    ozet: "Sigorta Tahkim Komisyonu Hakem Karar Dergisi sayı 39: dönemsel hakem/itiraz hakem heyeti kararları derlemesi. Kaynak: sigortatahkim.org."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/content/CmsFiles/karardrgs39.pdf", yontem: "Sigorta Tahkim Komisyonu resmî sitesi Hakem Karar Dergisi listesinden"}
+  - id: tahkim-karar-dergisi-38
+    baslik: "Hakem Karar Dergisi 38 Nisan - Haziran 2019"
+    tur: karar
+    klasor: belgeler/09-tahkim/ilkesel-kararlar
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: "38"
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.sigortatahkim.org/content/CmsFiles/karardrgs38.pdf"]
+    etiketler: [hakem-karari, tahkim, karar-dergisi]
+    ozet: "Sigorta Tahkim Komisyonu Hakem Karar Dergisi sayı 38: dönemsel hakem/itiraz hakem heyeti kararları derlemesi. Kaynak: sigortatahkim.org."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/content/CmsFiles/karardrgs38.pdf", yontem: "Sigorta Tahkim Komisyonu resmî sitesi Hakem Karar Dergisi listesinden"}
+  - id: tahkim-karar-dergisi-37
+    baslik: "Hakem Karar Dergisi 37 Ocak - Mart 2019"
+    tur: karar
+    klasor: belgeler/09-tahkim/ilkesel-kararlar
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: "37"
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.sigortatahkim.org/content/CmsFiles/karardrgs37.pdf"]
+    etiketler: [hakem-karari, tahkim, karar-dergisi]
+    ozet: "Sigorta Tahkim Komisyonu Hakem Karar Dergisi sayı 37: dönemsel hakem/itiraz hakem heyeti kararları derlemesi. Kaynak: sigortatahkim.org."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/content/CmsFiles/karardrgs37.pdf", yontem: "Sigorta Tahkim Komisyonu resmî sitesi Hakem Karar Dergisi listesinden"}
+  - id: tahkim-karar-dergisi-36
+    baslik: "Hakem Karar Dergisi 36 Ekim - Aralık 2018"
+    tur: karar
+    klasor: belgeler/09-tahkim/ilkesel-kararlar
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: "36"
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.sigortatahkim.org/content/CmsFiles/karardrgs36.pdf"]
+    etiketler: [hakem-karari, tahkim, karar-dergisi]
+    ozet: "Sigorta Tahkim Komisyonu Hakem Karar Dergisi sayı 36: dönemsel hakem/itiraz hakem heyeti kararları derlemesi. Kaynak: sigortatahkim.org."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/content/CmsFiles/karardrgs36.pdf", yontem: "Sigorta Tahkim Komisyonu resmî sitesi Hakem Karar Dergisi listesinden"}
+  - id: tahkim-karar-dergisi-35
+    baslik: "Hakem Karar Dergisi 35 Temmuz - Eylül 2018"
+    tur: karar
+    klasor: belgeler/09-tahkim/ilkesel-kararlar
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: "35"
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.sigortatahkim.org/content/CmsFiles/karardrgs35.pdf"]
+    etiketler: [hakem-karari, tahkim, karar-dergisi]
+    ozet: "Sigorta Tahkim Komisyonu Hakem Karar Dergisi sayı 35: dönemsel hakem/itiraz hakem heyeti kararları derlemesi. Kaynak: sigortatahkim.org."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/content/CmsFiles/karardrgs35.pdf", yontem: "Sigorta Tahkim Komisyonu resmî sitesi Hakem Karar Dergisi listesinden"}
+  - id: tahkim-karar-dergisi-34
+    baslik: "Hakem Karar Dergisi 34 Nisan - Haziran 2018"
+    tur: karar
+    klasor: belgeler/09-tahkim/ilkesel-kararlar
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: "34"
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.sigortatahkim.org/content/CmsFiles/karardrgs34.pdf"]
+    etiketler: [hakem-karari, tahkim, karar-dergisi]
+    ozet: "Sigorta Tahkim Komisyonu Hakem Karar Dergisi sayı 34: dönemsel hakem/itiraz hakem heyeti kararları derlemesi. Kaynak: sigortatahkim.org."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/content/CmsFiles/karardrgs34.pdf", yontem: "Sigorta Tahkim Komisyonu resmî sitesi Hakem Karar Dergisi listesinden"}
+  - id: tahkim-karar-dergisi-33
+    baslik: "Hakem Karar Dergisi 33 Ocak - Mart 2018"
+    tur: karar
+    klasor: belgeler/09-tahkim/ilkesel-kararlar
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: "33"
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.sigortatahkim.org/content/CmsFiles/karardrgs33.pdf"]
+    etiketler: [hakem-karari, tahkim, karar-dergisi]
+    ozet: "Sigorta Tahkim Komisyonu Hakem Karar Dergisi sayı 33: dönemsel hakem/itiraz hakem heyeti kararları derlemesi. Kaynak: sigortatahkim.org."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/content/CmsFiles/karardrgs33.pdf", yontem: "Sigorta Tahkim Komisyonu resmî sitesi Hakem Karar Dergisi listesinden"}
+  - id: tahkim-karar-dergisi-32
+    baslik: "Hakem Karar Dergisi 32 Ekim - Aralık 2017"
+    tur: karar
+    klasor: belgeler/09-tahkim/ilkesel-kararlar
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: "32"
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.sigortatahkim.org/content/CmsFiles/karardrgs32.pdf"]
+    etiketler: [hakem-karari, tahkim, karar-dergisi]
+    ozet: "Sigorta Tahkim Komisyonu Hakem Karar Dergisi sayı 32: dönemsel hakem/itiraz hakem heyeti kararları derlemesi. Kaynak: sigortatahkim.org."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/content/CmsFiles/karardrgs32.pdf", yontem: "Sigorta Tahkim Komisyonu resmî sitesi Hakem Karar Dergisi listesinden"}
+  - id: tahkim-karar-dergisi-31
+    baslik: "Hakem Karar Dergisi 31 Temmuz - Eylül 2017"
+    tur: karar
+    klasor: belgeler/09-tahkim/ilkesel-kararlar
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: "31"
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.sigortatahkim.org/content/CmsFiles/karardrgs31.pdf"]
+    etiketler: [hakem-karari, tahkim, karar-dergisi]
+    ozet: "Sigorta Tahkim Komisyonu Hakem Karar Dergisi sayı 31: dönemsel hakem/itiraz hakem heyeti kararları derlemesi. Kaynak: sigortatahkim.org."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/content/CmsFiles/karardrgs31.pdf", yontem: "Sigorta Tahkim Komisyonu resmî sitesi Hakem Karar Dergisi listesinden"}
+  - id: tahkim-karar-dergisi-30
+    baslik: "Hakem Karar Dergisi 30 Nisan - Haziran 2017"
+    tur: karar
+    klasor: belgeler/09-tahkim/ilkesel-kararlar
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: "30"
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.sigortatahkim.org/content/CmsFiles/karardrgs30.pdf"]
+    etiketler: [hakem-karari, tahkim, karar-dergisi]
+    ozet: "Sigorta Tahkim Komisyonu Hakem Karar Dergisi sayı 30: dönemsel hakem/itiraz hakem heyeti kararları derlemesi. Kaynak: sigortatahkim.org."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/content/CmsFiles/karardrgs30.pdf", yontem: "Sigorta Tahkim Komisyonu resmî sitesi Hakem Karar Dergisi listesinden"}
+  - id: tahkim-karar-dergisi-29
+    baslik: "Hakem Karar Dergisi 29 Ocak - Mart 2017"
+    tur: karar
+    klasor: belgeler/09-tahkim/ilkesel-kararlar
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: "29"
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.sigortatahkim.org/content/CmsFiles/karardrgs29.pdf"]
+    etiketler: [hakem-karari, tahkim, karar-dergisi]
+    ozet: "Sigorta Tahkim Komisyonu Hakem Karar Dergisi sayı 29: dönemsel hakem/itiraz hakem heyeti kararları derlemesi. Kaynak: sigortatahkim.org."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/content/CmsFiles/karardrgs29.pdf", yontem: "Sigorta Tahkim Komisyonu resmî sitesi Hakem Karar Dergisi listesinden"}
+  - id: tahkim-karar-dergisi-28
+    baslik: "Hakem Karar Dergisi 28 Ekim - Aralık 2016"
+    tur: karar
+    klasor: belgeler/09-tahkim/ilkesel-kararlar
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: "28"
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.sigortatahkim.org/content/CmsFiles/karardrgs28.pdf"]
+    etiketler: [hakem-karari, tahkim, karar-dergisi]
+    ozet: "Sigorta Tahkim Komisyonu Hakem Karar Dergisi sayı 28: dönemsel hakem/itiraz hakem heyeti kararları derlemesi. Kaynak: sigortatahkim.org."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/content/CmsFiles/karardrgs28.pdf", yontem: "Sigorta Tahkim Komisyonu resmî sitesi Hakem Karar Dergisi listesinden"}
+  - id: tahkim-karar-dergisi-27
+    baslik: "Hakem Karar Dergisi 27 Temmuz - Eylül 2016"
+    tur: karar
+    klasor: belgeler/09-tahkim/ilkesel-kararlar
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: "27"
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.sigortatahkim.org/content/CmsFiles/karardrgs27.pdf"]
+    etiketler: [hakem-karari, tahkim, karar-dergisi]
+    ozet: "Sigorta Tahkim Komisyonu Hakem Karar Dergisi sayı 27: dönemsel hakem/itiraz hakem heyeti kararları derlemesi. Kaynak: sigortatahkim.org."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/content/CmsFiles/karardrgs27.pdf", yontem: "Sigorta Tahkim Komisyonu resmî sitesi Hakem Karar Dergisi listesinden"}
+  - id: tahkim-karar-dergisi-26
+    baslik: "Hakem Karar Dergisi 26 Nisan - Haziran 2016"
+    tur: karar
+    klasor: belgeler/09-tahkim/ilkesel-kararlar
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: "26"
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.sigortatahkim.org/content/CmsFiles/karardrgs26.pdf"]
+    etiketler: [hakem-karari, tahkim, karar-dergisi]
+    ozet: "Sigorta Tahkim Komisyonu Hakem Karar Dergisi sayı 26: dönemsel hakem/itiraz hakem heyeti kararları derlemesi. Kaynak: sigortatahkim.org."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/content/CmsFiles/karardrgs26.pdf", yontem: "Sigorta Tahkim Komisyonu resmî sitesi Hakem Karar Dergisi listesinden"}
+  - id: tahkim-karar-dergisi-25
+    baslik: "Hakem Karar Dergisi 25 Ocak - Mart 2016"
+    tur: karar
+    klasor: belgeler/09-tahkim/ilkesel-kararlar
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: "25"
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.sigortatahkim.org/content/CmsFiles/karardrgs25.pdf"]
+    etiketler: [hakem-karari, tahkim, karar-dergisi]
+    ozet: "Sigorta Tahkim Komisyonu Hakem Karar Dergisi sayı 25: dönemsel hakem/itiraz hakem heyeti kararları derlemesi. Kaynak: sigortatahkim.org."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/content/CmsFiles/karardrgs25.pdf", yontem: "Sigorta Tahkim Komisyonu resmî sitesi Hakem Karar Dergisi listesinden"}
+  - id: tahkim-karar-dergisi-24
+    baslik: "Hakem Karar Dergisi 24 Ekim - Aralık 2015"
+    tur: karar
+    klasor: belgeler/09-tahkim/ilkesel-kararlar
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: "24"
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.sigortatahkim.org/content/CmsFiles/karardrgs24.pdf"]
+    etiketler: [hakem-karari, tahkim, karar-dergisi]
+    ozet: "Sigorta Tahkim Komisyonu Hakem Karar Dergisi sayı 24: dönemsel hakem/itiraz hakem heyeti kararları derlemesi. Kaynak: sigortatahkim.org."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/content/CmsFiles/karardrgs24.pdf", yontem: "Sigorta Tahkim Komisyonu resmî sitesi Hakem Karar Dergisi listesinden"}
+  - id: tahkim-karar-dergisi-23
+    baslik: "Hakem Karar Dergisi 23 Temmuz - Eylül 2015"
+    tur: karar
+    klasor: belgeler/09-tahkim/ilkesel-kararlar
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: "23"
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.sigortatahkim.org/content/CmsFiles/karardrgs23.pdf"]
+    etiketler: [hakem-karari, tahkim, karar-dergisi]
+    ozet: "Sigorta Tahkim Komisyonu Hakem Karar Dergisi sayı 23: dönemsel hakem/itiraz hakem heyeti kararları derlemesi. Kaynak: sigortatahkim.org."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/content/CmsFiles/karardrgs23.pdf", yontem: "Sigorta Tahkim Komisyonu resmî sitesi Hakem Karar Dergisi listesinden"}
+  - id: tahkim-karar-dergisi-22
+    baslik: "Hakem Karar Dergisi 22 Nisan - Haziran 2015"
+    tur: karar
+    klasor: belgeler/09-tahkim/ilkesel-kararlar
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: "22"
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.sigortatahkim.org/content/CmsFiles/karardrgs22.pdf"]
+    etiketler: [hakem-karari, tahkim, karar-dergisi]
+    ozet: "Sigorta Tahkim Komisyonu Hakem Karar Dergisi sayı 22: dönemsel hakem/itiraz hakem heyeti kararları derlemesi. Kaynak: sigortatahkim.org."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/content/CmsFiles/karardrgs22.pdf", yontem: "Sigorta Tahkim Komisyonu resmî sitesi Hakem Karar Dergisi listesinden"}
+  - id: tahkim-karar-dergisi-21
+    baslik: "Hakem Karar Dergisi 21 Ocak - Mart 2015"
+    tur: karar
+    klasor: belgeler/09-tahkim/ilkesel-kararlar
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: "21"
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.sigortatahkim.org/content/CmsFiles/karardrgs21.pdf"]
+    etiketler: [hakem-karari, tahkim, karar-dergisi]
+    ozet: "Sigorta Tahkim Komisyonu Hakem Karar Dergisi sayı 21: dönemsel hakem/itiraz hakem heyeti kararları derlemesi. Kaynak: sigortatahkim.org."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/content/CmsFiles/karardrgs21.pdf", yontem: "Sigorta Tahkim Komisyonu resmî sitesi Hakem Karar Dergisi listesinden"}
+  - id: tahkim-karar-dergisi-20
+    baslik: "Hakem Karar Dergisi 20 Ekim - Aralık 2014"
+    tur: karar
+    klasor: belgeler/09-tahkim/ilkesel-kararlar
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: "20"
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.sigortatahkim.org/content/CmsFiles/karardrgs20.pdf"]
+    etiketler: [hakem-karari, tahkim, karar-dergisi]
+    ozet: "Sigorta Tahkim Komisyonu Hakem Karar Dergisi sayı 20: dönemsel hakem/itiraz hakem heyeti kararları derlemesi. Kaynak: sigortatahkim.org."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/content/CmsFiles/karardrgs20.pdf", yontem: "Sigorta Tahkim Komisyonu resmî sitesi Hakem Karar Dergisi listesinden"}
+  - id: tahkim-karar-dergisi-19
+    baslik: "Hakem Karar Dergisi 19 Temmuz - Eylül 2014"
+    tur: karar
+    klasor: belgeler/09-tahkim/ilkesel-kararlar
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: "19"
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.sigortatahkim.org/content/CmsFiles/karardrgs19.pdf"]
+    etiketler: [hakem-karari, tahkim, karar-dergisi]
+    ozet: "Sigorta Tahkim Komisyonu Hakem Karar Dergisi sayı 19: dönemsel hakem/itiraz hakem heyeti kararları derlemesi. Kaynak: sigortatahkim.org."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/content/CmsFiles/karardrgs19.pdf", yontem: "Sigorta Tahkim Komisyonu resmî sitesi Hakem Karar Dergisi listesinden"}
+  - id: tahkim-karar-dergisi-18
+    baslik: "Hakem Karar Dergisi 18 Nisan - Haziran 2014"
+    tur: karar
+    klasor: belgeler/09-tahkim/ilkesel-kararlar
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: "18"
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.sigortatahkim.org/content/CmsFiles/karardrgs18.pdf"]
+    etiketler: [hakem-karari, tahkim, karar-dergisi]
+    ozet: "Sigorta Tahkim Komisyonu Hakem Karar Dergisi sayı 18: dönemsel hakem/itiraz hakem heyeti kararları derlemesi. Kaynak: sigortatahkim.org."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/content/CmsFiles/karardrgs18.pdf", yontem: "Sigorta Tahkim Komisyonu resmî sitesi Hakem Karar Dergisi listesinden"}
+  - id: tahkim-karar-dergisi-17
+    baslik: "Hakem Karar Dergisi 17 Ocak - Mart 2014"
+    tur: karar
+    klasor: belgeler/09-tahkim/ilkesel-kararlar
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: "17"
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.sigortatahkim.org/content/CmsFiles/karardrgs17.pdf"]
+    etiketler: [hakem-karari, tahkim, karar-dergisi]
+    ozet: "Sigorta Tahkim Komisyonu Hakem Karar Dergisi sayı 17: dönemsel hakem/itiraz hakem heyeti kararları derlemesi. Kaynak: sigortatahkim.org."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/content/CmsFiles/karardrgs17.pdf", yontem: "Sigorta Tahkim Komisyonu resmî sitesi Hakem Karar Dergisi listesinden"}
+  - id: tahkim-karar-dergisi-16
+    baslik: "Hakem Karar Dergisi 16 Ekim - Aralık 2013"
+    tur: karar
+    klasor: belgeler/09-tahkim/ilkesel-kararlar
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: "16"
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.sigortatahkim.org/content/CmsFiles/karardrgs16.pdf"]
+    etiketler: [hakem-karari, tahkim, karar-dergisi]
+    ozet: "Sigorta Tahkim Komisyonu Hakem Karar Dergisi sayı 16: dönemsel hakem/itiraz hakem heyeti kararları derlemesi. Kaynak: sigortatahkim.org."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/content/CmsFiles/karardrgs16.pdf", yontem: "Sigorta Tahkim Komisyonu resmî sitesi Hakem Karar Dergisi listesinden"}
+  - id: tahkim-karar-dergisi-15
+    baslik: "Hakem Karar Dergisi 15 Temmuz - Eylül 2013"
+    tur: karar
+    klasor: belgeler/09-tahkim/ilkesel-kararlar
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: "15"
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.sigortatahkim.org/content/CmsFiles/karardrgs15.pdf"]
+    etiketler: [hakem-karari, tahkim, karar-dergisi]
+    ozet: "Sigorta Tahkim Komisyonu Hakem Karar Dergisi sayı 15: dönemsel hakem/itiraz hakem heyeti kararları derlemesi. Kaynak: sigortatahkim.org."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/content/CmsFiles/karardrgs15.pdf", yontem: "Sigorta Tahkim Komisyonu resmî sitesi Hakem Karar Dergisi listesinden"}
+  - id: tahkim-karar-dergisi-14
+    baslik: "Hakem Karar Dergisi 14 Nisan - Haziran 2013"
+    tur: karar
+    klasor: belgeler/09-tahkim/ilkesel-kararlar
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: "14"
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.sigortatahkim.org/content/CmsFiles/karardrgs14.pdf"]
+    etiketler: [hakem-karari, tahkim, karar-dergisi]
+    ozet: "Sigorta Tahkim Komisyonu Hakem Karar Dergisi sayı 14: dönemsel hakem/itiraz hakem heyeti kararları derlemesi. Kaynak: sigortatahkim.org."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/content/CmsFiles/karardrgs14.pdf", yontem: "Sigorta Tahkim Komisyonu resmî sitesi Hakem Karar Dergisi listesinden"}
+  - id: tahkim-karar-dergisi-13
+    baslik: "Hakem Karar Dergisi 13 Ocak - Mart 2013"
+    tur: karar
+    klasor: belgeler/09-tahkim/ilkesel-kararlar
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: "13"
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.sigortatahkim.org/content/CmsFiles/karardrgs13.pdf"]
+    etiketler: [hakem-karari, tahkim, karar-dergisi]
+    ozet: "Sigorta Tahkim Komisyonu Hakem Karar Dergisi sayı 13: dönemsel hakem/itiraz hakem heyeti kararları derlemesi. Kaynak: sigortatahkim.org."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/content/CmsFiles/karardrgs13.pdf", yontem: "Sigorta Tahkim Komisyonu resmî sitesi Hakem Karar Dergisi listesinden"}
+  - id: tahkim-karar-dergisi-12
+    baslik: "Hakem Karar Dergisi 12 Ekim - Aralık 2012"
+    tur: karar
+    klasor: belgeler/09-tahkim/ilkesel-kararlar
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: "12"
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.sigortatahkim.org/content/CmsFiles/karardrgs12.pdf"]
+    etiketler: [hakem-karari, tahkim, karar-dergisi]
+    ozet: "Sigorta Tahkim Komisyonu Hakem Karar Dergisi sayı 12: dönemsel hakem/itiraz hakem heyeti kararları derlemesi. Kaynak: sigortatahkim.org."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/content/CmsFiles/karardrgs12.pdf", yontem: "Sigorta Tahkim Komisyonu resmî sitesi Hakem Karar Dergisi listesinden"}
+  - id: tahkim-karar-dergisi-11
+    baslik: "Hakem Karar Dergisi 11 Temmuz - Eylül 2012"
+    tur: karar
+    klasor: belgeler/09-tahkim/ilkesel-kararlar
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: "11"
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.sigortatahkim.org/content/CmsFiles/karardrgs11.pdf"]
+    etiketler: [hakem-karari, tahkim, karar-dergisi]
+    ozet: "Sigorta Tahkim Komisyonu Hakem Karar Dergisi sayı 11: dönemsel hakem/itiraz hakem heyeti kararları derlemesi. Kaynak: sigortatahkim.org."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/content/CmsFiles/karardrgs11.pdf", yontem: "Sigorta Tahkim Komisyonu resmî sitesi Hakem Karar Dergisi listesinden"}
+  - id: tahkim-karar-dergisi-10
+    baslik: "Hakem Karar Dergisi 10 Nisan - Haziran 2012"
+    tur: karar
+    klasor: belgeler/09-tahkim/ilkesel-kararlar
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: "10"
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.sigortatahkim.org/content/CmsFiles/karardrgs10.pdf"]
+    etiketler: [hakem-karari, tahkim, karar-dergisi]
+    ozet: "Sigorta Tahkim Komisyonu Hakem Karar Dergisi sayı 10: dönemsel hakem/itiraz hakem heyeti kararları derlemesi. Kaynak: sigortatahkim.org."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/content/CmsFiles/karardrgs10.pdf", yontem: "Sigorta Tahkim Komisyonu resmî sitesi Hakem Karar Dergisi listesinden"}
+  - id: tahkim-karar-dergisi-9
+    baslik: "Hakem Karar Dergisi 9 Ocak - Mart 2012"
+    tur: karar
+    klasor: belgeler/09-tahkim/ilkesel-kararlar
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: "9"
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.sigortatahkim.org/content/CmsFiles/karardrgs9.pdf"]
+    etiketler: [hakem-karari, tahkim, karar-dergisi]
+    ozet: "Sigorta Tahkim Komisyonu Hakem Karar Dergisi sayı 9: dönemsel hakem/itiraz hakem heyeti kararları derlemesi. Kaynak: sigortatahkim.org."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/content/CmsFiles/karardrgs9.pdf", yontem: "Sigorta Tahkim Komisyonu resmî sitesi Hakem Karar Dergisi listesinden"}
+  - id: tahkim-karar-dergisi-8
+    baslik: "Hakem Karar Dergisi 8 Ekim - Aralık 2011"
+    tur: karar
+    klasor: belgeler/09-tahkim/ilkesel-kararlar
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: "8"
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.sigortatahkim.org/content/CmsFiles/karardrgs8.pdf"]
+    etiketler: [hakem-karari, tahkim, karar-dergisi]
+    ozet: "Sigorta Tahkim Komisyonu Hakem Karar Dergisi sayı 8: dönemsel hakem/itiraz hakem heyeti kararları derlemesi. Kaynak: sigortatahkim.org."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/content/CmsFiles/karardrgs8.pdf", yontem: "Sigorta Tahkim Komisyonu resmî sitesi Hakem Karar Dergisi listesinden"}
+  - id: tahkim-karar-dergisi-7
+    baslik: "Hakem Karar Dergisi 7 Temmuz - Eylül 2011"
+    tur: karar
+    klasor: belgeler/09-tahkim/ilkesel-kararlar
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: "7"
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.sigortatahkim.org/content/CmsFiles/karardrgs7.pdf"]
+    etiketler: [hakem-karari, tahkim, karar-dergisi]
+    ozet: "Sigorta Tahkim Komisyonu Hakem Karar Dergisi sayı 7: dönemsel hakem/itiraz hakem heyeti kararları derlemesi. Kaynak: sigortatahkim.org."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/content/CmsFiles/karardrgs7.pdf", yontem: "Sigorta Tahkim Komisyonu resmî sitesi Hakem Karar Dergisi listesinden"}
+  - id: tahkim-karar-dergisi-6
+    baslik: "Hakem Karar Dergisi 6 Nisan - Haziran 2011"
+    tur: karar
+    klasor: belgeler/09-tahkim/ilkesel-kararlar
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: "6"
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.sigortatahkim.org/content/CmsFiles/karardrgs6.pdf"]
+    etiketler: [hakem-karari, tahkim, karar-dergisi]
+    ozet: "Sigorta Tahkim Komisyonu Hakem Karar Dergisi sayı 6: dönemsel hakem/itiraz hakem heyeti kararları derlemesi. Kaynak: sigortatahkim.org."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/content/CmsFiles/karardrgs6.pdf", yontem: "Sigorta Tahkim Komisyonu resmî sitesi Hakem Karar Dergisi listesinden"}
+  - id: tahkim-karar-dergisi-5
+    baslik: "Hakem Karar Dergisi 5 Ocak - Mart 2011"
+    tur: karar
+    klasor: belgeler/09-tahkim/ilkesel-kararlar
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: "5"
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.sigortatahkim.org/content/CmsFiles/karardrgs5.pdf"]
+    etiketler: [hakem-karari, tahkim, karar-dergisi]
+    ozet: "Sigorta Tahkim Komisyonu Hakem Karar Dergisi sayı 5: dönemsel hakem/itiraz hakem heyeti kararları derlemesi. Kaynak: sigortatahkim.org."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/content/CmsFiles/karardrgs5.pdf", yontem: "Sigorta Tahkim Komisyonu resmî sitesi Hakem Karar Dergisi listesinden"}
+  - id: tahkim-karar-dergisi-3
+    baslik: "Hakem Karar Dergisi 3 Temmuz - Eylül 2010"
+    tur: karar
+    klasor: belgeler/09-tahkim/ilkesel-kararlar
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: "3"
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.sigortatahkim.org/content/CmsFiles/karardrgs3.pdf"]
+    etiketler: [hakem-karari, tahkim, karar-dergisi]
+    ozet: "Sigorta Tahkim Komisyonu Hakem Karar Dergisi sayı 3: dönemsel hakem/itiraz hakem heyeti kararları derlemesi. Kaynak: sigortatahkim.org."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/content/CmsFiles/karardrgs3.pdf", yontem: "Sigorta Tahkim Komisyonu resmî sitesi Hakem Karar Dergisi listesinden"}
+  - id: tahkim-karar-dergisi-2
+    baslik: "Hakem Karar Dergisi 2 Nisan - Haziran 2010"
+    tur: karar
+    klasor: belgeler/09-tahkim/ilkesel-kararlar
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: "2"
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.sigortatahkim.org/content/CmsFiles/karardrgs2.pdf"]
+    etiketler: [hakem-karari, tahkim, karar-dergisi]
+    ozet: "Sigorta Tahkim Komisyonu Hakem Karar Dergisi sayı 2: dönemsel hakem/itiraz hakem heyeti kararları derlemesi. Kaynak: sigortatahkim.org."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/content/CmsFiles/karardrgs2.pdf", yontem: "Sigorta Tahkim Komisyonu resmî sitesi Hakem Karar Dergisi listesinden"}
+  - id: tahkim-karar-dergisi-1
+    baslik: "Hakem Karar Dergisi 1 Ocak - Mart 2010"
+    tur: karar
+    klasor: belgeler/09-tahkim/ilkesel-kararlar
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: "1"
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.sigortatahkim.org/content/CmsFiles/karardrgs1.pdf"]
+    etiketler: [hakem-karari, tahkim, karar-dergisi]
+    ozet: "Sigorta Tahkim Komisyonu Hakem Karar Dergisi sayı 1: dönemsel hakem/itiraz hakem heyeti kararları derlemesi. Kaynak: sigortatahkim.org."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/content/CmsFiles/karardrgs1.pdf", yontem: "Sigorta Tahkim Komisyonu resmî sitesi Hakem Karar Dergisi listesinden"}
+  - id: tahkim-duyuru-manset-2
+    baslik: "Komisyon Başkanlığı Kararları 5684 Sayılı Sigortacılık Kanunu’nun 30’uncu Maddesinin Komis"
+    tur: sektor-duyurusu
+    klasor: belgeler/09-tahkim/duyurular
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: null
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.sigortatahkim.org/manset/2"]
+    etiketler: [tahkim-duyurusu, manset]
+    ozet: "Sigorta Tahkim Komisyonu resmî duyurusu (manşet 2): Komisyon Başkanlığı Kararları 5684 Sayılı Sigortacılık Kanunu’nun 30’uncu Maddes."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/manset/2", yontem: "Sigorta Tahkim Komisyonu resmî sitesi manşet/duyuru sayfasından"}
+  - id: tahkim-duyuru-manset-3
+    baslik: "Sigorta Tahkim Komisyonuna Vekalet İle Yapılan Başvurular Komisyon Başvurularının, 6100 Sa"
+    tur: sektor-duyurusu
+    klasor: belgeler/09-tahkim/duyurular
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: null
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.sigortatahkim.org/manset/3"]
+    etiketler: [tahkim-duyurusu, manset]
+    ozet: "Sigorta Tahkim Komisyonu resmî duyurusu (manşet 3): Sigorta Tahkim Komisyonuna Vekalet İle Yapılan Başvurular Komisyon Başvurularını."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/manset/3", yontem: "Sigorta Tahkim Komisyonu resmî sitesi manşet/duyuru sayfasından"}
+  - id: tahkim-duyuru-manset-5
+    baslik: "2026 Başvuru Ücret Tarifesi Hakkında 01/01/2026 Tarihinden İtibaren Geçerli Olacak Başvuru"
+    tur: sektor-duyurusu
+    klasor: belgeler/09-tahkim/duyurular
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: null
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.sigortatahkim.org/manset/5"]
+    etiketler: [tahkim-duyurusu, manset]
+    ozet: "Sigorta Tahkim Komisyonu resmî duyurusu (manşet 5): 2026 Başvuru Ücret Tarifesi Hakkında 01/01/2026 Tarihinden İtibaren Geçerli Olac."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/manset/5", yontem: "Sigorta Tahkim Komisyonu resmî sitesi manşet/duyuru sayfasından"}
+  - id: tahkim-duyuru-manset-6
+    baslik: "Komisyon Başkanlığının 07.04.2023 Tarihli Ek Duyurusu 05.01.2023 Tarihli Resmî Gazetede Ya"
+    tur: sektor-duyurusu
+    klasor: belgeler/09-tahkim/duyurular
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: null
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.sigortatahkim.org/manset/6"]
+    etiketler: [tahkim-duyurusu, manset]
+    ozet: "Sigorta Tahkim Komisyonu resmî duyurusu (manşet 6): Komisyon Başkanlığının 07.04.2023 Tarihli Ek Duyurusu 05.01.2023 Tarihli Resmî G."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/manset/6", yontem: "Sigorta Tahkim Komisyonu resmî sitesi manşet/duyuru sayfasından"}
+  - id: tahkim-duyuru-manset-7
+    baslik: "Komisyon Başkanlığının 13.02.2023 Tarihli Ek Duyurusu Komisyonumuz Tarafından Yapılan 08.0"
+    tur: sektor-duyurusu
+    klasor: belgeler/09-tahkim/duyurular
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: null
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.sigortatahkim.org/manset/7"]
+    etiketler: [tahkim-duyurusu, manset]
+    ozet: "Sigorta Tahkim Komisyonu resmî duyurusu (manşet 7): Komisyon Başkanlığının 13.02.2023 Tarihli Ek Duyurusu Komisyonumuz Tarafından Ya."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/manset/7", yontem: "Sigorta Tahkim Komisyonu resmî sitesi manşet/duyuru sayfasından"}
+  - id: tahkim-duyuru-manset-8
+    baslik: "Deprem Bölgesinde İşleyen Sürelerin Durdurulması Ülkemizde Yaşanan Ve Aşağıdaki İllerimizi"
+    tur: sektor-duyurusu
+    klasor: belgeler/09-tahkim/duyurular
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: null
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.sigortatahkim.org/manset/8"]
+    etiketler: [tahkim-duyurusu, manset]
+    ozet: "Sigorta Tahkim Komisyonu resmî duyurusu (manşet 8): Deprem Bölgesinde İşleyen Sürelerin Durdurulması Ülkemizde Yaşanan Ve Aşağıdaki ."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/manset/8", yontem: "Sigorta Tahkim Komisyonu resmî sitesi manşet/duyuru sayfasından"}
+  - id: tahkim-duyuru-manset-9
+    baslik: "Parasal Sınırların Arttırılması Sigortacılık Kanunu’nun 30’uncu Maddesinin On İkinci Ve On"
+    tur: sektor-duyurusu
+    klasor: belgeler/09-tahkim/duyurular
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: null
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.sigortatahkim.org/manset/9"]
+    etiketler: [tahkim-duyurusu, manset]
+    ozet: "Sigorta Tahkim Komisyonu resmî duyurusu (manşet 9): Parasal Sınırların Arttırılması Sigortacılık Kanunu’nun 30’uncu Maddesinin On İk."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/manset/9", yontem: "Sigorta Tahkim Komisyonu resmî sitesi manşet/duyuru sayfasından"}
+  - id: tahkim-duyuru-manset-10
+    baslik: "Baro Pulu Ödemelerinin Baro Kart Üzerinden Online Olarak Tahsil Edilmesi Türkiye Barolar B"
+    tur: sektor-duyurusu
+    klasor: belgeler/09-tahkim/duyurular
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: null
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.sigortatahkim.org/manset/10"]
+    etiketler: [tahkim-duyurusu, manset]
+    ozet: "Sigorta Tahkim Komisyonu resmî duyurusu (manşet 10): Baro Pulu Ödemelerinin Baro Kart Üzerinden Online Olarak Tahsil Edilmesi Türkiye."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/manset/10", yontem: "Sigorta Tahkim Komisyonu resmî sitesi manşet/duyuru sayfasından"}
+  - id: tahkim-duyuru-manset-11
+    baslik: "Tebligat Giderleri Hakkında 7 Haziran 2023 Tarihli Ve 32214 Sayılı Resmî Gazetede Yayımlan"
+    tur: sektor-duyurusu
+    klasor: belgeler/09-tahkim/duyurular
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: null
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.sigortatahkim.org/manset/11"]
+    etiketler: [tahkim-duyurusu, manset]
+    ozet: "Sigorta Tahkim Komisyonu resmî duyurusu (manşet 11): Tebligat Giderleri Hakkında 7 Haziran 2023 Tarihli Ve 32214 Sayılı Resmî Gazeted."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/manset/11", yontem: "Sigorta Tahkim Komisyonu resmî sitesi manşet/duyuru sayfasından"}
+  - id: tahkim-duyuru-manset-12
+    baslik: "Bilirkişi Listelerinde Güncelleme Yapılacaktır Komisyon Nezdinde Tutulan Bilirkişilik List"
+    tur: sektor-duyurusu
+    klasor: belgeler/09-tahkim/duyurular
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: null
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.sigortatahkim.org/manset/12"]
+    etiketler: [tahkim-duyurusu, manset]
+    ozet: "Sigorta Tahkim Komisyonu resmî duyurusu (manşet 12): Bilirkişi Listelerinde Güncelleme Yapılacaktır Komisyon Nezdinde Tutulan Bilirki."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/manset/12", yontem: "Sigorta Tahkim Komisyonu resmî sitesi manşet/duyuru sayfasından"}
+  - id: tahkim-duyuru-manset-13
+    baslik: "Başvuru Formunda Yapılan Güncelleme Hakkında Sigortacılıkta Tahkime İlişkin Yönetmeliğin 1"
+    tur: sektor-duyurusu
+    klasor: belgeler/09-tahkim/duyurular
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: null
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.sigortatahkim.org/manset/13"]
+    etiketler: [tahkim-duyurusu, manset]
+    ozet: "Sigorta Tahkim Komisyonu resmî duyurusu (manşet 13): Başvuru Formunda Yapılan Güncelleme Hakkında Sigortacılıkta Tahkime İlişkin Yöne."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/manset/13", yontem: "Sigorta Tahkim Komisyonu resmî sitesi manşet/duyuru sayfasından"}
+  - id: tahkim-duyuru-manset-14
+    baslik: "Komisyona Başvuru Esnasında Hasar Dosyası Seçimi Sigorta Tahkim Komisyonu, Sigorta Ettiren"
+    tur: sektor-duyurusu
+    klasor: belgeler/09-tahkim/duyurular
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: null
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.sigortatahkim.org/manset/14"]
+    etiketler: [tahkim-duyurusu, manset]
+    ozet: "Sigorta Tahkim Komisyonu resmî duyurusu (manşet 14): Komisyona Başvuru Esnasında Hasar Dosyası Seçimi Sigorta Tahkim Komisyonu, Sigor."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/manset/14", yontem: "Sigorta Tahkim Komisyonu resmî sitesi manşet/duyuru sayfasından"}
+  - id: tahkim-duyuru-manset-15
+    baslik: "Komisyona Başvuru Esnasında Hasar Dosyası Seçimine İlişkin Ek Açıklamalar Komisyonumuz Tar"
+    tur: sektor-duyurusu
+    klasor: belgeler/09-tahkim/duyurular
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: null
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.sigortatahkim.org/manset/15"]
+    etiketler: [tahkim-duyurusu, manset]
+    ozet: "Sigorta Tahkim Komisyonu resmî duyurusu (manşet 15): Komisyona Başvuru Esnasında Hasar Dosyası Seçimine İlişkin Ek Açıklamalar Komisy."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/manset/15", yontem: "Sigorta Tahkim Komisyonu resmî sitesi manşet/duyuru sayfasından"}
+  - id: tahkim-duyuru-manset-25
+    baslik: "Bilirkişi Ücret Tarifesinde Yapılan Güncelleme Sigorta Tahkim Komisyonu Bilirkişilik Ücret"
+    tur: sektor-duyurusu
+    klasor: belgeler/09-tahkim/duyurular
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: null
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.sigortatahkim.org/manset/25"]
+    etiketler: [tahkim-duyurusu, manset]
+    ozet: "Sigorta Tahkim Komisyonu resmî duyurusu (manşet 25): Bilirkişi Ücret Tarifesinde Yapılan Güncelleme Sigorta Tahkim Komisyonu Bilirkiş."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/manset/25", yontem: "Sigorta Tahkim Komisyonu resmî sitesi manşet/duyuru sayfasından"}
+  - id: tahkim-duyuru-manset-29
+    baslik: "2026 Yılı Tebligat Giderleri Hakkında Komisyon Başkanlığı’nın 08/12/2025 Tarihli Kararı İl"
+    tur: sektor-duyurusu
+    klasor: belgeler/09-tahkim/duyurular
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: null
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.sigortatahkim.org/manset/29"]
+    etiketler: [tahkim-duyurusu, manset]
+    ozet: "Sigorta Tahkim Komisyonu resmî duyurusu (manşet 29): 2026 Yılı Tebligat Giderleri Hakkında Komisyon Başkanlığı’nın 08/12/2025 Tarihli."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/manset/29", yontem: "Sigorta Tahkim Komisyonu resmî sitesi manşet/duyuru sayfasından"}
+  - id: tahkim-duyuru-manset-31
+    baslik: "Uyuşmazlık Başvuru Ücreti Ve Tebligat Giderinin Sanal Pos Yöntemi İle Tahsili Hakkında Tah"
+    tur: sektor-duyurusu
+    klasor: belgeler/09-tahkim/duyurular
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: null
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.sigortatahkim.org/manset/31"]
+    etiketler: [tahkim-duyurusu, manset]
+    ozet: "Sigorta Tahkim Komisyonu resmî duyurusu (manşet 31): Uyuşmazlık Başvuru Ücreti Ve Tebligat Giderinin Sanal Pos Yöntemi İle Tahsili Ha."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/manset/31", yontem: "Sigorta Tahkim Komisyonu resmî sitesi manşet/duyuru sayfasından"}
+  - id: tahkim-duyuru-manset-32
+    baslik: "Başvuru Formunun Otomatik Şekilde Oluşturulmasına Dair Sistemsel Geliştirme Tahkim Sisteml"
+    tur: sektor-duyurusu
+    klasor: belgeler/09-tahkim/duyurular
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: null
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.sigortatahkim.org/manset/32"]
+    etiketler: [tahkim-duyurusu, manset]
+    ozet: "Sigorta Tahkim Komisyonu resmî duyurusu (manşet 32): Başvuru Formunun Otomatik Şekilde Oluşturulmasına Dair Sistemsel Geliştirme Tahk."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/manset/32", yontem: "Sigorta Tahkim Komisyonu resmî sitesi manşet/duyuru sayfasından"}
+  - id: tahkim-duyuru-manset-33
+    baslik: "Başvuru Ücret Tarifesinde Yapılan Güncelleme 5684 Sayılı Sigortacılık Kanunu’nun 30’uncu M"
+    tur: sektor-duyurusu
+    klasor: belgeler/09-tahkim/duyurular
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: null
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.sigortatahkim.org/manset/33"]
+    etiketler: [tahkim-duyurusu, manset]
+    ozet: "Sigorta Tahkim Komisyonu resmî duyurusu (manşet 33): Başvuru Ücret Tarifesinde Yapılan Güncelleme 5684 Sayılı Sigortacılık Kanunu’nun."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/manset/33", yontem: "Sigorta Tahkim Komisyonu resmî sitesi manşet/duyuru sayfasından"}
+  - id: tahkim-duyuru-manset-34
+    baslik: "Başvuru Ücret Tarifesinin Uygulanmasına Dair Usul Ve Esaslar 15/01/2025 Tarihinde Yürürlüğ"
+    tur: sektor-duyurusu
+    klasor: belgeler/09-tahkim/duyurular
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: null
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.sigortatahkim.org/manset/34"]
+    etiketler: [tahkim-duyurusu, manset]
+    ozet: "Sigorta Tahkim Komisyonu resmî duyurusu (manşet 34): Başvuru Ücret Tarifesinin Uygulanmasına Dair Usul Ve Esaslar 15/01/2025 Tarihind."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/manset/34", yontem: "Sigorta Tahkim Komisyonu resmî sitesi manşet/duyuru sayfasından"}
+  - id: tahkim-duyuru-manset-35
+    baslik: "18.01.2026 Tarihli Planlı Çalışma Hakkında Sayın Kullanıcılarımız, 18 Ocak 2026 Pazar Günü"
+    tur: sektor-duyurusu
+    klasor: belgeler/09-tahkim/duyurular
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: null
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.sigortatahkim.org/manset/35"]
+    etiketler: [tahkim-duyurusu, manset]
+    ozet: "Sigorta Tahkim Komisyonu resmî duyurusu (manşet 35): 18.01.2026 Tarihli Planlı Çalışma Hakkında Sayın Kullanıcılarımız, 18 Ocak 2026 ."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/manset/35", yontem: "Sigorta Tahkim Komisyonu resmî sitesi manşet/duyuru sayfasından"}
+  - id: tahkim-duyuru-manset-36
+    baslik: "Bilirkişi Listelerinin Alım Yolu İle Güncellenmesi Sigorta Tahkim Komisyonu Bilirkişilik Y"
+    tur: sektor-duyurusu
+    klasor: belgeler/09-tahkim/duyurular
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: null
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.sigortatahkim.org/manset/36"]
+    etiketler: [tahkim-duyurusu, manset]
+    ozet: "Sigorta Tahkim Komisyonu resmî duyurusu (manşet 36): Bilirkişi Listelerinin Alım Yolu İle Güncellenmesi Sigorta Tahkim Komisyonu Bili."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/manset/36", yontem: "Sigorta Tahkim Komisyonu resmî sitesi manşet/duyuru sayfasından"}
+  - id: tahkim-duyuru-manset-37
+    baslik: "Komisyon Banka Hesaplarına Fazla/sehven Yatırılan Ücret Veya Paraların İadesine Yönelik Us"
+    tur: sektor-duyurusu
+    klasor: belgeler/09-tahkim/duyurular
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: null
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.sigortatahkim.org/manset/37"]
+    etiketler: [tahkim-duyurusu, manset]
+    ozet: "Sigorta Tahkim Komisyonu resmî duyurusu (manşet 37): Komisyon Banka Hesaplarına Fazla/sehven Yatırılan Ücret Veya Paraların İadesine ."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/manset/37", yontem: "Sigorta Tahkim Komisyonu resmî sitesi manşet/duyuru sayfasından"}
+  - id: tahkim-duyuru-manset-38
+    baslik: "Bilirkişi Ücretlerinin Sanal Pos Yöntemi İle Tahsili Hakkında Tahkim Sistemlerinde Yapılan"
+    tur: sektor-duyurusu
+    klasor: belgeler/09-tahkim/duyurular
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: null
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.sigortatahkim.org/manset/38"]
+    etiketler: [tahkim-duyurusu, manset]
+    ozet: "Sigorta Tahkim Komisyonu resmî duyurusu (manşet 38): Bilirkişi Ücretlerinin Sanal Pos Yöntemi İle Tahsili Hakkında Tahkim Sistemlerin."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/manset/38", yontem: "Sigorta Tahkim Komisyonu resmî sitesi manşet/duyuru sayfasından"}
+  - id: tahkim-duyuru-manset-42
+    baslik: "Sigortacılıkta Tahkim Yargılamasında Geçerli Olan Parasal Sınırlar Güncellenmiştir. “sigor"
+    tur: sektor-duyurusu
+    klasor: belgeler/09-tahkim/duyurular
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: null
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.sigortatahkim.org/manset/42"]
+    etiketler: [tahkim-duyurusu, manset]
+    ozet: "Sigorta Tahkim Komisyonu resmî duyurusu (manşet 42): Sigortacılıkta Tahkim Yargılamasında Geçerli Olan Parasal Sınırlar Güncellenmişt."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/manset/42", yontem: "Sigorta Tahkim Komisyonu resmî sitesi manşet/duyuru sayfasından"}
+  - id: tahkim-duyuru-manset-45
+    baslik: "Nvi Servis Sorunu Giderilmiştir Sbm Tarafından Aşağıda Paylaşılan Duyuruda Belirtilen Soru"
+    tur: sektor-duyurusu
+    klasor: belgeler/09-tahkim/duyurular
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: null
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.sigortatahkim.org/manset/45"]
+    etiketler: [tahkim-duyurusu, manset]
+    ozet: "Sigorta Tahkim Komisyonu resmî duyurusu (manşet 45): Nvi Servis Sorunu Giderilmiştir Sbm Tarafından Aşağıda Paylaşılan Duyuruda Belir."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/manset/45", yontem: "Sigorta Tahkim Komisyonu resmî sitesi manşet/duyuru sayfasından"}
+  - id: tahkim-duyuru-manset-46
+    baslik: "Sbm Servis Sorununun Düzelmesi Hakkında Sbm Tarafından 05.06.2025 Tarihli Duyuruda Belirti"
+    tur: sektor-duyurusu
+    klasor: belgeler/09-tahkim/duyurular
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: null
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.sigortatahkim.org/manset/46"]
+    etiketler: [tahkim-duyurusu, manset]
+    ozet: "Sigorta Tahkim Komisyonu resmî duyurusu (manşet 46): Sbm Servis Sorununun Düzelmesi Hakkında Sbm Tarafından 05.06.2025 Tarihli Duyuru."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/manset/46", yontem: "Sigorta Tahkim Komisyonu resmî sitesi manşet/duyuru sayfasından"}
+  - id: tahkim-duyuru-manset-47
+    baslik: "Elektronik Ortamda Satın Alınan Vekalet Pullarına (baro Pullarına) İlişkin Önemli Duyuru T"
+    tur: sektor-duyurusu
+    klasor: belgeler/09-tahkim/duyurular
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: null
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.sigortatahkim.org/manset/47"]
+    etiketler: [tahkim-duyurusu, manset]
+    ozet: "Sigorta Tahkim Komisyonu resmî duyurusu (manşet 47): Elektronik Ortamda Satın Alınan Vekalet Pullarına (baro Pullarına) İlişkin Öneml."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/manset/47", yontem: "Sigorta Tahkim Komisyonu resmî sitesi manşet/duyuru sayfasından"}
+  - id: tahkim-duyuru-manset-48
+    baslik: "Sigorta Hakemi Av.mehmet Tabak In Vefatı Komisyonumuz 1387 Sicil Numaralı Sigorta Hakemi S"
+    tur: sektor-duyurusu
+    klasor: belgeler/09-tahkim/duyurular
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: null
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.sigortatahkim.org/manset/48"]
+    etiketler: [tahkim-duyurusu, manset]
+    ozet: "Sigorta Tahkim Komisyonu resmî duyurusu (manşet 48): Sigorta Hakemi Av.mehmet Tabak In Vefatı Komisyonumuz 1387 Sicil Numaralı Sigort."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/manset/48", yontem: "Sigorta Tahkim Komisyonu resmî sitesi manşet/duyuru sayfasından"}
+  - id: tahkim-duyuru-manset-49
+    baslik: "İtiraz Başvuru Ücretlerinin Sanal Pos Yöntemi İle Tahsili Hakkında Tahkim Sistemlerinde Ya"
+    tur: sektor-duyurusu
+    klasor: belgeler/09-tahkim/duyurular
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: null
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.sigortatahkim.org/manset/49"]
+    etiketler: [tahkim-duyurusu, manset]
+    ozet: "Sigorta Tahkim Komisyonu resmî duyurusu (manşet 49): İtiraz Başvuru Ücretlerinin Sanal Pos Yöntemi İle Tahsili Hakkında Tahkim Sistem."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/manset/49", yontem: "Sigorta Tahkim Komisyonu resmî sitesi manşet/duyuru sayfasından"}
+  - id: tahkim-duyuru-manset-50
+    baslik: "Online Başvuru Esnasında Sisteme Yüklenecek Olan Belgeler Yönünden Tür Ve Boyut Sınırlamas"
+    tur: sektor-duyurusu
+    klasor: belgeler/09-tahkim/duyurular
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: null
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.sigortatahkim.org/manset/50"]
+    etiketler: [tahkim-duyurusu, manset]
+    ozet: "Sigorta Tahkim Komisyonu resmî duyurusu (manşet 50): Online Başvuru Esnasında Sisteme Yüklenecek Olan Belgeler Yönünden Tür Ve Boyut ."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/manset/50", yontem: "Sigorta Tahkim Komisyonu resmî sitesi manşet/duyuru sayfasından"}
+  - id: tahkim-duyuru-manset-51
+    baslik: "Elektronik Ortamda Satın Alınan Vekâlet Pullarına (baro Pullarına) İlişkin Önemli Duyuru D"
+    tur: sektor-duyurusu
+    klasor: belgeler/09-tahkim/duyurular
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: null
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.sigortatahkim.org/manset/51"]
+    etiketler: [tahkim-duyurusu, manset]
+    ozet: "Sigorta Tahkim Komisyonu resmî duyurusu (manşet 51): Elektronik Ortamda Satın Alınan Vekâlet Pullarına (baro Pullarına) İlişkin Öneml."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/manset/51", yontem: "Sigorta Tahkim Komisyonu resmî sitesi manşet/duyuru sayfasından"}
+  - id: tahkim-duyuru-manset-52
+    baslik: "26.03.2026 Tarihli Sistem Geliştirme/bakım Çalışması Hakkında Sayın Kullanıcılar, 26 Mart"
+    tur: sektor-duyurusu
+    klasor: belgeler/09-tahkim/duyurular
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: null
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.sigortatahkim.org/manset/52"]
+    etiketler: [tahkim-duyurusu, manset]
+    ozet: "Sigorta Tahkim Komisyonu resmî duyurusu (manşet 52): 26.03.2026 Tarihli Sistem Geliştirme/bakım Çalışması Hakkında Sayın Kullanıcılar."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/manset/52", yontem: "Sigorta Tahkim Komisyonu resmî sitesi manşet/duyuru sayfasından"}
+  - id: tahkim-duyuru-manset-53
+    baslik: "Sigorta Tahkim Komisyonu Uygulaması Üzerinden E-pul Satın Alma Kılavuzu 1. Adım : Komisyon"
+    tur: sektor-duyurusu
+    klasor: belgeler/09-tahkim/duyurular
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: null
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.sigortatahkim.org/manset/53"]
+    etiketler: [tahkim-duyurusu, manset]
+    ozet: "Sigorta Tahkim Komisyonu resmî duyurusu (manşet 53): Sigorta Tahkim Komisyonu Uygulaması Üzerinden E-pul Satın Alma Kılavuzu 1. Adım ."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/manset/53", yontem: "Sigorta Tahkim Komisyonu resmî sitesi manşet/duyuru sayfasından"}
+  - id: tahkim-duyuru-manset-54
+    baslik: "Islah / Bedel Artırım İşlemleri Hakkında Sistemsel Geliştirme Tahkim Sistemlerinde Yapılan"
+    tur: sektor-duyurusu
+    klasor: belgeler/09-tahkim/duyurular
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: null
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.sigortatahkim.org/manset/54"]
+    etiketler: [tahkim-duyurusu, manset]
+    ozet: "Sigorta Tahkim Komisyonu resmî duyurusu (manşet 54): Islah / Bedel Artırım İşlemleri Hakkında Sistemsel Geliştirme Tahkim Sistemlerin."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/manset/54", yontem: "Sigorta Tahkim Komisyonu resmî sitesi manşet/duyuru sayfasından"}
+  - id: tahkim-duyuru-manset-55
+    baslik: "08.10.2025 Tarihli Sanal Pos Altyapı Çalışması Sayın Kullanıcılar, 8 Ekim Çarşamba Günü Sa"
+    tur: sektor-duyurusu
+    klasor: belgeler/09-tahkim/duyurular
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: null
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.sigortatahkim.org/manset/55"]
+    etiketler: [tahkim-duyurusu, manset]
+    ozet: "Sigorta Tahkim Komisyonu resmî duyurusu (manşet 55): 08.10.2025 Tarihli Sanal Pos Altyapı Çalışması Sayın Kullanıcılar, 8 Ekim Çarşam."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/manset/55", yontem: "Sigorta Tahkim Komisyonu resmî sitesi manşet/duyuru sayfasından"}
+  - id: tahkim-duyuru-manset-56
+    baslik: "10.11.2025 Tarihli Sistem Geliştirme/bakım Çalışması Sayın Kullanıcılar, 10 Kasım Pazartes"
+    tur: sektor-duyurusu
+    klasor: belgeler/09-tahkim/duyurular
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: null
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.sigortatahkim.org/manset/56"]
+    etiketler: [tahkim-duyurusu, manset]
+    ozet: "Sigorta Tahkim Komisyonu resmî duyurusu (manşet 56): 10.11.2025 Tarihli Sistem Geliştirme/bakım Çalışması Sayın Kullanıcılar, 10 Kası."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/manset/56", yontem: "Sigorta Tahkim Komisyonu resmî sitesi manşet/duyuru sayfasından"}
+  - id: tahkim-duyuru-manset-57
+    baslik: "Sigortacılıkta Tahkim Yargılamasında Geçerli Olan Parasal Sınırlar Güncellenmiştir Seddk’n"
+    tur: sektor-duyurusu
+    klasor: belgeler/09-tahkim/duyurular
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: null
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.sigortatahkim.org/manset/57"]
+    etiketler: [tahkim-duyurusu, manset]
+    ozet: "Sigorta Tahkim Komisyonu resmî duyurusu (manşet 57): Sigortacılıkta Tahkim Yargılamasında Geçerli Olan Parasal Sınırlar Güncellenmişt."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/manset/57", yontem: "Sigorta Tahkim Komisyonu resmî sitesi manşet/duyuru sayfasından"}
+  - id: tahkim-duyuru-manset-58
+    baslik: "Bilirkişi Listelerinin Alım Yolu İle Güncellenmesi Sigorta Tahkim Komisyonu Bilirkişilik Y"
+    tur: sektor-duyurusu
+    klasor: belgeler/09-tahkim/duyurular
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: null
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.sigortatahkim.org/manset/58"]
+    etiketler: [tahkim-duyurusu, manset]
+    ozet: "Sigorta Tahkim Komisyonu resmî duyurusu (manşet 58): Bilirkişi Listelerinin Alım Yolu İle Güncellenmesi Sigorta Tahkim Komisyonu Bili."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/manset/58", yontem: "Sigorta Tahkim Komisyonu resmî sitesi manşet/duyuru sayfasından"}
+  - id: tahkim-duyuru-manset-59
+    baslik: "Uyuşmazlık Başvuru Ücreti Ödemelerinde (eft/havale) Yeni Uygulama Güvenli Ödeme Sistemleri"
+    tur: sektor-duyurusu
+    klasor: belgeler/09-tahkim/duyurular
+    brans: [uyusmazlik]
+    otorite: "Sigorta Tahkim Komisyonu"
+    numara: null
+    rg_tarihi: null
+    rg_sayisi: null
+    durum: yururlukte
+    oncelik: 3
+    kaynaklar: ["https://www.sigortatahkim.org/manset/59"]
+    etiketler: [tahkim-duyurusu, manset]
+    ozet: "Sigorta Tahkim Komisyonu resmî duyurusu (manşet 59): Uyuşmazlık Başvuru Ücreti Ödemelerinde (eft/havale) Yeni Uygulama Güvenli Ödeme ."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.sigortatahkim.org/manset/59", yontem: "Sigorta Tahkim Komisyonu resmî sitesi manşet/duyuru sayfasından"}

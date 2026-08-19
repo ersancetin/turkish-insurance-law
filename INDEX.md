@@ -3,7 +3,7 @@
 > Bu dosya `scripts/uret.py` tarafından **otomatik üretilir**. Elle düzenlemeyin;
 > değişiklik için `data/kaynaklar.yaml` dosyasını güncelleyip betiği yeniden çalıştırın.
 
-**Toplam kayıt:** 1051  |  **Kütük sürümü:** 0.1.0  |  **Güncelleme:** 2026-08-19
+**Toplam kayıt:** 1151  |  **Kütük sürümü:** 0.1.0  |  **Güncelleme:** 2026-08-19
 
 Durum rozetleri: ✅ yürürlükte · ⚠️ kısmen iptal · 🔄 yakın değişiklik · ⛔ mülga · ❔ bilinmiyor
 
@@ -1171,13 +1171,113 @@ Durum rozetleri: ✅ yürürlükte · ⚠️ kısmen iptal · 🔄 yakın deği�
 | # | Belge | Tür | Durum | Öncelik |
 | --- | --- | --- | --- | --- |
 | 1 | [Sigorta Tahkim Komisyonu Duyuruları (tam seri)](belgeler/09-tahkim/duyurular/tahkim-duyurular.md) | Koleksiyon (seri toplama görevi) | ✅ | P1 |
-| 2 | [Sigorta Hakemleri ve İtiraz Hakemleri Listeleri](belgeler/09-tahkim/duyurular/tahkim-hakem-listeleri.md) | Koleksiyon (seri toplama görevi) | ✅ | P3 |
+| 2 | [08.10.2025 Tarihli Sanal Pos Altyapı Çalışması Sayın Kullanıcılar, 8 Ekim Çarşamba Günü Sa](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-55.md) | Sektör Duyurusu | ✅ | P3 |
+| 3 | [10.11.2025 Tarihli Sistem Geliştirme/bakım Çalışması Sayın Kullanıcılar, 10 Kasım Pazartes](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-56.md) | Sektör Duyurusu | ✅ | P3 |
+| 4 | [18.01.2026 Tarihli Planlı Çalışma Hakkında Sayın Kullanıcılarımız, 18 Ocak 2026 Pazar Günü](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-35.md) | Sektör Duyurusu | ✅ | P3 |
+| 5 | [2026 Başvuru Ücret Tarifesi Hakkında 01/01/2026 Tarihinden İtibaren Geçerli Olacak Başvuru](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-5.md) | Sektör Duyurusu | ✅ | P3 |
+| 6 | [2026 Yılı Tebligat Giderleri Hakkında Komisyon Başkanlığı’nın 08/12/2025 Tarihli Kararı İl](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-29.md) | Sektör Duyurusu | ✅ | P3 |
+| 7 | [26.03.2026 Tarihli Sistem Geliştirme/bakım Çalışması Hakkında Sayın Kullanıcılar, 26 Mart](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-52.md) | Sektör Duyurusu | ✅ | P3 |
+| 8 | [Baro Pulu Ödemelerinin Baro Kart Üzerinden Online Olarak Tahsil Edilmesi Türkiye Barolar B](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-10.md) | Sektör Duyurusu | ✅ | P3 |
+| 9 | [Başvuru Formunda Yapılan Güncelleme Hakkında Sigortacılıkta Tahkime İlişkin Yönetmeliğin 1](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-13.md) | Sektör Duyurusu | ✅ | P3 |
+| 10 | [Başvuru Formunun Otomatik Şekilde Oluşturulmasına Dair Sistemsel Geliştirme Tahkim Sisteml](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-32.md) | Sektör Duyurusu | ✅ | P3 |
+| 11 | [Başvuru Ücret Tarifesinde Yapılan Güncelleme 5684 Sayılı Sigortacılık Kanunu’nun 30’uncu M](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-33.md) | Sektör Duyurusu | ✅ | P3 |
+| 12 | [Başvuru Ücret Tarifesinin Uygulanmasına Dair Usul Ve Esaslar 15/01/2025 Tarihinde Yürürlüğ](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-34.md) | Sektör Duyurusu | ✅ | P3 |
+| 13 | [Bilirkişi Listelerinde Güncelleme Yapılacaktır Komisyon Nezdinde Tutulan Bilirkişilik List](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-12.md) | Sektör Duyurusu | ✅ | P3 |
+| 14 | [Bilirkişi Listelerinin Alım Yolu İle Güncellenmesi Sigorta Tahkim Komisyonu Bilirkişilik Y](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-36.md) | Sektör Duyurusu | ✅ | P3 |
+| 15 | [Bilirkişi Listelerinin Alım Yolu İle Güncellenmesi Sigorta Tahkim Komisyonu Bilirkişilik Y](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-58.md) | Sektör Duyurusu | ✅ | P3 |
+| 16 | [Bilirkişi Ücret Tarifesinde Yapılan Güncelleme Sigorta Tahkim Komisyonu Bilirkişilik Ücret](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-25.md) | Sektör Duyurusu | ✅ | P3 |
+| 17 | [Bilirkişi Ücretlerinin Sanal Pos Yöntemi İle Tahsili Hakkında Tahkim Sistemlerinde Yapılan](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-38.md) | Sektör Duyurusu | ✅ | P3 |
+| 18 | [Deprem Bölgesinde İşleyen Sürelerin Durdurulması Ülkemizde Yaşanan Ve Aşağıdaki İllerimizi](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-8.md) | Sektör Duyurusu | ✅ | P3 |
+| 19 | [Elektronik Ortamda Satın Alınan Vekalet Pullarına (baro Pullarına) İlişkin Önemli Duyuru T](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-47.md) | Sektör Duyurusu | ✅ | P3 |
+| 20 | [Elektronik Ortamda Satın Alınan Vekâlet Pullarına (baro Pullarına) İlişkin Önemli Duyuru D](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-51.md) | Sektör Duyurusu | ✅ | P3 |
+| 21 | [Islah / Bedel Artırım İşlemleri Hakkında Sistemsel Geliştirme Tahkim Sistemlerinde Yapılan](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-54.md) | Sektör Duyurusu | ✅ | P3 |
+| 22 | [Komisyon Banka Hesaplarına Fazla/sehven Yatırılan Ücret Veya Paraların İadesine Yönelik Us](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-37.md) | Sektör Duyurusu | ✅ | P3 |
+| 23 | [Komisyon Başkanlığı Kararları 5684 Sayılı Sigortacılık Kanunu’nun 30’uncu Maddesinin Komis](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-2.md) | Sektör Duyurusu | ✅ | P3 |
+| 24 | [Komisyon Başkanlığının 07.04.2023 Tarihli Ek Duyurusu 05.01.2023 Tarihli Resmî Gazetede Ya](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-6.md) | Sektör Duyurusu | ✅ | P3 |
+| 25 | [Komisyon Başkanlığının 13.02.2023 Tarihli Ek Duyurusu Komisyonumuz Tarafından Yapılan 08.0](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-7.md) | Sektör Duyurusu | ✅ | P3 |
+| 26 | [Komisyona Başvuru Esnasında Hasar Dosyası Seçimi Sigorta Tahkim Komisyonu, Sigorta Ettiren](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-14.md) | Sektör Duyurusu | ✅ | P3 |
+| 27 | [Komisyona Başvuru Esnasında Hasar Dosyası Seçimine İlişkin Ek Açıklamalar Komisyonumuz Tar](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-15.md) | Sektör Duyurusu | ✅ | P3 |
+| 28 | [Nvi Servis Sorunu Giderilmiştir Sbm Tarafından Aşağıda Paylaşılan Duyuruda Belirtilen Soru](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-45.md) | Sektör Duyurusu | ✅ | P3 |
+| 29 | [Online Başvuru Esnasında Sisteme Yüklenecek Olan Belgeler Yönünden Tür Ve Boyut Sınırlamas](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-50.md) | Sektör Duyurusu | ✅ | P3 |
+| 30 | [Parasal Sınırların Arttırılması Sigortacılık Kanunu’nun 30’uncu Maddesinin On İkinci Ve On](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-9.md) | Sektör Duyurusu | ✅ | P3 |
+| 31 | [Sbm Servis Sorununun Düzelmesi Hakkında Sbm Tarafından 05.06.2025 Tarihli Duyuruda Belirti](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-46.md) | Sektör Duyurusu | ✅ | P3 |
+| 32 | [Sigorta Hakemi Av.mehmet Tabak In Vefatı Komisyonumuz 1387 Sicil Numaralı Sigorta Hakemi S](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-48.md) | Sektör Duyurusu | ✅ | P3 |
+| 33 | [Sigorta Hakemleri ve İtiraz Hakemleri Listeleri](belgeler/09-tahkim/duyurular/tahkim-hakem-listeleri.md) | Koleksiyon (seri toplama görevi) | ✅ | P3 |
+| 34 | [Sigorta Tahkim Komisyonu Uygulaması Üzerinden E-pul Satın Alma Kılavuzu 1. Adım : Komisyon](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-53.md) | Sektör Duyurusu | ✅ | P3 |
+| 35 | [Sigorta Tahkim Komisyonuna Vekalet İle Yapılan Başvurular Komisyon Başvurularının, 6100 Sa](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-3.md) | Sektör Duyurusu | ✅ | P3 |
+| 36 | [Sigortacılıkta Tahkim Yargılamasında Geçerli Olan Parasal Sınırlar Güncellenmiştir Seddk’n](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-57.md) | Sektör Duyurusu | ✅ | P3 |
+| 37 | [Sigortacılıkta Tahkim Yargılamasında Geçerli Olan Parasal Sınırlar Güncellenmiştir. “sigor](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-42.md) | Sektör Duyurusu | ✅ | P3 |
+| 38 | [Tebligat Giderleri Hakkında 7 Haziran 2023 Tarihli Ve 32214 Sayılı Resmî Gazetede Yayımlan](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-11.md) | Sektör Duyurusu | ✅ | P3 |
+| 39 | [Uyuşmazlık Başvuru Ücreti Ve Tebligat Giderinin Sanal Pos Yöntemi İle Tahsili Hakkında Tah](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-31.md) | Sektör Duyurusu | ✅ | P3 |
+| 40 | [Uyuşmazlık Başvuru Ücreti Ödemelerinde (eft/havale) Yeni Uygulama Güvenli Ödeme Sistemleri](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-59.md) | Sektör Duyurusu | ✅ | P3 |
+| 41 | [İtiraz Başvuru Ücretlerinin Sanal Pos Yöntemi İle Tahsili Hakkında Tahkim Sistemlerinde Ya](belgeler/09-tahkim/duyurular/tahkim-duyuru-manset-49.md) | Sektör Duyurusu | ✅ | P3 |
 
 ## `belgeler/09-tahkim/ilkesel-kararlar`
 
 | # | Belge | Tür | Durum | Öncelik |
 | --- | --- | --- | --- | --- |
 | 1 | [Sigorta Tahkim Komisyonu İlkesel Kararları ve İtiraz Hakem Heyeti Yerleşik Uygulamaları](belgeler/09-tahkim/ilkesel-kararlar/tahkim-ilkesel-kararlar.md) | Yargı Kararı | ✅ | P1 |
+| 2 | [Hakem Karar Dergisi 1 Ocak - Mart 2010](belgeler/09-tahkim/ilkesel-kararlar/tahkim-karar-dergisi-1.md) | Yargı Kararı | ✅ | P2 |
+| 3 | [Hakem Karar Dergisi 10 Nisan - Haziran 2012](belgeler/09-tahkim/ilkesel-kararlar/tahkim-karar-dergisi-10.md) | Yargı Kararı | ✅ | P2 |
+| 4 | [Hakem Karar Dergisi 11 Temmuz - Eylül 2012](belgeler/09-tahkim/ilkesel-kararlar/tahkim-karar-dergisi-11.md) | Yargı Kararı | ✅ | P2 |
+| 5 | [Hakem Karar Dergisi 12 Ekim - Aralık 2012](belgeler/09-tahkim/ilkesel-kararlar/tahkim-karar-dergisi-12.md) | Yargı Kararı | ✅ | P2 |
+| 6 | [Hakem Karar Dergisi 13 Ocak - Mart 2013](belgeler/09-tahkim/ilkesel-kararlar/tahkim-karar-dergisi-13.md) | Yargı Kararı | ✅ | P2 |
+| 7 | [Hakem Karar Dergisi 14 Nisan - Haziran 2013](belgeler/09-tahkim/ilkesel-kararlar/tahkim-karar-dergisi-14.md) | Yargı Kararı | ✅ | P2 |
+| 8 | [Hakem Karar Dergisi 15 Temmuz - Eylül 2013](belgeler/09-tahkim/ilkesel-kararlar/tahkim-karar-dergisi-15.md) | Yargı Kararı | ✅ | P2 |
+| 9 | [Hakem Karar Dergisi 16 Ekim - Aralık 2013](belgeler/09-tahkim/ilkesel-kararlar/tahkim-karar-dergisi-16.md) | Yargı Kararı | ✅ | P2 |
+| 10 | [Hakem Karar Dergisi 17 Ocak - Mart 2014](belgeler/09-tahkim/ilkesel-kararlar/tahkim-karar-dergisi-17.md) | Yargı Kararı | ✅ | P2 |
+| 11 | [Hakem Karar Dergisi 18 Nisan - Haziran 2014](belgeler/09-tahkim/ilkesel-kararlar/tahkim-karar-dergisi-18.md) | Yargı Kararı | ✅ | P2 |
+| 12 | [Hakem Karar Dergisi 19 Temmuz - Eylül 2014](belgeler/09-tahkim/ilkesel-kararlar/tahkim-karar-dergisi-19.md) | Yargı Kararı | ✅ | P2 |
+| 13 | [Hakem Karar Dergisi 2 Nisan - Haziran 2010](belgeler/09-tahkim/ilkesel-kararlar/tahkim-karar-dergisi-2.md) | Yargı Kararı | ✅ | P2 |
+| 14 | [Hakem Karar Dergisi 20 Ekim - Aralık 2014](belgeler/09-tahkim/ilkesel-kararlar/tahkim-karar-dergisi-20.md) | Yargı Kararı | ✅ | P2 |
+| 15 | [Hakem Karar Dergisi 21 Ocak - Mart 2015](belgeler/09-tahkim/ilkesel-kararlar/tahkim-karar-dergisi-21.md) | Yargı Kararı | ✅ | P2 |
+| 16 | [Hakem Karar Dergisi 22 Nisan - Haziran 2015](belgeler/09-tahkim/ilkesel-kararlar/tahkim-karar-dergisi-22.md) | Yargı Kararı | ✅ | P2 |
+| 17 | [Hakem Karar Dergisi 23 Temmuz - Eylül 2015](belgeler/09-tahkim/ilkesel-kararlar/tahkim-karar-dergisi-23.md) | Yargı Kararı | ✅ | P2 |
+| 18 | [Hakem Karar Dergisi 24 Ekim - Aralık 2015](belgeler/09-tahkim/ilkesel-kararlar/tahkim-karar-dergisi-24.md) | Yargı Kararı | ✅ | P2 |
+| 19 | [Hakem Karar Dergisi 25 Ocak - Mart 2016](belgeler/09-tahkim/ilkesel-kararlar/tahkim-karar-dergisi-25.md) | Yargı Kararı | ✅ | P2 |
+| 20 | [Hakem Karar Dergisi 26 Nisan - Haziran 2016](belgeler/09-tahkim/ilkesel-kararlar/tahkim-karar-dergisi-26.md) | Yargı Kararı | ✅ | P2 |
+| 21 | [Hakem Karar Dergisi 27 Temmuz - Eylül 2016](belgeler/09-tahkim/ilkesel-kararlar/tahkim-karar-dergisi-27.md) | Yargı Kararı | ✅ | P2 |
+| 22 | [Hakem Karar Dergisi 28 Ekim - Aralık 2016](belgeler/09-tahkim/ilkesel-kararlar/tahkim-karar-dergisi-28.md) | Yargı Kararı | ✅ | P2 |
+| 23 | [Hakem Karar Dergisi 29 Ocak - Mart 2017](belgeler/09-tahkim/ilkesel-kararlar/tahkim-karar-dergisi-29.md) | Yargı Kararı | ✅ | P2 |
+| 24 | [Hakem Karar Dergisi 3 Temmuz - Eylül 2010](belgeler/09-tahkim/ilkesel-kararlar/tahkim-karar-dergisi-3.md) | Yargı Kararı | ✅ | P2 |
+| 25 | [Hakem Karar Dergisi 30 Nisan - Haziran 2017](belgeler/09-tahkim/ilkesel-kararlar/tahkim-karar-dergisi-30.md) | Yargı Kararı | ✅ | P2 |
+| 26 | [Hakem Karar Dergisi 31 Temmuz - Eylül 2017](belgeler/09-tahkim/ilkesel-kararlar/tahkim-karar-dergisi-31.md) | Yargı Kararı | ✅ | P2 |
+| 27 | [Hakem Karar Dergisi 32 Ekim - Aralık 2017](belgeler/09-tahkim/ilkesel-kararlar/tahkim-karar-dergisi-32.md) | Yargı Kararı | ✅ | P2 |
+| 28 | [Hakem Karar Dergisi 33 Ocak - Mart 2018](belgeler/09-tahkim/ilkesel-kararlar/tahkim-karar-dergisi-33.md) | Yargı Kararı | ✅ | P2 |
+| 29 | [Hakem Karar Dergisi 34 Nisan - Haziran 2018](belgeler/09-tahkim/ilkesel-kararlar/tahkim-karar-dergisi-34.md) | Yargı Kararı | ✅ | P2 |
+| 30 | [Hakem Karar Dergisi 35 Temmuz - Eylül 2018](belgeler/09-tahkim/ilkesel-kararlar/tahkim-karar-dergisi-35.md) | Yargı Kararı | ✅ | P2 |
+| 31 | [Hakem Karar Dergisi 36 Ekim - Aralık 2018](belgeler/09-tahkim/ilkesel-kararlar/tahkim-karar-dergisi-36.md) | Yargı Kararı | ✅ | P2 |
+| 32 | [Hakem Karar Dergisi 37 Ocak - Mart 2019](belgeler/09-tahkim/ilkesel-kararlar/tahkim-karar-dergisi-37.md) | Yargı Kararı | ✅ | P2 |
+| 33 | [Hakem Karar Dergisi 38 Nisan - Haziran 2019](belgeler/09-tahkim/ilkesel-kararlar/tahkim-karar-dergisi-38.md) | Yargı Kararı | ✅ | P2 |
+| 34 | [Hakem Karar Dergisi 39 Temmuz - Eylül 2019](belgeler/09-tahkim/ilkesel-kararlar/tahkim-karar-dergisi-39.md) | Yargı Kararı | ✅ | P2 |
+| 35 | [Hakem Karar Dergisi 40 Ekim - Aralık 2019](belgeler/09-tahkim/ilkesel-kararlar/tahkim-karar-dergisi-40.md) | Yargı Kararı | ✅ | P2 |
+| 36 | [Hakem Karar Dergisi 41 Ocak - Mart 2020](belgeler/09-tahkim/ilkesel-kararlar/tahkim-karar-dergisi-41.md) | Yargı Kararı | ✅ | P2 |
+| 37 | [Hakem Karar Dergisi 42 Nisan - Haziran 2020](belgeler/09-tahkim/ilkesel-kararlar/tahkim-karar-dergisi-42.md) | Yargı Kararı | ✅ | P2 |
+| 38 | [Hakem Karar Dergisi 43 Temmuz - Eylül 2020](belgeler/09-tahkim/ilkesel-kararlar/tahkim-karar-dergisi-43.md) | Yargı Kararı | ✅ | P2 |
+| 39 | [Hakem Karar Dergisi 44 Ekim - Aralık 2020](belgeler/09-tahkim/ilkesel-kararlar/tahkim-karar-dergisi-44.md) | Yargı Kararı | ✅ | P2 |
+| 40 | [Hakem Karar Dergisi 45 Ocak - Mart 2021](belgeler/09-tahkim/ilkesel-kararlar/tahkim-karar-dergisi-45.md) | Yargı Kararı | ✅ | P2 |
+| 41 | [Hakem Karar Dergisi 46 Nisan - Haziran 2021](belgeler/09-tahkim/ilkesel-kararlar/tahkim-karar-dergisi-46.md) | Yargı Kararı | ✅ | P2 |
+| 42 | [Hakem Karar Dergisi 47 Temmuz - Eylül 2021](belgeler/09-tahkim/ilkesel-kararlar/tahkim-karar-dergisi-47.md) | Yargı Kararı | ✅ | P2 |
+| 43 | [Hakem Karar Dergisi 48 Ekim - Aralık 2021](belgeler/09-tahkim/ilkesel-kararlar/tahkim-karar-dergisi-48.md) | Yargı Kararı | ✅ | P2 |
+| 44 | [Hakem Karar Dergisi 49 Ocak - Mart 2022](belgeler/09-tahkim/ilkesel-kararlar/tahkim-karar-dergisi-49.md) | Yargı Kararı | ✅ | P2 |
+| 45 | [Hakem Karar Dergisi 5 Ocak - Mart 2011](belgeler/09-tahkim/ilkesel-kararlar/tahkim-karar-dergisi-5.md) | Yargı Kararı | ✅ | P2 |
+| 46 | [Hakem Karar Dergisi 50 Nisan - Haziran 2022](belgeler/09-tahkim/ilkesel-kararlar/tahkim-karar-dergisi-50.md) | Yargı Kararı | ✅ | P2 |
+| 47 | [Hakem Karar Dergisi 51 Temmuz - Eylül 2022](belgeler/09-tahkim/ilkesel-kararlar/tahkim-karar-dergisi-51.md) | Yargı Kararı | ✅ | P2 |
+| 48 | [Hakem Karar Dergisi 52 Ekim - Aralık 2022](belgeler/09-tahkim/ilkesel-kararlar/tahkim-karar-dergisi-52.md) | Yargı Kararı | ✅ | P2 |
+| 49 | [Hakem Karar Dergisi 53 Ocak - Mart 2023](belgeler/09-tahkim/ilkesel-kararlar/tahkim-karar-dergisi-53.md) | Yargı Kararı | ✅ | P2 |
+| 50 | [Hakem Karar Dergisi 54 Nisan - Haziran 2023](belgeler/09-tahkim/ilkesel-kararlar/tahkim-karar-dergisi-54.md) | Yargı Kararı | ✅ | P2 |
+| 51 | [Hakem Karar Dergisi 55 Temmuz - Eylül 2023](belgeler/09-tahkim/ilkesel-kararlar/tahkim-karar-dergisi-55.md) | Yargı Kararı | ✅ | P2 |
+| 52 | [Hakem Karar Dergisi 56 Ekim - Aralık 2023](belgeler/09-tahkim/ilkesel-kararlar/tahkim-karar-dergisi-56.md) | Yargı Kararı | ✅ | P2 |
+| 53 | [Hakem Karar Dergisi 6 Nisan - Haziran 2011](belgeler/09-tahkim/ilkesel-kararlar/tahkim-karar-dergisi-6.md) | Yargı Kararı | ✅ | P2 |
+| 54 | [Hakem Karar Dergisi 61](belgeler/09-tahkim/ilkesel-kararlar/tahkim-karar-dergisi-61.md) | Yargı Kararı | ✅ | P2 |
+| 55 | [Hakem Karar Dergisi 62](belgeler/09-tahkim/ilkesel-kararlar/tahkim-karar-dergisi-62.md) | Yargı Kararı | ✅ | P2 |
+| 56 | [Hakem Karar Dergisi 63 Temmuz - Eylül 2025](belgeler/09-tahkim/ilkesel-kararlar/tahkim-karar-dergisi-63.md) | Yargı Kararı | ✅ | P2 |
+| 57 | [Hakem Karar Dergisi 64 Ekim - Aralık 2025](belgeler/09-tahkim/ilkesel-kararlar/tahkim-karar-dergisi-64.md) | Yargı Kararı | ✅ | P2 |
+| 58 | [Hakem Karar Dergisi 65 Ocak - Mart 2026](belgeler/09-tahkim/ilkesel-kararlar/tahkim-karar-dergisi-65.md) | Yargı Kararı | ✅ | P2 |
+| 59 | [Hakem Karar Dergisi 66 Nisan - Haziran 2026](belgeler/09-tahkim/ilkesel-kararlar/tahkim-karar-dergisi-66.md) | Yargı Kararı | ✅ | P2 |
+| 60 | [Hakem Karar Dergisi 7 Temmuz - Eylül 2011](belgeler/09-tahkim/ilkesel-kararlar/tahkim-karar-dergisi-7.md) | Yargı Kararı | ✅ | P2 |
+| 61 | [Hakem Karar Dergisi 8 Ekim - Aralık 2011](belgeler/09-tahkim/ilkesel-kararlar/tahkim-karar-dergisi-8.md) | Yargı Kararı | ✅ | P2 |
+| 62 | [Hakem Karar Dergisi 9 Ocak - Mart 2012](belgeler/09-tahkim/ilkesel-kararlar/tahkim-karar-dergisi-9.md) | Yargı Kararı | ✅ | P2 |
 
 ## `belgeler/09-tahkim/mevzuat`
 
