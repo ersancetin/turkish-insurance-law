@@ -17791,3 +17791,95 @@ belgeler:
     etiketler: [kvkk, kesisen-mevzuat]
     ozet: "Resmî ad: Kişisel Sağlık Verileri Hakkında Yönetmelik. Sigortacılığı etkileyen kesişen mevzuat; künye doğrulandı."
     dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=32610&MevzuatTur=2&MevzuatTertip=5", yontem: "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 32610)"}
+
+# ==== Parametrik/kesişen: faiz, usul (HMK/İİK), TCMB avans, Karayolları Trafik Yön. (20/08/2026) ====
+  - id: 3095-kanuni-faiz-ve-temerrut-faizine-iliskin-
+    baslik: "Kanuni Faiz Ve Temerrüt Faizine İlişkin Kanun"
+    tur: kanun
+    klasor: belgeler/12-kesisen-mevzuat/usul-faiz
+    brans: [sorumluluk]
+    otorite: TBMM
+    numara: "3095"
+    rg_tarihi: "1984-12-19"
+    rg_sayisi: "18610"
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=3095&MevzuatTur=1&MevzuatTertip=5"]
+    etiketler: [sorumluluk, kesisen-mevzuat, parametrik]
+    ozet: "Yasal faiz ve temerrüt faizi oranlarının çerçevesi; sigorta tazminatı ve rücu alacaklarında uygulanan faiz."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=3095&MevzuatTur=1&MevzuatTertip=5", yontem: "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 3095)"}
+  - id: 6100-hukuk-muhakemeleri-kanunu
+    baslik: "Hukuk Muhakemeleri Kanunu"
+    tur: kanun
+    klasor: belgeler/12-kesisen-mevzuat/usul-faiz
+    brans: [genel]
+    otorite: TBMM
+    numara: "6100"
+    rg_tarihi: "2011-02-04"
+    rg_sayisi: "27836"
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6100&MevzuatTur=1&MevzuatTertip=5"]
+    etiketler: [genel, kesisen-mevzuat, parametrik]
+    ozet: "Sigorta uyuşmazlıklarının yargılama usulü; istinaf/temyiz parasal sınırları (yıllık yeniden değerlemeyle güncellenir)."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6100&MevzuatTur=1&MevzuatTertip=5", yontem: "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 6100)"}
+  - id: 34052-turkiye-cumhuriyet-merkez-bankasinca-ree
+    baslik: "Türkiye Cumhuriyet Merkez Bankasınca Reeskont Ve Avans İşlemlerinde Uygulanacak Faiz Oranları"
+    tur: teblig
+    klasor: belgeler/12-kesisen-mevzuat/usul-faiz
+    brans: [genel]
+    otorite: TCMB / Hazine ve Maliye Bakanlığı
+    numara: "34052"
+    rg_tarihi: "2019-12-21"
+    rg_sayisi: "30985"
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=34052&MevzuatTur=9&MevzuatTertip=5"]
+    etiketler: [genel, kesisen-mevzuat, parametrik]
+    ozet: "TCMB reeskont ve AVANS faiz oranları — ticari işlerde temerrüt faizinde esas alınır (3095 s.K.). Oranlar periyodik güncellenir."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=34052&MevzuatTur=9&MevzuatTertip=5", yontem: "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 34052)"}
+  - id: 8182-karayollari-trafik-yonetmeligi
+    baslik: "Karayolları Trafik Yönetmeliği"
+    tur: yonetmelik
+    klasor: belgeler/12-kesisen-mevzuat/motorlu-arac
+    brans: [motorlu-arac]
+    otorite: İçişleri Bakanlığı
+    numara: "8182"
+    rg_tarihi: "1997-07-18"
+    rg_sayisi: "23053"
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=8182&MevzuatTur=7&MevzuatTertip=5"]
+    etiketler: [motorlu-arac, kesisen-mevzuat, parametrik]
+    ozet: "2918 s.KTK uygulama yönetmeliği: araç tescili, satış/devir, hurdaya ayırma/trafikten çekme (pert), muayene — ZMSS/kasko ile doğrudan ilgili."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=8182&MevzuatTur=7&MevzuatTertip=5", yontem: "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 8182)"}
+  - id: 2004-icra-ve-iflas-kanunu
+    baslik: "İcra Ve İflas Kanunu"
+    tur: kanun
+    klasor: belgeler/12-kesisen-mevzuat/usul-faiz
+    brans: [genel]
+    otorite: TBMM
+    numara: "2004"
+    rg_tarihi: "1932-06-19"
+    rg_sayisi: "2128"
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2004&MevzuatTur=1&MevzuatTertip=3"]
+    etiketler: [genel, kesisen-mevzuat, parametrik]
+    ozet: "Sigorta tazminatı/rücu alacaklarının icra takibi; tahkim ilamlarının icrası."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2004&MevzuatTur=1&MevzuatTertip=3", yontem: "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 2004)"}
+  - id: 24356-araclarin-satis-devir-ve-tescil-hizmetle
+    baslik: "Araçların Satış, Devir Ve Tescil Hizmetlerinin Yürütülmesi Hakkında Yönetmelik"
+    tur: yonetmelik
+    klasor: belgeler/12-kesisen-mevzuat/motorlu-arac
+    brans: [motorlu-arac]
+    otorite: TCMB / Hazine ve Maliye Bakanlığı
+    numara: "24356"
+    rg_tarihi: "2018-01-31"
+    rg_sayisi: "30318"
+    durum: yururlukte
+    oncelik: 2
+    kaynaklar: ["https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=24356&MevzuatTur=7&MevzuatTertip=5"]
+    etiketler: [motorlu-arac, kesisen-mevzuat, parametrik]
+    ozet: "Araç satış, devir ve tescil işlemleri (noter satışı) — araç devrinde ZMSS poliçe ve işleten sıfatı bakımından ilgili."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-20", kaynak: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=24356&MevzuatTur=7&MevzuatTertip=5", yontem: "mevzuat.gov.tr arama API'sinden doğrudan teyit (no 24356)"}

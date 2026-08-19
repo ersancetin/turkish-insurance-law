@@ -2,7 +2,7 @@
 
 > Otomatik üretilir (`scripts/uret.py`). Deponun kapsam ve tamamlanma durumunu gösterir.
 
-- **Kütükteki kayıt sayısı:** 1172
+- **Kütükteki kayıt sayısı:** 1178
 - **Tam metin eklenmiş belge sayısı:** dosyaların `metin_durumu` alanından hesaplanır (aşağıdaki tabloya bakın).
 
 ## Belge türüne göre dağılım
@@ -12,10 +12,10 @@
 | Sektör Duyurusu | 458 |
 | Genelge | 440 |
 | Yargı Kararı | 86 |
-| Yönetmelik | 63 |
+| Yönetmelik | 65 |
 | Genel Şart | 47 |
-| Tebliğ | 33 |
-| Kanun | 16 |
+| Tebliğ | 34 |
+| Kanun | 19 |
 | Kurum Dosyası | 8 |
 | Koleksiyon (seri toplama görevi) | 7 |
 | Rehber | 7 |
@@ -28,7 +28,7 @@
 
 | Durum | Adet |
 | --- | --- |
-| Yürürlükte | 1166 |
+| Yürürlükte | 1172 |
 | Kısmen iptal edilmiş | 3 |
 | Yakın tarihli değişiklik içeriyor | 3 |
 
@@ -37,7 +37,7 @@
 | Öncelik | Adet | Anlamı |
 | --- | --- | --- |
 | P1 | 41 | Kritik — önce toplanacak |
-| P2 | 116 | Önemli |
+| P2 | 122 | Önemli |
 | P3 | 1015 | Tamamlayıcı |
 
 ## Künyesi eksik kayıtlar (Resmî Gazete tarihi girilmemiş)
@@ -92,11 +92,15 @@ Toplam **45** kayıt. Resmî metin çekilirken bu alanlar doldurulmalıdır.
 
 ## Künye doğrulama durumu
 
-Resmî kaynaktan (Resmî Gazete / mevzuat.gov.tr / SEDDK) künyesi teyit edilmiş **1097** kayıt / toplam 1172.
+Resmî kaynaktan (Resmî Gazete / mevzuat.gov.tr / SEDDK) künyesi teyit edilmiş **1103** kayıt / toplam 1178.
 
 | Kayıt | Resmî Gazete | Doğrulama tarihi |
 | --- | --- | --- |
+| `2004-icra-ve-iflas-kanunu` | 1932-06-19 / 2128 | 2026-08-20 |
+| `24356-araclarin-satis-devir-ve-tescil-hizmetle` | 2018-01-31 / 30318 | 2026-08-20 |
 | `2918-karayollari-trafik-kanunu` | 1983-10-18 / 18195 | 2026-08-19 |
+| `3095-kanuni-faiz-ve-temerrut-faizine-iliskin-` | 1984-12-19 / 18610 | 2026-08-20 |
+| `34052-turkiye-cumhuriyet-merkez-bankasinca-ree` | 2019-12-21 / 30985 | 2026-08-20 |
 | `4632-bireysel-emeklilik-kanunu` | 2001-04-07 / 24366 | 2026-08-19 |
 | `4911-sivil-hava-araclari-sorumluluk-kanunu` | 2003-07-09 / 25163 | 2026-08-19 |
 | `4925-karayolu-tasima-kanunu` | 2003-07-19 / 25173 | 2026-08-19 |
@@ -105,12 +109,14 @@ Resmî kaynaktan (Resmî Gazete / mevzuat.gov.tr / SEDDK) künyesi teyit edilmi�
 | `5549-suc-gelirlerinin-aklanmasinin-onlenmesi-` | 2006-10-18 / 26323 | 2026-08-20 |
 | `5684-sigortacilik-kanunu` | 2007-06-14 / 26552 | 2026-08-19 |
 | `6098-tbk-ilgili-hukumler` | 2011-02-04 / 27836 | 2026-08-19 |
+| `6100-hukuk-muhakemeleri-kanunu` | 2011-02-04 / 27836 | 2026-08-20 |
 | `6102-ttk-sigorta-hukumleri` | 2011-02-14 / 27846 | 2026-08-19 |
 | `6305-afet-sigortalari-kanunu` | 2012-05-18 / 28296 | 2026-08-19 |
 | `6415-terorizmin-finansmaninin-onlenmesi-hakki` | 2013-02-16 / 28561 | 2026-08-20 |
 | `6502-tuketicinin-korunmasi` | 2013-11-28 / 28835 | 2026-08-19 |
 | `6698-kisisel-verilerin-korunmasi-kanunu` | 2016-04-07 / 29677 | 2026-08-20 |
 | `6802-gider-vergileri-kanunu` | 1956-07-23 / 9362 | 2026-08-20 |
+| `8182-karayollari-trafik-yonetmeligi` | 1997-07-18 / 23053 | 2026-08-20 |
 | `cbk-1-ilgili-hukumler` | 2018-07-10 / 30474 | 2026-08-19 |
 | `cbk-47-seddk-teskilati` | 2019-10-18 / 30922 | 2026-08-19 |
 | `duy-03-07-2024-tarihli-ve-709-sayili-kurul` | — / — | 2026-08-20 |

@@ -3,7 +3,7 @@
 > Bu dosya `scripts/uret.py` tarafından **otomatik üretilir**. Elle düzenlemeyin;
 > değişiklik için `data/kaynaklar.yaml` dosyasını güncelleyip betiği yeniden çalıştırın.
 
-**Toplam kayıt:** 1172  |  **Kütük sürümü:** 0.1.0  |  **Güncelleme:** 2026-08-19
+**Toplam kayıt:** 1178  |  **Kütük sürümü:** 0.1.0  |  **Güncelleme:** 2026-08-19
 
 Durum rozetleri: ✅ yürürlükte · ⚠️ kısmen iptal · 🔄 yakın değişiklik · ⛔ mülga · ❔ bilinmiyor
 
@@ -1397,6 +1397,22 @@ Durum rozetleri: ✅ yürürlükte · ⚠️ kısmen iptal · 🔄 yakın deği�
 | 9 | [Mali Suçları Araştırma Kurulu Genel Tebliği (sıra No: 5)](belgeler/12-kesisen-mevzuat/masak/masak-12073-mali-suclari-arastirma-kurulu-gene.md) | Tebliğ | ✅ | P3 |
 | 10 | [Mali Suçları Araştırma Kurulu Genel Tebliği (sıra No: 8)](belgeler/12-kesisen-mevzuat/masak/masak-13073-mali-suclari-arastirma-kurulu-gene.md) | Tebliğ | ✅ | P3 |
 | 11 | [Terörizmin Finansmanının Önlenmesi Hakkında Kanunun Uygulanmasına İlişkin Usul Ve Esaslar Hakkında Yönetmelik](belgeler/12-kesisen-mevzuat/masak/masak-18420-terorizmin-finansmaninin-onlenmesi.md) | Tebliğ | ✅ | P3 |
+
+## `belgeler/12-kesisen-mevzuat/motorlu-arac`
+
+| # | Belge | Tür | Durum | Öncelik |
+| --- | --- | --- | --- | --- |
+| 1 | [Araçların Satış, Devir Ve Tescil Hizmetlerinin Yürütülmesi Hakkında Yönetmelik](belgeler/12-kesisen-mevzuat/motorlu-arac/24356-araclarin-satis-devir-ve-tescil-hizmetle.md) | Yönetmelik | ✅ | P2 |
+| 2 | [Karayolları Trafik Yönetmeliği](belgeler/12-kesisen-mevzuat/motorlu-arac/8182-karayollari-trafik-yonetmeligi.md) | Yönetmelik | ✅ | P2 |
+
+## `belgeler/12-kesisen-mevzuat/usul-faiz`
+
+| # | Belge | Tür | Durum | Öncelik |
+| --- | --- | --- | --- | --- |
+| 1 | [Hukuk Muhakemeleri Kanunu](belgeler/12-kesisen-mevzuat/usul-faiz/6100-hukuk-muhakemeleri-kanunu.md) | Kanun | ✅ | P2 |
+| 2 | [Kanuni Faiz Ve Temerrüt Faizine İlişkin Kanun](belgeler/12-kesisen-mevzuat/usul-faiz/3095-kanuni-faiz-ve-temerrut-faizine-iliskin-.md) | Kanun | ✅ | P2 |
+| 3 | [Türkiye Cumhuriyet Merkez Bankasınca Reeskont Ve Avans İşlemlerinde Uygulanacak Faiz Oranları](belgeler/12-kesisen-mevzuat/usul-faiz/34052-turkiye-cumhuriyet-merkez-bankasinca-ree.md) | Tebliğ | ✅ | P2 |
+| 4 | [İcra Ve İflas Kanunu](belgeler/12-kesisen-mevzuat/usul-faiz/2004-icra-ve-iflas-kanunu.md) | Kanun | ✅ | P2 |
 
 ## `belgeler/12-kesisen-mevzuat/vergi`
 
