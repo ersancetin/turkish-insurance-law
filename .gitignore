@@ -1,0 +1,15 @@
+# Toplayıcı betiğin indirdiği ham dosyalar (PDF/HTML) — depoya girmez
+ham/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# İşletim sistemi / editör
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp

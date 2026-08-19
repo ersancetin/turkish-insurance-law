@@ -1,0 +1,2979 @@
+{
+  "surum": "0.1.0",
+  "guncelleme": "2026-08-19",
+  "dogrulama_notu": "Bu kütükteki Resmî Gazete tarih/sayı bilgileri model bilgisine dayanır ve ÇEVRİMİÇİ DOĞRULANMAMIŞTIR. Her kayıt için `dogrulama.durum` alanı belgelerde `dogrulanmadi` olarak işaretlidir; resmî metin çekildiğinde otomatik olarak güncellenmelidir.",
+  "portallar": {
+    "seddk_mevzuat": "https://www.seddk.gov.tr/tr/mevzuat",
+    "seddk_yonetmelikler": "https://www.seddk.gov.tr/tr/mevzuat/sigortacilik/yonetmelikler",
+    "seddk_bes_genelge": "https://www.seddk.gov.tr/tr/mevzuat/bireysel-emeklilik/genelge-teblig-ve-sektor-duyurulari",
+    "seddk_duyurular": "https://www.seddk.gov.tr/tr/duyurular",
+    "seddk_mevzuat_duyurulari": "https://www.seddk.gov.tr/tr/duyurular/mevzuat-duyurulari",
+    "mevzuat_gov": "https://www.mevzuat.gov.tr",
+    "resmi_gazete": "https://www.resmigazete.gov.tr",
+    "tsb_genel_sartlar": "https://www.tsb.org.tr/tr/mevzuat/sigortacilik/genel-sartlar",
+    "sigorta_tahkim": "https://www.sigortatahkim.org",
+    "anayasa_mahkemesi": "https://normkararlarbilgibankasi.anayasa.gov.tr",
+    "yargitay_karar_arama": "https://karararama.yargitay.gov.tr",
+    "danistay_karar_arama": "https://karararama.danistay.gov.tr",
+    "dask": "https://dask.gov.tr",
+    "tarsim": "https://www.tarsim.gov.tr",
+    "sbm": "https://www.sbm.org.tr",
+    "guvence_hesabi": "https://www.guvencehesabi.org.tr"
+  },
+  "belgeler": [
+    {
+      "id": "5684-sigortacilik-kanunu",
+      "baslik": "Sigortacılık Kanunu",
+      "tur": "kanun",
+      "klasor": "belgeler/01-kanunlar",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "TBMM",
+      "numara": "5684",
+      "rg_tarihi": "2007-06-14",
+      "rg_sayisi": "26552",
+      "durum": "yururlukte",
+      "oncelik": 1,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5684&MevzuatTur=1&MevzuatTertip=5"
+      ],
+      "etiketler": [
+        "sigortacilik-kanunu",
+        "ruhsat",
+        "acente",
+        "eksper",
+        "broker",
+        "tahkim",
+        "guvence-hesabi"
+      ],
+      "ozet": "Sigortacılık faaliyetinin düzenlenmesi, denetimi, aracılar, tahkim (m.30) ve Güvence Hesabı (m.14) dâhil temel çerçeve kanunu."
+    },
+    {
+      "id": "6102-ttk-sigorta-hukumleri",
+      "baslik": "Türk Ticaret Kanunu — Altıncı Kitap: Sigorta Hukuku (m.1401-1520)",
+      "tur": "kanun",
+      "klasor": "belgeler/01-kanunlar",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "TBMM",
+      "numara": "6102",
+      "rg_tarihi": "2011-02-14",
+      "rg_sayisi": "27846",
+      "durum": "yururlukte",
+      "oncelik": 1,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6102&MevzuatTur=1&MevzuatTertip=5"
+      ],
+      "etiketler": [
+        "sigorta-sozlesmesi",
+        "beyan-yukumlulugu",
+        "riziko",
+        "tazminat",
+        "zamanasimi",
+        "halefiyet"
+      ],
+      "ozet": "Sigorta sözleşmesinin kuruluşu, tarafların yükümlülükleri, zarar/can sigortaları ve zamanaşımına ilişkin özel hukuk rejimi."
+    },
+    {
+      "id": "2918-karayollari-trafik-kanunu",
+      "baslik": "Karayolları Trafik Kanunu (özellikle m.85-115 mali sorumluluk ve sigorta)",
+      "tur": "kanun",
+      "klasor": "belgeler/01-kanunlar",
+      "brans": [
+        "sorumluluk",
+        "motorlu-arac"
+      ],
+      "otorite": "TBMM",
+      "numara": "2918",
+      "rg_tarihi": "1983-10-18",
+      "rg_sayisi": "18195",
+      "durum": "kismen-iptal",
+      "oncelik": 1,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2918&MevzuatTur=1&MevzuatTertip=5"
+      ],
+      "etiketler": [
+        "zmss",
+        "trafik-sigortasi",
+        "isleten-sorumlulugu",
+        "dogrudan-dava",
+        "zamanasimi",
+        "m90",
+        "m97"
+      ],
+      "ozet": "İşletenin hukuki sorumluluğu, zorunlu mali sorumluluk sigortası, doğrudan dava hakkı ve tazminat hesabına ilişkin hükümler (m.90 AYM kararıyla kısmen iptal)."
+    },
+    {
+      "id": "4632-bireysel-emeklilik-kanunu",
+      "baslik": "Bireysel Emeklilik Tasarruf ve Yatırım Sistemi Kanunu",
+      "tur": "kanun",
+      "klasor": "belgeler/01-kanunlar",
+      "brans": [
+        "bes"
+      ],
+      "otorite": "TBMM",
+      "numara": "4632",
+      "rg_tarihi": "2001-04-07",
+      "rg_sayisi": "24366",
+      "durum": "yururlukte",
+      "oncelik": 1,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4632&MevzuatTur=1&MevzuatTertip=5"
+      ],
+      "etiketler": [
+        "bes",
+        "otomatik-katilim",
+        "devlet-katkisi",
+        "emeklilik-sirketi",
+        "emeklilik-yatirim-fonu"
+      ],
+      "ozet": "Bireysel emeklilik sisteminin kuruluşu, emeklilik şirketleri, devlet katkısı ve otomatik katılım rejimi."
+    },
+    {
+      "id": "6305-afet-sigortalari-kanunu",
+      "baslik": "Afet Sigortaları Kanunu",
+      "tur": "kanun",
+      "klasor": "belgeler/01-kanunlar",
+      "brans": [
+        "dogal-afet"
+      ],
+      "otorite": "TBMM",
+      "numara": "6305",
+      "rg_tarihi": "2012-08-18",
+      "rg_sayisi": "28388",
+      "durum": "yururlukte",
+      "oncelik": 1,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6305&MevzuatTur=1&MevzuatTertip=5"
+      ],
+      "etiketler": [
+        "dask",
+        "zorunlu-deprem-sigortasi",
+        "dogal-afet-sigortalari-kurumu"
+      ],
+      "ozet": "Zorunlu deprem sigortası ve Doğal Afet Sigortaları Kurumu (DASK) çerçevesi."
+    },
+    {
+      "id": "5363-tarim-sigortalari-kanunu",
+      "baslik": "Tarım Sigortaları Kanunu",
+      "tur": "kanun",
+      "klasor": "belgeler/01-kanunlar",
+      "brans": [
+        "tarim"
+      ],
+      "otorite": "TBMM",
+      "numara": "5363",
+      "rg_tarihi": "2005-06-21",
+      "rg_sayisi": "25852",
+      "durum": "yururlukte",
+      "oncelik": 2,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5363&MevzuatTur=1&MevzuatTertip=5"
+      ],
+      "etiketler": [
+        "tarsim",
+        "devlet-destekli-tarim-sigortasi",
+        "havuz"
+      ],
+      "ozet": "Tarım Sigortaları Havuzu (TARSİM) ve devlet destekli tarım sigortalarının yasal dayanağı."
+    },
+    {
+      "id": "6098-tbk-ilgili-hukumler",
+      "baslik": "Türk Borçlar Kanunu — haksız fiil, tazminat ve zamanaşımı hükümleri (m.49-76, 146-147)",
+      "tur": "kanun",
+      "klasor": "belgeler/01-kanunlar",
+      "brans": [
+        "genel",
+        "sorumluluk"
+      ],
+      "otorite": "TBMM",
+      "numara": "6098",
+      "rg_tarihi": "2011-02-04",
+      "rg_sayisi": "27836",
+      "durum": "yururlukte",
+      "oncelik": 1,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6098&MevzuatTur=1&MevzuatTertip=5"
+      ],
+      "etiketler": [
+        "haksiz-fiil",
+        "destekten-yoksun-kalma",
+        "surekli-sakatlik",
+        "muteselsil-sorumluluk",
+        "zamanasimi"
+      ],
+      "ozet": "AYM'nin KTK m.90 iptali sonrası trafik sigortası tazminat hesabında esas alınan genel haksız fiil rejimi."
+    },
+    {
+      "id": "5510-sosyal-sigortalar-rucu",
+      "baslik": "Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu — rücu ve sağlık gideri hükümleri (m.21, 39, 76)",
+      "tur": "kanun",
+      "klasor": "belgeler/01-kanunlar",
+      "brans": [
+        "sorumluluk",
+        "saglik"
+      ],
+      "otorite": "TBMM",
+      "numara": "5510",
+      "rg_tarihi": "2006-06-16",
+      "rg_sayisi": "26200",
+      "durum": "yururlukte",
+      "oncelik": 2,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5510&MevzuatTur=1&MevzuatTertip=5"
+      ],
+      "etiketler": [
+        "rucu",
+        "sgk",
+        "is-kazasi",
+        "tedavi-gideri",
+        "denklestirme"
+      ],
+      "ozet": "SGK'nın işverene/üçüncü kişilere rücu hakkı ve trafik kazası sağlık giderlerinin karşılanma rejimi."
+    },
+    {
+      "id": "6502-tuketicinin-korunmasi",
+      "baslik": "Tüketicinin Korunması Hakkında Kanun — sigorta sözleşmelerine etkisi",
+      "tur": "kanun",
+      "klasor": "belgeler/01-kanunlar",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "TBMM",
+      "numara": "6502",
+      "rg_tarihi": "2013-11-28",
+      "rg_sayisi": "28835",
+      "durum": "yururlukte",
+      "oncelik": 2,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6502&MevzuatTur=1&MevzuatTertip=5"
+      ],
+      "etiketler": [
+        "haksiz-sart",
+        "tuketici-hakem-heyeti",
+        "mesafeli-sozlesme",
+        "tuketici-mahkemesi"
+      ],
+      "ozet": "Sigorta sözleşmelerinin tüketici işlemi sayılması, haksız şart denetimi ve uyuşmazlık yolları."
+    },
+    {
+      "id": "4925-karayolu-tasima-kanunu",
+      "baslik": "Karayolu Taşıma Kanunu — zorunlu sigorta hükümleri",
+      "tur": "kanun",
+      "klasor": "belgeler/01-kanunlar",
+      "brans": [
+        "sorumluluk",
+        "tasimacilik"
+      ],
+      "otorite": "TBMM",
+      "numara": "4925",
+      "rg_tarihi": "2003-07-19",
+      "rg_sayisi": "25173",
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4925&MevzuatTur=1&MevzuatTertip=5"
+      ],
+      "etiketler": [
+        "zorunlu-tasimacilik-sigortasi",
+        "yetki-belgesi",
+        "yolcu-tasimaciligi"
+      ],
+      "ozet": "Karayolu yolcu ve eşya taşımacılığında zorunlu mali sorumluluk sigortası yükümlülüğü."
+    },
+    {
+      "id": "5941-cek-ve-diger-ilgili-mevzuat",
+      "baslik": "İlgili Diğer Kanunlar Derlemesi (TMK, HMK, İİK, MASAK 5549, KVKK 6698 kesişimleri)",
+      "tur": "kanun",
+      "klasor": "belgeler/01-kanunlar",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "TBMM",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr"
+      ],
+      "etiketler": [
+        "hmk",
+        "iik",
+        "masak",
+        "kvkk",
+        "usul"
+      ],
+      "ozet": "Sigorta uyuşmazlıklarında sık atıf yapılan usul, icra, aklama ve kişisel veri mevzuatının kesişim noktaları."
+    },
+    {
+      "id": "cbk-47-seddk-teskilati",
+      "baslik": "47 sayılı Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumu Hakkında Cumhurbaşkanlığı Kararnamesi",
+      "tur": "cbk",
+      "klasor": "belgeler/02-cumhurbaskanligi-kararnameleri",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "Cumhurbaşkanlığı",
+      "numara": "47",
+      "rg_tarihi": "2019-10-18",
+      "rg_sayisi": "30922",
+      "durum": "yururlukte",
+      "oncelik": 1,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr",
+        "https://www.seddk.gov.tr/tr/mevzuat"
+      ],
+      "etiketler": [
+        "seddk",
+        "kurumsal-yapi",
+        "denetim-yetkisi"
+      ],
+      "ozet": "SEDDK'nın kuruluşu, görev ve yetkileri ile Hazine ve Maliye Bakanlığı'ndan devralınan düzenleme yetkisi."
+    },
+    {
+      "id": "cbk-1-ilgili-hukumler",
+      "baslik": "1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında CBK — sigortacılıkla ilgili hükümler",
+      "tur": "cbk",
+      "klasor": "belgeler/02-cumhurbaskanligi-kararnameleri",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "Cumhurbaşkanlığı",
+      "numara": "1",
+      "rg_tarihi": "2018-07-10",
+      "rg_sayisi": "30474",
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr"
+      ],
+      "etiketler": [
+        "teskilat",
+        "hazine-ve-maliye-bakanligi",
+        "gorev-devri"
+      ],
+      "ozet": "Sigortacılık alanında bakanlık düzeyindeki görev ve yetkilerin dağılımı."
+    },
+    {
+      "id": "yon-sigorta-sozlesmelerinde-bilgilendirme",
+      "baslik": "Sigorta Sözleşmelerinde Bilgilendirmeye İlişkin Yönetmelik",
+      "tur": "yonetmelik",
+      "klasor": "belgeler/03-yonetmelikler/sigortacilik",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2007-10-28",
+      "rg_sayisi": "26684",
+      "durum": "yururlukte",
+      "oncelik": 1,
+      "kaynaklar": [
+        "https://www.seddk.gov.tr/tr/mevzuat/sigortacilik/yonetmelikler"
+      ],
+      "etiketler": [
+        "bilgilendirme-formu",
+        "aydinlatma-yukumlulugu",
+        "cayma"
+      ],
+      "ozet": "Sözleşme öncesi ve süresince sigortacının aydınlatma yükümlülüğü ve bilgilendirme formu esasları."
+    },
+    {
+      "id": "yon-sigorta-acenteleri",
+      "baslik": "Sigorta Acenteleri Yönetmeliği",
+      "tur": "yonetmelik",
+      "klasor": "belgeler/03-yonetmelikler/sigortacilik",
+      "brans": [
+        "aracilar"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2014-04-22",
+      "rg_sayisi": "28980",
+      "durum": "yururlukte",
+      "oncelik": 1,
+      "kaynaklar": [
+        "https://www.seddk.gov.tr/tr/mevzuat/sigortacilik/yonetmelikler"
+      ],
+      "etiketler": [
+        "acente",
+        "levha-kaydi",
+        "teknik-personel",
+        "beyaz-liste"
+      ],
+      "ozet": "Acentelik faaliyeti, nitelikler, levha kaydı, teknik personel ve denetim esasları."
+    },
+    {
+      "id": "yon-sigorta-eksperleri",
+      "baslik": "Sigorta Eksperleri Yönetmeliği",
+      "tur": "yonetmelik",
+      "klasor": "belgeler/03-yonetmelikler/sigortacilik",
+      "brans": [
+        "aracilar",
+        "hasar"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 1,
+      "kaynaklar": [
+        "https://www.seddk.gov.tr/tr/mevzuat/sigortacilik/yonetmelikler"
+      ],
+      "etiketler": [
+        "eksper",
+        "ekspertiz-raporu",
+        "hasar-tespiti",
+        "atama-sistemi"
+      ],
+      "ozet": "Sigorta eksperliği ruhsatı, ekspertiz raporunun içeriği ve eksper atama sistemi."
+    },
+    {
+      "id": "yon-sigorta-reasurans-brokerleri",
+      "baslik": "Sigorta ve Reasürans Brokerleri Yönetmeliği",
+      "tur": "yonetmelik",
+      "klasor": "belgeler/03-yonetmelikler/sigortacilik",
+      "brans": [
+        "aracilar"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2008-06-21",
+      "rg_sayisi": "26913",
+      "durum": "yururlukte",
+      "oncelik": 2,
+      "kaynaklar": [
+        "https://www.seddk.gov.tr/tr/mevzuat/sigortacilik/yonetmelikler"
+      ],
+      "etiketler": [
+        "broker",
+        "reasurans",
+        "aracilik"
+      ],
+      "ozet": "Brokerlik ruhsatı, faaliyet esasları ve sigorta ettiren adına aracılık yükümlülükleri."
+    },
+    {
+      "id": "yon-kurulus-ve-calisma-esaslari",
+      "baslik": "Sigorta ve Reasürans ile Emeklilik Şirketlerinin Kuruluş ve Çalışma Esaslarına İlişkin Yönetmelik",
+      "tur": "yonetmelik",
+      "klasor": "belgeler/03-yonetmelikler/sigortacilik",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2007-08-24",
+      "rg_sayisi": "26623",
+      "durum": "yururlukte",
+      "oncelik": 1,
+      "kaynaklar": [
+        "https://www.seddk.gov.tr/tr/mevzuat/sigortacilik/yonetmelikler"
+      ],
+      "etiketler": [
+        "ruhsat",
+        "kurulus",
+        "sube",
+        "pay-devri",
+        "sermaye"
+      ],
+      "ozet": "Şirket kuruluşu, ruhsat, pay devri, şube ve teşkilatlanma esasları."
+    },
+    {
+      "id": "yon-mali-bunye",
+      "baslik": "Sigorta ve Reasürans ile Emeklilik Şirketlerinin Mali Bünyelerine İlişkin Yönetmelik",
+      "tur": "yonetmelik",
+      "klasor": "belgeler/03-yonetmelikler/denetim-ve-mali-yapi",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2007-08-07",
+      "rg_sayisi": "26606",
+      "durum": "yururlukte",
+      "oncelik": 2,
+      "kaynaklar": [
+        "https://www.seddk.gov.tr/tr/mevzuat/sigortacilik/yonetmelikler"
+      ],
+      "etiketler": [
+        "sermaye-yeterliligi",
+        "mali-bunye",
+        "tedbir"
+      ],
+      "ozet": "Sermaye yeterliliği hesabı, mali bünye zafiyeti ve alınacak tedbirler."
+    },
+    {
+      "id": "yon-teknik-karsiliklar",
+      "baslik": "Sigorta ve Reasürans ile Emeklilik Şirketlerinin Teknik Karşılıklarına ve Bu Karşılıkların Yatırılacağı Varlıklara İlişkin Yönetmelik",
+      "tur": "yonetmelik",
+      "klasor": "belgeler/03-yonetmelikler/denetim-ve-mali-yapi",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2007-07-28",
+      "rg_sayisi": "26597",
+      "durum": "yururlukte",
+      "oncelik": 2,
+      "kaynaklar": [
+        "https://www.seddk.gov.tr/tr/mevzuat/sigortacilik/yonetmelikler"
+      ],
+      "etiketler": [
+        "muallak-hasar-karsiligi",
+        "kazanilmamis-primler",
+        "dengeleme-karsiligi",
+        "ibnr"
+      ],
+      "ozet": "Muallak hasar, kazanılmamış primler, devam eden riskler ve dengeleme karşılıklarının hesap esasları."
+    },
+    {
+      "id": "yon-aktuerlik",
+      "baslik": "Aktüerlik Yönetmeliği",
+      "tur": "yonetmelik",
+      "klasor": "belgeler/03-yonetmelikler/denetim-ve-mali-yapi",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.seddk.gov.tr/tr/mevzuat/sigortacilik/yonetmelikler"
+      ],
+      "etiketler": [
+        "aktuer",
+        "aktueryal-rapor",
+        "sicil"
+      ],
+      "ozet": "Aktüerlerin nitelikleri, sicili ve aktüeryal raporlama yükümlülükleri."
+    },
+    {
+      "id": "yon-bagimsiz-denetim",
+      "baslik": "Sigorta ve Reasürans ile Emeklilik Şirketlerinde Bağımsız Denetim Yapılmasına İlişkin Yönetmelik",
+      "tur": "yonetmelik",
+      "klasor": "belgeler/03-yonetmelikler/denetim-ve-mali-yapi",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.seddk.gov.tr/tr/mevzuat/sigortacilik/yonetmelikler"
+      ],
+      "etiketler": [
+        "bagimsiz-denetim",
+        "denetim-kurulusu"
+      ],
+      "ozet": "Bağımsız denetim kuruluşlarının yetkilendirilmesi ve denetim raporlarının esasları."
+    },
+    {
+      "id": "yon-ic-sistemler",
+      "baslik": "Sigortacılık Sektöründe İç Sistemlere Dair Yönetmelik",
+      "tur": "yonetmelik",
+      "klasor": "belgeler/03-yonetmelikler/denetim-ve-mali-yapi",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.seddk.gov.tr/tr/mevzuat/sigortacilik/yonetmelikler"
+      ],
+      "etiketler": [
+        "ic-kontrol",
+        "ic-denetim",
+        "risk-yonetimi",
+        "uyum"
+      ],
+      "ozet": "İç kontrol, iç denetim, risk yönetimi ve uyum fonksiyonlarının kurulmasına ilişkin esaslar."
+    },
+    {
+      "id": "yon-sigortacilik-destek-hizmetleri",
+      "baslik": "Sigortacılık Destek Hizmetleri Hakkında Yönetmelik",
+      "tur": "yonetmelik",
+      "klasor": "belgeler/03-yonetmelikler/sigortacilik",
+      "brans": [
+        "hasar",
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "degisiklik-bekliyor",
+      "oncelik": 1,
+      "kaynaklar": [
+        "https://www.seddk.gov.tr/tr/mevzuat/sigortacilik/yonetmelikler"
+      ],
+      "etiketler": [
+        "hasar-yonetimi",
+        "asistans",
+        "hasar-arastiriciligi",
+        "destek-hizmeti",
+        "2026-degisikligi"
+      ],
+      "ozet": "Hasar yönetimi, asistans ve hasar araştırmacılığı faaliyetlerinin izne bağlanması; 23/07/2026 değişikliği ile özsermaye ve uyum şartları getirildi."
+    },
+    {
+      "id": "yon-sigortacilik-kapsaminda-degerlendirilecek-faaliyetler",
+      "baslik": "Sigortacılık Kapsamında Değerlendirilecek Faaliyetlere, Tüketici Lehine Yapılan Sigorta Sözleşmeleri ile Mesafeli Akdedilen Sigorta Sözleşmelerine İlişkin Yönetmelik",
+      "tur": "yonetmelik",
+      "klasor": "belgeler/03-yonetmelikler/sigortacilik",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 2,
+      "kaynaklar": [
+        "https://www.seddk.gov.tr/tr/mevzuat/sigortacilik/yonetmelikler"
+      ],
+      "etiketler": [
+        "mesafeli-sigorta",
+        "tuketici-lehine-sigorta",
+        "uzaktan-satis"
+      ],
+      "ozet": "Uzaktan/mesafeli sigorta satışı ve tüketici lehine yapılan sözleşmelerde bilgilendirme ve cayma esasları."
+    },
+    {
+      "id": "yon-ozel-saglik-sigortalari",
+      "baslik": "Özel Sağlık Sigortaları Yönetmeliği",
+      "tur": "yonetmelik",
+      "klasor": "belgeler/03-yonetmelikler/sigortacilik",
+      "brans": [
+        "saglik"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2013-10-23",
+      "rg_sayisi": "28800",
+      "durum": "degisiklik-bekliyor",
+      "oncelik": 1,
+      "kaynaklar": [
+        "https://www.seddk.gov.tr/tr/mevzuat/sigortacilik/yonetmelikler"
+      ],
+      "etiketler": [
+        "omur-boyu-yenileme-garantisi",
+        "bekleme-suresi",
+        "gecis-islemleri",
+        "tamamlayici-saglik"
+      ],
+      "ozet": "Özel sağlık sigortalarında yenileme garantisi, bekleme süreleri ve geçiş işlemleri; 01/01/2026 yürürlüklü kapsamlı değişiklik içerir."
+    },
+    {
+      "id": "yon-hayat-grubu-sigortalari",
+      "baslik": "Hayat Grubu Sigortaları Yönetmeliği",
+      "tur": "yonetmelik",
+      "klasor": "belgeler/03-yonetmelikler/sigortacilik",
+      "brans": [
+        "hayat"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2012-10-10",
+      "rg_sayisi": "28437",
+      "durum": "yururlukte",
+      "oncelik": 2,
+      "kaynaklar": [
+        "https://www.seddk.gov.tr/tr/mevzuat/sigortacilik/yonetmelikler"
+      ],
+      "etiketler": [
+        "hayat-sigortasi",
+        "kar-payi",
+        "istirak-hakki",
+        "birikimli-hayat"
+      ],
+      "ozet": "Hayat sigortalarında kâr payı, iştira, ikraz ve tarife esasları."
+    },
+    {
+      "id": "yon-sigortacilikta-tahkim",
+      "baslik": "Sigortacılıkta Tahkime İlişkin Yönetmelik",
+      "tur": "yonetmelik",
+      "klasor": "belgeler/09-tahkim/mevzuat",
+      "brans": [
+        "uyusmazlik"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2007-08-17",
+      "rg_sayisi": "26616",
+      "durum": "yururlukte",
+      "oncelik": 1,
+      "kaynaklar": [
+        "https://www.seddk.gov.tr/tr/mevzuat/sigortacilik/yonetmelikler",
+        "https://www.sigortatahkim.org"
+      ],
+      "etiketler": [
+        "tahkim",
+        "hakem",
+        "itiraz-hakem-heyeti",
+        "sigorta-tahkim-komisyonu"
+      ],
+      "ozet": "Sigorta Tahkim Komisyonu'nun işleyişi, hakem listeleri, başvuru ve itiraz usulü."
+    },
+    {
+      "id": "yon-sbm",
+      "baslik": "Sigorta Bilgi ve Gözetim Merkezi Yönetmeliği",
+      "tur": "yonetmelik",
+      "klasor": "belgeler/03-yonetmelikler/sigortacilik",
+      "brans": [
+        "genel",
+        "veri"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2008-08-09",
+      "rg_sayisi": "26962",
+      "durum": "degisiklik-bekliyor",
+      "oncelik": 2,
+      "kaynaklar": [
+        "https://www.seddk.gov.tr/tr/mevzuat/sigortacilik/yonetmelikler"
+      ],
+      "etiketler": [
+        "sbm",
+        "veri-paylasimi",
+        "hasar-gecmisi",
+        "tramer",
+        "hayat",
+        "sagmer"
+      ],
+      "ozet": "SBM'nin görevleri, veri toplama ve paylaşım esasları; 23/06/2026 tarihli değişiklikle güncellendi."
+    },
+    {
+      "id": "yon-zmss-tarife-uygulama-esaslari",
+      "baslik": "Karayolları Motorlu Araçlar Zorunlu Mali Sorumluluk Sigortasında Tarife Uygulama Esasları Hakkında Yönetmelik",
+      "tur": "yonetmelik",
+      "klasor": "belgeler/03-yonetmelikler/zorunlu-sigortalar",
+      "brans": [
+        "sorumluluk",
+        "motorlu-arac"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2017-07-14",
+      "rg_sayisi": "30124",
+      "durum": "yururlukte",
+      "oncelik": 1,
+      "kaynaklar": [
+        "https://www.seddk.gov.tr/tr/mevzuat/sigortacilik/yonetmelikler"
+      ],
+      "etiketler": [
+        "zmss",
+        "azami-prim",
+        "basamak-sistemi",
+        "hasarsizlik-indirimi",
+        "riskli-sigortalilar-havuzu"
+      ],
+      "ozet": "Trafik sigortasında azami prim tarifesi, basamak (hasarsızlık) sistemi ve havuz uygulaması."
+    },
+    {
+      "id": "yon-trafik-kazasi-saglik-bedelleri",
+      "baslik": "Trafik Kazaları Nedeniyle İlgililere Sunulan Sağlık Hizmet Bedellerinin Tahsiline İlişkin Usul ve Esaslar Hakkında Yönetmelik",
+      "tur": "yonetmelik",
+      "klasor": "belgeler/03-yonetmelikler/zorunlu-sigortalar",
+      "brans": [
+        "sorumluluk",
+        "saglik"
+      ],
+      "otorite": "Hazine ve Maliye Bakanlığı / SGK",
+      "numara": null,
+      "rg_tarihi": "2011-08-27",
+      "rg_sayisi": "28037",
+      "durum": "yururlukte",
+      "oncelik": 2,
+      "kaynaklar": [
+        "https://www.mevzuat.gov.tr"
+      ],
+      "etiketler": [
+        "tedavi-gideri",
+        "sgk-devri",
+        "ktk-gecici-madde-1"
+      ],
+      "ozet": "Trafik kazası tedavi giderlerinin SGK'ya devri ve sigorta şirketlerinden tahsil usulü."
+    },
+    {
+      "id": "yon-katilim-sigortaciligi",
+      "baslik": "Katılım Sigortacılığı Çalışma Usul ve Esasları Hakkında Yönetmelik",
+      "tur": "yonetmelik",
+      "klasor": "belgeler/03-yonetmelikler/katilim-sigortaciligi",
+      "brans": [
+        "katilim"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2020-12-19",
+      "rg_sayisi": "31339",
+      "durum": "yururlukte",
+      "oncelik": 2,
+      "kaynaklar": [
+        "https://www.seddk.gov.tr/tr/mevzuat"
+      ],
+      "etiketler": [
+        "tekafül",
+        "risk-fonu",
+        "danisma-komitesi",
+        "vekalet-mudarebe"
+      ],
+      "ozet": "Katılım (tekafül) esaslı sigortacılıkta risk fonu, danışma komitesi ve yönetim modelleri."
+    },
+    {
+      "id": "yon-bes-hakkinda",
+      "baslik": "Bireysel Emeklilik Sistemi Hakkında Yönetmelik",
+      "tur": "yonetmelik",
+      "klasor": "belgeler/03-yonetmelikler/bireysel-emeklilik",
+      "brans": [
+        "bes"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2012-11-09",
+      "rg_sayisi": "28462",
+      "durum": "yururlukte",
+      "oncelik": 2,
+      "kaynaklar": [
+        "https://www.seddk.gov.tr/tr/mevzuat/bireysel-emeklilik/genelge-teblig-ve-sektor-duyurulari"
+      ],
+      "etiketler": [
+        "bes",
+        "emeklilik-sozlesmesi",
+        "kesinti",
+        "aktarim"
+      ],
+      "ozet": "Emeklilik sözleşmesi, kesintiler, aktarım ve sistemden çıkış esasları."
+    },
+    {
+      "id": "yon-emeklilik-yatirim-fonlari",
+      "baslik": "Emeklilik Yatırım Fonlarının Kuruluş ve Faaliyetlerine İlişkin Yönetmelik",
+      "tur": "yonetmelik",
+      "klasor": "belgeler/03-yonetmelikler/bireysel-emeklilik",
+      "brans": [
+        "bes"
+      ],
+      "otorite": "SEDDK / SPK",
+      "numara": null,
+      "rg_tarihi": "2013-03-13",
+      "rg_sayisi": "28586",
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.seddk.gov.tr/tr/mevzuat"
+      ],
+      "etiketler": [
+        "emeklilik-yatirim-fonu",
+        "portfoy-yonetimi",
+        "fon-turleri"
+      ],
+      "ozet": "Emeklilik yatırım fonlarının kuruluşu, portföy sınırlamaları ve gözetimi."
+    },
+    {
+      "id": "yon-otomatik-katilim",
+      "baslik": "Çalışanların İşverenleri Aracılığıyla Otomatik Olarak Emeklilik Planına Dâhil Edilmesine İlişkin Usul ve Esaslar Hakkında Yönetmelik",
+      "tur": "yonetmelik",
+      "klasor": "belgeler/03-yonetmelikler/bireysel-emeklilik",
+      "brans": [
+        "bes"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2017-01-02",
+      "rg_sayisi": "29936",
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.seddk.gov.tr/tr/mevzuat"
+      ],
+      "etiketler": [
+        "otomatik-katilim",
+        "oks",
+        "cayma-hakki",
+        "isveren-yukumlulugu"
+      ],
+      "ozet": "Otomatik katılım sisteminde işveren yükümlülükleri, cayma ve devlet katkısı."
+    },
+    {
+      "id": "yon-dask-calisma-esaslari",
+      "baslik": "Doğal Afet Sigortaları Kurumu Çalışma Esasları Yönetmeliği",
+      "tur": "yonetmelik",
+      "klasor": "belgeler/03-yonetmelikler/afet-ve-tarim",
+      "brans": [
+        "dogal-afet"
+      ],
+      "otorite": "Hazine ve Maliye Bakanlığı / SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 2,
+      "kaynaklar": [
+        "https://dask.gov.tr",
+        "https://www.mevzuat.gov.tr"
+      ],
+      "etiketler": [
+        "dask",
+        "zorunlu-deprem-sigortasi",
+        "yonetim-kurulu",
+        "reasurans"
+      ],
+      "ozet": "DASK'ın organları, teknik işleyişi ve zorunlu deprem sigortası uygulama esasları."
+    },
+    {
+      "id": "yon-tarim-sigortalari-havuzu",
+      "baslik": "Tarım Sigortaları Havuzu Çalışma Usul ve Esasları Hakkında Yönetmelik",
+      "tur": "yonetmelik",
+      "klasor": "belgeler/03-yonetmelikler/afet-ve-tarim",
+      "brans": [
+        "tarim"
+      ],
+      "otorite": "Tarım ve Orman Bakanlığı / SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.tarsim.gov.tr",
+        "https://www.mevzuat.gov.tr"
+      ],
+      "etiketler": [
+        "tarsim",
+        "havuz",
+        "devlet-destegi",
+        "prim-destegi"
+      ],
+      "ozet": "TARSİM havuzunun işleyişi, risk paylaşımı ve devlet prim desteği."
+    },
+    {
+      "id": "gs-zmss-trafik",
+      "baslik": "Karayolları Motorlu Araçlar Zorunlu Mali Sorumluluk Sigortası (Trafik Sigortası) Genel Şartları",
+      "tur": "genel-sart",
+      "klasor": "belgeler/05-genel-sartlar/sorumluluk",
+      "brans": [
+        "sorumluluk",
+        "motorlu-arac"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2015-05-14",
+      "rg_sayisi": "29355",
+      "durum": "kismen-iptal",
+      "oncelik": 1,
+      "kaynaklar": [
+        "https://www.tsb.org.tr/content/Legislations/Karayollar%C4%B1_Motorlu_Araclar_Zorunlu_Mali_Sorumluluk_Sigortas%C4%B1_Trafik_Genel_Sartlar%C4%B1_.pdf",
+        "https://www.tsb.org.tr/tr/mevzuat/sigortacilik/genel-sartlar",
+        "https://www.seddk.gov.tr/tr/mevzuat"
+      ],
+      "etiketler": [
+        "zmss",
+        "trafik",
+        "teminat-disi-haller",
+        "destekten-yoksun-kalma",
+        "deger-kaybi",
+        "surekli-sakatlik",
+        "ek-tablolar"
+      ],
+      "ozet": "Trafik sigortasının kapsamı, teminat dışı haller, tazminat türleri ve ekli hesaplama tabloları; 2015 metni ve sonraki değişiklikleri ile AYM/Danıştay iptalleri birlikte izlenmelidir."
+    },
+    {
+      "id": "gs-kasko",
+      "baslik": "Kara Araçları Kasko Sigortası Genel Şartları",
+      "tur": "genel-sart",
+      "klasor": "belgeler/05-genel-sartlar/kara-araclari",
+      "brans": [
+        "kara-araclari"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2013-01-01",
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 1,
+      "kaynaklar": [
+        "https://www.tsb.org.tr/content/Legislations/Kara_Araclar%C4%B1_Kasko_Sigortas%C4%B1_Genel_Sartlar%C4%B1.pdf",
+        "https://www.tsb.org.tr/tr/mevzuat/sigortacilik/genel-sartlar"
+      ],
+      "etiketler": [
+        "kasko",
+        "pert",
+        "rayic-deger",
+        "muafiyet",
+        "cari-teminat",
+        "dar-kasko"
+      ],
+      "ozet": "Kasko teminat kapsamı, ek sözleşmeyle teminat altına alınabilecek haller, teminat dışı haller ve hasar ödeme esasları."
+    },
+    {
+      "id": "gs-imm-ihtiyari-mali-sorumluluk",
+      "baslik": "Motorlu Kara Taşıt Araçları İhtiyari Mali Sorumluluk Sigortası Genel Şartları",
+      "tur": "genel-sart",
+      "klasor": "belgeler/05-genel-sartlar/sorumluluk",
+      "brans": [
+        "sorumluluk",
+        "motorlu-arac"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 1,
+      "kaynaklar": [
+        "https://www.tsb.org.tr/tr/mevzuat/sigortacilik/genel-sartlar"
+      ],
+      "etiketler": [
+        "imm",
+        "ihtiyari-mali-sorumluluk",
+        "askin-teminat"
+      ],
+      "ozet": "Zorunlu trafik sigortası limitlerini aşan sorumluluk için ihtiyari teminat esasları."
+    },
+    {
+      "id": "gs-zorunlu-koltuk-ferdi-kaza",
+      "baslik": "Karayolu Yolcu Taşımacılığı Zorunlu Koltuk Ferdi Kaza Sigortası Genel Şartları",
+      "tur": "genel-sart",
+      "klasor": "belgeler/05-genel-sartlar/sorumluluk",
+      "brans": [
+        "sorumluluk",
+        "tasimacilik",
+        "ferdi-kaza"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 2,
+      "kaynaklar": [
+        "https://www.tsb.org.tr/tr/mevzuat/sigortacilik/genel-sartlar"
+      ],
+      "etiketler": [
+        "koltuk-ferdi-kaza",
+        "yolcu",
+        "surucu",
+        "muavin"
+      ],
+      "ozet": "Yolcu, sürücü ve yardımcıları için ölüm, sakatlık ve tedavi teminatları."
+    },
+    {
+      "id": "gs-zorunlu-karayolu-tasimacilik-mali-sorumluluk",
+      "baslik": "Zorunlu Karayolu Taşımacılık Mali Sorumluluk Sigortası Genel Şartları",
+      "tur": "genel-sart",
+      "klasor": "belgeler/05-genel-sartlar/sorumluluk",
+      "brans": [
+        "sorumluluk",
+        "tasimacilik"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 2,
+      "kaynaklar": [
+        "https://www.tsb.org.tr/tr/mevzuat/sigortacilik/genel-sartlar"
+      ],
+      "etiketler": [
+        "tasimacilik-sorumluluk",
+        4925,
+        "yetki-belgesi"
+      ],
+      "ozet": "4925 sayılı Kanun kapsamında taşımacının yolculara karşı sorumluluğunun teminatı."
+    },
+    {
+      "id": "gs-tehlikeli-maddeler-zorunlu-sorumluluk",
+      "baslik": "Tehlikeli Maddeler ve Tehlikeli Atık Zorunlu Mali Sorumluluk Sigortası Genel Şartları",
+      "tur": "genel-sart",
+      "klasor": "belgeler/05-genel-sartlar/sorumluluk",
+      "brans": [
+        "sorumluluk"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 2,
+      "kaynaklar": [
+        "https://www.tsb.org.tr/tr/mevzuat/sigortacilik/genel-sartlar"
+      ],
+      "etiketler": [
+        "tehlikeli-madde",
+        "tehlikeli-atik",
+        "cevre"
+      ],
+      "ozet": "Tehlikeli madde ve atıkların üretim, depolama, taşıma faaliyetlerinden doğan üçüncü kişi zararlarının teminatı."
+    },
+    {
+      "id": "gs-tupgaz-zorunlu-sorumluluk",
+      "baslik": "Tüpgaz Zorunlu Sorumluluk Sigortası Genel Şartları",
+      "tur": "genel-sart",
+      "klasor": "belgeler/05-genel-sartlar/sorumluluk",
+      "brans": [
+        "sorumluluk"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.tsb.org.tr/tr/mevzuat/sigortacilik/genel-sartlar"
+      ],
+      "etiketler": [
+        "tupgaz",
+        "lpg",
+        "patlama"
+      ],
+      "ozet": "Likit petrol gazı tüplerinin kullanımından doğan zararlara ilişkin zorunlu teminat."
+    },
+    {
+      "id": "gs-kiyi-tesisleri-deniz-kirliligi",
+      "baslik": "Kıyı Tesisleri Deniz Kirliliği Zorunlu Mali Sorumluluk Sigortası Genel Şartları",
+      "tur": "genel-sart",
+      "klasor": "belgeler/05-genel-sartlar/sorumluluk",
+      "brans": [
+        "sorumluluk",
+        "deniz"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.tsb.org.tr/tr/mevzuat/sigortacilik/genel-sartlar"
+      ],
+      "etiketler": [
+        "deniz-kirliligi",
+        "kiyi-tesisi",
+        "cevre-zarari"
+      ],
+      "ozet": "Kıyı tesislerinden kaynaklanan deniz kirliliği zararlarının zorunlu teminatı."
+    },
+    {
+      "id": "gs-tibbi-kotu-uygulama",
+      "baslik": "Tıbbi Kötü Uygulamaya İlişkin Zorunlu Mali Sorumluluk Sigortası Genel Şartları",
+      "tur": "genel-sart",
+      "klasor": "belgeler/05-genel-sartlar/sorumluluk",
+      "brans": [
+        "sorumluluk",
+        "mesleki"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": "2010-07-21",
+      "rg_sayisi": "27648",
+      "durum": "yururlukte",
+      "oncelik": 1,
+      "kaynaklar": [
+        "https://www.tsb.org.tr/tr/mevzuat/sigortacilik/genel-sartlar"
+      ],
+      "etiketler": [
+        "malpraktis",
+        "hekim-sorumlulugu",
+        "ihbar-esasli",
+        "gecmise-yonelik-teminat"
+      ],
+      "ozet": "Hekimlerin mesleki sorumluluğunun zorunlu teminatı; ihbar esaslı (claims-made) yapı ve geçmişe/geleceğe yönelik teminat süreleri."
+    },
+    {
+      "id": "gs-mesleki-sorumluluk",
+      "baslik": "Mesleki Sorumluluk Sigortası Genel Şartları (ve meslek grubu ekleri)",
+      "tur": "genel-sart",
+      "klasor": "belgeler/05-genel-sartlar/sorumluluk",
+      "brans": [
+        "sorumluluk",
+        "mesleki"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 2,
+      "kaynaklar": [
+        "https://www.tsb.org.tr/tr/mevzuat/sigortacilik/genel-sartlar"
+      ],
+      "etiketler": [
+        "mesleki-sorumluluk",
+        "smmm-ymm-eki",
+        "avukat-eki",
+        "sigorta-aracilari-eki"
+      ],
+      "ozet": "Serbest meslek mensuplarının mesleki hatalarından doğan sorumluluğun teminatı ve meslek bazlı ekler."
+    },
+    {
+      "id": "gs-ozel-guvenlik-zorunlu-sorumluluk",
+      "baslik": "Özel Güvenlik Zorunlu Mali Sorumluluk Sigortası Genel Şartları",
+      "tur": "genel-sart",
+      "klasor": "belgeler/05-genel-sartlar/sorumluluk",
+      "brans": [
+        "sorumluluk"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.tsb.org.tr/tr/mevzuat/sigortacilik/genel-sartlar"
+      ],
+      "etiketler": [
+        "ozel-guvenlik",
+        5188,
+        "ucuncu-kisi-zarari"
+      ],
+      "ozet": "Özel güvenlik görevlilerinin görev sırasında üçüncü kişilere verdiği zararların zorunlu teminatı."
+    },
+    {
+      "id": "gs-deniz-araclari-zorunlu-sorumluluk",
+      "baslik": "Deniz Araçları Zorunlu Mali Sorumluluk Sigortası Genel Şartları",
+      "tur": "genel-sart",
+      "klasor": "belgeler/05-genel-sartlar/sorumluluk",
+      "brans": [
+        "sorumluluk",
+        "deniz"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.tsb.org.tr/tr/mevzuat/sigortacilik/genel-sartlar"
+      ],
+      "etiketler": [
+        "deniz-araci",
+        "yolcu-tasima",
+        "zorunlu-sorumluluk"
+      ],
+      "ozet": "Deniz yoluyla yolcu taşımacılığında zorunlu mali sorumluluk teminatı."
+    },
+    {
+      "id": "gs-maden-calisanlari-zorunlu-ferdi-kaza",
+      "baslik": "Maden Çalışanları Zorunlu Ferdi Kaza Sigortası Genel Şartları",
+      "tur": "genel-sart",
+      "klasor": "belgeler/05-genel-sartlar/sorumluluk",
+      "brans": [
+        "ferdi-kaza"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.tsb.org.tr/tr/mevzuat/sigortacilik/genel-sartlar"
+      ],
+      "etiketler": [
+        "maden",
+        "ferdi-kaza",
+        "zorunlu"
+      ],
+      "ozet": "Maden çalışanları için zorunlu ölüm ve sürekli sakatlık teminatı."
+    },
+    {
+      "id": "gs-isveren-sorumluluk",
+      "baslik": "İşveren Sorumluluk Sigortası Genel Şartları",
+      "tur": "genel-sart",
+      "klasor": "belgeler/05-genel-sartlar/sorumluluk",
+      "brans": [
+        "sorumluluk"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 2,
+      "kaynaklar": [
+        "https://www.tsb.org.tr/tr/mevzuat/sigortacilik/genel-sartlar"
+      ],
+      "etiketler": [
+        "is-kazasi",
+        "meslek-hastaligi",
+        "sgk-rucu",
+        "isveren"
+      ],
+      "ozet": "İş kazası ve meslek hastalığı nedeniyle işverene yöneltilen tazminat taleplerinin teminatı."
+    },
+    {
+      "id": "gs-ucuncu-sahislara-karsi-mali-mesuliyet",
+      "baslik": "Üçüncü Şahıslara Karşı Mali Mesuliyet Sigortası Genel Şartları",
+      "tur": "genel-sart",
+      "klasor": "belgeler/05-genel-sartlar/sorumluluk",
+      "brans": [
+        "sorumluluk"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 2,
+      "kaynaklar": [
+        "https://www.tsb.org.tr/tr/mevzuat/sigortacilik/genel-sartlar"
+      ],
+      "etiketler": [
+        "genel-sorumluluk",
+        "isletme-sorumlulugu",
+        "asansor"
+      ],
+      "ozet": "İşletme faaliyetlerinden doğan üçüncü kişi bedeni/maddi zararlarının ihtiyari teminatı."
+    },
+    {
+      "id": "gs-asansor-kazalarinda-sorumluluk",
+      "baslik": "Asansör Kazalarında Üçüncü Kişilere Karşı Sorumluluk Sigortası Genel Şartları",
+      "tur": "genel-sart",
+      "klasor": "belgeler/05-genel-sartlar/sorumluluk",
+      "brans": [
+        "sorumluluk"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.tsb.org.tr/tr/mevzuat/sigortacilik/genel-sartlar"
+      ],
+      "etiketler": [
+        "asansor",
+        "bina-yoneticisi",
+        "zorunlu"
+      ],
+      "ozet": "Asansör kazalarından doğan üçüncü kişi zararlarının zorunlu teminatı."
+    },
+    {
+      "id": "gs-yangin",
+      "baslik": "Yangın Sigortası Genel Şartları",
+      "tur": "genel-sart",
+      "klasor": "belgeler/05-genel-sartlar/yangin-ve-dogal-afet",
+      "brans": [
+        "yangin"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 1,
+      "kaynaklar": [
+        "https://www.tsb.org.tr/tr/mevzuat/sigortacilik/genel-sartlar"
+      ],
+      "etiketler": [
+        "yangin",
+        "yildirim",
+        "infilak",
+        "ek-teminatlar",
+        "eksik-sigorta"
+      ],
+      "ozet": "Yangın, yıldırım, infilak temel teminatı ile ek sözleşmeyle verilebilecek doğal afet ve GLKHHKNH teminatları."
+    },
+    {
+      "id": "gs-zorunlu-deprem-dask",
+      "baslik": "Zorunlu Deprem Sigortası Genel Şartları (DASK)",
+      "tur": "genel-sart",
+      "klasor": "belgeler/05-genel-sartlar/yangin-ve-dogal-afet",
+      "brans": [
+        "dogal-afet"
+      ],
+      "otorite": "SEDDK / DASK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 1,
+      "kaynaklar": [
+        "https://dask.gov.tr",
+        "https://www.tsb.org.tr/tr/mevzuat/sigortacilik/genel-sartlar"
+      ],
+      "etiketler": [
+        "dask",
+        "zorunlu-deprem",
+        "azami-teminat",
+        "muafiyet"
+      ],
+      "ozet": "Zorunlu deprem sigortasının kapsamı, kapsam dışı haller, azami teminat tutarı ve %2 muafiyet uygulaması."
+    },
+    {
+      "id": "gs-hirsizlik",
+      "baslik": "Hırsızlık Sigortası Genel Şartları",
+      "tur": "genel-sart",
+      "klasor": "belgeler/05-genel-sartlar/yangin-ve-dogal-afet",
+      "brans": [
+        "yangin"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.tsb.org.tr/tr/mevzuat/sigortacilik/genel-sartlar"
+      ],
+      "etiketler": [
+        "hirsizlik",
+        "kirilarak-giris",
+        "ispat"
+      ],
+      "ozet": "Hırsızlık ve hırsızlığa teşebbüs sonucu oluşan zararların teminat kapsamı."
+    },
+    {
+      "id": "gs-cam-kirilmasi",
+      "baslik": "Cam Kırılmasına Karşı Sigorta Genel Şartları",
+      "tur": "genel-sart",
+      "klasor": "belgeler/05-genel-sartlar/yangin-ve-dogal-afet",
+      "brans": [
+        "yangin"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.tsb.org.tr/tr/mevzuat/sigortacilik/genel-sartlar"
+      ],
+      "etiketler": [
+        "cam",
+        "kirilma"
+      ],
+      "ozet": "Sabit cam ve aynaların kırılmasından doğan zararların teminatı."
+    },
+    {
+      "id": "gs-yangina-bagli-kar-kaybi",
+      "baslik": "Yangın Sigortası ile Verilebilecek Kâr Kaybı Sigortası Genel Şartları",
+      "tur": "genel-sart",
+      "klasor": "belgeler/05-genel-sartlar/yangin-ve-dogal-afet",
+      "brans": [
+        "yangin"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.tsb.org.tr/tr/mevzuat/sigortacilik/genel-sartlar"
+      ],
+      "etiketler": [
+        "kar-kaybi",
+        "is-durmasi",
+        "tazminat-suresi"
+      ],
+      "ozet": "Yangın hasarına bağlı iş durması ve brüt kâr kaybının teminatı."
+    },
+    {
+      "id": "gs-emtia-nakliyat",
+      "baslik": "Emtia Nakliyat Sigortası Genel Şartları",
+      "tur": "genel-sart",
+      "klasor": "belgeler/05-genel-sartlar/nakliyat",
+      "brans": [
+        "nakliyat"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 2,
+      "kaynaklar": [
+        "https://www.tsb.org.tr/tr/mevzuat/sigortacilik/genel-sartlar"
+      ],
+      "etiketler": [
+        "emtia",
+        "institute-cargo-clauses",
+        "sefer-sigortasi",
+        "abonman"
+      ],
+      "ozet": "Yük/emtia taşımalarında sigorta teminatı; uygulamada Institute Cargo Clauses ile birlikte kullanılır."
+    },
+    {
+      "id": "gs-kiymet-nakliyat",
+      "baslik": "Kıymet Nakliyat Sigortası Genel Şartları",
+      "tur": "genel-sart",
+      "klasor": "belgeler/05-genel-sartlar/nakliyat",
+      "brans": [
+        "nakliyat"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.tsb.org.tr/tr/mevzuat/sigortacilik/genel-sartlar"
+      ],
+      "etiketler": [
+        "kiymet",
+        "para-nakli",
+        "gasp"
+      ],
+      "ozet": "Para ve kıymetli evrak nakli sırasındaki zararların teminatı."
+    },
+    {
+      "id": "gs-tekne",
+      "baslik": "Tekne Sigortası Genel Şartları",
+      "tur": "genel-sart",
+      "klasor": "belgeler/05-genel-sartlar/nakliyat",
+      "brans": [
+        "nakliyat",
+        "deniz"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.tsb.org.tr/tr/mevzuat/sigortacilik/genel-sartlar"
+      ],
+      "etiketler": [
+        "tekne",
+        "denizcilik-rizikolari",
+        "musterek-avarya"
+      ],
+      "ozet": "Gemi/tekne gövde ve makinelerinin denizcilik rizikolarına karşı teminatı."
+    },
+    {
+      "id": "gs-yat",
+      "baslik": "Yat Sigortası Genel Şartları",
+      "tur": "genel-sart",
+      "klasor": "belgeler/05-genel-sartlar/nakliyat",
+      "brans": [
+        "nakliyat",
+        "deniz"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.tsb.org.tr/tr/mevzuat/sigortacilik/genel-sartlar"
+      ],
+      "etiketler": [
+        "yat",
+        "tekne",
+        "ozel-tekne"
+      ],
+      "ozet": "Özel amaçlı deniz araçlarına ilişkin teminat esasları."
+    },
+    {
+      "id": "gs-insaat-butun-riskler",
+      "baslik": "İnşaat Sigortası (Bütün Riskler) Genel Şartları",
+      "tur": "genel-sart",
+      "klasor": "belgeler/05-genel-sartlar/muhendislik",
+      "brans": [
+        "muhendislik"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 2,
+      "kaynaklar": [
+        "https://www.tsb.org.tr/tr/mevzuat/sigortacilik/genel-sartlar"
+      ],
+      "etiketler": [
+        "car",
+        "insaat-all-risks",
+        "bakim-devresi",
+        "ucuncu-sahis-eki"
+      ],
+      "ozet": "İnşaat işlerinde beklenmedik ve ani olaylardan doğan maddi zararların teminatı."
+    },
+    {
+      "id": "gs-montaj-butun-riskler",
+      "baslik": "Montaj Sigortası (Bütün Riskler) Genel Şartları",
+      "tur": "genel-sart",
+      "klasor": "belgeler/05-genel-sartlar/muhendislik",
+      "brans": [
+        "muhendislik"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.tsb.org.tr/tr/mevzuat/sigortacilik/genel-sartlar"
+      ],
+      "etiketler": [
+        "ear",
+        "montaj-all-risks",
+        "test-devresi"
+      ],
+      "ozet": "Makine ve tesis montaj işlerinde maddi zarar teminatı."
+    },
+    {
+      "id": "gs-makine-kirilmasi",
+      "baslik": "Makine Kırılması Sigortası Genel Şartları",
+      "tur": "genel-sart",
+      "klasor": "belgeler/05-genel-sartlar/muhendislik",
+      "brans": [
+        "muhendislik"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.tsb.org.tr/tr/mevzuat/sigortacilik/genel-sartlar"
+      ],
+      "etiketler": [
+        "makine-kirilmasi",
+        "ani-ve-beklenmedik",
+        "yipranma-payi"
+      ],
+      "ozet": "Makinelerin ani ve beklenmedik kırılma/arıza zararlarının teminatı."
+    },
+    {
+      "id": "gs-elektronik-cihaz",
+      "baslik": "Elektronik Cihaz Sigortası Genel Şartları",
+      "tur": "genel-sart",
+      "klasor": "belgeler/05-genel-sartlar/muhendislik",
+      "brans": [
+        "muhendislik"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.tsb.org.tr/tr/mevzuat/sigortacilik/genel-sartlar"
+      ],
+      "etiketler": [
+        "elektronik-cihaz",
+        "veri-tasiyicilari",
+        "bilgi-islem"
+      ],
+      "ozet": "Elektronik cihaz ve sistemlerin maddi zarar teminatı."
+    },
+    {
+      "id": "gs-saglik",
+      "baslik": "Sağlık Sigortası Genel Şartları",
+      "tur": "genel-sart",
+      "klasor": "belgeler/05-genel-sartlar/saglik-hayat-ferdi-kaza",
+      "brans": [
+        "saglik"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 1,
+      "kaynaklar": [
+        "https://www.tsb.org.tr/tr/mevzuat/sigortacilik/genel-sartlar"
+      ],
+      "etiketler": [
+        "saglik",
+        "yenileme-garantisi",
+        "bekleme-suresi",
+        "onceden-var-olan-hastalik",
+        "ozel-sart"
+      ],
+      "ozet": "Özel sağlık sigortalarında teminat kapsamı, beyan yükümlülüğü ve kapsam dışı haller."
+    },
+    {
+      "id": "gs-seyahat-saglik",
+      "baslik": "Seyahat Sağlık Sigortası Genel Şartları",
+      "tur": "genel-sart",
+      "klasor": "belgeler/05-genel-sartlar/saglik-hayat-ferdi-kaza",
+      "brans": [
+        "saglik"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.tsb.org.tr/tr/mevzuat/sigortacilik/genel-sartlar"
+      ],
+      "etiketler": [
+        "seyahat-saglik",
+        "vize",
+        "asistans"
+      ],
+      "ozet": "Yurt dışı/yurt içi seyahatlerde acil sağlık giderleri ve asistans teminatı."
+    },
+    {
+      "id": "gs-yabanci-saglik",
+      "baslik": "Yabancı Sağlık Sigortası Genel Şartları (ikamet izni için)",
+      "tur": "genel-sart",
+      "klasor": "belgeler/05-genel-sartlar/saglik-hayat-ferdi-kaza",
+      "brans": [
+        "saglik"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.tsb.org.tr/tr/mevzuat/sigortacilik/genel-sartlar"
+      ],
+      "etiketler": [
+        "yabanci-saglik",
+        "ikamet-izni",
+        "asgari-teminat"
+      ],
+      "ozet": "İkamet izni başvurularında aranan yabancı sağlık sigortasının asgari teminat yapısı."
+    },
+    {
+      "id": "gs-hayat",
+      "baslik": "Hayat Sigortası Genel Şartları",
+      "tur": "genel-sart",
+      "klasor": "belgeler/05-genel-sartlar/saglik-hayat-ferdi-kaza",
+      "brans": [
+        "hayat"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 1,
+      "kaynaklar": [
+        "https://www.tsb.org.tr/tr/mevzuat/sigortacilik/genel-sartlar"
+      ],
+      "etiketler": [
+        "hayat",
+        "lehtar",
+        "intihar-klozu",
+        "istira",
+        "ikraz",
+        "kredi-hayat"
+      ],
+      "ozet": "Hayat sigortalarında lehtar tayini, iştira/ikraz, intihar ve beyan yükümlülüğüne ilişkin esaslar."
+    },
+    {
+      "id": "gs-ferdi-kaza",
+      "baslik": "Ferdi Kaza Sigortası Genel Şartları",
+      "tur": "genel-sart",
+      "klasor": "belgeler/05-genel-sartlar/saglik-hayat-ferdi-kaza",
+      "brans": [
+        "ferdi-kaza"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 2,
+      "kaynaklar": [
+        "https://www.tsb.org.tr/tr/mevzuat/sigortacilik/genel-sartlar"
+      ],
+      "etiketler": [
+        "ferdi-kaza",
+        "surekli-sakatlik-cetveli",
+        "olum-teminati"
+      ],
+      "ozet": "Kaza sonucu ölüm, sürekli sakatlık ve tedavi teminatları ile sakatlık cetveli."
+    },
+    {
+      "id": "gs-dd-bitkisel-urun",
+      "baslik": "Devlet Destekli Bitkisel Ürün Sigortası Genel Şartları",
+      "tur": "genel-sart",
+      "klasor": "belgeler/05-genel-sartlar/tarim",
+      "brans": [
+        "tarim"
+      ],
+      "otorite": "SEDDK / TARSİM",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 2,
+      "kaynaklar": [
+        "https://www.tarsim.gov.tr",
+        "https://www.tsb.org.tr/tr/mevzuat/sigortacilik/genel-sartlar"
+      ],
+      "etiketler": [
+        "tarsim",
+        "dolu",
+        "don",
+        "bitkisel-urun"
+      ],
+      "ozet": "Dolu, fırtına, don ve benzeri risklere karşı bitkisel ürün teminatı."
+    },
+    {
+      "id": "gs-dd-sera",
+      "baslik": "Devlet Destekli Sera Sigortası Genel Şartları",
+      "tur": "genel-sart",
+      "klasor": "belgeler/05-genel-sartlar/tarim",
+      "brans": [
+        "tarim"
+      ],
+      "otorite": "SEDDK / TARSİM",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.tarsim.gov.tr"
+      ],
+      "etiketler": [
+        "sera",
+        "ortu-malzemesi",
+        "tarsim"
+      ],
+      "ozet": "Sera yapı malzemesi ve içindeki ürünlerin teminatı."
+    },
+    {
+      "id": "gs-dd-buyukbas-hayvan-hayat",
+      "baslik": "Devlet Destekli Büyükbaş Hayvan Hayat Sigortası Genel Şartları",
+      "tur": "genel-sart",
+      "klasor": "belgeler/05-genel-sartlar/tarim",
+      "brans": [
+        "tarim"
+      ],
+      "otorite": "SEDDK / TARSİM",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.tarsim.gov.tr"
+      ],
+      "etiketler": [
+        "buyukbas",
+        "hayvan-hayat",
+        "kupe"
+      ],
+      "ozet": "Büyükbaş hayvanların ölüm ve mecburi kesim risklerinin teminatı."
+    },
+    {
+      "id": "gs-dd-kucukbas-hayvan-hayat",
+      "baslik": "Devlet Destekli Küçükbaş Hayvan Hayat Sigortası Genel Şartları",
+      "tur": "genel-sart",
+      "klasor": "belgeler/05-genel-sartlar/tarim",
+      "brans": [
+        "tarim"
+      ],
+      "otorite": "SEDDK / TARSİM",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.tarsim.gov.tr"
+      ],
+      "etiketler": [
+        "kucukbas",
+        "hayvan-hayat"
+      ],
+      "ozet": "Küçükbaş hayvanların ölüm ve mecburi kesim risklerinin teminatı."
+    },
+    {
+      "id": "gs-dd-kumes-hayvanlari",
+      "baslik": "Devlet Destekli Kümes Hayvanları Hayat Sigortası Genel Şartları",
+      "tur": "genel-sart",
+      "klasor": "belgeler/05-genel-sartlar/tarim",
+      "brans": [
+        "tarim"
+      ],
+      "otorite": "SEDDK / TARSİM",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.tarsim.gov.tr"
+      ],
+      "etiketler": [
+        "kumes-hayvanlari",
+        "biyoguvenlik"
+      ],
+      "ozet": "Kapalı sistem kümeslerdeki hayvanların ölüm risklerinin teminatı."
+    },
+    {
+      "id": "gs-dd-su-urunleri",
+      "baslik": "Devlet Destekli Su Ürünleri Sigortası Genel Şartları",
+      "tur": "genel-sart",
+      "klasor": "belgeler/05-genel-sartlar/tarim",
+      "brans": [
+        "tarim"
+      ],
+      "otorite": "SEDDK / TARSİM",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.tarsim.gov.tr"
+      ],
+      "etiketler": [
+        "su-urunleri",
+        "kafes",
+        "balik"
+      ],
+      "ozet": "Yetiştiricilik tesislerindeki su ürünlerinin ölüm risklerinin teminatı."
+    },
+    {
+      "id": "gs-dd-arici-kovan",
+      "baslik": "Devlet Destekli Arıcılık (Arılı Kovan) Sigortası Genel Şartları",
+      "tur": "genel-sart",
+      "klasor": "belgeler/05-genel-sartlar/tarim",
+      "brans": [
+        "tarim"
+      ],
+      "otorite": "SEDDK / TARSİM",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.tarsim.gov.tr"
+      ],
+      "etiketler": [
+        "aricilik",
+        "kovan"
+      ],
+      "ozet": "Arılı kovanların belirlenen risklere karşı teminatı."
+    },
+    {
+      "id": "gs-dd-gelir-koruma",
+      "baslik": "Devlet Destekli Gelir Koruma Sigortası Genel Şartları",
+      "tur": "genel-sart",
+      "klasor": "belgeler/05-genel-sartlar/tarim",
+      "brans": [
+        "tarim"
+      ],
+      "otorite": "SEDDK / TARSİM",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.tarsim.gov.tr"
+      ],
+      "etiketler": [
+        "gelir-koruma",
+        "verim",
+        "fiyat-riski"
+      ],
+      "ozet": "Ürün geliri düşüşüne karşı verim ve/veya fiyat esaslı teminat."
+    },
+    {
+      "id": "gs-kredi",
+      "baslik": "Kredi Sigortası Genel Şartları",
+      "tur": "genel-sart",
+      "klasor": "belgeler/05-genel-sartlar/kredi-kefalet-hukuksal-koruma",
+      "brans": [
+        "kredi"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.tsb.org.tr/tr/mevzuat/sigortacilik/genel-sartlar"
+      ],
+      "etiketler": [
+        "ticari-alacak",
+        "temerrut",
+        "kredi-sigortasi"
+      ],
+      "ozet": "Ticari alacakların ödenmemesi riskine karşı teminat."
+    },
+    {
+      "id": "gs-dd-ticari-alacak",
+      "baslik": "Devlet Destekli Ticari Alacak Sigortası Genel Şartları",
+      "tur": "genel-sart",
+      "klasor": "belgeler/05-genel-sartlar/kredi-kefalet-hukuksal-koruma",
+      "brans": [
+        "kredi"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.tsb.org.tr/tr/mevzuat/sigortacilik/genel-sartlar"
+      ],
+      "etiketler": [
+        "kobi",
+        "devlet-destegi",
+        "alacak-sigortasi"
+      ],
+      "ozet": "KOBİ'lere yönelik devlet destekli alacak sigortası sistemi."
+    },
+    {
+      "id": "gs-kefalet",
+      "baslik": "Kefalet Sigortası Genel Şartları",
+      "tur": "genel-sart",
+      "klasor": "belgeler/05-genel-sartlar/kredi-kefalet-hukuksal-koruma",
+      "brans": [
+        "kefalet"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 2,
+      "kaynaklar": [
+        "https://www.tsb.org.tr/tr/mevzuat/sigortacilik/genel-sartlar"
+      ],
+      "etiketler": [
+        "kefalet-senedi",
+        "teminat-mektubu-alternatifi",
+        "kamu-ihale"
+      ],
+      "ozet": "Kefalet senedi ile borçlunun yükümlülüğünün teminatı; kamu ihalelerinde teminat mektubu alternatifi."
+    },
+    {
+      "id": "gs-hukuksal-koruma",
+      "baslik": "Hukuksal Koruma Sigortası Genel Şartları",
+      "tur": "genel-sart",
+      "klasor": "belgeler/05-genel-sartlar/kredi-kefalet-hukuksal-koruma",
+      "brans": [
+        "hukuksal-koruma"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 2,
+      "kaynaklar": [
+        "https://www.tsb.org.tr/tr/mevzuat/sigortacilik/genel-sartlar"
+      ],
+      "etiketler": [
+        "hukuksal-koruma",
+        "avukatlik-ucreti",
+        "serbest-avukat-secimi"
+      ],
+      "ozet": "Sigortalının hukuki uyuşmazlıklarındaki avukatlık ücreti, dava ve icra masraflarının teminatı."
+    },
+    {
+      "id": "gs-ek-tablolar-ve-klozlar",
+      "baslik": "Genel Şart Ekleri, Klozlar ve Hesaplama Tabloları Derlemesi",
+      "tur": "genel-sart",
+      "klasor": "belgeler/05-genel-sartlar/klozlar-ve-ekler",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "kismen-iptal",
+      "oncelik": 1,
+      "kaynaklar": [
+        "https://www.tsb.org.tr/tr/mevzuat/sigortacilik/genel-sartlar",
+        "https://www.seddk.gov.tr/tr/mevzuat"
+      ],
+      "etiketler": [
+        "ek-tablo",
+        "trh-2010",
+        "teknik-faiz",
+        "deger-kaybi-formulu",
+        "glkhhknh",
+        "terör-klozu",
+        "deprem-klozu"
+      ],
+      "ozet": "ZMSS genel şartına ekli sürekli sakatlık/destekten yoksun kalma/değer kaybı hesap ekleri ile yangın ve kasko ek teminat klozlarının derlemesi; iptal edilen ek hükümler ayrıca işaretlenir."
+    },
+    {
+      "id": "teb-zorunlu-deprem-tarife-talimat",
+      "baslik": "Zorunlu Deprem Sigortası Tarife ve Talimat Tebliği",
+      "tur": "teblig",
+      "klasor": "belgeler/04-tebligler-ve-tarifeler",
+      "brans": [
+        "dogal-afet"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 2,
+      "kaynaklar": [
+        "https://dask.gov.tr",
+        "https://www.seddk.gov.tr/tr/mevzuat"
+      ],
+      "etiketler": [
+        "dask",
+        "tarife",
+        "azami-teminat",
+        "risk-bolgesi"
+      ],
+      "ozet": "DASK azami teminat tutarı, risk bölgesi/yapı tarzı bazlı prim tarifesi ve indirim/sürprim esasları (yıllık güncellenir)."
+    },
+    {
+      "id": "teb-zmss-azami-prim-tarifesi",
+      "baslik": "Karayolları Motorlu Araçlar Zorunlu Mali Sorumluluk Sigortası Azami Prim Tutarları ve Teminat Limitleri",
+      "tur": "tarife",
+      "klasor": "belgeler/04-tebligler-ve-tarifeler",
+      "brans": [
+        "sorumluluk",
+        "motorlu-arac"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 1,
+      "kaynaklar": [
+        "https://www.seddk.gov.tr/tr/mevzuat",
+        "https://www.seddk.gov.tr/tr/duyurular"
+      ],
+      "etiketler": [
+        "azami-prim",
+        "teminat-limiti",
+        "tavan-fiyat",
+        "basamak"
+      ],
+      "ozet": "Trafik sigortasında araç türü ve il bazında azami prim tutarları ile yıllık teminat limitleri (periyodik güncellenir)."
+    },
+    {
+      "id": "teb-sigortacilik-hesap-plani",
+      "baslik": "Sigortacılık Hesap Planı ve İzahnamesi Hakkında Tebliğ",
+      "tur": "teblig",
+      "klasor": "belgeler/04-tebligler-ve-tarifeler",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.seddk.gov.tr/tr/mevzuat"
+      ],
+      "etiketler": [
+        "muhasebe",
+        "hesap-plani",
+        "finansal-tablolar"
+      ],
+      "ozet": "Sigorta, reasürans ve emeklilik şirketlerinin muhasebe hesap planı ve raporlama esasları."
+    },
+    {
+      "id": "teb-aktueryal-zincirleme-merdiven",
+      "baslik": "Aktüeryal Zincirleme Merdiven Metoduna İlişkin Genelge/Tebliğ",
+      "tur": "teblig",
+      "klasor": "belgeler/04-tebligler-ve-tarifeler",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.seddk.gov.tr/tr/mevzuat"
+      ],
+      "etiketler": [
+        "azmm",
+        "muallak-hasar",
+        "aktuerya"
+      ],
+      "ozet": "Muallak hasar karşılığı hesabında aktüeryal zincirleme merdiven metodunun uygulanması."
+    },
+    {
+      "id": "kol-seddk-sigortacilik-genelgeleri",
+      "baslik": "SEDDK Sigortacılık Genelgeleri (tam seri)",
+      "tur": "koleksiyon",
+      "klasor": "belgeler/06-genelgeler/sigortacilik",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 1,
+      "kaynaklar": [
+        "https://www.seddk.gov.tr/tr/mevzuat"
+      ],
+      "etiketler": [
+        "genelge",
+        "seri-toplama",
+        "yil-bazli-numaralandirma"
+      ],
+      "ozet": "SEDDK'nın (ve devraldığı Hazine Müsteşarlığı dönemi) yıl/sıra numaralı sigortacılık genelgelerinin tamamı — her genelge ayrı .md olarak açılır.",
+      "seri": {
+        "numara_deseni": "YYYY/NN",
+        "bilinen_ornekler": [
+          "2025/28 — Özel Sağlık Sigortaları Yönetmeliğinin Uygulama Esaslarına İlişkin Genelge"
+        ],
+        "onceki_otorite": "Hazine Müsteşarlığı (2019 öncesi)"
+      }
+    },
+    {
+      "id": "kol-seddk-bes-genelgeleri",
+      "baslik": "SEDDK Bireysel Emeklilik Genelge, Tebliğ ve Sektör Duyuruları (tam seri)",
+      "tur": "koleksiyon",
+      "klasor": "belgeler/06-genelgeler/bireysel-emeklilik",
+      "brans": [
+        "bes"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 2,
+      "kaynaklar": [
+        "https://www.seddk.gov.tr/tr/mevzuat/bireysel-emeklilik/genelge-teblig-ve-sektor-duyurulari"
+      ],
+      "etiketler": [
+        "bes",
+        "genelge",
+        "sektor-duyurusu",
+        "seri-toplama"
+      ],
+      "ozet": "Bireysel emeklilik alanındaki genelge, tebliğ ve sektör duyurularının tamamı."
+    },
+    {
+      "id": "kol-seddk-katilim-genelgeleri",
+      "baslik": "SEDDK Katılım Sigortacılığı Genelge ve Sektör Duyuruları (tam seri)",
+      "tur": "koleksiyon",
+      "klasor": "belgeler/06-genelgeler/katilim-sigortaciligi",
+      "brans": [
+        "katilim"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.seddk.gov.tr/tr/mevzuat"
+      ],
+      "etiketler": [
+        "katilim",
+        "tekafül",
+        "genelge",
+        "seri-toplama"
+      ],
+      "ozet": "Katılım sigortacılığına ilişkin genelge ve sektör duyurularının tamamı."
+    },
+    {
+      "id": "kol-seddk-sektor-duyurulari",
+      "baslik": "SEDDK Sektör Duyuruları (tam seri)",
+      "tur": "koleksiyon",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 1,
+      "kaynaklar": [
+        "https://www.seddk.gov.tr/tr/duyurular",
+        "https://www.seddk.gov.tr/tr/duyurular/mevzuat-duyurulari"
+      ],
+      "etiketler": [
+        "sektor-duyurusu",
+        "uygulama-talimati",
+        "seri-toplama"
+      ],
+      "ozet": "Sektöre yönelik uygulama duyuruları; ör. 22/05/2026 'Özel Sağlık Sigortalarında Yeni Dönem' duyurusu.",
+      "seri": {
+        "bilinen_ornekler": [
+          "22/05/2026 — Özel Sağlık Sigortalarında Yeni Dönem (SektorDuyurusu-Özel_Sağlık_Sigortalarında_Yeni_Dönem.pdf)"
+        ]
+      }
+    },
+    {
+      "id": "kol-seddk-mevzuat-duyurulari",
+      "baslik": "SEDDK Mevzuat Duyuruları (tam seri, arşiv dâhil)",
+      "tur": "koleksiyon",
+      "klasor": "belgeler/07-sektor-duyurulari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 2,
+      "kaynaklar": [
+        "https://www.seddk.gov.tr/tr/duyurular/mevzuat-duyurulari"
+      ],
+      "etiketler": [
+        "mevzuat-duyurusu",
+        "arsiv",
+        "sayfalama"
+      ],
+      "ozet": "Mevzuat değişikliklerine ilişkin duyuru arşivi (sayfaNo parametresi ile en az 13 sayfa)."
+    },
+    {
+      "id": "seddk-bildirgeleri",
+      "baslik": "SEDDK Bildirgeleri ve İlke Kararları",
+      "tur": "bildirge",
+      "klasor": "belgeler/08-seddk-kurumsal/bildirge-ve-ilke-kararlari",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 1,
+      "kaynaklar": [
+        "https://www.seddk.gov.tr/tr/duyurular",
+        "https://www.seddk.gov.tr/tr/mevzuat"
+      ],
+      "etiketler": [
+        "bildirge",
+        "ilke-karari",
+        "kurul-karari",
+        "iyi-uygulama"
+      ],
+      "ozet": "Kurul/kurum düzeyinde yayımlanan bildirge, ilke kararı ve iyi uygulama rehberliği metinleri — her biri ayrı .md."
+    },
+    {
+      "id": "seddk-rehberler",
+      "baslik": "SEDDK Rehberleri (uygulama rehberleri)",
+      "tur": "rehber",
+      "klasor": "belgeler/08-seddk-kurumsal/rehberler",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 2,
+      "kaynaklar": [
+        "https://www.seddk.gov.tr/tr/mevzuat"
+      ],
+      "etiketler": [
+        "rehber",
+        "uygulama",
+        "iyi-uygulama-kilavuzu"
+      ],
+      "ozet": "Mevzuatın uygulanmasına ilişkin kurum rehberleri."
+    },
+    {
+      "id": "seddk-denetim-rehberleri",
+      "baslik": "SEDDK Denetim Rehberleri",
+      "tur": "rehber",
+      "klasor": "belgeler/08-seddk-kurumsal/denetim-rehberleri",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.seddk.gov.tr/tr/mevzuat"
+      ],
+      "etiketler": [
+        "denetim-rehberi",
+        "yerinde-denetim",
+        "uzaktan-gozetim"
+      ],
+      "ozet": "Sigortacılık, BES ve katılım sigortacılığı denetim rehberleri."
+    },
+    {
+      "id": "seddk-faaliyet-raporlari",
+      "baslik": "SEDDK Faaliyet Raporları ve Sektör İstatistikleri",
+      "tur": "rapor",
+      "klasor": "belgeler/08-seddk-kurumsal/raporlar",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "SEDDK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.seddk.gov.tr"
+      ],
+      "etiketler": [
+        "faaliyet-raporu",
+        "istatistik",
+        "sektor-verisi"
+      ],
+      "ozet": "Yıllık faaliyet raporları, faaliyet planı ve sektör istatistik yayınları."
+    },
+    {
+      "id": "tahkim-parasal-sinirlar",
+      "baslik": "Sigorta Tahkim Komisyonu Parasal Sınırları (itiraz, temyiz, heyet teşkili)",
+      "tur": "tarife",
+      "klasor": "belgeler/09-tahkim/parasal-sinirlar-ve-tarifeler",
+      "brans": [
+        "uyusmazlik"
+      ],
+      "otorite": "Sigorta Tahkim Komisyonu",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 1,
+      "kaynaklar": [
+        "https://www.sigortatahkim.org"
+      ],
+      "etiketler": [
+        "parasal-sinir",
+        "itiraz-siniri",
+        "temyiz-siniri",
+        "heyet-teskili",
+        "yillik-guncelleme"
+      ],
+      "ozet": "Yıllık güncellenen itiraz/temyiz sınırları ve üç hakemli heyet zorunluluğu eşiği; 2026 için itiraz 35.000 TL, temyiz 383.000 TL, heyet eşiği 96.000 TL (21/05/2025'ten itibaren) olarak raporlanmıştır — resmî kaynaktan doğrulanmalı."
+    },
+    {
+      "id": "tahkim-basvuru-ucret-tarifesi",
+      "baslik": "Sigorta Tahkim Komisyonu Başvuru Ücret Tarifesi",
+      "tur": "tarife",
+      "klasor": "belgeler/09-tahkim/parasal-sinirlar-ve-tarifeler",
+      "brans": [
+        "uyusmazlik"
+      ],
+      "otorite": "Sigorta Tahkim Komisyonu",
+      "numara": null,
+      "rg_tarihi": "2026-01-01",
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 1,
+      "kaynaklar": [
+        "https://www.sigortatahkim.org/manset/5"
+      ],
+      "etiketler": [
+        "basvuru-ucreti",
+        "tarife-2026",
+        "5684-m30"
+      ],
+      "ozet": "5684 s.K. m.30/18 uyarınca belirlenen başvuru ücretleri; 2026'da 85.001 TL ve üzeri uyuşmazlıklarda binde 18, asgari 1.560 TL olarak raporlanmıştır — resmî kaynaktan doğrulanmalı."
+    },
+    {
+      "id": "tahkim-duyurular",
+      "baslik": "Sigorta Tahkim Komisyonu Duyuruları (tam seri)",
+      "tur": "koleksiyon",
+      "klasor": "belgeler/09-tahkim/duyurular",
+      "brans": [
+        "uyusmazlik"
+      ],
+      "otorite": "Sigorta Tahkim Komisyonu",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 1,
+      "kaynaklar": [
+        "https://www.sigortatahkim.org"
+      ],
+      "etiketler": [
+        "duyuru",
+        "manset",
+        "hakem-listesi",
+        "usul-degisikligi",
+        "seri-toplama"
+      ],
+      "ozet": "Komisyon duyuru/manşet arşivi: başvuru usulü değişiklikleri, hakem listeleri, ücret ve sınır güncellemeleri."
+    },
+    {
+      "id": "tahkim-ilkesel-kararlar",
+      "baslik": "Sigorta Tahkim Komisyonu İlkesel Kararları ve İtiraz Hakem Heyeti Yerleşik Uygulamaları",
+      "tur": "karar",
+      "klasor": "belgeler/09-tahkim/ilkesel-kararlar",
+      "brans": [
+        "uyusmazlik"
+      ],
+      "otorite": "Sigorta Tahkim Komisyonu",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 1,
+      "kaynaklar": [
+        "https://www.sigortatahkim.org"
+      ],
+      "etiketler": [
+        "ilkesel-karar",
+        "itiraz-hakem-heyeti",
+        "yerlesik-uygulama",
+        "deger-kaybi",
+        "imm"
+      ],
+      "ozet": "Komisyon bünyesinde oluşan ilkesel/yerleşik yaklaşımlar; değer kaybı, İMM, hasar tarihi faizi gibi tekrar eden konular."
+    },
+    {
+      "id": "tahkim-hakem-listeleri",
+      "baslik": "Sigorta Hakemleri ve İtiraz Hakemleri Listeleri",
+      "tur": "koleksiyon",
+      "klasor": "belgeler/09-tahkim/duyurular",
+      "brans": [
+        "uyusmazlik"
+      ],
+      "otorite": "Sigorta Tahkim Komisyonu",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.sigortatahkim.org"
+      ],
+      "etiketler": [
+        "hakem-listesi",
+        "sicil",
+        "atama"
+      ],
+      "ozet": "Güncel hakem ve itiraz hakemi listeleri ile atama esasları."
+    },
+    {
+      "id": "aym-e2021-82-k2022-167",
+      "baslik": "AYM E.2021/82, K.2022/167 — KTK m.90 (tazminat hesabında genel şartlara atıf) iptali",
+      "tur": "karar",
+      "klasor": "belgeler/10-ictihat/anayasa-mahkemesi",
+      "brans": [
+        "sorumluluk",
+        "motorlu-arac"
+      ],
+      "otorite": "Anayasa Mahkemesi",
+      "numara": "E.2021/82, K.2022/167",
+      "rg_tarihi": "2023-02-14",
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 1,
+      "kaynaklar": [
+        "https://normkararlarbilgibankasi.anayasa.gov.tr",
+        "https://www.anayasa.gov.tr/tr/haberler/norm-denetimi-basin-duyurulari/zorunlu-mali-sorumluluk-sigortasi-genel-sartlarinin-belirlenmesinde-yurutmeye-yetki-veren-bazi-kurallarin-iptali/"
+      ],
+      "etiketler": [
+        "aym",
+        "ktk-m90",
+        "destekten-yoksun-kalma",
+        "surekli-sakatlik",
+        "deger-kaybi",
+        "genel-sart-atfi"
+      ],
+      "ozet": "29/12/2022 tarihli kararla KTK m.90/1'in ikinci cümlesi ve m.90/2 iptal edildi; ZMSS tazminat hesabında TBK haksız fiil rejimine dönüldü."
+    },
+    {
+      "id": "aym-zmss-genel-sart-yetki-iptalleri",
+      "baslik": "AYM — ZMSS genel şartlarının belirlenmesinde yürütmeye yetki veren kuralların iptali (norm denetimi kararları derlemesi)",
+      "tur": "karar",
+      "klasor": "belgeler/10-ictihat/anayasa-mahkemesi",
+      "brans": [
+        "sorumluluk",
+        "motorlu-arac"
+      ],
+      "otorite": "Anayasa Mahkemesi",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 1,
+      "kaynaklar": [
+        "https://normkararlarbilgibankasi.anayasa.gov.tr"
+      ],
+      "etiketler": [
+        "aym",
+        "yetki-devri",
+        "kanunilik",
+        "genel-sart"
+      ],
+      "ozet": "Genel şart yoluyla tazminat kapsamının daraltılmasına ilişkin AYM iptal kararlarının kronolojik derlemesi."
+    },
+    {
+      "id": "aym-arac-satisi-zmss-devam",
+      "baslik": "AYM — Araç satışına rağmen ZMSS'nin devam edeceğine dair KTK hükümlerinin iptali",
+      "tur": "karar",
+      "klasor": "belgeler/10-ictihat/anayasa-mahkemesi",
+      "brans": [
+        "sorumluluk",
+        "motorlu-arac"
+      ],
+      "otorite": "Anayasa Mahkemesi",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 2,
+      "kaynaklar": [
+        "https://normkararlarbilgibankasi.anayasa.gov.tr"
+      ],
+      "etiketler": [
+        "aym",
+        "arac-devri",
+        "police-devri",
+        "isleten-sifati"
+      ],
+      "ozet": "Araç devri hâlinde poliçenin devam etmesine ilişkin düzenlemenin iptali ve devir sonrası sorumluluk rejimi."
+    },
+    {
+      "id": "danistay-genel-sart-iptalleri",
+      "baslik": "Danıştay — ZMSS Genel Şartları ve ekli hesaplama tablolarına ilişkin iptal kararları",
+      "tur": "karar",
+      "klasor": "belgeler/10-ictihat/danistay",
+      "brans": [
+        "sorumluluk",
+        "motorlu-arac"
+      ],
+      "otorite": "Danıştay",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 1,
+      "kaynaklar": [
+        "https://karararama.danistay.gov.tr"
+      ],
+      "etiketler": [
+        "danistay",
+        "iptal-davasi",
+        "genel-sart-eki",
+        "deger-kaybi-formulu"
+      ],
+      "ozet": "Genel şart ve eklerinin normlar hiyerarşisine aykırılığı gerekçesiyle iptaline ilişkin idari yargı kararları."
+    },
+    {
+      "id": "yargitay-zmss-ictihat-derlemesi",
+      "baslik": "Yargıtay — Trafik/ZMSS Uyuşmazlıklarında Yerleşik İçtihat Derlemesi",
+      "tur": "karar",
+      "klasor": "belgeler/10-ictihat/yargitay",
+      "brans": [
+        "sorumluluk",
+        "motorlu-arac"
+      ],
+      "otorite": "Yargıtay",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 1,
+      "kaynaklar": [
+        "https://karararama.yargitay.gov.tr"
+      ],
+      "etiketler": [
+        "yargitay",
+        "hgk",
+        "destekten-yoksun-kalma",
+        "deger-kaybi",
+        "temerrut-faizi",
+        "zamanasimi",
+        "hatir-tasimasi"
+      ],
+      "ozet": "Destekten yoksun kalma, değer kaybı, kusur, zamanaşımı, temerrüt ve poliçe limitleri konularındaki yerleşik Yargıtay içtihadının konu bazlı derlemesi."
+    },
+    {
+      "id": "yargitay-sigorta-sozlesmesi-ictihat",
+      "baslik": "Yargıtay — Sigorta Sözleşmesi Hukukuna İlişkin İçtihat Derlemesi (beyan, rizikonun gerçekleşmesi, halefiyet)",
+      "tur": "karar",
+      "klasor": "belgeler/10-ictihat/yargitay",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "Yargıtay",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 2,
+      "kaynaklar": [
+        "https://karararama.yargitay.gov.tr"
+      ],
+      "etiketler": [
+        "beyan-yukumlulugu",
+        "halefiyet",
+        "prim-odenmemesi",
+        "rizikonun-ihbari",
+        "kasko-pert"
+      ],
+      "ozet": "TTK m.1401 vd. uygulamasına ilişkin temel Yargıtay kararlarının konu bazlı derlemesi."
+    },
+    {
+      "id": "bam-sigorta-kararlari",
+      "baslik": "Bölge Adliye Mahkemeleri — Sigorta Hukuku Kararları Derlemesi",
+      "tur": "karar",
+      "klasor": "belgeler/10-ictihat/bolge-adliye-mahkemeleri",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "Bölge Adliye Mahkemeleri",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://emsal.uyap.gov.tr"
+      ],
+      "etiketler": [
+        "bam",
+        "istinaf",
+        "kesin-karar"
+      ],
+      "ozet": "İstinaf aşamasında kesinleşen sigorta uyuşmazlıklarına ilişkin kararlar."
+    },
+    {
+      "id": "kurum-sbm",
+      "baslik": "Sigorta Bilgi ve Gözetim Merkezi (SBM) — mevzuat, alt sistemler ve veri erişimi",
+      "tur": "kurum",
+      "klasor": "belgeler/11-kurumlar/sbm",
+      "brans": [
+        "veri"
+      ],
+      "otorite": "SBM",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 2,
+      "kaynaklar": [
+        "https://www.sbm.org.tr"
+      ],
+      "etiketler": [
+        "tramer",
+        "sagmer",
+        "hayat",
+        "hasar-gecmisi",
+        "e-devlet"
+      ],
+      "ozet": "TRAMER/SAGMER/HAYMER gibi alt sistemler, hasar geçmişi sorgulama ve veri paylaşım kuralları."
+    },
+    {
+      "id": "kurum-dask",
+      "baslik": "Doğal Afet Sigortaları Kurumu (DASK) — mevzuat ve uygulama",
+      "tur": "kurum",
+      "klasor": "belgeler/11-kurumlar/dask",
+      "brans": [
+        "dogal-afet"
+      ],
+      "otorite": "DASK",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 2,
+      "kaynaklar": [
+        "https://dask.gov.tr"
+      ],
+      "etiketler": [
+        "zorunlu-deprem",
+        "hasar-odemesi",
+        "tarife"
+      ],
+      "ozet": "DASK'ın kurumsal yapısı, poliçe ve hasar süreçleri, tarife duyuruları."
+    },
+    {
+      "id": "kurum-tarsim",
+      "baslik": "Tarım Sigortaları Havuzu (TARSİM) — mevzuat ve tarife kararları",
+      "tur": "kurum",
+      "klasor": "belgeler/11-kurumlar/tarsim",
+      "brans": [
+        "tarim"
+      ],
+      "otorite": "TARSİM",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.tarsim.gov.tr"
+      ],
+      "etiketler": [
+        "tarim-sigortasi",
+        "cumhurbaskani-karari",
+        "prim-destegi"
+      ],
+      "ozet": "Yıllık Cumhurbaşkanı kararları, tarife ve talimatlar, uygulama esasları."
+    },
+    {
+      "id": "kurum-guvence-hesabi",
+      "baslik": "Güvence Hesabı — yönetmelik, kapsam ve başvuru usulü",
+      "tur": "kurum",
+      "klasor": "belgeler/11-kurumlar/guvence-hesabi",
+      "brans": [
+        "sorumluluk"
+      ],
+      "otorite": "Güvence Hesabı",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 1,
+      "kaynaklar": [
+        "https://www.guvencehesabi.org.tr",
+        "https://www.mevzuat.gov.tr"
+      ],
+      "etiketler": [
+        "guvence-hesabi",
+        "sigortasiz-arac",
+        "carpip-kacan",
+        "tasfiye",
+        "5684-m14"
+      ],
+      "ozet": "Sigortasız/plakası belirsiz araç, ruhsat iptali ve tasfiye hâllerinde devreye giren güvence rejimi ve başvuru usulü."
+    },
+    {
+      "id": "kurum-tsb",
+      "baslik": "Türkiye Sigorta, Reasürans ve Emeklilik Şirketleri Birliği (TSB) — mevzuat derlemesi ve sektör kararları",
+      "tur": "kurum",
+      "klasor": "belgeler/11-kurumlar/tsb",
+      "brans": [
+        "genel"
+      ],
+      "otorite": "TSB",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 2,
+      "kaynaklar": [
+        "https://www.tsb.org.tr/tr/mevzuat/sigortacilik/genel-sartlar"
+      ],
+      "etiketler": [
+        "tsb",
+        "birlik",
+        "genel-sart-derlemesi",
+        "istatistik"
+      ],
+      "ozet": "Birliğin genel şart derlemesi, sektör istatistikleri ve meslek kararları."
+    },
+    {
+      "id": "kurum-segem",
+      "baslik": "Sigortacılık Eğitim Merkezi (SEGEM) — sınav ve eğitim mevzuatı",
+      "tur": "kurum",
+      "klasor": "belgeler/11-kurumlar/segem",
+      "brans": [
+        "aracilar"
+      ],
+      "otorite": "SEGEM",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.segem.org.tr"
+      ],
+      "etiketler": [
+        "segem",
+        "teknik-personel-sinavi",
+        "eksperlik-sinavi",
+        "egitim"
+      ],
+      "ozet": "Acente teknik personeli, eksper ve broker sınav/eğitim düzenlemeleri."
+    },
+    {
+      "id": "kurum-tobb-icra-komiteleri",
+      "baslik": "TOBB Sigorta Acenteleri ve Eksperleri İcra Komiteleri — düzenleme ve kararlar",
+      "tur": "kurum",
+      "klasor": "belgeler/11-kurumlar/tobb",
+      "brans": [
+        "aracilar"
+      ],
+      "otorite": "TOBB",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.tobb.org.tr"
+      ],
+      "etiketler": [
+        "levha",
+        "icra-komitesi",
+        "acente",
+        "eksper"
+      ],
+      "ozet": "Levha kayıt işlemleri, icra komitesi kararları ve meslek kuralları."
+    },
+    {
+      "id": "kurum-egm",
+      "baslik": "Emeklilik Gözetim Merkezi (EGM) — BES gözetim ve raporlama",
+      "tur": "kurum",
+      "klasor": "belgeler/11-kurumlar/egm",
+      "brans": [
+        "bes"
+      ],
+      "otorite": "EGM",
+      "numara": null,
+      "rg_tarihi": null,
+      "rg_sayisi": null,
+      "durum": "yururlukte",
+      "oncelik": 3,
+      "kaynaklar": [
+        "https://www.egm.org.tr"
+      ],
+      "etiketler": [
+        "egm",
+        "bes-gozetim",
+        "fon-verileri"
+      ],
+      "ozet": "BES işlem gözetimi, fon performans verileri ve raporlama altyapısı."
+    }
+  ]
+}
