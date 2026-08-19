@@ -1126,7 +1126,8 @@
       "dogrulama": {
         "durum": "dogrulandi",
         "tarih": "2026-08-19",
-        "yontem": "Resmî Gazete / TSB / mevzuat.gov.tr çevrimiçi teyit (2015 metni)"
+        "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=20752&MevzuatTur=9&MevzuatTertip=5",
+        "yontem": "Künye TSB/Resmî Gazete ile teyit (14.05.2015-29355); değişiklikler mevzuat.gov.tr resmî konsolide metninden (Tebliğ no 20752) doğrudan çıkarıldı"
       },
       "oncelik": 1,
       "kaynaklar": [
@@ -1148,22 +1149,27 @@
         {
           "tarih": "2016-02-02",
           "sayi": "29612",
-          "konu": "Genel şartlarda değişiklik (başlıca)"
+          "konu": "Konsolide metinde 7 noktada değişiklik (kaynak: mevzuat.gov.tr konsolide metin, Tebliğ no 20752)"
         },
         {
           "tarih": "2016-08-02",
           "sayi": "29789",
-          "konu": "Genel şartlarda değişiklik (başlıca)"
+          "konu": "Konsolide metinde 2 ekleme/değişiklik"
         },
         {
           "tarih": "2020-03-20",
           "sayi": "31074",
-          "konu": "Tanımlar ve bazı maddelerde değişiklik; yürürlük 01.04.2020"
+          "konu": "Konsolide metinde 7 noktada değişiklik (tanımlar, mülga hükümler); yürürlük 01.04.2020"
         },
         {
           "tarih": "2021-12-04",
           "sayi": "31679",
-          "konu": "Genel şartlarda değişiklik (TSB 06.12.2021 konsolide metin)"
+          "konu": "Konsolide metinde 23 noktada kapsamlı değişiklik/ekleme (başlık ve ibare değişiklikleri dâhil)"
+        },
+        {
+          "tarih": "2026-06-12",
+          "sayi": "33278",
+          "konu": "Konsolide metinde 10 noktada değişiklik/ekleme"
         }
       ]
     },
@@ -1258,11 +1264,12 @@
       ],
       "otorite": "SEDDK",
       "numara": null,
-      "rg_tarihi": null,
-      "rg_sayisi": null,
+      "rg_tarihi": "2004-01-18",
+      "rg_sayisi": "25350",
       "durum": "yururlukte",
       "oncelik": 2,
       "kaynaklar": [
+        "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=9922&MevzuatTur=9&MevzuatTertip=5",
         "https://www.tsb.org.tr/tr/mevzuat/sigortacilik/genel-sartlar"
       ],
       "etiketler": [
@@ -1270,7 +1277,20 @@
         4925,
         "yetki-belgesi"
       ],
-      "ozet": "4925 sayılı Kanun kapsamında taşımacının yolculara karşı sorumluluğunun teminatı."
+      "ozet": "4925 sayılı Kanun kapsamında taşımacının yolculara karşı sorumluluğunun teminatı.",
+      "dogrulama": {
+        "durum": "dogrulandi",
+        "tarih": "2026-08-19",
+        "kaynak": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=9922&MevzuatTur=9&MevzuatTertip=5",
+        "yontem": "mevzuat.gov.tr resmî konsolide metninden (Tebliğ no 9922) DOĞRUDAN teyit — künye 18/01/2004-25350 (Genel Şartlar, tarife değil); repoda boş olan RG alanı dolduruldu"
+      },
+      "degisiklikler": [
+        {
+          "tarih": "2006-02-11",
+          "sayi": "26077",
+          "konu": "Bazı sigorta genel şartlarında değişiklik; konsolide metinde 4 noktada (kaynak: mevzuat.gov.tr konsolide metin)"
+        }
+      ]
     },
     {
       "id": "gs-tehlikeli-maddeler-zorunlu-sorumluluk",

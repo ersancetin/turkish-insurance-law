@@ -20,8 +20,8 @@ metin_durumu: iskelet
 dogrulama:
   durum: dogrulandi
   tarih: "2026-08-19"
-  kaynak: "https://www.tsb.org.tr/content/Legislations/Karayollar%C4%B1_Motorlu_Araclar_Zorunlu_Mali_Sorumluluk_Sigortas%C4%B1_Trafik_Genel_Sartlar%C4%B1_.pdf"
-  yontem: "Resmî Gazete / TSB / mevzuat.gov.tr çevrimiçi teyit (2015 metni)"
+  kaynak: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=20752&MevzuatTur=9&MevzuatTertip=5"
+  yontem: "Künye TSB/Resmî Gazete ile teyit (14.05.2015-29355); değişiklikler mevzuat.gov.tr resmî konsolide metninden (Tebliğ no 20752) doğrudan çıkarıldı"
 son_guncelleme: "2026-08-19"
 dil: tr
 lisans: "Resmî mevzuat metinleri 5846 s. FSEK m.31 uyarınca serbesttir; bu dosyadaki derleme ve notlar CC BY 4.0"
@@ -30,9 +30,9 @@ lisans: "Resmî mevzuat metinleri 5846 s. FSEK m.31 uyarınca serbesttir; bu dos
 
 > [!NOTE]
 > **Künye doğrulandı.** Resmî Gazete tarih ve sayısı resmî kaynaktan teyit edilmiştir.
-> - **Doğrulama kaynağı (resmî kurum):** <https://www.tsb.org.tr/content/Legislations/Karayollar%C4%B1_Motorlu_Araclar_Zorunlu_Mali_Sorumluluk_Sigortas%C4%B1_Trafik_Genel_Sartlar%C4%B1_.pdf>
+> - **Doğrulama kaynağı (resmî kurum):** <https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=20752&MevzuatTur=9&MevzuatTertip=5>
 > - **Erişim / doğrulama tarihi:** 2026-08-19
-> - **Yöntem:** Resmî Gazete / TSB / mevzuat.gov.tr çevrimiçi teyit (2015 metni)
+> - **Yöntem:** Künye TSB/Resmî Gazete ile teyit (14.05.2015-29355); değişiklikler mevzuat.gov.tr resmî konsolide metninden (Tebliğ no 20752) doğrudan çıkarıldı
 > - **Tam metin durumu:** henüz eklenmedi (`metin_durumu: iskelet`); madde metinleri için aşağıdaki resmî kaynağa başvurun.
 
 ## Künye
@@ -68,12 +68,13 @@ Metni eklerken:
 
 | # | Tarih | RG sayısı | Değişikliğin konusu |
 | --- | --- | --- | --- |
-| 1 | 2016-02-02 | 29612 | Genel şartlarda değişiklik (başlıca) |
-| 2 | 2016-08-02 | 29789 | Genel şartlarda değişiklik (başlıca) |
-| 3 | 2020-03-20 | 31074 | Tanımlar ve bazı maddelerde değişiklik; yürürlük 01.04.2020 |
-| 4 | 2021-12-04 | 31679 | Genel şartlarda değişiklik (TSB 06.12.2021 konsolide metin) |
+| 1 | 2016-02-02 | 29612 | Konsolide metinde 7 noktada değişiklik (kaynak: mevzuat.gov.tr konsolide metin, Tebliğ no 20752) |
+| 2 | 2016-08-02 | 29789 | Konsolide metinde 2 ekleme/değişiklik |
+| 3 | 2020-03-20 | 31074 | Konsolide metinde 7 noktada değişiklik (tanımlar, mülga hükümler); yürürlük 01.04.2020 |
+| 4 | 2021-12-04 | 31679 | Konsolide metinde 23 noktada kapsamlı değişiklik/ekleme (başlık ve ibare değişiklikleri dâhil) |
+| 5 | 2026-06-12 | 33278 | Konsolide metinde 10 noktada değişiklik/ekleme |
 
-> 4 değişiklik kaydı listelendi. Genel şartlar (özellikle ZMSS trafik) Resmî Gazete'de defalarca değiştirilmiştir; bu tablo başlıca/derlenen değişiklikleri gösterir, **resmî konsolide metin için aşağıdaki kaynağa** başvurun.
+> 5 değişiklik kaydı listelendi. Genel şartlar (özellikle ZMSS trafik) Resmî Gazete'de defalarca değiştirilmiştir; bu tablo başlıca/derlenen değişiklikleri gösterir, **resmî konsolide metin için aşağıdaki kaynağa** başvurun.
 
 ## İlgili belgeler
 

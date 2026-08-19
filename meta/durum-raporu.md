@@ -40,7 +40,7 @@
 
 ## Künyesi eksik kayıtlar (Resmî Gazete tarihi girilmemiş)
 
-Toplam **51** kayıt. Resmî metin çekilirken bu alanlar doldurulmalıdır.
+Toplam **50** kayıt. Resmî metin çekilirken bu alanlar doldurulmalıdır.
 
 - `5941-cek-ve-diger-ilgili-mevzuat` — İlgili Diğer Kanunlar Derlemesi (TMK, HMK, İİK, MASAK 5549, KVKK 6698 kesişimleri)
 - `gs-asansor-kazalarinda-sorumluluk` — Asansör Kazalarında Üçüncü Kişilere Karşı Sorumluluk Sigortası Genel Şartları
@@ -84,7 +84,6 @@ Toplam **51** kayıt. Resmî metin çekilirken bu alanlar doldurulmalıdır.
 - `gs-yangin` — Yangın Sigortası Genel Şartları
 - `gs-yangina-bagli-kar-kaybi` — Yangın Sigortası ile Verilebilecek Kâr Kaybı Sigortası Genel Şartları
 - `gs-yat` — Yat Sigortası Genel Şartları
-- `gs-zorunlu-karayolu-tasimacilik-mali-sorumluluk` — Zorunlu Karayolu Taşımacılık Mali Sorumluluk Sigortası Genel Şartları
 - `gs-zorunlu-koltuk-ferdi-kaza` — Karayolu Yolcu Taşımacılığı Zorunlu Koltuk Ferdi Kaza Sigortası Genel Şartları
 - `teb-aktueryal-zincirleme-merdiven` — Aktüeryal Zincirleme Merdiven Metoduna İlişkin Genelge/Tebliğ
 - `teb-sigortacilik-hesap-plani` — Sigortacılık Hesap Planı ve İzahnamesi Hakkında Tebliğ
@@ -96,7 +95,7 @@ Toplam **51** kayıt. Resmî metin çekilirken bu alanlar doldurulmalıdır.
 
 ## Künye doğrulama durumu
 
-Resmî kaynaktan (Resmî Gazete / mevzuat.gov.tr / SEDDK) künyesi teyit edilmiş **33** kayıt / toplam 117.
+Resmî kaynaktan (Resmî Gazete / mevzuat.gov.tr / SEDDK) künyesi teyit edilmiş **34** kayıt / toplam 117.
 
 | Kayıt | Resmî Gazete | Doğrulama tarihi |
 | --- | --- | --- |
@@ -116,6 +115,7 @@ Resmî kaynaktan (Resmî Gazete / mevzuat.gov.tr / SEDDK) künyesi teyit edilmi�
 | `gs-tibbi-kotu-uygulama` | 2010-07-21 / 27648 | 2026-08-19 |
 | `gs-zmss-trafik` | 2015-05-14 / 29355 | 2026-08-19 |
 | `gs-zorunlu-deprem-dask` | 2011-05-13 / 27933 | 2026-08-19 |
+| `gs-zorunlu-karayolu-tasimacilik-mali-sorumluluk` | 2004-01-18 / 25350 | 2026-08-19 |
 | `yon-aktuerlik` | 2007-08-15 / 26614 | 2026-08-19 |
 | `yon-bes-hakkinda` | 2012-11-09 / 28462 | 2026-08-19 |
 | `yon-dask-calisma-esaslari` | 2012-08-15 / 28385 | 2026-08-19 |

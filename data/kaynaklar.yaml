@@ -681,6 +681,13 @@ belgeler:
 #      sık karıştırır. Kesin Genel Şart RG'si için resmî belgenin esas alınması
 #      gerekir; resmî kaynak (tüm genel şartlar):
 #      https://www.seddk.gov.tr/tr/mevzuat/sigortacilik/genel-sartlar
+#  BULGU (mevzuat.gov.tr, 19/08/2026): Bu eski GŞ'lerden koltuk ferdi kaza,
+#      tehlikeli maddeler, deniz araçları, maden, kıyı tesisleri için
+#      mevzuat.gov.tr'de yalnızca "TARİFE VE TALİMAT" indekslidir; Genel Şartlar
+#      ayrı Tebliğ olarak yer almaz → resmî portaldan ayrı GŞ RG'si alınamıyor.
+#      Buna karşılık ZMSS trafik (Tebliğ no 20752), zorunlu karayolu taşımacılık
+#      (9922) ve özel güvenlik (9923) GŞ olarak indekslidir ve künye+değişiklikler
+#      mevzuat.gov.tr konsolide metninden DOĞRUDAN çekilmiştir.
 # TSB ve SEDDK derlemeleri pratik erişim noktalarıdır.
 # ---------------------------------------------------------------------------
   - id: gs-zmss-trafik
@@ -693,7 +700,7 @@ belgeler:
     rg_tarihi: "2015-05-14"
     rg_sayisi: "29355"
     durum: kismen-iptal
-    dogrulama: {durum: dogrulandi, tarih: "2026-08-19", yontem: "Resmî Gazete / TSB / mevzuat.gov.tr çevrimiçi teyit (2015 metni)"}
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-19", kaynak: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=20752&MevzuatTur=9&MevzuatTertip=5", yontem: "Künye TSB/Resmî Gazete ile teyit (14.05.2015-29355); değişiklikler mevzuat.gov.tr resmî konsolide metninden (Tebliğ no 20752) doğrudan çıkarıldı"}
     oncelik: 1
     kaynaklar:
       - "https://www.tsb.org.tr/content/Legislations/Karayollar%C4%B1_Motorlu_Araclar_Zorunlu_Mali_Sorumluluk_Sigortas%C4%B1_Trafik_Genel_Sartlar%C4%B1_.pdf"
@@ -702,10 +709,11 @@ belgeler:
     etiketler: [zmss, trafik, teminat-disi-haller, destekten-yoksun-kalma, deger-kaybi, surekli-sakatlik, ek-tablolar]
     ozet: "Trafik sigortasının kapsamı, teminat dışı haller, tazminat türleri ve ekli hesaplama tabloları; 2015 metni ve sonraki değişiklikleri ile AYM/Danıştay iptalleri birlikte izlenmelidir."
     degisiklikler:
-      - {tarih: "2016-02-02", sayi: "29612", konu: "Genel şartlarda değişiklik (başlıca)"}
-      - {tarih: "2016-08-02", sayi: "29789", konu: "Genel şartlarda değişiklik (başlıca)"}
-      - {tarih: "2020-03-20", sayi: "31074", konu: "Tanımlar ve bazı maddelerde değişiklik; yürürlük 01.04.2020"}
-      - {tarih: "2021-12-04", sayi: "31679", konu: "Genel şartlarda değişiklik (TSB 06.12.2021 konsolide metin)"}
+      - {tarih: "2016-02-02", sayi: "29612", konu: "Konsolide metinde 7 noktada değişiklik (kaynak: mevzuat.gov.tr konsolide metin, Tebliğ no 20752)"}
+      - {tarih: "2016-08-02", sayi: "29789", konu: "Konsolide metinde 2 ekleme/değişiklik"}
+      - {tarih: "2020-03-20", sayi: "31074", konu: "Konsolide metinde 7 noktada değişiklik (tanımlar, mülga hükümler); yürürlük 01.04.2020"}
+      - {tarih: "2021-12-04", sayi: "31679", konu: "Konsolide metinde 23 noktada kapsamlı değişiklik/ekleme (başlık ve ibare değişiklikleri dâhil)"}
+      - {tarih: "2026-06-12", sayi: "33278", konu: "Konsolide metinde 10 noktada değişiklik/ekleme"}
 
   - id: gs-kasko
     baslik: "Kara Araçları Kasko Sigortası Genel Şartları"
@@ -761,13 +769,16 @@ belgeler:
     brans: [sorumluluk, tasimacilik]
     otorite: SEDDK
     numara: null
-    rg_tarihi: null
-    rg_sayisi: null
+    rg_tarihi: "2004-01-18"
+    rg_sayisi: "25350"
     durum: yururlukte
     oncelik: 2
-    kaynaklar: ["https://www.tsb.org.tr/tr/mevzuat/sigortacilik/genel-sartlar"]
+    kaynaklar: ["https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=9922&MevzuatTur=9&MevzuatTertip=5", "https://www.tsb.org.tr/tr/mevzuat/sigortacilik/genel-sartlar"]
     etiketler: [tasimacilik-sorumluluk, 4925, yetki-belgesi]
     ozet: "4925 sayılı Kanun kapsamında taşımacının yolculara karşı sorumluluğunun teminatı."
+    dogrulama: {durum: dogrulandi, tarih: "2026-08-19", kaynak: "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=9922&MevzuatTur=9&MevzuatTertip=5", yontem: "mevzuat.gov.tr resmî konsolide metninden (Tebliğ no 9922) DOĞRUDAN teyit — künye 18/01/2004-25350 (Genel Şartlar, tarife değil); repoda boş olan RG alanı dolduruldu"}
+    degisiklikler:
+      - {tarih: "2006-02-11", sayi: "26077", konu: "Bazı sigorta genel şartlarında değişiklik; konsolide metinde 4 noktada (kaynak: mevzuat.gov.tr konsolide metin)"}
 
   - id: gs-tehlikeli-maddeler-zorunlu-sorumluluk
     baslik: "Tehlikeli Maddeler ve Tehlikeli Atık Zorunlu Mali Sorumluluk Sigortası Genel Şartları"
