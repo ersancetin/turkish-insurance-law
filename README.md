@@ -34,7 +34,8 @@ doğrudan okuyabileceği** yapıda toplayan açık depo.
 │   ├── taksonomi.md          Branş, belge türü ve etiket sözlüğü
 │   ├── frontmatter-semasi.md YAML künye şeması ve alan tanımları
 │   ├── belge-sablonu.md      Elle belge eklerken kullanılacak şablon
-│   └── durum-raporu.md       ⚙️ Kapsam/ilerleme raporu (otomatik)
+│   ├── durum-raporu.md       ⚙️ Kapsam/ilerleme raporu (otomatik)
+│   └── parametreler.md       Yıl bazlı: teminat limitleri, tahkim parasal sınırları, faiz oranları
 │
 ├── belgeler/
 │   ├── 01-kanunlar/                      5684, 6102 TTK, 2918 KTK, 4632, 6305, 5363 …
